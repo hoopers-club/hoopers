@@ -1,8 +1,8 @@
-const Sitemap = () => {
+const Sitemap = ({ openSitemap }) => {
 	return (
 		<div class='menus'>
 			<div class='nav'>
-				<div class='menu'>
+				<div class='menu' onClick={openSitemap}>
 					<img src='./assets/Homepage/close.svg' alt='menu' />
 				</div>
 				<div class='logo-menu'>

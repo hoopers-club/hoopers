@@ -29,9 +29,7 @@ html {
 	background-color: $hoopers-black;
 	font-family: $aktiv-grotesk-bold;
 }
-main {
-	background-color: black;
-}
+
 .nav {
 	display: flex;
 	flex-direction: row;
@@ -39,6 +37,10 @@ main {
 	padding: 2em 4em;
 	align-items: center;
 	padding: 2em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
 	// margin-bottom: auto;
 }
 
@@ -194,14 +196,18 @@ section {
 			background-color: white;
 			transform: translateX(0);
 			background-position: 101% 50%;
+			&::placeholder {
+				color: grey;
+			}
 		}
 		&::placeholder {
-			color: grey;
+			color: transparent;
 			display: flex;
 			width: 100%;
 			border-color: transparent;
-			padding: 0;
+			padding: 1em;
 			margin: 0;
+			font-size: 0.8em;
 		}
 	}
 }
