@@ -1,0 +1,40 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.menus {
+	min-height: 100vh;
+	background-color: black;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	.nav {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+.menus-list {
+	color: white;
+	ul {
+		display: flex;
+		flex-direction: column;
+		gap: 2em;
+		li {
+			font-size: 3em;
+			font-family: $aktiv-grotesk-regular;
+			text-transform: uppercase;
+			padding-left: 10%;
+
+			&:hover {
+				box-shadow: border-box;
+				border-bottom: 3px solid $dark-orange;
+				width: fit-content;
+			}
+		}
+	}
+}
+.logo-menu {
+	display: grid;
+	place-items: center;
+}

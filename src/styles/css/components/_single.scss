@@ -1,0 +1,36 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.sub-text {
+	display: flex;
+	justify-content: center;
+
+	color: $white;
+
+	font-size: 1.2em;
+	font-family: $aktiv-grotesk-medium;
+}
+
+.single-articles {
+	display: flex;
+
+	flex-direction: column;
+	p {
+		padding: 2em 15%;
+	}
+	.quoted {
+		font-style: italic;
+		font-family: $aktiv-grotesk-light;
+		border-right: 3px solid $hoopers-yellow;
+		height: 100%;
+		&:before {
+			content: '';
+			border-left: 3px solid $hoopers-yellow;
+			height: 100%;
+		}
+	}
+}
+
+section {
+	max-width: 100%;
+}

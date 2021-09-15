@@ -1,0 +1,25 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.team-list {
+	padding: 5% 10%;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+	gap: 4rem;
+	grid-template-rows: auto;
+
+	.team-member {
+		color: white;
+		display: flex;
+		flex-direction: column;
+		.img {
+			img {
+				width: 100%;
+			}
+		}
+		.titulo {
+			font-family: $aktiv-grotesk-light;
+			font-size: 0.9em;
+		}
+	}
+}

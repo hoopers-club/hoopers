@@ -1,0 +1,113 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+/* -------------------------------------------------------------------------- */
+/*                                   ARTICLE                                  */
+/* -------------------------------------------------------------------------- */
+
+.articles {
+	.featured {
+		font-size: 2em;
+		text-transform: uppercase;
+		padding-top: 1em;
+		padding-bottom: 0.5em;
+		&-line {
+			padding-bottom: 1rem;
+		}
+	}
+	&-featured {
+		display: flex;
+		flex-direction: column;
+		padding: 0 5em;
+	}
+	&-item {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		color: $white;
+
+		.title {
+			display: flex;
+			justify-content: center;
+			padding: 1em;
+			height: 1em;
+			font-family: $aktiv-grotesk-regular;
+			font-size: 1.2em;
+			font-stretch: condensed;
+			text-transform: uppercase;
+		}
+		.by {
+			display: flex;
+			justify-content: center;
+			padding: 1em;
+			height: 1em;
+			font-family: $aktiv-grotesk-light;
+			font-style: italic;
+			font-stretch: condensed;
+			text-transform: uppercase;
+			font-size: 0.8em;
+		}
+	}
+	&-list {
+		display: grid;
+		padding: 4em 5em;
+		grid-template-columns: repeat(auto-fit, minmax(18em, 3fr));
+		grid-auto-rows: 60vh;
+	}
+
+	/* -------------------------------------------------------------------------- */
+	/*                                all articles                                */
+	/* -------------------------------------------------------------------------- */
+	&-list-all {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(20em, 3fr));
+		grid-auto-rows: 30vh;
+		// padding: 0 5em;
+		margin: 0 5em;
+		gap: 5em;
+		border-bottom: 0.5px solid $dark-orange;
+		.article-item {
+			display: flex;
+			flex-direction: column;
+			border-bottom: 0.5px solid $dark-orange;
+			.img {
+				max-width: 100%;
+				height: 50%;
+			}
+			.article-title {
+				text-transform: uppercase;
+				font-size: 2em;
+				font-family: $aktiv-grotesk-bold;
+			}
+			.article-writer {
+				font-style: italic;
+				margin-top: auto;
+				font-family: $aktiv-grotesk-medium;
+				text-transform: uppercase;
+				font-size: 1.2em;
+			}
+		}
+	}
+}
+
+.quotes {
+	&::before {
+		content: '"';
+	}
+	&::after {
+		content: '"';
+	}
+}
+.sub-headline {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 2em;
+	color: $white;
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+.white {
+	background-color: white !important;
+}

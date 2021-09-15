@@ -1,0 +1,49 @@
+---
+// Component Imports
+
+import Menus from '../components/Menu.jsx'
+
+// You can import components from any supported Framework here!
+
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+---
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hoopers</title>
+
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="{Astro.resolve('../styles/css/main.css')}">
+    
+ 
+
+
+</head>
+<body>
+    <main>
+        <header>
+            <Menus client:visible/>
+        </header>
+
+<slot/>
+            </main>
+
+               <!--
+           - You can also use imported framework components directly in your markup!
+           -
+           - Note: by default, these components are NOT interactive on the client.
+           - The `:visible` directive tells Astro to make it interactive.
+           -
+           - See https://docs.astro.build/core-concepts/component-hydration/ 
+           -->
+</body>
+</html>

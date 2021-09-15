@@ -1,0 +1,44 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.court-detail {
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+	height: 100vh;
+	.left,
+	.right {
+		img {
+			width: 100%;
+
+			object-fit: cover;
+		}
+		.title {
+			color: $dark-orange;
+			font-family: $aktiv-grotesk-regular;
+			font-size: 1.5rem;
+		}
+		.detail {
+			color: $white;
+			font-size: 1.5em;
+			font-family: $aktiv-grotesk-regular;
+		}
+		display: flex;
+		flex: 0.5;
+		width: 50%;
+		flex-direction: column;
+	}
+
+	.left {
+		img {
+			height: 100%;
+		}
+	}
+	.right {
+		.court-detail-info {
+			display: flex;
+			flex-direction: column;
+			gap: 0.5em;
+		}
+	}
+}

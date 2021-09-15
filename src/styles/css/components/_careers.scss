@@ -1,0 +1,36 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.openings-list {
+	display: flex;
+	flex-direction: column;
+
+	gap: 2em;
+	.position {
+		display: flex;
+		max-width: 75ch;
+		flex-direction: column;
+		gap: 1em;
+		.title {
+			color: $dark-orange;
+			font-family: $aktiv-grotesk-light;
+			text-transform: uppercase;
+			font-size: 1.5em;
+			padding: 0.5em 0;
+			border-bottom: 0.5px solid $dark-orange;
+		}
+		.detail {
+			font-family: $aktiv-grotesk-regular;
+			color: $white;
+		}
+		.email {
+			color: $dark-orange;
+			font-family: $aktiv-grotesk-medium;
+		}
+	}
+}
+
+.positions {
+	color: $white;
+	font-family: $aktiv-grotesk-light;
+}

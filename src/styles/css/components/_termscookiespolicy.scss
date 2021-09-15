@@ -1,0 +1,30 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.content-black {
+	background-color: $hoopers-black !important;
+}
+
+.term-title {
+	color: white;
+	justify-content: center;
+	width: 100%;
+	display: flex;
+	margin-bottom: auto;
+	font-family: $aktiv-grotesk-light;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 2rem;
+}
+
+.page {
+	display: flex;
+	flex-direction: column;
+	padding: 5% 15%;
+	gap: 1em;
+	&-detail {
+		color: $white;
+		font-family: $aktiv-grotesk-regular;
+		font-size: 0.9em;
+	}
+}
