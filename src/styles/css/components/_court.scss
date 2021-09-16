@@ -1,0 +1,29 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.courts-list {
+	padding-top: 15vh;
+}
+
+.court {
+	.titles {
+		padding-left: 10%;
+	}
+	color: $white;
+	&-headline {
+		font-size: 4em;
+	}
+	&-subtext {
+		font-size: 4em;
+		font-family: $aktiv-grotesk-light;
+	}
+
+	.left,
+	.right {
+		width: 90%;
+		display: flex;
+	}
+	.right {
+		margin-left: auto;
+	}
+}

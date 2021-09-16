@@ -1,4 +1,11 @@
+import React, { useState } from 'react';
+
 const Sitemap = ({ openSitemap }) => {
+	const [expanded, setExpanded] = useState(false);
+	const submenu = () => {
+		setExpanded(!expanded);
+	};
+
 	return (
 		<div class='menus'>
 			<div class='nav'>
@@ -13,7 +20,15 @@ const Sitemap = ({ openSitemap }) => {
 				<ul>
 					<li>ARTICLES</li>
 					<li>ESPORTS</li>
-					<li>COURTS</li>
+					<li onClick={submenu}>COURTS</li>
+					{expanded ? (
+						<span className='sub-courts'>
+							<li>Our Courts</li>
+							<li>Map</li>
+						</span>
+					) : (
+						''
+					)}
 					<li>SUMMER LEAGUE</li>
 					<li>HOOPERS TV</li>
 					<li>PODCAST</li>

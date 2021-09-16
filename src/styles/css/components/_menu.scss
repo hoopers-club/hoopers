@@ -8,6 +8,7 @@
 	top: 0;
 	left: 0;
 	right: 0;
+	padding-top: 15vh;
 	.nav {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
@@ -19,12 +20,15 @@
 	ul {
 		display: flex;
 		flex-direction: column;
-		gap: 2em;
+		gap: 1em;
+		list-style: none;
 		li {
 			font-size: 3em;
 			font-family: $aktiv-grotesk-regular;
 			text-transform: uppercase;
 			padding-left: 10%;
+			list-style: none;
+			list-style-type: none;
 
 			&:hover {
 				box-shadow: border-box;
@@ -37,4 +41,8 @@
 .logo-menu {
 	display: grid;
 	place-items: center;
+}
+
+.sub-courts {
+	padding-left: 5%;
 }

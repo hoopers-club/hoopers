@@ -8,6 +8,7 @@
 @use './components/careers' as *;
 @use './components/menu' as *;
 @use './components/courtdetail' as *;
+@use './components/court' as *;
 
 * {
 	padding: 0;
@@ -20,6 +21,11 @@ input {
 	&::placeholder {
 		color: white;
 	}
+}
+a {
+	text-decoration: none;
+	text-transform: none;
+	color: inherit;
 }
 div {
 	box-shadow: border-box yellow;
@@ -210,4 +216,8 @@ section {
 			font-size: 0.8em;
 		}
 	}
+}
+
+.page {
+	padding-top: 20vh;
 }
