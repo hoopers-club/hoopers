@@ -1,7 +1,7 @@
 const Search = () => {
 	return (
-		<div class='search'>
-			<form class='form-search'>
+		<div className='search'>
+			<form className='form-search'>
 				<input
 					type='search'
 					placeholder='WHAT ARE YOU SEARCHING FOR, HOPPERS?'

@@ -7,14 +7,14 @@ const Menu = () => {
 	};
 
 	return (
-		<div class='nav'>
-			<div class='menu' onClick={openSitemap}>
+		<div className='nav'>
+			<div className='menu' onClick={openSitemap}>
 				<img src='/assets/Homepage/Botão Novo Hamburguer.svg' alt='menu' />
 			</div>
-			<div class='logo'>
+			<div className='logo'>
 				<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
 			</div>
-			<div class='lang'>
+			<div className='lang'>
 				<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
 				<img src='/assets/Homepage/Botão Idioma.svg' alt='pt' />
 			</div>
