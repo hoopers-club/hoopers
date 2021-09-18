@@ -25,17 +25,17 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
                            {allPosts.map(position=>(
 
                                <div class="position">
-                                <div class="title">{position.title}</div>
-                                <div class="detail">
-                                    {position.astro.source}
-                                </div>
-                                <div class="email">Send resume to: <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a></div>
+                                    <div class="title">{position.title}</div>
+                                    <div class="detail">
+                                        {position.astro.source}
+                                    </div>
+                                    <div class="email">Send resume to: <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a></div>
                             </div>
                            )
                            
                            
+                           
                            )
-                               
                                 }
                             
                         </div>

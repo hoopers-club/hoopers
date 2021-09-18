@@ -56,32 +56,32 @@ $line-spacing-28: 2rem;
 
 @font-face {
 	font-family: $charter;
-	src: url('../fonts/charter/Charter.ttc');
+	src: url('/style/fonts/charter/Charter.ttc');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-bold;
-	src: url('../fonts/AktivGrotesk/bold.otf');
+	src: url('/style/fonts/AktivGrotesk/bold.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-light;
-	src: url('../fonts/AktivGrotesk/light.otf');
+	src: url('/style/fonts/AktivGrotesk/light.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-medium;
-	src: url('../fonts/AktivGrotesk/medium.otf');
+	src: url('/style/fonts/AktivGrotesk/medium.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-regular;
-	src: url('../fonts/AktivGrotesk/regular.otf');
+	src: url('/style/fonts/AktivGrotesk/regular.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-black;
-	src: url('../fonts/AktivGrotesk/black.otf');
+	src: url('/style/fonts/AktivGrotesk/black.otf');
 	font-stretch: 1% 500%;
 }
 
@@ -90,57 +90,57 @@ $line-spacing-28: 2rem;
 /* -------------------------------------------------------------------------- */
 @font-face {
 	font-family: $aktiv-grotesk-BlackItalicCD;
-	src: url('../fonts/AktivGroteskCD/BlackItalicCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/BlackItalicCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-BoldCD;
-	src: url('../fonts/AktivGroteskCD/BoldCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/BoldCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-BoldItalicCD;
-	src: url('../fonts/AktivGroteskCD/BoldItalicCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/BoldItalicCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-HaidCD;
-	src: url('../fonts/AktivGroteskCD/HaidCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/HaidCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-LightCD;
-	src: url('../fonts/AktivGroteskCD/LightCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/LightCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-LightItalicCD;
-	src: url('../fonts/AktivGroteskCD/LightItalicCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/LightItalicCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-Medium;
-	src: url('../fonts/AktivGroteskCD/Medium.otf');
+	src: url('/style/fonts/AktivGroteskCD/Medium.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-MediumItalicCD;
-	src: url('../fonts/AktivGroteskCD/MediumItalicCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/MediumItalicCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-RegularCD;
-	src: url('../fonts/AktivGroteskCD/RegularCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/RegularCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-ThinCD;
-	src: url('../fonts/AktivGroteskCD/ThinCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/ThinCD.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-XBoldItalicCD;
-	src: url('../fonts/AktivGroteskCD/XBoldItalicCD.otf');
+	src: url('/style/fonts/AktivGroteskCD/XBoldItalicCD.otf');
 	font-stretch: 1% 500%;
 }
 
@@ -150,57 +150,57 @@ $line-spacing-28: 2rem;
 
 @font-face {
 	font-family: $aktiv-grotesk-BlackItalicEX;
-	src: url('../fonts/AktivGroteskEX/BlackItalicEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/BlackItalicEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-BoldEX;
-	src: url('../fonts/AktivGroteskEX/BoldEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/BoldEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-BoldItalicEX;
-	src: url('../fonts/AktivGroteskEX/BoldItalicEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/BoldItalicEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-HaidEX;
-	src: url('../fonts/AktivGroteskEX/HaidEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/HaidEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-LightEX;
-	src: url('../fonts/AktivGroteskEX/LightEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/LightEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-LightItalicEX;
-	src: url('../fonts/AktivGroteskEX/LightItalicEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/LightItalicEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-MediumEX;
-	src: url('../fonts/AktivGroteskEX/MediumEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/MediumEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-MediumItalicEX;
-	src: url('../fonts/AktivGroteskEX/MediumItalicEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/MediumItalicEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-RegularEX;
-	src: url('../fonts/AktivGroteskEX/RegularEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/RegularEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-ThinEX;
-	src: url('../fonts/AktivGroteskEX/ThinEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/ThinEX.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {
 	font-family: $aktiv-grotesk-XBoldItalicEX;
-	src: url('../fonts/AktivGroteskEX/XBoldItalicEX.otf');
+	src: url('/style/fonts/AktivGroteskEX/XBoldItalicEX.otf');
 	font-stretch: 1% 500%;
 }
 
