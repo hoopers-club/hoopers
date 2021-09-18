@@ -15,7 +15,7 @@ const Menu = () => {
 				<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
 			</div>
 			<div className='lang'>
-				<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
+				<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
 				<img src='/assets/Homepage/Botão Idioma.svg' alt='pt' />
 			</div>
 			{siteMap ? <Sitemap openSitemap={openSitemap} /> : ''}

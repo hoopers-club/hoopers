@@ -3,11 +3,9 @@ import { useState } from 'react';
 
 const Court = ({ first, court }) => {
 	const [detailOpened, setDetailOpened] = useState(false);
-	console.log(court);
 
 	const handleDetail = () => {
 		setDetailOpened(!detailOpened);
-		console.log('worked');
 	};
 
 	const styles = {
