@@ -1,0 +1,1 @@
+import{j as e}from"../../../react.jsx-runtime.v17.0.2-1287232c.js";import"../../../index-ed20953e-c0ef4b0a.js";const r=()=>e("div",{className:"search",children:e("form",{className:"form-search",children:e("input",{type:"search",placeholder:"WHAT ARE YOU SEARCHING FOR, HOPPERS?"})})});export{r as default};
