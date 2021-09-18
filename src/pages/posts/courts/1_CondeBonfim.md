@@ -1,11 +1,11 @@
 ---
 name: 'Conde de Bonfim'
 subname: 'Portugal'
-location: ' this is the location'
-artist: 'this is the artist'
-partner: ['this is the partner', 'this is the partner2', 'this is the partner3']
-duration: '15 days'
-whaWeDid: 'this is what we did'
+location: ' Benfica'
+artist: 'Pitanga'
+partner: ['Robbialac', 'JoPinto Tintas', 'Junta de Freguesia de Benfica']
+duration: '15 Days'
+whaWeDid: 'A new basketball court'
 image: '/assets/courts/Our%20Courts%20Imagens/1_Conde%20de%20Bonfim/thumb_conde.jpg'
 ---
 
