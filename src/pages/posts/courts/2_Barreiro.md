@@ -1,11 +1,11 @@
 ---
 name: 'Barreiros'
 subname: 'Portugal'
-location: ' this is the location'
-artist: 'this is the artist'
-partner: ['this is the partner', 'this is the partner2', 'this is the partner3']
-duration: '15 days'
-whaWeDid: 'this is what we did'
+location: 'Barreiro'
+artist: 'Samina'
+partner: ['Robbialac', 'JoPinto Tintas', 'Câmara Municipal do Barreiro']
+duration: '15 Days'
+whaWeDid: 'Artistic Intervention'
 image: '/assets/courts/Our%20Courts%20Imagens/2_Barreiro/thumb_barreiro.jpg'
 ---
 
