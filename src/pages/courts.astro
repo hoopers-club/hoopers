@@ -7,8 +7,7 @@ import Court from '../components/Court.jsx'
 let allCourts = Astro.fetchContent('./posts/courts/*.md');
 allCourts = allCourts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 // console.log(allCourts)
-let images=Astro.fetchContent('/assets/courts/Our%20Courts%20Imagens/1_Conde%20de%20Bonfim/Galeria%20(Esquerda)/*.jpg')
-console.log(images)
+
 ---
 
 
