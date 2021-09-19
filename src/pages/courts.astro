@@ -5,7 +5,7 @@ import Court from '../components/Court.jsx'
 
 
 let allCourts = Astro.fetchContent('./posts/courts/*.md');
-allCourts = allCourts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+// allCourts = allCourts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 // console.log(allCourts)
 
 ---
@@ -18,8 +18,8 @@ allCourts = allCourts.sort((a, b) => new Date(b.publishDate) - new Date(a.publis
 <div class="courts-list">
     
     {allCourts.map(court => (
-         <Court client:visible court={court} first={court===allCourts[0]?true:false}/>
-    ))}
+      //   <Court client:visible court={court} first={court===allCourts[0]?true:false}/>
+  ''  ))}
     
     
     </div>
