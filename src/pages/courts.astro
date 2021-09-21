@@ -18,8 +18,8 @@ let allCourts = Astro.fetchContent('./posts/courts/*.md');
 <div class="courts-list">
     
     {allCourts.map(court => (
-      //   <Court client:visible court={court} first={court===allCourts[0]?true:false}/>
-  ''  ))}
+       <Court client:visible court={court} first={court===allCourts[0]?true:false}/>
+    ))}
     
     
     </div>
