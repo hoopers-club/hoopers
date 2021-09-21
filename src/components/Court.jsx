@@ -2,11 +2,11 @@ import CourtDetail from './CourtDetail.jsx';
 import React, { useState } from 'react';
 
 const Court = ({ first, court }) => {
-	// const [detailOpened, setDetailOpened] = useState(false);
+	const [detailOpened, setDetailOpened] = useState(false);
 
-	// const handleDetail = () => {
-	// 	setDetailOpened(!detailOpened);
-	// };
+	const handleDetail = () => {
+		setDetailOpened(!detailOpened);
+	};
 
 	const styles = {
 		minHeight: first ? '85vh' : '30vh',

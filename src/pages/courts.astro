@@ -1,6 +1,7 @@
 ---
 import Bases from '../Layout/Layout.astro'
-import Court from '../components/Court.jsx'
+
+import Courtlist from '../components/Courtlist.jsx'
 
 
 
@@ -14,15 +15,7 @@ let allCourts = Astro.fetchContent('./posts/courts/*.md');
 
 
 <Bases>
+<Courtlist allCourts={allCourts} client:visible/>
 
-<div class="courts-list">
-    
-    {allCourts.map(court => (
-       <Court client:visible court={court} first={court===allCourts[0]?true:false}/>
-       
-    ))}
-    
-    
-    </div>
 
 </Bases>
