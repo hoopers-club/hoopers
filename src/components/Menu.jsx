@@ -1,9 +1,10 @@
-import { useState } from 'React';
+import React, { useState } from 'react';
 import Sitemap from './Sitemap.jsx';
 const Menu = () => {
-	const [siteMap, setSiteMap] = useState(false);
+	const [openSite, setOpenSite] = useState(false);
 	const openSitemap = () => {
-		setSiteMap(!siteMap);
+		// console.log('worked');
+		setOpenSite(!openSite);
 	};
 
 	return (
@@ -18,7 +19,7 @@ const Menu = () => {
 				<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
 				<img src='/assets/Homepage/Botão Idioma.svg' alt='pt' />
 			</div>
-			{siteMap ? <Sitemap openSitemap={openSitemap} /> : ''}
+			{openSite ? <Sitemap openSitemap={openSitemap} /> : ''}
 		</div>
 	);
 };
