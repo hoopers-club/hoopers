@@ -18,6 +18,12 @@ collections:
     folder: 'src/pages/posts/courts'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          choose_url: true,
+        }
       - { label: 'Name', name: 'name', widget: 'string' }
       - { label: 'Subname', name: 'subname', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
@@ -25,9 +31,3 @@ collections:
       - { label: 'partner', name: 'partner', widget: 'list', allow_add: true }
       - { label: 'What we Did', name: 'whaWeDid', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - {
-          label: 'Featured Image',
-          name: 'image',
-          widget: 'image',
-          choose_url: true,
-        }
