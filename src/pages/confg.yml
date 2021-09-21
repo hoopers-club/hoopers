@@ -1,0 +1,14 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'public/assets/uploads'
+public_folder: '/assets/uploads'
+collections:
+  - name: 'careers'
+    label: 'Careers'
+    folder: 'src/pages/posts/careers'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

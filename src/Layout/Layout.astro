@@ -32,6 +32,7 @@ body {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>Hoopers</title>
 
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
@@ -60,5 +61,18 @@ body {
            -->
 
            <Footer/>
+
+
+           <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
