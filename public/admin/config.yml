@@ -12,3 +12,16 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'court'
+    label: 'Courts'
+    create: true
+    folder: 'src/pages/posts/courts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Subname', name: 'subname', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Artist', name: 'artist', widget: 'string' }
+      - { label: 'partner', name: 'partner', widget: 'list', allow_add: true }
+      - { label: 'What we Did', name: 'whaWeDid', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
