@@ -34,6 +34,7 @@ collections:
   - name: 'articles'
     label: 'Articles'
     create: true
+    publish_mode: editorial_workflow
     folder: 'src/pages/posts/articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
@@ -44,6 +45,12 @@ collections:
           format: 'MMM Do YY',
           required: true,
         }
-      - { label: 'Banner', name: 'image', widget: 'image', choose_url: true }
+      - {
+          label: 'Banner',
+          name: 'image',
+          widget: 'image',
+          choose_url: true,
+          media_folder: 'public/assets/articles',
+        }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
