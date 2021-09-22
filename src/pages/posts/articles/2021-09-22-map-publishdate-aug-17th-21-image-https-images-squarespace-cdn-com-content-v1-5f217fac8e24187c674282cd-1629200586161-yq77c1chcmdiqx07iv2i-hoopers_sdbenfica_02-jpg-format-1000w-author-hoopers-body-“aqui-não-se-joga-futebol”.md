@@ -3,6 +3,7 @@ title: 'Campo de basquetebol em São Domingos de Benfica recebe intervenção ar
 publishDate: Aug 17th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200586161-YQ77C1CHCMDIQX07IV2I/Hoopers_SDBenfica_02.JPG?format=1000w
 author: Hoopers
+layout: '../../../Layout/single-article.astro'
 ---
 
 “Aqui não se joga futebol” é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
