@@ -31,3 +31,19 @@ collections:
       - { label: 'partner', name: 'partner', widget: 'list', allow_add: true }
       - { label: 'What we Did', name: 'whaWeDid', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles'
+    label: 'Articles'
+    create: true
+    folder: 'src/pages/posts/articles'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {
+          label: 'Publish Date',
+          name: 'publishDate',
+          widget: 'date',
+          format: 'MMM Do YY',
+          required: true,
+        }
+      - { label: 'Banner', name: 'image', widget: 'image', choose_url: true }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
