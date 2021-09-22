@@ -2,7 +2,8 @@
 import Bases from '../Layout/Layout.astro'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
-console.log(allPosts)
+allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+
 ---
 
 <Bases>
@@ -59,11 +60,12 @@ console.log(allPosts)
 				/>
 			</div>
 			<div class="articles-list-all">
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
+			{allPosts.map(article =>(<div class="article-item">
+					<div class="img"><img src={article?.image} alt=""></div>
+					<div class="article-title" style={article.title.length>16?"font-size:0.9em":''}>{article?.title}</div>
+					<div class="article-writer">{article?.author}</div>
+				</div>))}
+				
 				
 			</div>
 			<div class="buttons-black centered">show more</div>

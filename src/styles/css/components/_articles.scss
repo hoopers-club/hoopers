@@ -73,11 +73,15 @@
 			.img {
 				max-width: 100%;
 				height: 50%;
+				img {
+					height: 100%;
+				}
 			}
 			.article-title {
 				text-transform: uppercase;
 				font-size: 2em;
 				font-family: $aktiv-grotesk-bold;
+				max-width: 25ch;
 			}
 			.article-writer {
 				font-style: italic;
