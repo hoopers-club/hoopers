@@ -2,7 +2,7 @@
 import Bases from './Layout.astro'
 
 const {content} = Astro.props;
-const {title, publishDate, author, image} = content;
+const {title, publishDate, author,subname, image} = content;
 ---
 <Bases>
 	
@@ -10,17 +10,17 @@ const {title, publishDate, author, image} = content;
 	<div class="container">
 				<div
 					class="top"
-					style="
+					style={`
 						background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-							url('{image}');
-					"
+							url('${image}');
+					`}
 				>
 					
-					<div class="headline quotes">{title}</div>
+					<div class="headline quotes" style={title.length>16?"font-size:3em !important;":''} >{title}</div>
 					<div class="sub-headline">
-						THE NEW ICONIC LISBON COURT BY EDIS AND PARIZ
+						{subname}
 					</div>
-					<div class="sub-text centered">{publishDate} <br />by hoopers</div>
+					<div class="sub-text centered">{publishDate} <br />{author}</div>
 	
 					
 				</div>
@@ -28,23 +28,6 @@ const {title, publishDate, author, image} = content;
 	
 			<section class="single-articles white">
 				<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
-				<p>
-					“Cara ou Coroa'' é o projeto que levou os artistas Edis e Pariz a
-					intervencionar o campo de jogos localizado na Estrada do Calhariz de
-					Benfica. Fomos conhecer a dupla de street artist, que tem o seu atelier
-					sediado no bairro onde aconteceu esta intervenção, que nos contou acerca
-					do seu percurso como dupla, a sua ligação ao desporto, o que os inspirou
-					para concretizar esta intervenção e um dos seus próximos projetos, onde
-					irão homenagear Ticha Penicheiro, a Rainha do Basquetebol português, na
-					sua terra natal.
-				</p>
-	
-				<p class="quoted">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-					voluptatibus facilis, dolorum accusantium placeat velit. Lorem ipsum,
-					dolor sit amet consectetur adipisicing elit. Sed provident veniam,
-					voluptatem numquam quae accusamus natus fuga amet sit, obcaecati quis
-					architecto, explicabo non? At inventore velit iure a. Quas.
-				</p>
+				{content.astro.html}
 			</section>
 </Bases>

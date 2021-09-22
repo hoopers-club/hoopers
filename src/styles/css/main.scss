@@ -101,6 +101,10 @@ html {
 	text-align: center;
 	margin-top: auto;
 	color: $white;
+	max-width: 50ch;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
 	span {
 		font-family: $aktiv-grotesk-light;
 	}
