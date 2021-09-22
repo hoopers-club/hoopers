@@ -1,5 +1,8 @@
 ---
 import Bases from '../Layout/Layout.astro'
+
+let allPosts = Astro.fetchContent('./posts/articles/*.md');
+console.log(allPosts)
 ---
 
 <Bases>
@@ -61,31 +64,7 @@ import Bases from '../Layout/Layout.astro'
 					<div class="article-title">article title</div>
 					<div class="article-writer">article writer</div>
 				</div>
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
-				<div class="article-item">
-					<div class="img">image</div>
-					<div class="article-title">article title</div>
-					<div class="article-writer">article writer</div>
-				</div>
+				
 			</div>
 			<div class="buttons-black centered">show more</div>
 		</section>

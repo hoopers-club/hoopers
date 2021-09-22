@@ -38,6 +38,7 @@ collections:
     folder: 'src/pages/posts/articles'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
       - {
           label: 'Publish Date',
           name: 'publishDate',
@@ -54,3 +55,9 @@ collections:
         }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'string',
+          default: '../../Layout/single-article.astro',
+        }
