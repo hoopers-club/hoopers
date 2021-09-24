@@ -3,7 +3,7 @@ import Bases from '../Layout/Layout.astro'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
-
+console.log(allPosts)
 ---
 
 <Bases>
@@ -61,7 +61,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 				/>
 			</div>
 			<div class="articles-list-all">
-			{allPosts.map(article =>(<div class="article-item">
+			{allPosts.map(article =>(<div class="article-item" onclick={`location.href='${article.url}'`}>
 					<div class="img"><img src={article?.image} alt=""></div>
 					<div class="article-title" style={article.title.length>16?"font-size:0.9em":''}>{article?.title}</div>
 					<div class="article-writer">{article?.author}</div>
