@@ -3,7 +3,7 @@ import Bases from '../Layout/Layout.astro'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
-console.log(allPosts)
+// console.log(allPosts)
 ---
 
 <Bases>
@@ -36,19 +36,27 @@ console.log(allPosts)
 					alt="line"
 				/>
 			</div>
+
 			<div class="articles-list">
-				<div class="articles-item">
-					<div class="title">The train only passes once</div>
-					<div class="by">by sara guerreiro</div>
+			{allPosts.map(article => (
+
+				<div
+					class="articles-item"
+					style={`
+						background: url('${article?.image}');
+						background-repeat: no-repeat;
+						background-size: cover;
+						background-color: hsla(0, 0%, 0%, 0.014);
+						background-position:center;
+					`}
+					onclick={`location.href='${article.url}'`}
+				>
+					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+					<div class="by">by {article?.author}</div>
 				</div>
-				<div class="articles-item">
-					<div class="title"></div>
-					<div class="by"></div>
-				</div>
-				<div class="articles-item">
-					<div class="title"></div>
-					<div class="by"></div>
-				</div>
+			))}
+				
+				
 			</div>
 		</section>
 		<section class="articles white">
@@ -63,7 +71,7 @@ console.log(allPosts)
 			<div class="articles-list-all">
 			{allPosts.map(article =>(<div class="article-item" onclick={`location.href='${article.url}'`}>
 					<div class="img"><img src={article?.image} alt=""></div>
-					<div class="article-title" style={article.title.length>16?"font-size:0.9em":''}>{article?.title}</div>
+					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 					<div class="article-writer">{article?.author}</div>
 				</div>))}
 				

@@ -12,12 +12,18 @@ const Menu = () => {
 			<div className='menu' onClick={openSitemap}>
 				<img src='/assets/Homepage/Botão Novo Hamburguer.svg' alt='menu' />
 			</div>
+
 			<div className='logo'>
-				<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
+				<a href='/'>
+					<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
+				</a>
 			</div>
+
 			<div className='lang'>
-				<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
-				<img src='/assets/Homepage/Botão Idioma.svg' alt='pt' />
+				<a href='https://hoopers.store/' target='_blank'>
+					<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
+				</a>
+				{/* <img src='/assets/Homepage/Botão Idioma.svg' alt='pt' /> */}
 			</div>
 			{openSite ? <Sitemap openSitemap={openSitemap} /> : ''}
 		</div>

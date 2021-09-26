@@ -18,22 +18,42 @@ const Sitemap = ({ openSitemap }) => {
 			</div>
 			<div class='menus-list'>
 				<ul>
-					<li>ARTICLES</li>
+					<li>
+						<a href='/articles'>ARTICLES</a>
+					</li>
 					<li>ESPORTS</li>
 					<li onClick={submenu}>COURTS</li>
 					{expanded ? (
 						<span className='sub-courts'>
-							<li>Our Courts</li>
+							<li>
+								<a href='/courts'>Our Courts</a>
+							</li>
 							<li>Map</li>
 						</span>
 					) : (
 						''
 					)}
 					<li>SUMMER LEAGUE</li>
-					<li>HOOPERS TV</li>
-					<li>PODCAST</li>
+					<li>
+						<a
+							href='https://www.youtube.com/channel/UC9majUuTNcytG0nmt_B8Ubg'
+							target='_blank'>
+							HOOPERS TV
+						</a>
+					</li>
+					<li>
+						<a
+							href='https://open.spotify.com/show/0hhUbVNzpsyUT7dIlFxL1a?si=ZI7Mk6ebRv6uz0LfLQbnYA'
+							target='_blank'>
+							PODCAST
+						</a>
+					</li>
 					<li>NFT</li>
-					<li>SHOP</li>
+					<li>
+						<a href='https://hoopers.store/' target='_blank'>
+							SHOP
+						</a>
+					</li>
 				</ul>
 			</div>
 		</div>

@@ -2,13 +2,14 @@
 @use '../abstracts/fonts' as fonts;
 
 .footer {
-	max-height: 20vh;
+	min-height: 20vh;
 	margin-top: auto;
 	padding: 1em 0;
 	background-color: colors.$dark-orange;
 	color: colors.$hoopers-black;
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
 	width: 100%;
 	flex: 1;
 	justify-content: space-evenly;
