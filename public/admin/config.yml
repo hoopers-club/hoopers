@@ -63,3 +63,28 @@ collections:
           widget: 'string',
           default: '../../../Layout/single-article.astro',
         }
+  - name: 'frontpage'
+    label: 'Front Page'
+    create: true
+    folder: 'src/pages/posts/frontpage'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Court', name: 'court', widget: 'string' }
+      - {
+          label: 'court image',
+          name: 'courtImage',
+          widget: 'image',
+          choose_url: true,
+          media_folder: 'public/assets/frontpage',
+          required: true,
+        }
+
+      - { label: 'Product', name: 'product', widget: 'string' }
+      - {
+          label: 'Product image',
+          name: 'productImage',
+          widget: 'image',
+          choose_url: true,
+          media_folder: 'public/assets/frontpage',
+          required: true,
+        }
