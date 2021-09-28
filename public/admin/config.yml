@@ -69,7 +69,7 @@ collections:
     folder: 'src/pages/posts/frontpage'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Court', name: 'court', widget: 'string' }
+      - { label: 'Court', name: 'court', widget: 'text' }
       - {
           label: 'court image',
           name: 'courtImage',
@@ -79,7 +79,13 @@ collections:
           required: true,
         }
 
-      - { label: 'Product', name: 'product', widget: 'string' }
+      - { label: 'Product Name', name: 'productName', widget: 'string' }
+      - { label: 'Product Price', name: 'productPrice', widget: 'number' }
+      - {
+          label: 'Product Description',
+          name: 'productDescription',
+          widget: 'text',
+        }
       - {
           label: 'Product image',
           name: 'productImage',
