@@ -88,3 +88,4 @@ collections:
           media_folder: 'public/assets/frontpage',
           required: true,
         }
+      - { label: 'Product Link', name: 'productLink', widget: 'string' }

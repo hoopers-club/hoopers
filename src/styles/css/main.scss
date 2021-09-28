@@ -112,17 +112,20 @@ html {
 	padding: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: $aktiv-grotesk-BoldEX;
+
 	font-weight: bold;
 	flex-flow: column;
 	gap: 0;
 	h2 {
+		font-family: $aktiv-grotesk-BoldEX;
 		margin: 0;
 		padding: 0;
 	}
 
 	span {
-		font-family: $aktiv-grotesk-light;
+		h2 {
+			font-family: $aktiv-grotesk-light;
+		}
 	}
 }
 
@@ -270,9 +273,7 @@ main {
 	scroll-snap-type: y mandatory;
 }
 .container,
-.articles,
-.courts,
-.products {
+section {
 	scroll-snap-align: start;
 }
 footer {
