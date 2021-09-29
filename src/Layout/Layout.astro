@@ -75,6 +75,64 @@ body {
       }
     });
   }
+
+
+  	
+const right_i= document.querySelectorAll('.right-i')
+
+
+observer= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`left 1s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+}, 
+{rootMargin: "0px 0px -200px 0px"});
+
+
+right_i.forEach(right => {
+  observer.observe(right)
+});
+
+	const left_i= document.querySelectorAll('.left-i')
+
+		observer_article= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`right 1s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`right 1s backwards ease-out`;
+	}
+})
+}, 
+{rootMargin: "0px 0px -200px 0px"})
+
+	left_i.forEach(left => {
+  observer_article.observe(left)
+});
+	const down_i= document.querySelectorAll('.down-i')
+
+		observer_= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+}, 
+{rootMargin: "0px 0px -200px 0px"})
+
+	down_i.forEach(down => {
+  observer_.observe(down)
+});
+
 </script>
 </body>
 </html>

@@ -3,6 +3,7 @@ title: 'Campo de basquetebol em São Domingos de Benfica recebe intervenção ar
 publishDate: Aug 17th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200586161-YQ77C1CHCMDIQX07IV2I/Hoopers_SDBenfica_02.JPG?format=1000w
 author: Hoopers
+featured: true
 layout: '../../../Layout/single-article.astro'
 ---
 

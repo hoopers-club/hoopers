@@ -73,6 +73,7 @@ html {
 	color: black;
 	width: fit-content;
 	font-size: 1.5em;
+	text-transform: lowercase;
 
 	&:hover {
 		background-color: $hoopers-black;
@@ -81,6 +82,7 @@ html {
 	}
 }
 .buttons-black {
+	text-transform: lowercase;
 	padding: 0.2em 1.5em;
 
 	width: fit-content;
@@ -207,7 +209,7 @@ section {
 		font-size: 1em;
 		display: flex;
 		align-items: center;
-		width: 4ch;
+		width: 3em;
 		height: 100%;
 		background: url('/assets/Homepage/lupa.svg');
 		background-repeat: no-repeat;
@@ -272,7 +274,7 @@ body,
 main {
 	scroll-snap-type: y mandatory;
 }
-
+.page,
 .courts-list,
 .container,
 section {
@@ -280,4 +282,47 @@ section {
 }
 footer {
 	scroll-snap-align: end;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                 animations                                 */
+/* -------------------------------------------------------------------------- */
+
+@keyframes left {
+	from {
+		transform: translateX(100%);
+	}
+	to {
+		transform: translateX(0%);
+	}
+}
+
+@keyframes right {
+	from {
+		transform: translateX(-100%);
+	}
+	to {
+		transform: translateX(0%);
+	}
+}
+
+@keyframes down {
+	from {
+		transform: translateY(100%);
+		opacity: 0;
+	}
+	to {
+		transform: translateY(0%);
+		opacity: 1;
+	}
+}
+@keyframes up {
+	from {
+		transform: translateY(0%);
+		opacity: 0;
+	}
+	to {
+		transform: translateY(-100%);
+		opacity: 1;
+	}
 }

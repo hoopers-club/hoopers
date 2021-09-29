@@ -53,9 +53,12 @@
 		display: grid;
 		padding: 4em 10%;
 		grid-template-columns: repeat(auto-fit, minmax(20em, 3fr));
+		place-items: center;
 
 		.articles-item {
 			min-height: 60vh;
+			max-width: 30em;
+			opacity: 0;
 		}
 	}
 
@@ -80,11 +83,13 @@
 			.img {
 				max-width: 100%;
 
-				display: flex;
-				flex: 1;
+				overflow: hidden;
+				height: 13em;
+
 				img {
+					display: block;
+					margin: 0 auto auto auto;
 					max-width: 100%;
-					height: 100%;
 				}
 			}
 			.article-title {

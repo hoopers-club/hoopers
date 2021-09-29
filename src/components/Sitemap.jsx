@@ -26,9 +26,9 @@ const Sitemap = ({ openSitemap }) => {
 					{expanded ? (
 						<span className='sub-courts'>
 							<li>
-								<a href='/courts'>Our Courts</a>
+								<a href='/courts'>OUR COURTS</a>
 							</li>
-							<li>Map</li>
+							<li>MAP</li>
 						</span>
 					) : (
 						''

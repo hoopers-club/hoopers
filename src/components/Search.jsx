@@ -4,7 +4,7 @@ const Search = () => {
 			<form className='form-search'>
 				<input
 					type='search'
-					placeholder='WHAT ARE YOU SEARCHING FOR, HOPPERS?'
+					placeholder='WHAT ARE YOU SEARCHING FOR, HOOPER?'
 				/>
 			</form>
 		</div>

@@ -19,10 +19,11 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
                     <div class="page">
                         <div class="term-title">CAREERS AT HOOPERS</div>
                         <img src="/assets/policy/Line Breaker white.svg" alt="" />
-                        <div class="term-title">WE’RE HIRING!</div>
-                        <div class="positions">OPEN POSITIONS</div>
+                        <div class="term-title"> {allPosts.length>=1?'WE’RE HIRING!':'SORRY, THERE ARE NO OPEN POSITIONS RIGHT NOW.'}</div>
+                        <div class="positions">{allPosts.length>=1?'OPEN POSITIONS':''}</div>
                         <div class="openings-list">
-                           {allPosts.map(position=>(
+                      
+                           {allPosts.length>=1?allPosts.map(position=>(
 
                                <div class="position">
                                     <div class="title">{position.title}</div>
@@ -32,9 +33,9 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
                                     <div class="email">Send resume to: 
                                     <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a></div>
                             </div>
-                           ))
+                           )):''
                                 }
-                            
+                           {allPosts.length>=1?'': (<div class="centered"><iframe src="https://giphy.com/embed/ehmL4HSm7F38hkamtu" width="720" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-upset-michael-jordan-ehmL4HSm7F38hkamtu"></a></p></div>)}
                         </div>
                     </div>
                     <div

@@ -1,45 +1,45 @@
+---
+
+
+
+let {articles}=Astro.props
+articles=articles.filter(article=>article.featured==true)
+
+// console.log(articles)
+
+// const title= document.querySelector('.title-section')
+// console.log()
+---
+ 
 <section class="articles">
 			<div class="title">
-				<div class="title-section">articles</div>
-				<img class="line" src="/assets/Homepage/section line.svg" alt="line" />
+				<div class="title-section left-i">articles</div>
+				<img class="line right-i" src="/assets/Homepage/section line.svg" alt="line" />
 			</div>
 			<div class="articles-list">
+				
+				{articles.slice(0,3).map((article,index) => (
+
 				<div
-					class="articles-item"
-					style="
-						background: url('https://unsplash.it/400');
+					class="articles-item down-i"
+					data-delay={`${index==1?'0.5s':'0s'}`}
+					style={`
+						background: url('${article?.image}');
 						background-repeat: no-repeat;
 						background-size: cover;
 						background-color: hsla(0, 0%, 0%, 0.014);
-					"
+						background-position:center;
+					`}
+					onclick={`location.href='${article.url}'`}
 				>
-					<div class="title">The train only passes once</div>
-					<div class="by">by sara guerreiro</div>
+					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+					<div class="by">by {article?.author}</div>
 				</div>
-				<div
-					class="articles-item"
-					style="
-						background: url('https://unsplash.it/400');
-						background-repeat: no-repeat;
-						background-size: cover;
-						background-color: hsla(0, 0%, 100%, 0.2);
-					"
-				>
-					<div class="title">The train only passes once</div>
-					<div class="by">by sara guerreiro</div>
-				</div>
-				<div
-					class="articles-item"
-					style="
-						background: url('https://unsplash.it/400');
-						background-repeat: no-repeat;
-						background-size: cover;
-						background-color: hsla(0, 0%, 100%, 0.2);
-					"
-				>
-					<div class="title">The train only passes once</div>
-					<div class="by">by sara guerreiro</div>
-				</div>
+			))}
+	
 			</div>
-			<div class="centered buttons condensed">more articles</div>
+			<div class="centered buttons condensed" onclick="location.href='/articles'">more articles</div>
 		</section>
+
+
+

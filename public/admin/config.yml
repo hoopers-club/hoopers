@@ -41,6 +41,12 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Subtitle', name: 'subname', widget: 'text' }
       - {
+          label: 'Featured',
+          name: 'featured',
+          widget: 'boolean',
+          default: false,
+        }
+      - {
           label: 'Publish Date',
           name: 'publishDate',
           widget: 'date',

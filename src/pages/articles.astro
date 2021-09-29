@@ -39,7 +39,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 			</div>
 
 			<div class="articles-list">
-			{allPosts.map(article => (
+			{allPosts.filter(article=>article.featured==true).slice(0,2).map(article => (
 
 				<div
 					class="articles-item"
