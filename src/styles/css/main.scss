@@ -399,7 +399,7 @@ footer {
 
 @keyframes slide-in-elliptic-right-bck {
 	0% {
-		transform: translateX(-800px) rotateZ(340deg) scale(1);
+		transform: translateX(-800px) rotateZ(45deg) scale(1);
 		// transform-origin: 200% 50%;
 		opacity: 0;
 	}
@@ -412,7 +412,7 @@ footer {
 
 @keyframes slide-in-elliptic-left-bck {
 	0% {
-		transform: translateX(-800px) rotateZ(-340deg) scale(1);
+		transform: translateX(-800px) rotateZ(-45deg) scale(1);
 		// transform-origin: 200% 50%;
 		opacity: 0;
 	}
