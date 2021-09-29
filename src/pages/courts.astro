@@ -18,4 +18,49 @@ let allCourts = Astro.fetchContent('./posts/courts/*.md');
 <Courtlist allCourts={allCourts} client:visible/>
 
 
+
+
+
+
+<script>
+	const subtitle= document.querySelectorAll('.court-subtext')
+
+		observer_court= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`bounce-in-right 2s forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+
+})
+
+
+subtitle.forEach(right => {
+  observer_court.observe(right)
+});
+
+	const main= document.querySelectorAll('.court-headline')
+
+		observer_countmain= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`bounce-in-left 2s forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+
+})
+
+
+main.forEach(right => {
+  observer_countmain.observe(right)
+});
+
+
+</script>
 </Bases>

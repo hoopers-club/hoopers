@@ -29,11 +29,18 @@
 			padding-left: 10%;
 			list-style: none;
 			list-style-type: none;
+			background-image: linear-gradient($dark-orange, $dark-orange);
+			background-size: 0% 3px;
+			background-repeat: no-repeat;
+			background-position: left bottom;
+			width: fit-content;
+			transition: background-size 200ms ease;
 
 			&:hover {
-				box-shadow: border-box;
-				border-bottom: 3px solid $dark-orange;
+				// box-shadow: border-box;
+				// border-bottom: 3px solid $dark-orange;
 				width: fit-content;
+				background-size: 100% 3px;
 			}
 		}
 	}

@@ -85,7 +85,7 @@ observer= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`left 2s 0.5s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -102,7 +102,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`right 2s 0.5s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -115,7 +115,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
+		entry.target.style.animation=`down 3s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -145,7 +145,7 @@ observercenter= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s  forwards ease-out`;
+		entry.target.style.animation=`left 2s  forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -162,7 +162,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`right 2s 0.5s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -175,7 +175,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 1s forwards ease-out`;
+		entry.target.style.animation=`down 3s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}

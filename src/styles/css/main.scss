@@ -273,16 +273,15 @@ section {
 html,
 body,
 main {
-	scroll-snap-type: y mandatory;
+	// scroll-snap-type: y mandatory;
 }
 .page,
-.courts-list,
 .container,
 section {
 	scroll-snap-align: start;
 }
 footer {
-	scroll-snap-align: end;
+	// scroll-snap-align: end;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -329,6 +328,72 @@ footer {
 	to {
 		transform: translateY(-100%);
 		opacity: 1;
+	}
+}
+
+@keyframes bounce-in-right {
+	0% {
+		transform: translateX(100%);
+		animation-timing-function: ease-out;
+		opacity: 0;
+	}
+	38% {
+		animation-timing-function: ease-out;
+		opacity: 1;
+	}
+	55% {
+		animation-timing-function: ease-out;
+	}
+	72% {
+		animation-timing-function: ease-out;
+	}
+	81% {
+		animation-timing-function: ease-out;
+	}
+	90% {
+		transform: translateX(0);
+		animation-timing-function: ease-out;
+	}
+	95% {
+		transform: translateX(-8px);
+		animation-timing-function: ease-out;
+	}
+	100% {
+		transform: translateX(0);
+		animation-timing-function: ease-out;
+	}
+}
+
+@keyframes bounce-in-left {
+	0% {
+		transform: translateX(-100%);
+		animation-timing-function: ease;
+		opacity: 0;
+	}
+	// 38% {
+	// 	animation-timing-function: ease-out;
+	// 	opacity: 1;
+	// }
+	// 55% {
+	// 	animation-timing-function: ease-out;
+	// }
+	// 72% {
+	// 	animation-timing-function: ease-out;
+	// }
+	// 81% {
+	// 	animation-timing-function: ease-out;
+	// }
+	// 90% {
+	// 	transform: translateX(0);
+	// 	animation-timing-function: ease-out;
+	// }
+	95% {
+		transform: translateX(8px);
+		animation-timing-function: ease;
+	}
+	100% {
+		transform: translateX(0);
+		animation-timing-function: ease;
 	}
 }
 
