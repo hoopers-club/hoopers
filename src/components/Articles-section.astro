@@ -13,15 +13,15 @@ articles=articles.filter(article=>article.featured==true)
  
 <section class="articles">
 			<div class="title">
-				<div class="title-section left-i">articles</div>
-				<img class="line right-i" src="/assets/Homepage/section line.svg" alt="line" />
+				<div class="title-section centerleft-i">articles</div>
+				<img class="line centerright-i" src="/assets/Homepage/section line.svg" alt="line" />
 			</div>
-			<div class="articles-list">
+			<div class="articles-list centerdown-i">
 				
 				{articles.slice(0,3).map((article,index) => (
 
 				<div
-					class="articles-item down-i"
+					class="articles-item "
 					data-delay={`${index==1?'0.5s':'0s'}`}
 					style={`
 						background: url('${article?.image}');

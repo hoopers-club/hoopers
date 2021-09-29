@@ -137,6 +137,7 @@ section {
 .title {
 	display: flex;
 	flex-direction: row;
+	padding-top: 10vh;
 
 	&-section {
 		font-size: 5rem;
@@ -291,18 +292,22 @@ footer {
 @keyframes left {
 	from {
 		transform: translateX(100%);
+		opacity: 0;
 	}
 	to {
 		transform: translateX(0%);
+		opacity: 1;
 	}
 }
 
 @keyframes right {
 	from {
 		transform: translateX(-100%);
+		opacity: 0;
 	}
 	to {
 		transform: translateX(0%);
+		opacity: 1;
 	}
 }
 
@@ -325,4 +330,12 @@ footer {
 		transform: translateY(-100%);
 		opacity: 1;
 	}
+}
+
+.left-i,
+.right-i,
+.down-i .centerleft-i,
+.centerright-i,
+.centerdown-i {
+	opacity: 0;
 }

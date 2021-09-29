@@ -51,14 +51,13 @@
 	}
 	&-list {
 		display: grid;
-		padding: 4em 10%;
+		padding: 1em 10%;
 		grid-template-columns: repeat(auto-fit, minmax(20em, 3fr));
 		place-items: center;
 
 		.articles-item {
 			min-height: 60vh;
 			max-width: 30em;
-			opacity: 0;
 		}
 	}
 

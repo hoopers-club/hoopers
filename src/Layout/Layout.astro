@@ -85,36 +85,30 @@ observer= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s forwards ease-out`;
+		entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
 })
-}, 
-{rootMargin: "0px 0px -200px 0px"});
+}
+);
 
 
-right_i.forEach(right => {
-  observer.observe(right)
-});
+
 
 	const left_i= document.querySelectorAll('.left-i')
 
 		observer_article= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
-	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s forwards ease-out`;
+	if ( entry.intersectionRatio>0) {
+		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
 })
-}, 
-{rootMargin: "0px 0px -200px 0px"})
+})
 
-	left_i.forEach(left => {
-  observer_article.observe(left)
-});
 	const down_i= document.querySelectorAll('.down-i')
 
 		observer_= new IntersectionObserver(entries=>{
@@ -126,13 +120,82 @@ entries.forEach(entry => {
 		entry.target.style.animation=`none`;
 	}
 })
-}, 
-{rootMargin: "0px 0px -200px 0px"})
+})
+
+right_i.forEach(right => {
+  observer.observe(right)
+});
+
+
+
+	left_i.forEach(left => {
+  observer_article.observe(left)
+});
 
 	down_i.forEach(down => {
   observer_.observe(down)
 });
 
+
+
+const centerright_i= document.querySelectorAll('.centerright-i')
+
+
+observercenter= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`left 1s  forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+}
+);
+
+
+
+
+	const centerleft_i= document.querySelectorAll('.centerleft-i')
+
+		observer_articlecenter= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if ( entry.intersectionRatio>0) {
+		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+	const centerdown_i= document.querySelectorAll('.centerdown-i')
+
+		observer_center= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`down 1s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+
+centerright_i.forEach(right => {
+  observercenter.observe(right)
+});
+
+
+
+	centerleft_i.forEach(left => {
+  observer_articlecenter.observe(left)
+});
+
+	centerdown_i.forEach(down => {
+  observer_center.observe(down)
+});
 </script>
 </body>
 </html>
