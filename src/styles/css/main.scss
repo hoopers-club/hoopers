@@ -397,6 +397,32 @@ footer {
 	}
 }
 
+@keyframes slide-in-elliptic-right-bck {
+	0% {
+		transform: translateX(-800px) rotateZ(340deg) scale(1);
+		// transform-origin: 200% 50%;
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0) rotateZ(0) scale(1);
+		// transform-origin: -600px 50%;
+		opacity: 1;
+	}
+}
+
+@keyframes slide-in-elliptic-left-bck {
+	0% {
+		transform: translateX(-800px) rotateZ(-340deg) scale(1);
+		// transform-origin: 200% 50%;
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0) rotateZ(0) scale(1);
+		// transform-origin: -600px 50%;
+		opacity: 1;
+	}
+}
+
 .left-i,
 .right-i,
 .down-i,
