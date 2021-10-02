@@ -7,6 +7,7 @@
 }
 
 .court {
+	cursor: pointer;
 	margin-top: auto;
 	min-height: 30vh;
 	display: flex;
@@ -14,16 +15,18 @@
 	background-position-x: center;
 
 	.titles {
-		padding: 4em;
+		padding: 2em;
 		padding-left: 10%;
 	}
 	color: $white;
 	&-headline {
 		font-size: 4em;
+		text-transform: uppercase;
 	}
 	&-subtext {
 		font-size: 4em;
 		font-family: $aktiv-grotesk-light;
+		text-transform: uppercase;
 	}
 
 	.left,

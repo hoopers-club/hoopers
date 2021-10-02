@@ -73,7 +73,7 @@ html {
 	color: black;
 	width: fit-content;
 	font-size: 1.5em;
-	text-transform: lowercase;
+	text-transform: uppercase;
 
 	&:hover {
 		background-color: $hoopers-black;
@@ -82,7 +82,7 @@ html {
 	}
 }
 .buttons-black {
-	text-transform: lowercase;
+	text-transform: uppercase;
 	padding: 0.2em 1.5em;
 
 	width: fit-content;

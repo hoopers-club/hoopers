@@ -6,6 +6,8 @@
 /* -------------------------------------------------------------------------- */
 
 .articles {
+	padding-top: 10vh;
+	min-height: 100vh;
 	.featured {
 		font-size: 2em;
 		text-transform: uppercase;
@@ -32,7 +34,7 @@
 			padding: 1em;
 			height: 1em;
 			font-family: $aktiv-grotesk-regular;
-			font-size: 1.2em;
+			font-size: 1.2em !important;
 			font-stretch: condensed;
 			text-transform: uppercase;
 			margin: auto 0 2em 0em;
@@ -143,7 +145,9 @@
 		padding: 1em 0 !important;
 		font-family: $charter;
 		strong {
-			font-family: $aktiv-grotesk-bold;
+			// font-family: $aktiv-grotesk-bold;
+			color: $dark-orange;
+			font-size: 1.2em;
 		}
 	}
 	img {

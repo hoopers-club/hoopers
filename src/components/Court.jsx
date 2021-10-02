@@ -9,21 +9,27 @@ const Court = ({ first, court }) => {
 	};
 
 	const styles = {
-		minHeight: first ? '85vh' : '30vh',
+		minHeight: first ? '85vh' : '45vh',
 		paddingBottom: first ? '10%' : '',
 	};
 	return (
 		<div
 			id='#court'
 			className='court'
-			style={{ ...styles, background: `url(${court?.image})` }}
+			style={{
+				...styles,
+				background: `url(${court?.image})`,
+				backgroundPosition: `center`,
+				backgroundSize: 'cover',
+				backgroundRepeat: 'no-repeat',
+			}}
 			onClick={handleDetail}>
 			<img
 				className='leftseparator left'
 				src='/assets/courts/courtseparator.svg'
 				alt=''
 			/>
-			<div className='titles' style={{ marginTop: 'auto' }}>
+			<div className='titles'>
 				<div className='court-headline'>{court?.name}</div>
 				<div className='court-subtext'>{court?.subname}</div>
 			</div>
