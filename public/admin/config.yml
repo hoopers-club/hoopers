@@ -81,7 +81,7 @@ collections:
           name: 'courtImage',
           widget: 'image',
           choose_url: true,
-          media_folder: 'public/assets/frontpage',
+          media_folder: '/assets/frontpage',
           required: true,
         }
 
@@ -97,7 +97,7 @@ collections:
           name: 'productImage',
           widget: 'image',
           choose_url: true,
-          media_folder: 'public/assets/frontpage',
+          media_folder: '/assets/frontpage',
           required: true,
         }
       - { label: 'Product Link', name: 'productLink', widget: 'string' }
