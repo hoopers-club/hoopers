@@ -1,6 +1,6 @@
 ---
 court: Teste Braga
-courtImage: public/assets/frontpage/mrf20200522_dsf1286.jpg
+courtImage: /assets/frontpage/mrf20200522_dsf1286.jpg
 productName: Tee
 productPrice: 19
 productDescription: T-Shirt Hoopers
