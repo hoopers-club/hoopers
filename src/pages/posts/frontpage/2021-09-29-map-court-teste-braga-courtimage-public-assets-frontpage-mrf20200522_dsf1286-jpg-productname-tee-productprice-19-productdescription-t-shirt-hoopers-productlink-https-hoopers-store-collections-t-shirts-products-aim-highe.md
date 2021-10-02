@@ -1,6 +1,6 @@
 ---
-court: Teste Braga
 courtImage: /assets/frontpage/mrf20200522_dsf1286.jpg
+courtDescription: Teste Braga Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem velit ducimus omnis repellat similique voluptate inventore nulla pariatur quidem.
 productName: Tee
 productPrice: 19
 productDescription: T-Shirt Hoopers

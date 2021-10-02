@@ -1,5 +1,8 @@
+---
 
+let frontpage = Astro.fetchContent('../pages/posts/frontpage/*.md');
 
+---
 
 	<section class="courts">
 			<div class="title">
@@ -8,15 +11,11 @@
 			</div>
 			<div class="content">
 				<div class="content-left">
-					<img class="down-i" src="/assets/Homepage/courts image.svg" alt="" />
+					<img class="down-i" src={frontpage[0]?.courtImage} alt="" />
 				</div>
 				<div class="content-right">
 					<div class="text fonte-creditos down-i">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
-						placeat nisi doloremque reprehenderit sit vero voluptatem porro
-						quisquam iusto. Aperiam esse fuga labore sint ex! Vitae, dignissimos
-						quibusdam culpa asperiores quaerat fugiat. Illo quam corrupti vel
-						odio nesciunt pariatur odit, repudiandae sapiente at ipsam voluptas!
+					{frontpage[0]?.courtDescription}
 					</div>
 					<div class="buttons condensed down-i">Our Courts</div>
 				</div>

@@ -71,11 +71,10 @@ collections:
         }
   - name: 'frontpage'
     label: 'Front Page'
-    create: true
+
     folder: 'src/pages/posts/frontpage'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Court', name: 'court', widget: 'text' }
       - {
           label: 'court image',
           name: 'courtImage',
@@ -84,6 +83,7 @@ collections:
           media_folder: '/assets/frontpage',
           required: true,
         }
+      - { label: 'Court Description', name: 'courtDescription', widget: 'text' }
 
       - { label: 'Product Name', name: 'productName', widget: 'string' }
       - { label: 'Product Price', name: 'productPrice', widget: 'number' }
