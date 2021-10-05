@@ -34,7 +34,7 @@ const {title, publishDate, author,subname, image} = content;
 					<div class="social-icons">
 						<a id="facebook"  href="" target="_blank"><img src="/assets/articles/facebook.svg" alt="" /></a
 						><a id="twitter" href="" target="_blank"><img src="/assets/articles/twitter.svg" alt="" /></a
-						><a id="instagram" href="" target="_blank"><img src="/assets/articles/instagram.svg" alt="" /></a>
+						><a id="whatsapp" href="" target="_blank"><img src="/assets/articles/whats_icon.svg" alt="" /></a>
 					</div>
 					<label for="social-id" class="social-toggle"
 						><img
@@ -62,9 +62,9 @@ bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")
 	
 	const facebook=document.getElementById('facebook')
 	const twitter=document.getElementById('twitter')
-	// const instagram=document.getElementById('instagram')
+	const whatsapp=document.getElementById('whatsapp')
 	facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
 	twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`)
-	// instagram.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
+	whatsapp.setAttribute('href',`https://api.whatsapp.com/send?text=${title} ${postlink}`)
 	</script>			
 </Bases>
