@@ -3,7 +3,7 @@ import Bases from './Layout.astro'
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image,permalink} = content;
-console.log(content)
+
 ---
 <Bases>
 	
@@ -32,9 +32,9 @@ console.log(content)
 			<div class="socials">
 					<input type="checkbox" name="socials" id="social-id" />
 					<div class="social-icons">
-						<a id="facebook"  href=""><img src="/assets/articles/facebook.svg" alt="" /></a
-						><a id="twitter" href=""><img src="/assets/articles/twitter.svg" alt="" /></a
-						><a id="instagram" href=""><img src="/assets/articles/instagram.svg" alt="" /></a>
+						<a id="facebook"  href="" target="_blank"><img src="/assets/articles/facebook.svg" alt="" /></a
+						><a id="twitter" href="" target="_blank"><img src="/assets/articles/twitter.svg" alt="" /></a
+						><a id="instagram" href="" target="_blank"><img src="/assets/articles/instagram.svg" alt="" /></a>
 					</div>
 					<label for="social-id" class="social-toggle"
 						><img
@@ -59,12 +59,12 @@ console.log(content)
 	var img = document.getElementById('image'),
 style = img.currentStyle || window.getComputedStyle(img, false),
 bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")[1].slice(1))
-	console.log(title,bi)
+	
 	const facebook=document.getElementById('facebook')
 	const twitter=document.getElementById('twitter')
-	const instagram=document.getElementById('instagram')
+	// const instagram=document.getElementById('instagram')
 	facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
 	twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`)
-	instagram.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
+	// instagram.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
 	</script>			
 </Bases>
