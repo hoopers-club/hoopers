@@ -434,3 +434,46 @@ footer {
 	opacity: 0;
 	z-index: -1;
 }
+
+.socials {
+	position: fixed;
+	width: fit-content;
+	right: 4rem;
+	bottom: 8rem;
+	img {
+		height: 4em;
+		width: 4em;
+	}
+	.social-icons {
+		display: none;
+		max-height: 0px;
+		flex-direction: column;
+		transition: max-height 2s forwards ease-in-out;
+	}
+
+	input[type='checkbox'] {
+		display: none;
+		label {
+			.share-close {
+				display: none;
+			}
+		}
+
+		&:checked {
+			+ .social-icons {
+				display: flex;
+				max-height: 100%;
+			}
+			display: none;
+		}
+	}
+	.social-toggle {
+		display: block;
+		cursor: pointer;
+		.share-close {
+			display: none;
+		}
+		&:checked {
+		}
+	}
+}

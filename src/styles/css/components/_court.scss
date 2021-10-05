@@ -4,6 +4,7 @@
 .courts-list {
 	display: flex;
 	flex-direction: column;
+	z-index: -1;
 }
 
 .court {
@@ -13,10 +14,12 @@
 	display: flex;
 	flex-direction: column;
 	background-position-x: center;
+	// z-index: 0;
 
 	.titles {
 		padding: 2em;
 		padding-left: 10%;
+		// z-index: -1;
 	}
 	color: $white;
 	&-headline {
@@ -43,7 +46,7 @@
 	margin-top: auto;
 }
 
-@media screen and (min-width: 370px) {
+@media screen and (max-width: 50em) {
 	.court {
 		.titles {
 			font-size: 0.8em;

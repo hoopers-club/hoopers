@@ -5,7 +5,7 @@ import Hero from '../components/Hero.astro'
 import Products from '../components/Products.astro'
 import Court from '../components/Court-section.astro'
 import Articles from '../components/Articles-section.astro'
-
+import Tests from '../components/Text'
 
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
@@ -22,6 +22,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 <Court/>
 <Articles articles={allPosts} />
 <Products/>
+<Tests client:visible/>
 </Bases>
 
      

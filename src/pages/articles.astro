@@ -1,9 +1,13 @@
 ---
 import Bases from '../Layout/Layout.astro'
 
+
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 // console.log(allPosts)
+
+
+
 ---
 
 <Bases>
@@ -28,7 +32,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 				
 			</div>
 		</div>
-        <section class="articles white">
+        <section class="articles white" style="min-height:0;">
 			<div class="articles-featured">
 				<div class="featured">Featured</div>
 				<img
@@ -47,12 +51,13 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 						background: url('${article?.image}');
 						background-repeat: no-repeat;
 						background-size: cover;
-						background-color: hsla(0, 0%, 0%, 0.014);
+						background-color: hsla(0, 0%, 0%, 50%);
 						background-position:center;
 					`}
 					onclick={`location.href='${article.url}'`}
 				>
 					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+					<div class="article-underline"></div>
 					<div class="by">by {article?.author}</div>
 				</div>
 			))}
@@ -73,7 +78,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 			{allPosts.map(article =>(<div class="article-item" onclick={`location.href='${article.url}'`}>
 					<div class="img"><img src={article?.image} alt=""></div>
 					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
-					<div class="article-writer">{article?.author}</div>
+					<div class="article-writer"> BY {article?.author}</div>
 				</div>))}
 				
 				
@@ -81,4 +86,4 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 			<div class="buttons-black centered">show more</div>
 		</section>
 
-        </Bases>
+</Bases>

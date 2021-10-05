@@ -70,8 +70,18 @@ $line-spacing-28: 2rem;
 	font-stretch: 1% 500%;
 }
 @font-face {
+	font-family: $aktiv-grotesk-italic;
+	src: url('/style/fonts/AktivGrotesk/italic.otf');
+	font-stretch: 1% 500%;
+}
+@font-face {
 	font-family: $aktiv-grotesk-medium;
 	src: url('/style/fonts/AktivGrotesk/medium.otf');
+	font-stretch: 1% 500%;
+}
+@font-face {
+	font-family: $aktiv-grotesk-mediumitalic;
+	src: url('/style/fonts/AktivGrotesk/mediumitalic.otf');
 	font-stretch: 1% 500%;
 }
 @font-face {

@@ -2,13 +2,14 @@
 import Bases from './Layout.astro'
 
 const {content} = Astro.props;
-const {title, publishDate, author,subname, image} = content;
+const {title, publishDate, author,subname, image,permalink} = content;
+console.log(content)
 ---
 <Bases>
 	
 	
 	<div class="container">
-				<div
+				<div id="image"
 					class="top"
 					style={`
 					
@@ -19,7 +20,7 @@ const {title, publishDate, author,subname, image} = content;
 					`}
 				>
 					
-					<div class="headline quotes" style={title.length>16?"font-size:3em;":''} >{title}</div>
+					<div id="title" class="headline quotes" style={title.length>16?"font-size:3em;":''} >{title}</div>
 					<div class="sub-headline">
 						{subname}
 					</div>
@@ -28,9 +29,42 @@ const {title, publishDate, author,subname, image} = content;
 					
 				</div>
 			</div>
-	
+			<div class="socials">
+					<input type="checkbox" name="socials" id="social-id" />
+					<div class="social-icons">
+						<a id="facebook"  href=""><img src="/assets/articles/facebook.svg" alt="" /></a
+						><a id="twitter" href=""><img src="/assets/articles/twitter.svg" alt="" /></a
+						><a id="instagram" href=""><img src="/assets/articles/instagram.svg" alt="" /></a>
+					</div>
+					<label for="social-id" class="social-toggle"
+						><img
+							class="share"
+							src="/assets/articles/Botão Compartilhar.svg"
+							alt=""
+						/>
+					</label>
+					<label for="social-id" class="social-toggle"
+						><img class="share-close" src="/assets/articles/Close.svg" alt="" />
+					</label>
+				</div>
 			<section class="single-articles white">
 				<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
 				{content.astro.html}
 			</section>
+
+
+<script>
+	const postlink=encodeURI(document.location.href)
+	const title=encodeURI(document.getElementById('title').innerHTML)
+	var img = document.getElementById('image'),
+style = img.currentStyle || window.getComputedStyle(img, false),
+bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")[1].slice(1))
+	console.log(title,bi)
+	const facebook=document.getElementById('facebook')
+	const twitter=document.getElementById('twitter')
+	const instagram=document.getElementById('instagram')
+	facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
+	twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`)
+	instagram.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
+	</script>			
 </Bases>
