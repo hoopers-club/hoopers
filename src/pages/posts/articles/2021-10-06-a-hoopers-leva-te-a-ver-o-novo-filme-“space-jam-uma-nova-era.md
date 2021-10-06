@@ -1,5 +1,5 @@
 ---
-title: A Hoopers leva-te a ver o novo filme “Space Jam Uma Nova Era"
+title: A Hoopers leva-te a ver o novo filme "Space Jam Uma Nova Era"
 subname: Nos cinemas a 15 de julho, a Hoopers tem convites duplos da antestreia
   para oferecer!
 featured: false
