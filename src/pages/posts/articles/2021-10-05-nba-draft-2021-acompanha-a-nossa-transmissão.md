@@ -3,7 +3,7 @@ title: NBA DRAFT 2021 - Acompanha a nossa transmissão
 subname: Esta edição do Draft da NBA merece a atenção de todos os portugueses.
   Portugal volta a ter um jogador candidato a entrar na maior e mais espetacular
   liga de basquetebol do mundo!
-featured: true
+featured: false
 publishDate: Jul 19th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626726780592-W4GWMANDGU6QZVZ6WW43/Draft+2021+-+Emiss%C3%A3o?format=2500w
 author: Hoopers
