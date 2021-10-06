@@ -4,6 +4,7 @@ title: '"Histórias do Desporto: Noite de Incidentes na NBA” chegou para conta
 subname: "Faltavam 46 segundos para o fim da partida entre os Indiana Pacers e
   os Detroit Pistons quando Ben Wallace sofreu aquela que seria uma das faltas
   mais recordadas na história da NBA. "
+featured: true
 publishDate: Aug 10th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1628607687732-WLDPFM0D73AT4YIURK93/malice1.jpeg?format=750w
 author: Hoopers
@@ -19,17 +20,9 @@ Realizado por Floyd Russ, o documentário conta com inúmeras imagens inéditas 
 
 <iframe width="1522" height="855" src="https://www.youtube.com/embed/EP7xRieiZm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 **Jermaine O’Neal**, é um dos atletas que participou nesta luta e foi punido legalmente pelo ocorrido, disse numa entrevista ao portal “The Ringer” que espera que os espectadores entendam o que realmente aconteceu naquela noite. “Sentei-me com os vários produtores e diretores. Eu queria ser capaz de contar uma história não só para os fãs da NBA, mas sim para todas as pessoas comuns que viram o que aconteceu, mas não acompanham o desporto”.
 
-
-
-![nba](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1628605968055-3C7W4QWD00GF18ARAZKF/Oneal.png?format=2500w "nba")
-
-Jermaine O’Neal, poste dos Indiana Pacers entre 2000 e 2008.
+![Jermaine O’Neal, poste dos Indiana Pacers entre 2000 e 2008.](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1628605968055-3C7W4QWD00GF18ARAZKF/Oneal.png?format=2500w "nba")
 
 Este episódio faz parte da série **“Untold”**, que vai desvendar histórias jamais contadas e que marcaram o mundo do desporto.
 
