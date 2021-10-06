@@ -5,7 +5,7 @@ subname: Nova camisola foi criada na sequência do projeto realizado no Barreiro
 featured: false
 publishDate: Jul 14th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626280014845-CPDIE3X6TDRYW2IITC5E/Samina+-+Jersey+11.jpg?format=2500w
-author: By Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 No âmbito da intervenção desportiva e artística realizada no [polidesportivo Francisco do Paço (Zona 4)](https://www.hoopers.club/noticias/municpio-do-barreiro-celebra-500-anos-com-homenagem-aos-herois-desportivos) no Barreiro, que homenageou 37 figuras desportivas da cidade, a **Hoopers** e **Samina** lançaram uma camisola reversível dedicada à Zona 4.
