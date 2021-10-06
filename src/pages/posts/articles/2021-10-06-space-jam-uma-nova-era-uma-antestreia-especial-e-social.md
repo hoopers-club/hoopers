@@ -10,7 +10,7 @@ layout: ../../../Layout/single-article.astro
 ---
 É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme **“Space Jam Uma Nova Era”**, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na **Hoopers**, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da **Warner Bros Portugal** e da **Cinemundo**, ao lado de convidados muito especiais. 
 
-![](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626186777431-N5WWQRKZJV6SQ6D4MABQ/antestreia.jpeg?format=2500w "Créditos: AMRT Transcultural / Ubuntu Basket")
+![Créditos: AMRT Transcultural / Ubuntu Basket](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626186777431-N5WWQRKZJV6SQ6D4MABQ/antestreia.jpeg?format=2500w "Créditos: AMRT Transcultural / Ubuntu Basket")
 
 Alguns deles foram pessoas que fazem parte da nossa comunidade ou os vencedores do passatempo que levámos a cabo e proporcionou esta possibilidade nos cinemas NOS Lusomundo do Colombo (Lisboa) e no NorteShopping (Porto), enquanto outros foram jovens pertencentes a associações e instituições de solidariedade social. Esta ação ação, além de possibilitar que estes jovens assistissem ao filme, também promoveu o primeiro contacto de muitos deles com o universo do Basquetebol.
 
