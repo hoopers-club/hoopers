@@ -10,13 +10,11 @@ image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/16
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-<!--StartFragment-->
+
 
 É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme **“Space Jam Uma Nova Era”**, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na **Hoopers**, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da **Warner Bros Portugal** e da **Cinemundo**, ao lado de convidados muito especiais. 
 
-<!--EndFragment-->
-
-![](É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme “Space Jam Uma Nova Era”, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na Hoopers, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da Warner Bros Portugal e da Cinemundo, ao lado de convidados muito especiais. "Créditos: AMRT Transcultural / Ubuntu Basket")
+![Créditos: AMRT Transcultural / Ubuntu Basket](É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme “Space Jam Uma Nova Era”, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na Hoopers, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da Warner Bros Portugal e da Cinemundo, ao lado de convidados muito especiais.)
 
 <!--StartFragment-->
 
