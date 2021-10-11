@@ -6,7 +6,7 @@ subname: "Faltavam 46 segundos para o fim da partida entre os Indiana Pacers e
   mais recordadas na história da NBA. "
 featured: true
 publishDate: Aug 10th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1628607687732-WLDPFM0D73AT4YIURK93/malice1.jpeg?format=750w
+image: /assets/articles/banner_malice.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
