@@ -58,7 +58,7 @@ collections:
           name: 'image',
           widget: 'image',
           choose_url: true,
-          media_folder: 'public/assets/articles',
+          media_folder: '/assets/articles',
           required: true,
         }
       - { label: 'Author', name: 'author', widget: 'string', required: true }
