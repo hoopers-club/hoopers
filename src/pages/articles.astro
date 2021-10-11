@@ -1,6 +1,6 @@
 ---
 import Bases from '../Layout/Layout.astro'
-
+import Nba from '../components/Nba.jsx'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
@@ -75,7 +75,8 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 				/>
 			</div>
 			<div class="articles-list-all">
-			{allPosts.map(article =>(<div class="article-item" onclick={`location.href='${article.url}'`}>
+			{allPosts.map(article =>(
+				<div class="article-item" onclick={`location.href='${article.url}'`}>
 					<div class="img"><img src={article?.image} alt=""></div>
 					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 					<div class="article-writer"> BY {article?.author}</div>
@@ -83,6 +84,19 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 				
 				
 			</div>
+			<div class="buttons-black centered">show more</div>
+		</section>
+		<section class="articles white">
+			<div class="articles-featured">
+				<div class="featured">NBA Portugal</div>
+				<img
+					class="featured-line"
+					src="/assets/Homepage/section line.svg"
+					alt="line"
+				/>
+			</div>
+		
+			<Nba client:visible/>
 			<div class="buttons-black centered">show more</div>
 		</section>
 
