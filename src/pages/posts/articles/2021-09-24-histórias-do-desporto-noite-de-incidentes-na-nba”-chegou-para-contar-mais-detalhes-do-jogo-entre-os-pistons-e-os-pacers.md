@@ -1,9 +1,9 @@
 ---
 title: '"Histórias do Desporto: Noite de Incidentes na NBA” chegou para contar
   mais detalhes do jogo entre os Pistons e os Pacers'
-subname: "Faltavam 46 segundos para o fim da partida entre os Indiana Pacers e
-  os Detroit Pistons quando Ben Wallace sofreu aquela que seria uma das faltas
-  mais recordadas na história da NBA. "
+subname: Faltavam 46 segundos para o fim da partida entre os Indiana Pacers e os
+  Detroit Pistons quando Ben Wallace sofreu aquela que seria uma das faltas mais
+  recordadas na história da NBA.
 featured: true
 publishDate: Aug 10th 21
 image: /assets/articles/banner_malice.png
