@@ -15,7 +15,7 @@ A história de **Neemias Queta** continua em Sacramento Kings depois de na últi
 
 <!--StartFragment-->
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">𝙆𝙞𝙣𝙜𝙨 𝙎𝙞𝙜𝙣 𝙉𝙚𝙚𝙢𝙞𝙖𝙨 𝙌𝙪𝙚𝙩𝙖 𝙩𝙤 𝙏𝙬𝙤-𝙒𝙖𝙮 𝘾𝙤𝙣𝙩𝙧𝙖𝙘𝙩<br><br>📝 » <a href="https://t.co/JrjSvws08u">https://t.co/JrjSvws08u</a> <a href="https://t.co/GL4JSWwj2z">pic.twitter.com/GL4JSWwj2z</a></p>&mdash; Sacramento Kings (@SacramentoKings) <a href="https://twitter.com/SacramentoKings/status/1424591395877232640?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">𝙆𝙞𝙣𝙜𝙨 𝙎𝙞𝙜𝙣 𝙉𝙚𝙚𝙢𝙞𝙖𝙨 𝙌𝙪𝙚𝙩𝙖 𝙩𝙤 𝙏𝙬𝙤-𝙒𝙖𝙮 𝘾𝙤𝙣𝙩𝙧𝙖𝙘𝙩<br><br>📝 » <a href="https://t.co/JrjSvws08u">https://t.co/JrjSvws08u</a> <a href="https://t.co/GL4JSWwj2z">pic.twitter.com/GL4JSWwj2z</a></p>&mdash; Sacramento Kings (@SacramentoKings) <a href="https://twitter.com/SacramentoKings/status/1424591395877232640?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
@@ -28,7 +28,5 @@ Este contrato acaba por ser algo normal para os jogadores escolhidos na 2ª meta
 A média salarial deste contrato é de 462,659 dólares (cerca de 393.602 euros), ou seja, sensivelmente metade do contrato mínimo a tempo inteiro para um jogador de primeiro ano da NBA, não estando dependente do número de partidas realizadas entre a G-League e a NBA. Cada equipa da NBA pode assinar apenas dois destes contratos, tendo o jovem português já salvaguardado uma das vagas disponíveis.
 
 Na estreia pelos Kings, no California Classic, frente aos Los Angeles Lakers (derrota por 74-84), Neemias Queta contribuiu com 6 pontos e 4 ressaltos, em 11 minutos. Esta noite, às 23h, os Sacramento Kings entram em campo para disputar a 1ª partida da NBA Summer League contra os Charlotte Hornets.
-
-
 
 <!--EndFragment-->
