@@ -8,8 +8,8 @@ partner:
   - Robbialac
   - JOPINTO
   - SPORT DESIGN
-  - Junta de Freguesia de Benfica
   - Galeria de Arte Urbana
+  - Junta de Freguesia de Benfica
 whaWeDid: A new basketball court.
 duration: 15 Days
 ---
