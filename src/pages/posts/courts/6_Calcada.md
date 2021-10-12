@@ -9,7 +9,6 @@ partner:
   - JOPINTO tintas
   - Sport Design
   - Machrent
-  - Malagueta conteúdos
   - Galeria de Arte Urbana
   - Junta de Freguesia do Lumiar
 whaWeDid: An iconic new court and the largest urban art mural in the city.
