@@ -6,7 +6,7 @@ location: " São Domingos de Benfica "
 artist: Pitanga
 partner:
   - Robbialac
-  - JOPINTO Tintas
+  - JOPINTO
   - SPORT DESIGN
   - Junta de Freguesia de Benfica
   - Galeria de Arte Urbana
