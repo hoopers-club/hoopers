@@ -2,13 +2,15 @@
 image: /assets/uploads/thumbnails.png
 name: Braga
 subname: Portugal
-location: " this is the location"
-artist: this is the artist
+location: Enguardas, Braga
+artist: Contra
 partner:
-  - this is the partner
-  - this is the partner2
-  - this is the partner3
-whaWeDid: this is what we did
+  - Robbialac
+  - Repertintas
+  - Sports Partner
+  - IPDJ
+  - Município de Braga
+whaWeDid: Europe biggest iconic basketball court.
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/9_Braga/Galeria%20(Esquerda)/1.jpg
