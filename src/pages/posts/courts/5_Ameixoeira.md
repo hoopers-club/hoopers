@@ -8,7 +8,6 @@ partner:
   - Robbialac
   - Jopinto
   - Sport Design
-  - Miguel Ribeiro Fernandes
   - galeria de arte urbana
   - junta de freguesia de santa clara
 whaWeDid: The first exclusive iconic mini basketball court in Portugal.
