@@ -2,8 +2,8 @@
 image: /assets/uploads/thumb_vila.png
 name: Vila Gualdina
 subname: Portugal
-location: " this is the location"
-artist: this is the artist
+location: Vila Gualdina, Penafiel
+artist: Matilde Horta
 partner:
   - this is the partner
   - this is the partner2
