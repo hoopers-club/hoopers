@@ -6,7 +6,7 @@ location: Calçada de Carriche, Lisbon
 artist: " Hélio Bray"
 partner:
   - Robbialac
-  - JOPINTO tintas
+  - JOPINTO
   - Sport Design
   - Machrent
   - Galeria de Arte Urbana
