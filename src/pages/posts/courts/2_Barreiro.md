@@ -9,7 +9,6 @@ partner:
   - JoPinto Tintas
   - sport design
   - machrent
-  - malagueta conteúdos
   - Câmara Municipal do Barreiro
 whaWeDid: A new basketball court and an artistic intervention to honor local
   sports heroes.
