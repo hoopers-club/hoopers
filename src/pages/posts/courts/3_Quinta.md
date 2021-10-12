@@ -8,8 +8,6 @@ partner:
   - Robbialac
   - Jopinto Tintas
   - Sport Design
-  - Malagueta Conteúdos
-  - Pedro Ferreira
   - Câmara de Penafiel
 whaWeDid: Two new basketball courts, making Penafiel the first city to receive
   two simultaneous artistic interventions.
