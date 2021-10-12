@@ -6,7 +6,7 @@ location: Quinta das Lages, Penafiel
 artist: Flix
 partner:
   - Robbialac
-  - Jopinto Tintas
+  - Jopinto
   - Sport Design
   - Câmara de Penafiel
 whaWeDid: Two new basketball courts, making Penafiel the first city to receive
