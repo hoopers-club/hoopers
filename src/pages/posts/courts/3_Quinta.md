@@ -25,9 +25,11 @@ A Câmara de Penafiel e a [Hoopers](https://hoopers.club/), plataforma de comuni
 
 O campo da Quinta das Lages, da autoria de Flix, é mais um campo de 3x3 desenvolvido pela Hoopers, e encontra-se localizado junto às infraestruturas desportivas da cidade e ao parque escolar, o que deverá impulsionar a sua utilização por parte de toda a comunidade. 
 
-![Créditos: Hoopers / Malagueta](/assets/uploads/2_quinta_makingof.jpg "Créditos: Hoopers / Malagueta")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F6ZIY-YexSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Para Antonino de Sousa, Presidente da Câmara Municipal de Penafiel, “este projeto é o resultado feliz da combinação entre desporto, juventude e cultura. Esta intervenção possibilitou a recuperação de dois campos de basquetebol da cidade, possibilitando e incentivando a sua utilização por todos: as famílias, os amantes da modalidade e os atletas do Clube de Basquetebol de Penafiel. Adicionalmente, permitiu-nos também dar palco a uma artista da cidade, a Matilde Horta, para expor a sua obra e demonstrar que também sabemos acolher os talentos internacionais como é o caso do artista Flix”.
+
+![Créditos: Hoopers / Malagueta](/assets/uploads/2_quinta_makingof.jpg "Créditos: Hoopers / Malagueta")
 
 “Este projeto foi um enorme desafio, pois estivemos a realizar uma intervenção praticamente em simultâneo nos dois espaços. Estamos muito satisfeitos com o resultado final e acreditamos que ambos os espaços serão muito utilizados pela comunidade local para jogar basquetebol formal e informalmente”, explica André Costa, co-fundador da Hoopers.
 
