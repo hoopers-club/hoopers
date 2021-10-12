@@ -6,7 +6,7 @@ location: Chelas, Lisboa
 artist: "Halfstudio "
 partner:
   - Robbialac
-  - JOPINTO tintas
+  - JOPINTO
   - Sports Design
   - Galeria de Arte Urbana
   - Junta de Freguesia de Marvila
