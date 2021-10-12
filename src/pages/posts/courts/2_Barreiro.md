@@ -6,7 +6,7 @@ location: Zona 4, Barreiro
 artist: Samina
 partner:
   - Robbialac
-  - JoPinto Tintas
+  - JoPinto
   - sport design
   - machrent
   - Câmara Municipal do Barreiro
