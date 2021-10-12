@@ -2,14 +2,15 @@
 image: /assets/uploads/thumb_conde.png
 name: Conde de Bonfim
 subname: Portugal
-location: " Benfica"
+location: " São Domingos de Benfica "
 artist: Pitanga
 partner:
   - Robbialac
-  - JoPinto Tintas
+  - JOPINTO Tintas
+  - SPORT DESIGN
   - Junta de Freguesia de Benfica
-  - Quartapessoa
-whaWeDid: A new basketball court
+  - Galeria de Arte Urbana
+whaWeDid: "A new basketball court "
 duration: 15 Days
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cumque quis modi eveniet obcaecati temporibus, blanditiis ipsa a velit expedita reprehenderit voluptate 
