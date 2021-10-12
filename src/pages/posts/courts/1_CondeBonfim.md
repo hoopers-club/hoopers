@@ -8,7 +8,6 @@ partner:
   - Robbialac
   - JOPINTO Tintas
   - SPORT DESIGN
-  - Malagueta Conteúdos
   - Junta de Freguesia de Benfica
   - Galeria de Arte Urbana
 whaWeDid: A new basketball court.
