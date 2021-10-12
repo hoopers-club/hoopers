@@ -12,7 +12,7 @@ partner:
   - malagueta conteúdos
   - Câmara Municipal do Barreiro
 whaWeDid: A new basketball court and an artistic intervention to honor local
-  sports heroes
+  sports heroes.
 duration: 15 Days
 ---
 O Polidesportivo Francisco do Paço, figura local e que dá nome a este espaço localizado na Zona 4 do Barreiro, recebe uma homenagem a 37 figuras históricas do desporto da cidade do Barreiro, com intervenção artística a cargo de **[SAMINA](https://www.instagram.com/j_samina/)** no campo de jogos, na empena e na zona de balneários. Entre os homenageados constam nomes como **Fernando Chalana**, **João Cancelo**, **Carlos Manuel**, **Manuel Bento**, **Mike Plowden**, **Miguel Minhava** ou **Diogo Carreira**, entre outros.
