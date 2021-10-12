@@ -5,9 +5,12 @@ subname: Portugal
 location: Vila Gualdina, Penafiel
 artist: Matilde Horta
 partner:
-  - this is the partner
-  - this is the partner2
-  - this is the partner3
+  - Robbialac
+  - Jopinto Tintas
+  - Sport Design
+  - Malagueta Conteúdos
+  - Pedro Ferreira
+  - Câmara de Penafiel
 whaWeDid: this is what we did
 duration: 15 days
 leftimage:
