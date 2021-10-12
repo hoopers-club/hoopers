@@ -8,7 +8,6 @@ partner:
   - Robbialac
   - JOPINTO tintas
   - Sports Design
-  - Malagueta Conteúdos
   - Galeria de Arte Urbana
   - Junta de Freguesia de Marvila
 whaWeDid: Revitalization project of the mythical basketball court in the
