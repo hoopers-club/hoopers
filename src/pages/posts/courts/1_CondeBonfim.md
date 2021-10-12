@@ -21,6 +21,8 @@ tempore esse officiis adipisci odio? Optio vero cum nihil ipsa quis mollitia acc
 <img src="https://unsplash.it/600" alt="">
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cumque quis modi eveniet obcaecati temporibus, blanditiis ipsa a velit expedita reprehenderit voluptate tempore esse officiis adipisci odio? Optio vero cum nihil ipsa quis mollitia accusantium, dolorum autem repudiandae quam atque inventore laudantium excepturi illo aliquam.
 
+![](/assets/uploads/2.jpg)
+
 <img src="https://unsplash.it/600" alt="">
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cumque quis modi eveniet obcaecati temporibus, blanditiis ipsa a velit expedita reprehenderit voluptate tempore esse officiis adipisci odio? Optio vero cum nihil ipsa quis mollitia accusantium, dolorum autem repudiandae quam atque inventore laudantium excepturi illo aliquam.
 
