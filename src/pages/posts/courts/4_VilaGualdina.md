@@ -6,7 +6,7 @@ location: Vila Gualdina, Penafiel
 artist: Matilde Horta
 partner:
   - Robbialac
-  - Jopinto Tintas
+  - Jopinto
   - Sport Design
   - Câmara de Penafiel
 whaWeDid: Two new basketball courts, making Penafiel the first city to receive
