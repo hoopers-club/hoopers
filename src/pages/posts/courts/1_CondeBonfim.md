@@ -17,6 +17,8 @@ duration: 15 Days
 
 [Hoopers](https://www.hoopers.club/)
 
+<a href='google.com'>google.com</a>
+
 ![](/assets/uploads/1_benfica_makingof.jpg)
 
 Este campo histórico para a comunidade de basquetebol de Lisboa, localizado junto ao Palácio Béau-Séjour e no coração da freguesia de São Domingos de Benfica, foi alvo de uma intervenção artística e desportiva, onde se procurou captar a essência, a elegância e a vida deste lugar cosmopolita onde moradores, transeuntes e turistas por ali passam e fazem a sua vida.
