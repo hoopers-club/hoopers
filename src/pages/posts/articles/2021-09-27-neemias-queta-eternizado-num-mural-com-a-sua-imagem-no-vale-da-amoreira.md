@@ -4,7 +4,7 @@ subname: Este é um projeto desenvolvido pela Hoopers e pela CM Moita, da autori
   de Pedro Pinhal.
 featured: true
 publishDate: Jul 28th 21
-image: /assets/articles/sjm_still-1-.jpeg
+image: public/assets/articles/sjm_still-1.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
