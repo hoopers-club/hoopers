@@ -79,7 +79,6 @@ collections:
           name: 'courtImage',
           widget: 'image',
           choose_url: true,
-          media_folder: '/assets/frontpage',
           required: true,
         }
       - { label: 'Court Description', name: 'courtDescription', widget: 'text' }
@@ -96,7 +95,6 @@ collections:
           name: 'productImage',
           widget: 'image',
           choose_url: true,
-          media_folder: '/assets/frontpage',
           required: true,
         }
       - { label: 'Product Link', name: 'productLink', widget: 'string' }

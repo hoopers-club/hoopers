@@ -43,7 +43,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 			</div>
 
 			<div class="articles-list">
-			{allPosts.filter(article=>article.featured==true).slice(0,2).map(article => (
+			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
 				<div
 					class="articles-item"
@@ -75,18 +75,24 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 				/>
 			</div>
 			<div class="articles-list-all">
-			{allPosts.map(article =>(
+			{allPosts.slice(0,6).map(article =>(
 				<div class="article-item" onclick={`location.href='${article.url}'`}>
 					<div class="img"><img src={article?.image} alt=""></div>
 					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 					<div class="article-writer"> BY {article?.author}</div>
 				</div>))}
 				
+				{allPosts.slice(6,allPosts.length).map(article =>(
+				<div class="article-item hidden" onclick={`location.href='${article.url}'`}>
+					<div class="img"><img src={article?.image} alt=""></div>
+					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+					<div class="article-writer"> BY {article?.author}</div>
+				</div>))}
 				
 			</div>
-			<div class="buttons-black centered">show more</div>
+			<div class="buttons-black centered" onclick="showMe()">show more</div>
 		</section>
-		<section class="articles white">
+		<!-- <section class="articles white">
 			<div class="articles-featured">
 				<div class="featured">NBA Portugal</div>
 				<img
@@ -97,7 +103,33 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishD
 			</div>
 		
 			<Nba client:visible/>
-			<div class="buttons-black centered">show more</div>
-		</section>
+			<div class="buttons-black centered" >show more</div>
+		</section> -->
+<script>
+function showMe() {
+const hiddenArticles=document.querySelectorAll('.hidden');
+ console.log(hiddenArticles[0]) ;
 
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hidden')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+
+</script>
 </Bases>
