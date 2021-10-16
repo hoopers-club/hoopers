@@ -74,11 +74,13 @@ html {
 	width: fit-content;
 	font-size: 1.5em;
 	text-transform: uppercase;
+	z-index: 0;
 
 	&:hover {
 		background-color: $hoopers-black;
 		color: $hoopers-yellow;
 		transition: all 1s;
+		cursor: pointer;
 	}
 }
 .buttons-black {
@@ -90,6 +92,7 @@ html {
 	color: $dark-orange;
 	font-size: 1.5em;
 	&:hover {
+		cursor: pointer;
 		background-color: $dark-orange;
 		color: black;
 	}
@@ -298,6 +301,7 @@ footer {
 	to {
 		transform: translateX(0%);
 		opacity: 1;
+		z-index: 0;
 	}
 }
 
@@ -309,6 +313,7 @@ footer {
 	to {
 		transform: translateX(0%);
 		opacity: 1;
+		z-index: 0;
 	}
 }
 
@@ -320,6 +325,7 @@ footer {
 	to {
 		transform: translateY(0%);
 		opacity: 1;
+		z-index: 0;
 	}
 }
 @keyframes up {
@@ -330,6 +336,7 @@ footer {
 	to {
 		transform: translateY(-50%);
 		opacity: 1;
+		z-index: 0;
 	}
 }
 
@@ -363,6 +370,7 @@ footer {
 	100% {
 		transform: translateX(0);
 		animation-timing-function: ease-out;
+		z-index: 0;
 	}
 }
 
@@ -396,6 +404,7 @@ footer {
 	100% {
 		transform: translateX(0);
 		animation-timing-function: ease;
+		z-index: 0;
 	}
 }
 
@@ -409,6 +418,7 @@ footer {
 		transform: translateX(0) rotateZ(0) scale(1);
 		// transform-origin: -600px 50%;
 		opacity: 1;
+		z-index: 0;
 	}
 }
 
@@ -422,6 +432,7 @@ footer {
 		transform: translateX(0) rotateZ(0) scale(1);
 		// transform-origin: -600px 50%;
 		opacity: 1;
+		z-index: 0;
 	}
 }
 
