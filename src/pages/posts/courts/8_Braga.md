@@ -11,6 +11,10 @@ partner:
   - IPDJ
   - Município de Braga
 whaWeDid: Europe biggest iconic basketball court.
+galleryImages:
+  - /assets/uploads/9_braga1.jpg
+  - /assets/uploads/9_braga2.jpg
+  - /assets/uploads/9_braga3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/9_Braga/Galeria%20(Esquerda)/1.jpg
