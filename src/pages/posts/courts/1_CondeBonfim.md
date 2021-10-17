@@ -11,6 +11,10 @@ partner:
   - Galeria de Arte Urbana
   - Junta de Freguesia de Benfica
 whaWeDid: A new basketball court.
+galleryImages:
+  - /assets/uploads/1_conde-de-bonfim1.jpg
+  - /assets/uploads/1_conde-de-bonfim2.jpg
+  - /assets/uploads/1_conde-de-bonfim3.jpg
 duration: 15 Days
 ---
 “Aqui não se joga futebol” é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
