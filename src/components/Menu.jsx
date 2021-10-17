@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
 import Sitemap from './Sitemap.jsx';
-const Menu = () => {
+const Menu = ({ open, setOpen }) => {
 	const [openSite, setOpenSite] = useState(false);
 	const openSitemap = () => {
 		// console.log('worked');
 		setOpenSite(!openSite);
+		setOpen(!open);
+		console.log(open);
+		console.log(openSite);
 	};
 
 	return (

@@ -14,7 +14,7 @@ const Court = ({ first, court }) => {
 	};
 	return (
 		<div
-			id='#court'
+			// id='#court'
 			className='court'
 			style={{
 				...styles,

@@ -3,7 +3,7 @@ import Bases from '../Layout/Layout.astro'
 import Nba from '../components/Nba.jsx'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
 

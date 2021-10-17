@@ -11,7 +11,7 @@ import Articles from '../components/Articles-section.astro'
 
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')));
 
 
 ---

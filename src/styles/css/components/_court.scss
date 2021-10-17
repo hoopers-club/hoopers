@@ -2,7 +2,7 @@
 @use '../abstracts/fonts' as *;
 
 .courts-list {
-	display: flex;
+	// display: flex;
 	flex-direction: column;
 	z-index: -1;
 }
@@ -39,7 +39,11 @@
 	}
 	.right {
 		margin-left: auto;
-		margin-bottom: 2em;
+		margin-bottom: 1.5em;
+		gap: 2em;
+		.title {
+			padding-top: 0;
+		}
 	}
 }
 .leftseparator {

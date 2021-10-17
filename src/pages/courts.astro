@@ -1,5 +1,5 @@
 ---
-import Bases from '../Layout/Layout.astro'
+import Bases from '../Layout/LayoutMenu.astro'
 
 import Courtlist from '../components/Courtlist.jsx'
 
@@ -15,7 +15,7 @@ let allCourts = Astro.fetchContent('./posts/courts/*.md');
 
 
 <Bases>
-<Courtlist allCourts={allCourts} client:visible/>
+<Courtlist allCourts={allCourts} client:load/>
 
 
 
