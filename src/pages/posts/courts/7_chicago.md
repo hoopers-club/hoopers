@@ -12,6 +12,10 @@ partner:
   - Junta de Freguesia de Marvila
 whaWeDid: Revitalization project of the mythical basketball court in the
   neighborhood of Loios, in Chelas, better known as "Chicago".
+galleryImages:
+  - /assets/uploads/7_chicago1.jpg
+  - /assets/uploads/7_chicago2.jpg
+  - /assets/uploads/7_chicago-3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/9_Braga/Galeria%20(Esquerda)/1.jpg
