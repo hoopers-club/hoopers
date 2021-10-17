@@ -24,7 +24,7 @@ articles=articles.filter(article=>article.featured==true)
 					class="articles-item "
 					data-delay={`${index==1?'0.5s':'0s'}`}
 					style={`
-						background: url('${article?.image}');
+						background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('${article?.image}');
 						background-repeat: no-repeat;
 						background-size: cover;
 						background-color: hsla(0, 0%, 0%, 0.014);

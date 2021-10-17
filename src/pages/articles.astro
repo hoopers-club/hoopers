@@ -1,19 +1,43 @@
 ---
 import Bases from '../Layout/Layout.astro'
-import Nba from '../components/Nba.jsx'
+// import Nba from '../components/Nba.jsx'
+import Heros from '../components/Hero.jsx'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
+	// const courtImage = allPosts[0]
 
+	// const skip = (direction) => {
+	// 	let currentIndex = allPosts.findIndex(
+	// 		(court) => court === courtImage
+	// 	);
+	// 	console.log(currentIndex);
+		// if (direction === 'forward') {
+		// 	setcourtImage(
+		// 		court.galleryImages[(currentIndex + 1) % court.galleryImages.length]
+		// 	);
+		// 	console.log(courtImage);
+		// }
+		// if (direction === 'back') {
+		// 	if ((currentIndex - 1) % court.galleryImages.length === -1) {
+		// 		setcourtImage(court.galleryImages[court.galleryImages.length - 1]);
+
+		// 		return;
+		// 	}
+		// 	setcourtImage(
+		// 		court.galleryImages[(currentIndex - 1) % court.galleryImages.length]
+		// 	);
+		// }
+	// };
 
 ---
 
 <Bases>
 		
-        
-        <div class="container">
+        <Heros articles={allPosts} client:load/>
+        <!-- <div class="container">
 			<div
 				class="top"
 				style="
@@ -21,9 +45,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
 						url('/assets/Homepage/hero main.svg');
 							background-attachment: fixed;
+							background-position:center;
 				"
 			>
-				
+				<img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/>
 				<div class="headline quotes">CARA OU COROA</div>
 				<div class="sub-headline">
 					THE NEW ICONIC LISBON COURT BY EDIS AND PARIZ
@@ -31,7 +56,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 
 				
 			</div>
-		</div>
+		</div> -->
+		
         <section class="articles white" style="min-height:0;">
 			<div class="articles-featured">
 				<div class="featured">Featured</div>
@@ -45,21 +71,25 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			<div class="articles-list">
 			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
-				<div
-					class="articles-item"
-					style={`
-						background: url('${article?.image}');
-						background-repeat: no-repeat;
-						background-size: cover;
-						background-color: hsla(0, 0%, 0%, 50%);
-						background-position:center;
-					`}
-					onclick={`location.href='${article.url}'`}
-				>
-					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
-					<div class="article-underline"></div>
-					<div class="by">by {article?.author}</div>
-				</div>
+				<a class="articles-item" href={article.url} target="_blank">
+					<div
+						class="articles-item"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href='${article.url}'`}
+					>
+						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						<div class="article-underline"></div>
+						<div class="by">by {article?.author}</div>
+					</div>
+				</a>
 			))}
 				
 				
@@ -76,18 +106,22 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			</div>
 			<div class="articles-list-all">
 			{allPosts.slice(0,6).map(article =>(
-				<div class="article-item" onclick={`location.href='${article.url}'`}>
-					<div class="img"><img src={article?.image} alt=""></div>
-					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
-					<div class="article-writer"> BY {article?.author}</div>
-				</div>))}
+				<a class="article-item" href={article.url} target="_blank">
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
 				
 				{allPosts.slice(6,allPosts.length).map(article =>(
-				<div class="article-item hidden" onclick={`location.href='${article.url}'`}>
-					<div class="img"><img src={article?.image} alt=""></div>
-					<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
-					<div class="article-writer"> BY {article?.author}</div>
-				</div>))}
+				<a class="article-item hidden" href={article.url} target="_blank">
+					<div class="article-item hidden">
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
 				
 			</div>
 			<div class="buttons-black centered" onclick="showMe()">show more</div>

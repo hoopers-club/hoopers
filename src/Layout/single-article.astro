@@ -19,7 +19,7 @@ const {title, publishDate, author,subname, image} = content;
 								background-attachment: fixed;
 					`}
 				>
-					
+					<img src="/assets/courts/left.svg" alt="" class="changeleft"><img src="/assets/courts/right.svg" alt="" class="changeright">
 					<div id="title" class="headline quotes" style={title.length>16?"font-size:3em;":''} >{title}</div>
 					<div class="sub-headline">
 						{subname}
@@ -66,5 +66,7 @@ bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")
 	facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
 	twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`)
 	whatsapp.setAttribute('href',`https://api.whatsapp.com/send?text=${title} ${postlink}`)
+
+
 	</script>			
 </Bases>

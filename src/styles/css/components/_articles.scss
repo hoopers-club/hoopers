@@ -39,6 +39,7 @@
 			font-size: 1.5em !important;
 			font-stretch: condensed;
 			text-transform: uppercase;
+			text-align: center;
 			// margin: auto 0 2em 0em;
 		}
 		.by {
@@ -88,7 +89,7 @@
 				max-width: 100%;
 
 				overflow: hidden;
-				height: 13em;
+				height: 10em;
 
 				img {
 					display: block;
@@ -140,6 +141,8 @@
 	font-size: 1.5em;
 	padding-left: 10%;
 	padding-right: 10%;
+	text-align: center;
+	font-family: $aktiv-grotesk-mediumitalic;
 }
 
 .white {
@@ -147,7 +150,7 @@
 }
 
 .single-articles {
-	padding: 0 15% 5em 15%;
+	padding: 2em 15% 5em 15%;
 
 	iframe {
 		width: 100%;
@@ -177,6 +180,7 @@
 	}
 	.sub-headline {
 		font-size: 1em !important;
+		text-align: center;
 	}
 }
 
