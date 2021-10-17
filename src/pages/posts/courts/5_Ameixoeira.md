@@ -11,6 +11,10 @@ partner:
   - galeria de arte urbana
   - junta de freguesia de santa clara
 whaWeDid: The first exclusive iconic mini basketball court in Portugal.
+galleryImages:
+  - /assets/uploads/5_ameixoeira-1.jpg
+  - /assets/uploads/5_ameixoeira-2.jpg
+  - /assets/uploads/5_ameixoeira-3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/1.jpg
