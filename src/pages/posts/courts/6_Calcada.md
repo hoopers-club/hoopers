@@ -12,6 +12,10 @@ partner:
   - Galeria de Arte Urbana
   - Junta de Freguesia do Lumiar
 whaWeDid: An iconic new court and the largest urban art mural in the city.
+galleryImages:
+  - /assets/uploads/6_calcada1.jpg
+  - /assets/uploads/6_calcada2.jpg
+  - /assets/uploads/6_calcada3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/1.jpg
