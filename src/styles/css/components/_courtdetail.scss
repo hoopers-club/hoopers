@@ -47,6 +47,7 @@
 	}
 
 	.left {
+		position: relative;
 		img {
 			width: 100%;
 
@@ -57,8 +58,8 @@
 			height: 4em;
 			position: absolute;
 			bottom: 4em;
-			left: 50%;
-			transform: translateX(-60%);
+			right: 0;
+			// // transform: translateX(-60%);
 		}
 	}
 	.right {
@@ -72,5 +73,51 @@
 		iframe {
 			width: 100%;
 		}
+	}
+}
+.changeleft,
+.changeright {
+	width: 3em !important;
+	position: absolute;
+	height: 3em !important;
+	transition: all 0.5s ease;
+	&:hover {
+		transform: scale(1.2);
+	}
+}
+
+.changeleft {
+	left: 1em;
+	top: 50%;
+}
+.changeright {
+	right: 1em;
+	top: 50%;
+}
+
+@media screen and (max-width: 600px) {
+	.court-detail {
+		flex-direction: column;
+
+		.left,
+		.right {
+			height: 50vh;
+		}
+		.left {
+			width: 100%;
+		}
+		.right {
+			width: 90%;
+		}
+	}
+	.court-detail-info-title {
+		font-size: 2em;
+	}
+	.court-detail-info {
+		.title {
+			padding-top: 0;
+			font-size: 2em !important;
+		}
+		font-size: 0.7em;
 	}
 }

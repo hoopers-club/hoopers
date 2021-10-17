@@ -1,11 +1,12 @@
 import CourtDetail from './CourtDetail.jsx';
 import React, { useState } from 'react';
 
-const Court = ({ first, court }) => {
+const Court = ({ first, court, detail, setDetail }) => {
 	const [detailOpened, setDetailOpened] = useState(false);
 
 	const handleDetail = () => {
 		setDetailOpened(!detailOpened);
+		setDetail(!detail);
 	};
 
 	const styles = {
@@ -13,29 +14,42 @@ const Court = ({ first, court }) => {
 		paddingBottom: first ? '10%' : '',
 	};
 	return (
-		<div
-			// id='#court'
-			className='court'
-			style={{
-				...styles,
-				background: `url(${court?.image})`,
-				backgroundPosition: `center`,
-				backgroundSize: 'cover',
-				backgroundRepeat: 'no-repeat',
-			}}
-			onClick={handleDetail}>
-			<img
-				className='leftseparator left'
-				src='/assets/courts/courtseparator.svg'
-				alt=''
-			/>
-			<div className='titles'>
-				<div className='court-headline'>{court?.name}</div>
-				<div className='court-subtext'>{court?.subname}</div>
-			</div>
-			<img className='right' src='/assets/courts/courtseparator.svg' alt='' />
+		<div>
+			{!detail && (
+				<div
+					// id='#court'
+					className='court'
+					style={{
+						...styles,
+						background: `url(${court?.image})`,
+						backgroundPosition: `center`,
+						backgroundSize: 'cover',
+						backgroundRepeat: 'no-repeat',
+					}}
+					onClick={handleDetail}>
+					<img
+						className='leftseparator left'
+						src='/assets/courts/courtseparator.svg'
+						alt=''
+					/>
+					<div className='titles'>
+						<div className='court-headline'>{court?.name}</div>
+						<div className='court-subtext'>{court?.subname}</div>
+					</div>
+					<img
+						className='right'
+						src='/assets/courts/courtseparator.svg'
+						alt=''
+					/>
+				</div>
+			)}
 			{detailOpened ? (
-				<CourtDetail court={court} handleDetail={handleDetail} />
+				<CourtDetail
+					setdetail={setDetail}
+					key={court.name}
+					court={court}
+					handleDetail={handleDetail}
+				/>
 			) : (
 				''
 			)}

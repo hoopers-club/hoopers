@@ -1,8 +1,52 @@
-const CourtDetail = ({ handleDetail, court }) => {
+import { useState } from 'react';
+
+const CourtDetail = ({ handleDetail, court, setDetail }) => {
+	const [courtImage, setcourtImage] = useState(court?.galleryImages[0]);
+
+	const skip = (direction) => {
+		let currentIndex = court.galleryImages.findIndex(
+			(court) => court === courtImage
+		);
+		if (direction === 'forward') {
+			setcourtImage(
+				court.galleryImages[(currentIndex + 1) % court.galleryImages.length]
+			);
+			console.log(courtImage);
+		}
+		if (direction === 'back') {
+			if ((currentIndex - 1) % court.galleryImages.length === -1) {
+				setcourtImage(court.galleryImages[court.galleryImages.length - 1]);
+
+				return;
+			}
+			setcourtImage(
+				court.galleryImages[(currentIndex - 1) % court.galleryImages.length]
+			);
+		}
+	};
+
 	return (
 		<div className='court-detail'>
 			<div className='left'>
-				<img src='https://unsplash.it/900' alt='' />
+				<img
+					src='/assets/courts/left.svg'
+					alt=''
+					className='changeleft'
+					onClick={() => skip('back')}
+				/>
+				<img
+					src='/assets/courts/right.svg'
+					alt=''
+					className='changeright'
+					onClick={() => skip('forward')}
+				/>
+				{courtImage && <img src={courtImage} alt='' />}
+				{/* {court.galleryImages.map((image, i) => (
+					<div>
+						<img src={image} alt='' />
+						{console.log(i)}
+					</div>
+				))} */}
 				<img
 					className='close-btn'
 					src='/assets/courts/Fechar Card.svg'

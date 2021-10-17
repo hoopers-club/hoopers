@@ -3,6 +3,7 @@ import Menu from './Menu';
 import { useState } from 'react';
 
 const Courtlist = ({ allCourts }) => {
+	const [detail, setDetail] = useState(false);
 	const [open, setOpen] = useState(true);
 	// console.log(allCourts);
 	return (
@@ -12,9 +13,11 @@ const Courtlist = ({ allCourts }) => {
 				<div
 					className='courts-list'
 					style={{ display: open ? 'flex !important' : 'none !important' }}>
-					{allCourts.map((court) => (
+					{allCourts.map((court, i) => (
 						<Court
-							key={court.name}
+							detail={detail}
+							setDetail={setDetail}
+							key={i}
 							court={court}
 							first={court === allCourts[0] ? true : false}
 						/>
