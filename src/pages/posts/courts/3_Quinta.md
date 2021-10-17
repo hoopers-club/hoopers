@@ -11,6 +11,10 @@ partner:
   - Câmara de Penafiel
 whaWeDid: Two new basketball courts, making Penafiel the first city to receive
   two simultaneous artistic interventions.
+galleryImages:
+  - /assets/uploads/3_quinta-das-lages-1.jpg
+  - /assets/uploads/3_quinta-das-lages-2.jpg
+  - /assets/uploads/3_quinta-das-lages-3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/1.jpg
