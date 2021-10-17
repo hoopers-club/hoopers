@@ -11,6 +11,10 @@ partner:
   - Câmara de Penafiel
 whaWeDid: Two new basketball courts, making Penafiel the first city to receive
   two simultaneous artistic interventions.
+galleryImages:
+  - /assets/uploads/4_vila-gualdina-1.jpg
+  - /assets/uploads/4_vila-gualdina-2.jpg
+  - /assets/uploads/4_vila-gualdina-3.jpg
 duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/4_Vila%20Gualdina/Galeria%20(Esquerda)/1.jpg
