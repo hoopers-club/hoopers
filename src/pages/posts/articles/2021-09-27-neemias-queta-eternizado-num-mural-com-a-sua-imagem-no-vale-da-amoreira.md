@@ -4,7 +4,7 @@ subname: Este é um projeto desenvolvido pela Hoopers e pela CM Moita, da autori
   de Pedro Pinhal.
 featured: true
 publishDate: Jul 28th 21
-image: /assets/uploads/4_banner_neemy_eternizado.png
+image: /assets/uploads/4_2_banner_neemy_eternizado.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
