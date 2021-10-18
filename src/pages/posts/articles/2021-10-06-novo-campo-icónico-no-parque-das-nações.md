@@ -4,7 +4,7 @@ subname: O Parque das Nações recebe mais um novo campo icónico da cidade de
   Lisboa, da autoria do coletivo “Thunders Crew”.
 featured: false
 publishDate: Jul 11th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1625648248880-406YYIG32G8O41YCAGRL/Thunder+Crew+-+Campo+5.jpeg?format=1500w
+image: /assets/uploads/10_banner_parquenacoes.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
