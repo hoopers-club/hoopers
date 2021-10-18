@@ -3,7 +3,7 @@ title: Há um novo campo de 3x3 em Cascais criado por OATS
 subname: Foi criado um campo de 3x3 para homenagear a super estrela dos Lakers
   pela mão do artista OATS.
 featured: false
-publishDate: Mar 29th 21
+publishDate: Apr 29th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1619695335948-2BNFKP76AOSEN4YN19J9/image00008.jpeg?format=1500w
 author: Hoopers
 layout: ../../../Layout/single-article.astro
