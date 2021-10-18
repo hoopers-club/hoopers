@@ -3,7 +3,9 @@ courtImage: /assets/uploads/2_carriche_makingof.jpg
 courtDescription: >-
   Creating iconic courts is only one of our passions.
 
+
   We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. 
+
 
   Check what we already have done:
 productName: Tee
