@@ -8,14 +8,11 @@ courtDescription: >-
 
 
   Check what we already have done:
-productName: Tee
-productPrice: 23
+productName: AIM HIGHER THAN THE SUN - BLACK TEE
+productPrice: 20
 productDescription: |-
-  T-Shirt Hoopers
-  Descrição
-  100% Algodão
-  Serigrafia
-  Logo Hoopers nas costas na zona do pescoço
+  We make our products based on what the community is asking for.
+  Check our store!
 productImage: https://cdn.shopify.com/s/files/1/0507/5327/4054/products/preta_square_1800x1800.jpg?v=1631706094
 productLink: https://hoopers.store/collections/t-shirts/products/aim-higher-than-the-sun-black-tee
 ---
