@@ -5,7 +5,7 @@ subname: Esta edição do Draft da NBA merece a atenção de todos os portuguese
   liga de basquetebol do mundo!
 featured: false
 publishDate: Jul 19th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626726780592-W4GWMANDGU6QZVZ6WW43/Draft+2021+-+Emiss%C3%A3o?format=2500w
+image: /assets/uploads/6_banner_neemy_draft.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
