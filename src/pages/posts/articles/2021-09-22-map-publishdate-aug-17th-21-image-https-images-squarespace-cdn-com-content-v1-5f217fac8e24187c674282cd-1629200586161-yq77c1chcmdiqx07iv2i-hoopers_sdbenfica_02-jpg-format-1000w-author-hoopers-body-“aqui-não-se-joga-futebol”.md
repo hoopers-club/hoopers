@@ -5,7 +5,7 @@ subname: O “histórico” campo do Largo do Conde de Bonfim, em Lisboa, fica
   localizado junto ao Palácio Béau-Séjour
 featured: true
 publishDate: Aug 17th 21
-image: /assets/articles/banner_benfica.jpg
+image: /assets/uploads/1_banner_benfica.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
