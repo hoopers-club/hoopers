@@ -1,11 +1,11 @@
 ---
-courtImage: /assets/frontpage/mrf20200522_dsf1286.jpg
+courtImage: /assets/uploads/2_carriche_makingof.jpg
 courtDescription: >-
-  Teste Braga Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-  exercitationem velit ducimus omnis repellat similique voluptate inventore
-  nulla pariatur quidem.
+  Creating iconic courts is only one of our passions.
 
-  nove testo
+  We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. 
+
+  Check what we already have done:
 productName: Tee
 productPrice: 23
 productDescription: |-
