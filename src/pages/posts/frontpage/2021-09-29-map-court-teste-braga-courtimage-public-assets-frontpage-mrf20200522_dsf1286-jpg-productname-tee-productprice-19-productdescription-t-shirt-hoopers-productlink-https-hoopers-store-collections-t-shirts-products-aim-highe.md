@@ -13,6 +13,6 @@ productPrice: 20
 productDescription: |-
   We make our products based on what the community is asking for.
   Check our store!
-productImage: https://cdn.shopify.com/s/files/1/0507/5327/4054/products/preta_square_1800x1800.jpg?v=1631706094
+productImage: /assets/uploads/tshirt.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/aim-higher-than-the-sun-black-tee
 ---
