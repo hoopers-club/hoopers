@@ -8,8 +8,8 @@ courtDescription: >-
 
 
   Check what we already have done:
-productName: AIM HIGHER THAN THE SUN - BLACK TEE
-productPrice: 20
+productName: Summer 21 T-Shirt
+productPrice: 25
 productDescription: |+
   We hit the streets to find out what the community is asking for.
   Check our store.
