@@ -15,5 +15,5 @@ productDescription: |+
   Check our store.
 
 productImage: /assets/uploads/marcia_homepage_gradient.png
-productLink: https://hoopers.store/collections/t-shirts/products/aim-higher-than-the-sun-black-tee
+productLink: https://hoopers.store/collections/t-shirts/products/t-shirt-hoopers-summer
 ---
