@@ -40,6 +40,22 @@
 				margin-left: -2em;
 			}
 		}
+		.detail-history {
+			color: $white;
+			font-size: 1.5em;
+			font-family: $aktiv-grotesk-RegularCD;
+			a {
+				color: $dark-orange;
+				text-transform: underline;
+			}
+			img {
+				margin-top: 1em;
+				margin-bottom: 1em;
+				width: calc(100% + 4em);
+				// transform: translateX(-2em);
+				margin-left: -2em;
+			}
+		}
 		display: flex;
 		flex: 0.5;
 		width: 50%;
@@ -58,7 +74,7 @@
 			height: 4em;
 			position: absolute;
 			bottom: 4em;
-			right: 0;
+			right: -2em;
 			// // transform: translateX(-60%);
 		}
 	}
@@ -108,9 +124,17 @@
 		}
 		.left {
 			width: 100%;
+			.close-btn {
+				width: 4em;
+				height: 4em;
+				position: absolute;
+				bottom: 0;
+				left: 50%;
+				transform: translateX(-50%);
+			}
 		}
 		.right {
-			width: 90%;
+			width: auto;
 		}
 	}
 	.court-detail-info-title {

@@ -7,12 +7,12 @@ const Sitemap = ({ openSitemap }) => {
 	};
 
 	return (
-		<div class='menus'>
-			<div class='nav'>
-				<div class='menu' onClick={openSitemap}>
-					<img src='/assets/Homepage/close.svg' alt='menu' />
+		<div className='menus'>
+			<div className='nav'>
+				<div onClick={openSitemap}>
+					<img className='menu' src='/assets/Homepage/close.svg' alt='menu' />
 				</div>
-				<div class='logo-menu'>
+				<div className='logo-menu'>
 					<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
 				</div>
 			</div>

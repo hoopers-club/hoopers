@@ -1,5 +1,5 @@
 import CourtDetail from './CourtDetail.jsx';
-import React, { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 const Court = ({ first, court, detail, setDetail }) => {
 	const [detailOpened, setDetailOpened] = useState(false);
@@ -13,6 +13,7 @@ const Court = ({ first, court, detail, setDetail }) => {
 		minHeight: first ? '85vh' : '45vh',
 		paddingBottom: first ? '10%' : '',
 	};
+	useEffect(() => {}, [detail]);
 	return (
 		<div>
 			{!detail && (

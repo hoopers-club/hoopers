@@ -24,6 +24,7 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 			);
 		}
 	};
+	console.log(court);
 
 	return (
 		<div className='court-detail'>
@@ -83,8 +84,8 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 				<div className='court-detail-info'>
 					<div className='title'>History</div>
 					<div
-						className='detail history'
-						dangerouslySetInnerHTML={{ __html: court?.astro.source }}></div>
+						className='detail-history history'
+						dangerouslySetInnerHTML={{ __html: court?.astro.html }}></div>
 				</div>
 				<img src='/assets/courts/courtseparatordetail.svg' alt='' />
 			</div>

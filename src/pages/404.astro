@@ -1,0 +1,18 @@
+---
+import Layout from '../Layout/LayoutMenu.astro'
+import Menus from '../components/Menu.jsx'
+---
+
+
+
+<Layout>
+<Menus client:idle/>
+<div class="not-found">
+    <div class="found-content">
+        <h1>404 NOT FOUND</h1>
+        <p>This page could not be found</p>
+    </div>
+    <div class="buttons condensed" ><a href="/" target="_blank">BACK TO HOME</a></div>
+</div>
+
+</Layout>

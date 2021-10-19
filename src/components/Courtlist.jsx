@@ -1,11 +1,12 @@
 import Court from './Court';
 import Menu from './Menu';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 const Courtlist = ({ allCourts }) => {
 	const [detail, setDetail] = useState(false);
 	const [open, setOpen] = useState(true);
 	// console.log(allCourts);
+	useEffect(() => {}, [open, detail]);
 	return (
 		<div className=''>
 			<Menu open={open} setOpen={setOpen} />

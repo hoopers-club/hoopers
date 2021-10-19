@@ -28,6 +28,7 @@ collections:
       - { label: 'Subname', name: 'subname', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Artist', name: 'artist', widget: 'string' }
+      - { label: 'Duration', name: 'duration', widget: 'string' }
       - { label: 'partner', name: 'partner', widget: 'list', allow_add: true }
       - { label: 'What we Did', name: 'whaWeDid', widget: 'text' }
       - {

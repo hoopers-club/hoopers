@@ -27,7 +27,7 @@ const Hero = ({ articles }) => {
 				style={{
 					backgroundAttachment: 'fixed',
 					backgroundPosition: 'center',
-					backgroundSize: 'contain',
+					backgroundSize: 'cover ',
 					background: `linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("${courtImage?.image}") `,
 				}}>
 				<img
@@ -42,8 +42,14 @@ const Hero = ({ articles }) => {
 					className='changeright'
 					onClick={() => skip('forward')}
 				/>
-				<div className='headline quotes'>{courtImage?.title}</div>
+				<div className='headline'>
+					<a href={courtImage?.url}>{courtImage?.title}</a>
+				</div>
 				<div className='sub-headline'>{courtImage?.subname}</div>
+				<div class='sub-text centered'>
+					{courtImage?.publishDate} <br />
+					{courtImage?.author}
+				</div>
 			</div>
 		</div>
 	);

@@ -1,0 +1,217 @@
+---
+// Component Imports
+
+import Menus from '../components/Menu.jsx'
+import Search from '../components/Search.jsx'
+import Footer from '../components/Footer.astro'
+
+
+
+// You can import components from any supported Framework here!
+
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+
+---
+
+
+<style lang="scss">
+
+body {
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    
+    }
+   
+</style>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <title>Hoopers</title>
+
+
+        <link rel="shortcut icon" href="/assets/favicon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="{Astro.resolve('../styles/css/main.css')}">
+    
+ 
+
+
+</head>
+<body>
+    <main style="background-color: white;">
+        <header>
+       <Menus client:visible/>
+        </header>
+     
+<slot/>
+            </main>
+<Search client:visible/>
+               <!--
+           - You can also use imported framework components directly in your markup!
+           -
+           - Note: by default, these components are NOT interactive on the client.
+           - The `:visible` directive tells Astro to make it interactive.
+           -
+           - See https://docs.astro.build/core-concepts/component-hydration/ 
+           -->
+
+           <Footer/>
+
+
+           <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+
+
+  	
+const right_i= document.querySelectorAll('.right-i')
+
+
+observer= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+}
+);
+
+
+
+
+	const left_i= document.querySelectorAll('.left-i')
+
+		observer_article= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if ( entry.intersectionRatio>0) {
+		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+	const down_i= document.querySelectorAll('.down-i')
+
+		observer_= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+right_i.forEach(right => {
+  observer.observe(right)
+});
+
+
+
+	left_i.forEach(left => {
+  observer_article.observe(left)
+});
+
+	down_i.forEach(down => {
+  observer_.observe(down)
+});
+
+
+
+const centerright_i= document.querySelectorAll('.centerright-i')
+
+
+observercenter= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`left 1s  forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+}
+);
+
+
+
+
+	const centerleft_i= document.querySelectorAll('.centerleft-i')
+
+		observer_articlecenter= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if ( entry.intersectionRatio>0) {
+		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+	const centerdown_i= document.querySelectorAll('.centerdown-i')
+
+		observer_center= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
+  
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`down 2s forwards ease-out`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
+})
+
+
+centerright_i.forEach(right => {
+  observercenter.observe(right)
+});
+
+
+
+	centerleft_i.forEach(left => {
+  observer_articlecenter.observe(left)
+});
+
+	centerdown_i.forEach(down => {
+  observer_center.observe(down)
+});
+
+
+const test=[ {
+    title: 'Stephen A. Smith: “Lonzo Ball deve ir L.A. e LaVine para a costa Este”',
+    url: 'https://www.nbaportugal.com/stephen-a-smith-lonzo-ball-deve-ir-l-a-e-lavine-para-a-costa-este/',
+    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-24_084031.png'
+  },
+  {
+    title: 'Bol Bol esteve para ser trocado por Lonzo?',
+    url: 'https://www.nbaportugal.com/bol-bol-esteve-para-ser-trocado-por-lonzo/',
+    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-23_150720-800x445.png'
+  }]
+
+</script>
+</body>
+</html>

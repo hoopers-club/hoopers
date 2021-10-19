@@ -1,5 +1,5 @@
 ---
-import Bases from '../Layout/Layout.astro'
+import Bases from '../Layout/Layout-Article.astro'
 // import Nba from '../components/Nba.jsx'
 import Heros from '../components/Hero.jsx'
 
@@ -71,7 +71,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			<div class="articles-list">
 			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
-				<a class="articles-item" href={article.url} target="_blank">
+				<a class="articles-item" href={article.url} >
 					<div
 						class="articles-item"
 						style={`
@@ -106,7 +106,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			</div>
 			<div class="articles-list-all">
 			{allPosts.slice(0,6).map(article =>(
-				<a class="article-item" href={article.url} target="_blank">
+				<a class="article-item" href={article.url}>
 					<div  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
@@ -115,15 +115,15 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				</a>))}
 				
 				{allPosts.slice(6,allPosts.length).map(article =>(
-				<a class="article-item hidden" href={article.url} target="_blank">
-					<div class="article-item hidden">
+				<a class="article-item hidden" href={article.url} >
+					<div >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
-				
-			</div>
+				</div>
+			
 			<div class="buttons-black centered" onclick="showMe()">show more</div>
 		</section>
 		<!-- <section class="articles white">
