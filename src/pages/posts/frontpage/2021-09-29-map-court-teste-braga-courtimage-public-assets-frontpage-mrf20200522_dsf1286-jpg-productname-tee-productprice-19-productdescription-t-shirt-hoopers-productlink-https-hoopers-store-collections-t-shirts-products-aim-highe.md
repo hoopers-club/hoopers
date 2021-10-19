@@ -1,5 +1,5 @@
 ---
-courtImage: /assets/uploads/2_carriche_makingof.jpg
+courtImage: /assets/uploads/courts_homepage.png
 courtDescription: >-
   Creating iconic courts is only one of our passions.
 
