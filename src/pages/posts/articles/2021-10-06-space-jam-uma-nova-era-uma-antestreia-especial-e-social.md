@@ -4,7 +4,7 @@ subname: A ação promoveu o primeiro contacto de muitos destes jovens com o
   universo do Basquetebol.
 featured: false
 publishDate: Jul 14th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626186777431-N5WWQRKZJV6SQ6D4MABQ/antestreia.jpeg?format=2500w
+image: /assets/uploads/8_banner_social.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

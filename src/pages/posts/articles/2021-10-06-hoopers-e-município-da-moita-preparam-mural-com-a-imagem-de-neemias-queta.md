@@ -6,7 +6,7 @@ subname: >+
 
 featured: false
 publishDate: Jul 9th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1625847123150-Q8IYOLDWL7MY22WB2EW1/DJI_0429.JPG?format=2500w
+image: /assets/uploads/11_banner_neemy_mural2.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

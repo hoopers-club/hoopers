@@ -4,7 +4,7 @@ subname: Nova camisola foi criada na sequência do projeto realizado no Barreiro
   e uma homenagem à Zona 4.
 featured: false
 publishDate: Jul 14th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626280014845-CPDIE3X6TDRYW2IITC5E/Samina+-+Jersey+11.jpg?format=2500w
+image: /assets/uploads/7_banner_samina.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

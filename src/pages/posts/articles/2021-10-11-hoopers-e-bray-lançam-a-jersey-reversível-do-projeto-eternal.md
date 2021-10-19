@@ -4,7 +4,7 @@ subname: A nova jersey reversível da Hoopers da autoria do artista Bray
   inspirada na homenagem a Kobe Bryant na Calçada de Carriche.
 featured: false
 publishDate: Jul 21st 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626958731434-9TBY2LTLXAH7O4YNOJRY/artbrayhero.jpg?format=1500w
+image: /assets/uploads/5_banner_bray.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

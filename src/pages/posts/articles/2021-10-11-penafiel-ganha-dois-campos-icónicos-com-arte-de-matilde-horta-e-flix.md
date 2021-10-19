@@ -4,7 +4,7 @@ subname: Penafiel é o primeiro Município a ter dois campos em simultâneo
   lançados pela startup portuguesa
 featured: false
 publishDate: Jun 2nd 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1622616415705-PVNZJNWWOM9P6U5ZV18R/WhatsApp+Image+2021-05-28+at+21.09.28.jpeg?format=1500w
+image: /assets/uploads/19_banner_penafiel.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

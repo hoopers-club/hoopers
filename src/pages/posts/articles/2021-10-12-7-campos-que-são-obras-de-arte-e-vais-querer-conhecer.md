@@ -4,7 +4,7 @@ subname: Verdadeiras obras de arte, incluindo as intervenções de CONTRA e dos
   Halfstudio.
 featured: false
 publishDate: Apr 30th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1619534245780-8BWA15LS149WYK9E8WRF/belgica1.jpeg?format=1500w
+image: /assets/uploads/23_banner_7campos.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

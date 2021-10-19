@@ -4,7 +4,7 @@ subname: Ciclo de ações de formação com presenças de várias figuras nacion
   internacionais, especializadas na área.
 featured: false
 publishDate: Jul 5th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1625473792341-2I4N3KQTFQ49G3P34CNH/appfb%2B-%2BPR1.jpg?format=500w
+image: /assets/uploads/13_banner_preparacao.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

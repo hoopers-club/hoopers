@@ -4,7 +4,7 @@ subname: A dupla falou sobre o percurso na arte urbana, a sua ligação com o
   desporto e o futuro.
 featured: false
 publishDate: May 9th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1620396483477-XZP4QOOYQVFZCKVQ9BGE/DJI_0842.JPG?format=1500w
+image: /assets/uploads/21_banner_caraoucoroa.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

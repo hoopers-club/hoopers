@@ -3,7 +3,7 @@ title: Neemias Queta assina "two-way contract" com os Sacramento Kings
 subname: Neemias Queta assina contrato com os Sacramento Kings.
 featured: false
 publishDate: Aug 9th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1628516639146-BF4I5M75CFO9Z4JVTD3K/Neemias+Queta+-+Post+2.jpg?format=1500w
+image: /assets/uploads/3_banner_neemy_twoway.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

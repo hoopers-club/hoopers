@@ -4,7 +4,7 @@ subname: Nos cinemas a 15 de julho, a Hoopers tem convites duplos da antestreia
   para oferecer!
 featured: false
 publishDate: Jul 8th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1625756752924-PKZOGA62FOA6XMVCLPLB/SJM_still+%281%29.jpeg
+image: /assets/uploads/12_banner_novo_space_jam.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

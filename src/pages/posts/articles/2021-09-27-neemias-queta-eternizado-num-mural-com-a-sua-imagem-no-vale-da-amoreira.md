@@ -1,10 +1,10 @@
 ---
-title: 'Neemias Queta eternizado num mural com a sua imagem no Vale da Amoreira '
+title: "Neemias Queta eternizado num mural com a sua imagem no Vale da Amoreira "
 subname: Este é um projeto desenvolvido pela Hoopers e pela CM Moita, da autoria
   de Pedro Pinhal.
 featured: true
 publishDate: Jul 28th 21
-image: /assets/articles/sjm_still-1.jpeg
+image: /assets/uploads/4_2_banner_neemy_eternizado.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

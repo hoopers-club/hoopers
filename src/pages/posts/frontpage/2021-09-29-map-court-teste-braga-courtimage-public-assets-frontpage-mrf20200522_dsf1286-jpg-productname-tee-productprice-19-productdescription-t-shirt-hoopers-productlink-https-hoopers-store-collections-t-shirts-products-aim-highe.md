@@ -1,19 +1,19 @@
 ---
-courtImage: /assets/frontpage/mrf20200522_dsf1286.jpg
+courtImage: /assets/uploads/courts_homepage.png
 courtDescription: >-
-  Teste Braga Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-  exercitationem velit ducimus omnis repellat similique voluptate inventore
-  nulla pariatur quidem.
+  Creating iconic courts is only one of our passions.
 
-  nove testo
-productName: Tee
-productPrice: 23
-productDescription: |-
-  T-Shirt Hoopers
-  Descrição
-  100% Algodão
-  Serigrafia
-  Logo Hoopers nas costas na zona do pescoço
-productImage: https://cdn.shopify.com/s/files/1/0507/5327/4054/products/preta_square_1800x1800.jpg?v=1631706094
-productLink: https://hoopers.store/collections/t-shirts/products/aim-higher-than-the-sun-black-tee
+
+  We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. 
+
+
+  Check what we already have done:
+productName: Summer 21 T-Shirt
+productPrice: 25
+productDescription: |+
+  We hit the streets to find out what the community is asking for.
+  Check our store.
+
+productImage: /assets/uploads/marcia_homepage_gradient.png
+productLink: https://hoopers.store/collections/t-shirts/products/t-shirt-hoopers-summer
 ---

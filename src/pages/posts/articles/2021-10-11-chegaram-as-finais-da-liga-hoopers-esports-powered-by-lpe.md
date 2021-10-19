@@ -4,7 +4,7 @@ subname: Quatro equipas finalistas disputam o título desta edição da Liga
   Hoopers eSports powered by LPE.
 featured: false
 publishDate: Jun 9th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1623259603587-4IJS7R314FBTBVMXAM96/EventoPresencial_Cartaz_VF.jpeg?format=1500w
+image: /assets/uploads/16_banner_lpe.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

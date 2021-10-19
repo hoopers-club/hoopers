@@ -4,9 +4,9 @@ title: '"Histórias do Desporto: Noite de Incidentes na NBA” chegou para conta
 subname: Este episódio faz parte da série “Untold”, que conta histórias nunca
   antes desvendadas e relata os diversos acontecimentos que se sucederam numa
   noite que marcou o mundo desportivo pelas piores razões.
-featured: false
+featured: true
 publishDate: Aug 10th 21
-image: /assets/articles/banner_malice-copy.jpg
+image: /assets/uploads/2_banner_malice.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---

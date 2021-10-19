@@ -5,13 +5,15 @@ subname: O “histórico” campo do Largo do Conde de Bonfim, em Lisboa, fica
   localizado junto ao Palácio Béau-Séjour
 featured: true
 publishDate: Aug 17th 21
-image: /assets/articles/banner_benfica.jpg
+image: /assets/uploads/1_banner_benfica.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 “Aqui não se joga futebol” é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
 
 ![Créditos: Hoopers / Malagueta](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200586161-YQ77C1CHCMDIQX07IV2I/Hoopers_SDBenfica_02.JPG?format=2500w "Créditos: Hoopers / Malagueta")
+
+> Créditos: Hoopers / Malagueta
 
 Este campo histórico para a comunidade de basquetebol de Lisboa, localizado junto ao Palácio Béau-Séjour e no coração da freguesia de São Domingos de Benfica, foi alvo de uma intervenção artística e desportiva, onde se procurou captar a essência, a elegância e a vida deste lugar cosmopolita onde moradores, transeuntes e turistas por ali passam e fazem a sua vida.
 

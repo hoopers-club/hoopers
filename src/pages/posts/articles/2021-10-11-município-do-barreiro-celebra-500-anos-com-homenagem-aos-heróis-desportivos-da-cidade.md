@@ -5,7 +5,7 @@ subname: O Polidesportivo localizado na Zona 4 do Barreiro recebeu uma
   intervenção artística de SAMINA.
 featured: false
 publishDate: Jun 28th 21
-image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1624880725885-IMDA5OIDUTLK6VQ9J24B/HOOPERS_BARREIRO+ZONA4_01.jpg?format=1500w
+image: /assets/uploads/14_banner_barreiro.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
