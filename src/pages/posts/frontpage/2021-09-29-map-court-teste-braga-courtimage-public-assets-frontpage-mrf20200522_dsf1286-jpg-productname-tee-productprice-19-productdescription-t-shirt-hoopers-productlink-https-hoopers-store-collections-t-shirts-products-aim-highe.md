@@ -13,6 +13,6 @@ productPrice: 20
 productDescription: |-
   We make our products based on what the community is asking for.
   Check our store!
-productImage: /assets/uploads/tshirt.jpg
+productImage: /assets/uploads/marcia_insta.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/aim-higher-than-the-sun-black-tee
 ---
