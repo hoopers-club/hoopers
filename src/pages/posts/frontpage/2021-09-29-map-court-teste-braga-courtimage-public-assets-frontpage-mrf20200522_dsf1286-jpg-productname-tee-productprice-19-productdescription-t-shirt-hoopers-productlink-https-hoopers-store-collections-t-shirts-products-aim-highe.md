@@ -6,6 +6,8 @@ courtDescription: >
 
   <br/>
 
+  <br/>
+
 
   Hoopers is focused on building the largest global community platform around the game of basketball. 
 
@@ -31,14 +33,19 @@ productPrice: 25
 productDescription: >-
   Made with love for our community.
 
+  <br/>
 
   We work together with urban artists to release exclusive and limited editions.
 
+  <br/>
+
   We work together with the community to launch exactly what they are looking for.
 
+  <br/>
 
   Shop our classics and our latest collections.
 
+  <br/>
 
   Check our store.
 productImage: /assets/uploads/marcia_homepage_gradient.png
