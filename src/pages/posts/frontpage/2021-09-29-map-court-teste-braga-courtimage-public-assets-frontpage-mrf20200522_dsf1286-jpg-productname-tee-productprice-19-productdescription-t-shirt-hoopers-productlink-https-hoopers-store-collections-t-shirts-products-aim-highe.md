@@ -1,19 +1,35 @@
 ---
-courtImage: /assets/uploads/courts_homepage.png
-courtDescription: >-
-  Creating iconic courts is only one of our passions.<br/>
-
-
-  We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. <br/>
-
-
-  Check what we already have done:
-productName: Summer 21 T-Shirt
+courtImage: /assets/uploads/hoopers_carriche.jpeg
+courtDescription: >
+  From the streets to the world! 
+  <br/>
+  <br/>
+  Hoopers is focused on building the largest global community platform around the game of basketball. 
+  <br/>
+  <br/>
+  We work together with local urban artists to transform old, abandoned and damaged courts into new and iconic spots in cities.
+  <br/>
+  <br/>
+  Our goal is to bring the community back to the streets and inspire the next generation of talents to fall in love with our game.
+  <br/>
+  <br/>
+  Check our projects and learn more about their stories.
+productName: summer 21 t-shirt
 productPrice: 25
-productDescription: |+
-  We hit the streets to find out what the community is asking for.
+productDescription: |-
+  Made with love for our community.
+  <br/>
+  <br/>
+  We work together with urban artists to release exclusive and limited editions.
+  <br/>
+  <br/>
+  We work together with the community to launch what you are looking for.
+  <br/>
+  <br/>
+  Shop our classics and our latest collections.
+  <br/>
+  <br/>
   Check our store.
-
 productImage: /assets/uploads/marcia_homepage_gradient.png
 productLink: https://hoopers.store/collections/t-shirts/products/t-shirt-hoopers-summer
 ---
