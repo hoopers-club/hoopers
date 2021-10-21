@@ -31,4 +31,4 @@ A intervenção artística arrancou no dia 9 de Agosto e o espaço será novamen
 
 
 
-`<Gallery client:visible articles={['https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200659925-P61AAXSNHK7IT9I1L8DR/Hoopers_SDBenfica_05.jpg?format=2500w','https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200763136-SI2HAPM9XDV0YMAF7BIK/Hoopers_SDBenfica_01.JPG?format=2500w']}/>`
+``
