@@ -14,12 +14,21 @@ courtDescription: >
 
 
   Check our projects and learn more about their stories.
-productName: Summer 21 T-Shirt
+productName: summer 21 t-shirt
 productPrice: 25
-productDescription: |+
-  We hit the streets to find out what the community is asking for.
-  Check our store.
+productDescription: >-
+  Made with love for our community.
 
+
+  We work together with urban artists to release exclusive and limited editions.
+
+  We work together with the community to launch exactly what they are looking for.
+
+
+  Shop our classics and our latest collections.
+
+
+  Check our store.
 productImage: /assets/uploads/marcia_homepage_gradient.png
 productLink: https://hoopers.store/collections/t-shirts/products/t-shirt-hoopers-summer
 ---
