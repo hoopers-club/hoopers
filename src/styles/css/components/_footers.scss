@@ -17,7 +17,8 @@
 	&-location {
 		display: flex;
 		flex-direction: column;
-		justify-content: space-evenly;
+		// justify-content: space-evenly;
+		gap: 1em;
 		.title {
 			padding-top: 0;
 		}

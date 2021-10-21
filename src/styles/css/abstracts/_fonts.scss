@@ -47,6 +47,7 @@ $aktiv-grotesk-ThinEX: 'aktiv-grotesk-ThinEX';
 $aktiv-grotesk-XBoldItalicEX: 'aktiv-grotesk-XBoldItalicEX';
 
 $charter: Charter;
+$charter-bold: 'Charter-bold';
 $font-style-normal: normal;
 $font-weight-normal: normal;
 $font-size-16: 1rem;
@@ -57,6 +58,11 @@ $line-spacing-28: 2rem;
 @font-face {
 	font-family: $charter;
 	src: url('/style/fonts/charter/Charter.ttc');
+	font-stretch: 1% 500%;
+}
+@font-face {
+	font-family: $charter-bold;
+	src: url('/style/fonts/charter/charter-bold.ttf');
 	font-stretch: 1% 500%;
 }
 @font-face {

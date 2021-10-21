@@ -1,10 +1,10 @@
 ---
 courtImage: /assets/uploads/courts_homepage.png
 courtDescription: >-
-  Creating iconic courts is only one of our passions.
+  Creating iconic courts is only one of our passions.<br/>
 
 
-  We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. 
+  We've gathered with local artists and a "Dream Team" to refurbish basket courts and bring the community back to the street. <br/>
 
 
   Check what we already have done:

@@ -21,7 +21,7 @@ const Sitemap = ({ openSitemap }) => {
 					<li>
 						<a href='/articles'>ARTICLES</a>
 					</li>
-					<li>ESPORTS</li>
+					<li className='strikeline'>ESPORTS</li>
 					<li onClick={submenu}>COURTS</li>
 					{expanded ? (
 						<span className='sub-courts'>
@@ -35,7 +35,7 @@ const Sitemap = ({ openSitemap }) => {
 					) : (
 						''
 					)}
-					<li>SUMMER LEAGUE</li>
+					<li className='strikeline'>SUMMER LEAGUE</li>
 					<li>
 						<a
 							href='https://www.youtube.com/channel/UC9majUuTNcytG0nmt_B8Ubg'
@@ -50,7 +50,7 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li>NFT</li>
+					<li className='strikeline'>NFT</li>
 					<li>
 						<a href='https://hoopers.store/' target='_blank'>
 							SHOP

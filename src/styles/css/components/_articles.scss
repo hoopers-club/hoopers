@@ -165,9 +165,9 @@
 		padding: 1em 0 !important;
 		font-family: $charter;
 		strong {
-			// font-family: $aktiv-grotesk-bold;
-			color: $dark-orange;
-			font-size: 1.2em;
+			font-family: $charter-bold;
+			// color: $dark-orange;
+			font-size: 1em;
 		}
 	}
 	img {
@@ -234,4 +234,17 @@
 
 .hidden-disable {
 	display: flex !important;
+}
+
+.gallery {
+	position: relative;
+	/* top: 0; */
+	/* left: 0; */
+	/* right: 0; */
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+	/* height: 100vh; */
+	/* background-color: #1d1d1b; */
+	z-index: o;
 }

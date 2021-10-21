@@ -20,21 +20,25 @@ articles=articles.filter(article=>article.featured==true)
 				
 				{articles.slice(0,3).map((article,index) => (
 
-				<div
-					class="articles-item "
-					data-delay={`${index==1?'0.5s':'0s'}`}
-					style={`
-						background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('${article?.image}');
-						background-repeat: no-repeat;
-						background-size: cover;
-						background-color: hsla(0, 0%, 0%, 0.014);
-						background-position:center;
-					`}
-					onclick={`location.href='${article.url}'`}
-				>
-					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
-					<div class="by">by {article?.author}</div>
-				</div>
+					<a class="articles-item" href={article.url} >
+					<div
+						class="articles-item"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href='${article.url}'`}
+					>
+						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						<div class="article-underline"></div>
+						<div class="by">by {article?.author}</div>
+					</div>
+				</a>
 			))}
 	
 			</div>
