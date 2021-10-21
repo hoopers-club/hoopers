@@ -1,5 +1,5 @@
 ---
-courtImage: /assets/uploads/courts_homepage.png
+courtImage: /assets/uploads/hoopers_carriche.jpeg
 courtDescription: >
   From the streets to the world!
 
