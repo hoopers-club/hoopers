@@ -1,5 +1,6 @@
 ---
 import Bases from './Layout.astro'
+import Gallery from '../components/Gallery.jsx'
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
@@ -50,8 +51,9 @@ const {title, publishDate, author,subname, image} = content;
 			<section class="single-articles white">
 				<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
 				{content.astro.html}
-			</section>
+				
 
+			</section>
 
 <script>
 	const postlink=encodeURI(document.location.href)
