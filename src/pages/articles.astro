@@ -31,6 +31,15 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		// 	);
 		// }
 	// };
+const nbaportugal= await ( await fetch(Astro.request.url.origin+'/nba.json')).json();
+const slam= await ( await fetch(Astro.request.url.origin+'/slam.json')).json();
+const realgm= await ( await fetch(Astro.request.url.origin+'/realgm.json')).json();
+const ballislife= await ( await fetch(Astro.request.url.origin+'/ballislife.json')).json();
+
+console.log(slam)
+
+
+
 
 ---
 
@@ -63,7 +72,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<div class="featured">Featured</div>
 				<img
 					class="featured-line"
-					src="/assets/Homepage/section line.svg"
+					src="/assets/articles/linha.svg"
 					alt="line"
 				/>
 			</div>
@@ -100,7 +109,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<div class="featured">all articles</div>
 				<img
 					class="featured-line"
-					src="/assets/Homepage/section line.svg"
+					src="/assets/articles/linha.svg"
 					alt="line"
 				/>
 			</div>
@@ -122,9 +131,121 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
+
 				</div>
-			
-			<div class="buttons-black centered" onclick="showMe()">show more</div>
+				<div class="buttons-black centered" onclick="showMe()">show more</div>
+			<div class="articles-featured">
+				<div class="featured">NBA Portugal</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+				<div class="articles-list-all">
+			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article.url}>
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{nbaportugal.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				<a class="article-item hiddennba" href={article.url} >
+					<div >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+			</div>
+			<div class="buttons-black centered" onclick="showMenba()">show more</div>
+			<div class="articles-featured">
+				<div class="featured">Slam</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+				<div class="articles-list-all">
+			{slam.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article.url}>
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{slam.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				<a class="article-item hiddenslam" href={article.url} >
+					<div >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+			</div>
+			<div class="buttons-black centered" onclick="showMeslam()">show more</div>
+			<div class="articles-featured">
+				<div class="featured">BasketBall RealGM</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+				<div class="articles-list-all">
+			{realgm.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article.url}>
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{realgm.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				<a class="article-item hiddenreal" href={article.url} >
+					<div >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+			</div>
+			<div class="buttons-black centered" onclick="showMereal()">show more</div>
+			<div class="articles-featured">
+				<div class="featured">Ball is Life</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+				<div class="articles-list-all">
+			{ballislife.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article.url}>
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{ballislife.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				<a class="article-item hiddenball" href={article.url} >
+					<div >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+			</div>
+			<div class="buttons-black centered" onclick="showMeball()">show more</div>
 		</section>
 		<!-- <section class="articles white">
 			<div class="articles-featured">
@@ -135,7 +256,25 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					alt="line"
 				/>
 			</div>
-		
+		<div class="articles-list-all">
+			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article.url}>
+					<div  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{nbaportugal.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				<a class="article-item hidden" href={article.url} >
+					<div >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+			</div>
 			<Nba client:visible/>
 			<div class="buttons-black centered" >show more</div>
 		</section> -->
@@ -149,6 +288,102 @@ hiddenArticles.forEach(article=>{
 
 	 article.classList.add('hidden-disabled')
 	 article.classList.remove('hidden')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMenba() {
+const hiddenArticles=document.querySelectorAll('.hiddennba');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddennba')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeslam() {
+const hiddenArticles=document.querySelectorAll('.hiddenslam');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenslam')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMereal() {
+const hiddenArticles=document.querySelectorAll('.hiddenreal');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenreal')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeball() {
+const hiddenArticles=document.querySelectorAll('.hiddenball');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenball')
 
  console.log('opened')
  });

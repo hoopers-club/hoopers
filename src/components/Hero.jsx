@@ -30,7 +30,7 @@ const Hero = ({ articles }) => {
 					backgroundSize: 'cover ',
 					background: `linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("${courtImage?.image}") `,
 				}}>
-				<img
+				{/* <img
 					src='/assets/courts/left.svg'
 					alt=''
 					className='changeleft'
@@ -41,12 +41,13 @@ const Hero = ({ articles }) => {
 					alt=''
 					className='changeright'
 					onClick={() => skip('forward')}
-				/>
+				/> */}
 				<div className='headline'>
 					<a href={courtImage?.url}>{courtImage?.title}</a>
 				</div>
 				<div className='sub-headline'>{courtImage?.subname}</div>
-				<div class='sub-text centered'>
+
+				<div className='sub-text centered'>
 					{courtImage?.publishDate} <br />
 					{courtImage?.author}
 				</div>

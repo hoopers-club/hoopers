@@ -5,8 +5,9 @@
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
-		"build": "astro build",
-		"preview": "astro preview"
+		"build": "node public/main.js && astro build",
+		"preview": "astro preview",
+		"server": "node public/main.js"
 	},
 	"devDependencies": {
 		"@astrojs/renderer-preact": "^0.2.1",
@@ -15,6 +16,8 @@
 	"dependencies": {
 		"axios": "^0.22.0",
 		"cheerio": "^1.0.0-rc.10",
+		"express": "^4.17.1",
+		"node-cron": "^3.0.0",
 		"puppeteer": "^10.4.0"
 	}
 }
