@@ -30,13 +30,16 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		// 		court.galleryImages[(currentIndex - 1) % court.galleryImages.length]
 		// 	);
 		// }
-	// };
-const nbaportugal= await ( await fetch('https://hoopers-club.netlify.app/nba.json')).json();
-const slam= await ( await fetch('https://hoopers-club.netlify.app/slam.json')).json();
-const realgm= await ( await fetch('https://hoopers-club.netlify.app/realgm.json')).json();
-const ballislife= await ( await fetch('https://hoopers-club.netlify.app/ballislife.json')).json();
+// 	// };
+// const nbaportugal= await ( await fetch('https://hoopers-club.netlify.app/nba.json')).json();
+// const slam= await ( await fetch('https://hoopers-club.netlify.app/slam.json')).json();
+// const realgm= await ( await fetch('https://hoopers-club.netlify.app/realgm.json')).json();
+// const ballislife= await ( await fetch('https://hoopers-club.netlify.app/ballislife.json')).json();
+import nbaportugal from'/nba.json'
+import slam from'/slam.json'
+import realgm from'/realgm.json'
+import ballislife from'/ballislife.json'
 
-console.log(slam)
 
 
 
