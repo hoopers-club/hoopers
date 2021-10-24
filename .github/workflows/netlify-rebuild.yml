@@ -5,7 +5,7 @@ on:
   schedule:
     # Customize schedule expression at crontab.guru
     # This one runs at 800 UTC daily
-    - cron: '*/5 * * * *'
+    - cron: '0 */8 * * *'
 jobs:
   build:
     name: Netlify Rebuild
