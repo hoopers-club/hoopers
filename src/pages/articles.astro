@@ -31,10 +31,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		// 	);
 		// }
 	// };
-const nbaportugal= await ( await fetch('/nba.json')).json();
-const slam= await ( await fetch('/slam.json')).json();
-const realgm= await ( await fetch('/realgm.json')).json();
-const ballislife= await ( await fetch('/ballislife.json')).json();
+const nbaportugal= await ( await fetch('https://hoopers-club.netlify.app/nba.json')).json();
+const slam= await ( await fetch('https://hoopers-club.netlify.app/slam.json')).json();
+const realgm= await ( await fetch('https://hoopers-club.netlify.app/realgm.json')).json();
+const ballislife= await ( await fetch('https://hoopers-club.netlify.app/ballislife.json')).json();
 
 console.log(slam)
 
