@@ -1,5 +1,5 @@
-const express = require('express');
-const app = express();
+// const express = require('express');
+// const app = express();
 const axios = require('axios');
 const cheerio = require('cheerio');
 const cron = require('node-cron');
@@ -147,15 +147,15 @@ const realgm = () => {
 		.catch((err) => console.log(err));
 };
 
-cron.schedule('0 */8 * * *', function () {
-	console.log('running a task every minute');
-	getNbaportugal();
-	slam();
-	ballislife();
-	// bleach();
-	realgm();
-});
+// cron.schedule('0 */8 * * *', function () {
+console.log('running a task every minute');
+getNbaportugal();
+slam();
+ballislife();
+// bleach();
+realgm();
+// });
 // Making Express listen on port 7000
-app.listen(7000, function () {
-	console.log('Running on port 7000.');
-});
+// app.listen(7000, function () {
+// 	console.log('Running on port 7000.');
+// });
