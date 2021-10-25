@@ -2,16 +2,15 @@
 image: /assets/uploads/thumb_conde.png
 name: Conde de Bonfim
 subname: Portugal
-location: " São Domingos de Benfica "
+location: Largo Conde Bonfim | Lisbon, Portugal
 artist: Pitanga
-duration: 15 Days
+duration: 10 Days
 partner:
+  - Parish Council Of São Domingos
+  - GAU + Jopinto
   - Robbialac
-  - JOPINTO
-  - SPORT DESIGN
-  - Galeria de Arte Urbana
-  - Junta de Freguesia de Benfica
-whaWeDid: A new basketball court.
+  - Sport Design
+whaWeDid: Refurbished the basketball floor.
 galleryImages:
   - /assets/uploads/1_conde-de-bonfim1.jpg
   - /assets/uploads/1_conde-de-bonfim2.jpg
