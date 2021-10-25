@@ -9,6 +9,7 @@
 @use './components/menu' as *;
 @use './components/courtdetail' as *;
 @use './components/court' as *;
+@use './components/search' as *;
 
 * {
 	padding: 0;
@@ -17,7 +18,7 @@
 input {
 	border-color: transparent;
 	background-color: transparent;
-	border-bottom-color: $hoopers-black;
+	// border-bottom-color: $hoopers-black;
 	&::placeholder {
 		color: white;
 	}
@@ -28,6 +29,7 @@ a {
 	color: inherit;
 }
 .strikeline {
+	color: $dark-orange;
 	text-decoration: line-through;
 }
 // div {
@@ -69,13 +71,13 @@ body {
 	// justify-content: center;
 }
 .centered {
-	margin: 3em auto;
+	margin: 1em auto;
 }
 .condensed {
 	font-family: $aktiv-grotesk-BoldCD;
 }
 .buttons {
-	padding: 0.2em 1.5em;
+	padding: 0.38em 1.5em;
 	background-color: $hoopers-yellow;
 	color: black;
 	width: fit-content;
@@ -91,7 +93,7 @@ body {
 }
 .buttons-black {
 	text-transform: uppercase;
-	padding: 0.2em 1.5em;
+	padding: 0.38em 1.5em;
 
 	width: fit-content;
 	background-color: $hoopers-black;
@@ -129,7 +131,8 @@ body {
 	gap: 0;
 	z-index: 2;
 	h2 {
-		font-family: $aktiv-grotesk-BoldEX;
+		font-family: $aktiv-grotesk-XBoldEX;
+		font-size: 1.7647058823529411em;
 		margin: 0;
 		padding: 0;
 	}
@@ -155,7 +158,7 @@ section {
 		justify-content: space-around;
 		width: 100%;
 		color: $dark-orange;
-		font-family: $aktiv-grotesk-BoldEX;
+		font-family: $aktiv-grotesk-XBoldEX;
 	}
 }
 .content {
@@ -174,7 +177,7 @@ section {
 		width: minmax(20em, 100%);
 		img {
 			width: 100%;
-			height: 50vh;
+			height: 70vh;
 			object-fit: cover;
 		}
 	}
@@ -525,4 +528,5 @@ footer {
 	right: 0;
 	z-index: 0;
 	object-fit: cover;
+	background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
 }

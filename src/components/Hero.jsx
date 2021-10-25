@@ -2,24 +2,25 @@ import { useState } from 'react';
 
 const Hero = ({ articles }) => {
 	const url = '/assets/Homepage/hero main.svg';
-	const [courtImage, setcourtImage] = useState(articles[0]);
+	const [courtImage, setcourtImage] = useState(articles[1]);
+	console.log(courtImage);
 
-	const skip = (direction) => {
-		let currentIndex = articles.findIndex((court) => court === courtImage);
-		console.log(courtImage);
-		if (direction === 'forward') {
-			setcourtImage(articles[(currentIndex + 1) % articles.length]);
-			console.log(courtImage);
-		}
-		if (direction === 'back') {
-			if ((currentIndex - 1) % articles.length === -1) {
-				setcourtImage(articles[articles.length - 1]);
+	// const skip = (direction) => {
+	// 	let currentIndex = articles.findIndex((court) => court === courtImage);
+	// 	console.log(courtImage);
+	// 	if (direction === 'forward') {
+	// 		setcourtImage(articles[(currentIndex + 1) % articles.length]);
+	// 		console.log(courtImage);
+	// 	}
+	// 	if (direction === 'back') {
+	// 		if ((currentIndex - 1) % articles.length === -1) {
+	// 			setcourtImage(articles[articles.length - 1]);
 
-				return;
-			}
-			setcourtImage(articles[(currentIndex - 1) % articles.length]);
-		}
-	};
+	// 			return;
+	// 		}
+	// 		setcourtImage(articles[(currentIndex - 1) % articles.length]);
+	// 	}
+	// };
 	return (
 		<div className='container'>
 			<div

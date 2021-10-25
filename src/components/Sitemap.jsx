@@ -21,7 +21,9 @@ const Sitemap = ({ openSitemap }) => {
 					<li>
 						<a href='/articles'>ARTICLES</a>
 					</li>
-					<li className='strikeline'>ESPORTS</li>
+					<li className='strikeline'>
+						<span style={{ color: 'white' }}>ESPORTS</span>
+					</li>
 					<li onClick={submenu}>COURTS</li>
 					{expanded ? (
 						<span className='sub-courts'>
@@ -35,7 +37,9 @@ const Sitemap = ({ openSitemap }) => {
 					) : (
 						''
 					)}
-					<li className='strikeline'>SUMMER LEAGUE</li>
+					<li className='strikeline'>
+						<span style={{ color: 'white' }}>SUMMER LEAGUE</span>
+					</li>
 					<li>
 						<a
 							href='https://www.youtube.com/channel/UC9majUuTNcytG0nmt_B8Ubg'
@@ -50,7 +54,9 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li className='strikeline'>NFT</li>
+					<li className='strikeline'>
+						<span style={{ color: 'white' }}>NFT</span>
+					</li>
 					<li>
 						<a href='https://hoopers.store/' target='_blank'>
 							SHOP

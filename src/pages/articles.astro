@@ -48,27 +48,30 @@ import ballislife from'/ballislife.json'
 
 <Bases>
 		
-        <Heros articles={allPosts} client:load/>
-        <!-- <div class="container">
+        <!-- <Heros articles={allPosts} client:visible/> -->
+        <div class="container">
 			<div
 				class="top"
-				style="
+				style={`
 				
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-						url('/assets/Homepage/hero main.svg');
+						url('${allPosts[0]?.image}');
 							background-attachment: fixed;
-							background-position:center;
-				"
+							background-position:center;`
+				}
 			>
-				<img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/>
-				<div class="headline quotes">CARA OU COROA</div>
+				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+				<div class="headline quotes">{allPosts[0]?.title}</div>
 				<div class="sub-headline">
-					THE NEW ICONIC LISBON COURT BY EDIS AND PARIZ
+					{allPosts[0]?.subname}
 				</div>
-
+				<div class='sub-text centered'>
+					{allPosts[0]?.publishDate} <br />
+					{allPosts[0]?.author}
+				</div>
 				
 			</div>
-		</div> -->
+		</div>
 		
         <section class="articles white" style="min-height:0;">
 			<div class="articles-featured">
@@ -118,8 +121,8 @@ import ballislife from'/ballislife.json'
 			</div>
 			<div class="articles-list-all">
 			{allPosts.slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
+				<a class="article-item"  href={article.url}>
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -128,7 +131,7 @@ import ballislife from'/ballislife.json'
 				
 				{allPosts.slice(6,allPosts.length).map(article =>(
 				<a class="article-item hidden" href={article.url} >
-					<div >
+					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -147,17 +150,17 @@ import ballislife from'/ballislife.json'
 			</div>
 				<div class="articles-list-all">
 			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
+				<a class="article-item" href={article.url} target="_blank" >
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
 				
-				{nbaportugal.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
-				<a class="article-item hiddennba" href={article.url} >
-					<div >
+				{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
+				<a class="article-item hiddennba" href={article.url}  target="_blank">
+					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -175,17 +178,17 @@ import ballislife from'/ballislife.json'
 			</div>
 				<div class="articles-list-all">
 			{slam.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
+				<a class="article-item" href={article.url} target="_blank">
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
 				
-				{slam.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
-				<a class="article-item hiddenslam" href={article.url} >
-					<div >
+				{slam.filter(i=>i.author!=null).slice(6,slam.length).map(article =>(
+				<a class="article-item hiddenslam" href={article.url} target="_blank" >
+					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -203,17 +206,17 @@ import ballislife from'/ballislife.json'
 			</div>
 				<div class="articles-list-all">
 			{realgm.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
+				<a class="article-item" href={article.url} target="_blank">
+					<div  style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
 				
-				{realgm.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
-				<a class="article-item hiddenreal" href={article.url} >
-					<div >
+				{realgm.filter(i=>i.author!=null).slice(6,realgm.length).map(article =>(
+				<a class="article-item hiddenreal" href={article.url} target="_blank" >
+					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -231,17 +234,17 @@ import ballislife from'/ballislife.json'
 			</div>
 				<div class="articles-list-all">
 			{ballislife.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
+				<a class="article-item" href={article.url} target="_blank">
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
 				
-				{ballislife.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
-				<a class="article-item hiddenball" href={article.url} >
-					<div >
+				{ballislife.filter(i=>i.author!=null).slice(6,ballislife.length).map(article =>(
+				<a class="article-item hiddenball" href={article.url}  target="_blank">
+					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
@@ -269,7 +272,7 @@ import ballislife from'/ballislife.json'
 					</div>
 				</a>))}
 				
-				{nbaportugal.filter(i=>i.author!=null).slice(6,allPosts.length).map(article =>(
+				{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
 				<a class="article-item hidden" href={article.url} >
 					<div >
 						<div class="img"><img src={article?.image} alt=""></div>

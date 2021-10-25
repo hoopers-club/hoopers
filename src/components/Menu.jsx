@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Sitemap from './Sitemap.jsx';
 const Menu = ({ open, setOpen }) => {
 	const [openSite, setOpenSite] = useState(false);
@@ -9,9 +9,27 @@ const Menu = ({ open, setOpen }) => {
 		console.log(open);
 		console.log(openSite);
 	};
+	const [navBackground, setNavBackground] = useState('appbar-transparent');
+	const navRef = React.useRef();
+	navRef.current = navBackground;
+
+	useEffect(() => {
+		const handleScroll = () => {
+			const show = window.scrollY > 300;
+			if (show) {
+				setNavBackground('appbar-solid');
+			} else {
+				setNavBackground('appbar-transparent');
+			}
+		};
+		document.addEventListener('scroll', handleScroll);
+		return () => {
+			document.removeEventListener('scroll', handleScroll);
+		};
+	}, []);
 
 	return (
-		<div className='nav'>
+		<div className={`nav ${navRef.current} `}>
 			<div className='menu' onClick={openSitemap}>
 				<img src='/assets/Homepage/Botão Novo Hamburguer.svg' alt='menu' />
 			</div>

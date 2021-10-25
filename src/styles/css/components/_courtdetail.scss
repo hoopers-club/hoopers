@@ -27,7 +27,7 @@
 			text-transform: uppercase;
 		}
 		.history {
-			font-size: 1em !important;
+			font-size: 1.125em !important;
 		}
 		.detail {
 			color: $white;
@@ -147,4 +147,8 @@
 		}
 		font-size: 0.7em;
 	}
+}
+
+.end {
+	padding-top: 1em;
 }

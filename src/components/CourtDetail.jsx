@@ -87,7 +87,7 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 						className='detail-history history'
 						dangerouslySetInnerHTML={{ __html: court?.astro.html }}></div>
 				</div>
-				<img src='/assets/courts/courtseparatordetail.svg' alt='' />
+				<img class='end' src='/assets/courts/courtseparatordetail.svg' alt='' />
 			</div>
 		</div>
 	);

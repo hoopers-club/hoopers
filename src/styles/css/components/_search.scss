@@ -1,0 +1,90 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.search-page {
+	min-height: 40vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.search-query {
+	margin: 0 10%;
+	color: $white;
+	font-size: 2em;
+	font-family: $aktiv-grotesk-bold;
+}
+.search-list-all {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
+	// grid-auto-rows: 30vh;
+	padding: 0 10%;
+	// margin: 0 5em;
+	gap: 2em;
+	border-bottom: 0.5px solid $dark-orange;
+	.article-item {
+		display: flex;
+		flex-direction: column;
+		border-bottom: 0.5px solid $dark-orange;
+
+		max-width: 100%;
+		margin-bottom: 2em;
+		cursor: pointer;
+		.img {
+			max-width: 100%;
+
+			overflow: hidden;
+			height: 10em;
+
+			img {
+				display: block;
+				margin: 0 auto auto auto;
+				max-width: 100%;
+			}
+		}
+		.article-title {
+			// text-transform: uppercase;
+			font-size: 2em;
+			font-family: $aktiv-grotesk-bold;
+			max-width: 100%;
+			color: $white;
+			margin-bottom: auto;
+		}
+		.article-writer {
+			font-style: italic;
+			color: $white;
+			font-family: $aktiv-grotesk-mediumitalic;
+			text-transform: uppercase;
+			font-size: 1em;
+			background-image: linear-gradient($dark-orange, $dark-orange);
+			background-size: 0%;
+			background-repeat: no-repeat;
+			background-position: left center;
+			width: 100%;
+			transition: background-size 300ms ease-out;
+		}
+	}
+	.article-item:hover {
+		.article-writer {
+			width: 100%;
+			background-size: 100%;
+		}
+		.article-underline {
+			background-color: $dark-orange;
+		}
+	}
+
+	.articles-item:hover {
+		.article-underline {
+			background-color: $dark-orange;
+		}
+	}
+	.article-underline {
+		background-color: $white;
+		height: 2px;
+		width: 80%;
+		display: flex;
+		margin: 0 auto;
+		border-radius: 2em;
+		transition: all 1s forwards ease-out;
+	}
+}

@@ -16,10 +16,10 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
     <div class="content-black">
                 <div class="top content-black">
                     
-                    <div class="page">
-                        <div class="term-title">CAREERS AT HOOPERS</div>
+                    <div class="page" style="padding: 8% 15% 0 15%;">
+                        <div class="term-title font-bold">CAREERS AT HOOPERS</div>
                         <img src="/assets/policy/Line Breaker white.svg" alt="" />
-                        <div class="term-title"> {allPosts.length>=1?'WE’RE HIRING!':'SORRY, THERE ARE NO OPEN POSITIONS RIGHT NOW.'}</div>
+                        <div class="term-title font-bold orange"> {allPosts.length>=1?'WE’RE HIRING!':'SORRY, THERE ARE NO OPEN POSITIONS RIGHT NOW.'}</div>
                         <div class="positions">{allPosts.length>=1?'OPEN POSITIONS':''}</div>
                         <div class="openings-list">
                       
@@ -35,11 +35,11 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
                             </div>
                            )):''
                                 }
-                           {allPosts.length>=1?'': (<div class="centered"><iframe src="https://giphy.com/embed/ehmL4HSm7F38hkamtu" width="720" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-upset-michael-jordan-ehmL4HSm7F38hkamtu"></a></p></div>)}
+                           {allPosts.length>=1?'': (<div class="new-centered"><iframe src="https://giphy.com/embed/ehmL4HSm7F38hkamtu" width="720" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-upset-michael-jordan-ehmL4HSm7F38hkamtu"></a></p></div>)}
                         </div>
                     </div>
                     <div
-                        class="buttons centered"
+                        class="buttons new-centered"
                         style="font-size: 1rem; padding: 1em 0.2em"
                     >
                         FOLLOW US ON LINKEDIN

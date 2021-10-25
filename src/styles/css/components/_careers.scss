@@ -34,3 +34,15 @@
 	color: $white;
 	font-family: $aktiv-grotesk-light;
 }
+
+.font-bold {
+	font-family: $aktiv-grotesk-bolditalic !important;
+}
+
+.orange {
+	color: $dark-orange;
+}
+
+.new-centered {
+	margin: 0em auto 2em auto;
+}
