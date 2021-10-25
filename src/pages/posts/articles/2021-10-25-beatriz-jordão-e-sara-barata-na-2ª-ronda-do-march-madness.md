@@ -4,7 +4,7 @@ subname: Beatriz Jordão e Sara Barata continuam a dançar no March Madness. Já
   amanhã têm novo confronto às 19h de Portugal Continental. Maria Carvalho fez
   uma boa exibição, mas a sua equipa ficou pelo caminho.
 featured: false
-publishDate: Oct 22nd 21
+publishDate: Mar 22nd 21
 image: /assets/uploads/33_banner_beatrizsara.png
 author: hoopers
 layout: ../../../Layout/single-article.astro
