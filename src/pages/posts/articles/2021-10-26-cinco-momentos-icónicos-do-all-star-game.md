@@ -6,7 +6,7 @@ subname: O All-Star Game da NBA protagoniza sempre momentos espetaculares e
 featured: false
 publishDate: Feb 25th 21
 image: /assets/uploads/47_banner_cincomomentos.jpeg
-author: By Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 Há quem diga que os **“All-Star Game”** atuais não são tão emocionantes quanto os do passado. Entre os vários argumentos, alguns fãs defendem que a competitividade já não é a mesma. Ainda assim, o All-Star Game 2021 aproxima-se e é difícil não ficar empolgado com a [lista de jogadores já divulgada pela NBA](https://www.hoopers.club/noticias/all-star-game-2021-consciencializacao-no-combate-pandemia). E para ir aquecendo, preparámos uma seleção com momentos icónicos que já aconteceram neste evento para desfrutar antes do embate entre as equipas capitaneadas por **LeBron James** e **Kevin Durant** já no próximo dia 7 de março.
