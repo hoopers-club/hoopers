@@ -41,6 +41,8 @@ Foi aí que tomei a minha decisão. Eu queria, sem dúvida, continuar a jogar Ba
 
 ![Créditos: University of South Florida](/assets/uploads/guerreiro_3.png "Créditos: University of South Florida")
 
+Créditos: University of South Florida
+
 Passado um mês, o treinador principal e uma das treinadoras adjuntas vieram a Portugal. Assistiram a um treino e ficaram para falar comigo, com os meus pais e com o meu treinador, José Leite. A forma como me receberam e apresentaram o convite foi incrível, fiquei super motivada e mal podia esperar para a próxima época.
 
 Em fevereiro, fiz a visita oficial com os meus pais à universidade para ver o me esperava. Assumi o compromisso e já era garantido que ia jogar para lá! Quando visitei a faculdade fiquei em choque, as condições eram incríveis e tinha tudo para correr bem… mas por outro lado, estava bastante assustada. Foi aí que me caiu a ficha: esta mudança estava prestes a acontecer e não havia volta a dar. Sabia que ia ser um grande desafio, que me ia por à prova. A equipa tem excelentes jogadoras na minha posição e eu tinha bem a noção que ia ter de trabalhar bastante para conquistar o meu lugar. Ninguém promete minutos.
