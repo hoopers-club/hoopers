@@ -12,11 +12,7 @@ Exatamente um ano depois de **Delonte West** aparecer num vídeo em que estava a
 
 > **“Senhoras e senhores, apresento-vos o Delonte West. Um longo, longo caminho a percorrer, mas ele já deu os seus primeiros passos e compartilhou-os com todos nós como agradecimento pelo amor e apoio” - Mark Cuban**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ladies &amp; Gentlemen, I present to you, Delonte West . A long, long , long way to go, but he has taken the first steps and shared these with all of us as a thank you for the love and support. <a href="https://t.co/555twAEVDP">pic.twitter.com/555twAEVDP</a></p>&mdash; Mark Cuban (@mcuban) <a href="https://twitter.com/mcuban/status/1314620092680937473?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Um mês depois, um novo vídeo de West voltou a aparecer, destacando o seu regresso aos campos. Sugiram também algumas imagens onde o ex-atleta praticava canoagem e começaram a reforçar-se os sinais da sua recuperação. Esta tem sido uma história que tem prendido a atenção de jogadores da NBA e dos amantes da modalidade, não só pela triste queda do ex-jogador que levaram ao abuso de substâncias e problemas de saúde mental, mas também ao acto humanista de Mark Cuban.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delonte West was back on the court this week. 💙 👊<br><br>(🎥: IG/og__chris19) <a href="https://t.co/lpQSRz3yjt">pic.twitter.com/lpQSRz3yjt</a></p>&mdash; theScore (@theScore) <a href="https://twitter.com/theScore/status/1324428770573455364?ref_src=twsrc%5Etfw">November 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Muito recentemente, Delonte West, agora com 37 anos de idade, começou a trabalhar no centro de reabilitação onde tinha entrado há quatro meses para tratar da sua dependência química. A informação é do jornalista Shams Charania. Ainda de acordo com o jornalista, **a recuperação do atleta é ótima** e, além disso, Mark Cuban voltou a reunir West com a sua mãe, que voltou a ter contato próximo com seu filho depois de um longo período de afastamento. 
 
