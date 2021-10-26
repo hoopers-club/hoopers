@@ -28,6 +28,10 @@ Uma tradição importante do March Madness é preencher o [“NCAA Bracket”](h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yL8W4lx30l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+
+<br/>
+
 # **História**
 
 Com apenas oito equipas, o primeiro March Madness ocorreu no ano de 1939 e a Universidade de Oregon bateu o Ohio State por 46-33. Foi apenas em 1951 que o número de equipas participantes duplicou, passando para 16. Depois disso, o número de universidades participantes tem vindo a aumentar ao longo dos anos, e foi no ano 1985 que o torneio contou pela primeira vez com 64 equipas universitárias a disputar o título. Em 2001, foi criada mais uma vaga e, em 2011, foram criadas três novas vagas, chegando assim aos atuais 68 participantes.
