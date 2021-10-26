@@ -2,9 +2,9 @@
 title: "Chicago: uma bonita história que ajudámos a escrever em Chelas."
 subname: Recap e agradecimentos do projeto Chicago. Por André Costa.
 featured: false
-publishDate: Nov 20th 20
+publishDate: Nov 26th 20
 image: /assets/uploads/71_banner_bonitahistoria.png
-author: Hoopers
+author: André Costa
 layout: ../../../Layout/single-article.astro
 ---
 Wow! Por onde é que eu começo?
