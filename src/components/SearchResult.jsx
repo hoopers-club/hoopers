@@ -20,7 +20,7 @@ const SearchResult = ({ articles }) => {
 	}, [search]);
 	return (
 		<div className=''>
-			{filtered.length > 0 ? (
+			{search !== '' && filtered.length > 0 ? (
 				<div className='search-list-all'>
 					{filtered.map((article, i) => (
 						<a key={i} className='article-item' href={article.url}>

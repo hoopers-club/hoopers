@@ -88,3 +88,18 @@
 		transition: all 1s forwards ease-out;
 	}
 }
+
+@media screen and (max-width: 500px) {
+	.search {
+		position: fixed;
+		width: fit-content;
+		right: 2rem;
+		bottom: 5rem;
+		img {
+			width: 4rem;
+		}
+	}
+	.search-query {
+		margin-top: 2em;
+	}
+}
