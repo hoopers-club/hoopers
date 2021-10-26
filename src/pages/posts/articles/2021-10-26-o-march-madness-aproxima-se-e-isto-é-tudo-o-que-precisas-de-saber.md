@@ -38,6 +38,10 @@ Entre os maiores vencedores desta competição temos os **UCLA Bruins** com 11 t
 
 ![Bill Russell comemora o título de 1956.](/assets/uploads/march_2.jpg "Bill Russell comemora o título de 1956.")
 
+*Bill Russell comemora o título de 1956.*
+
+
+
 No entanto, foi justamente no ano em que **Michael Jordan** se sagrou campeão do torneio, em 1982, pelos North Carolina Tar Heels, que o jornalista Brent Musburger “apelidou” a competição de **March Madness**. Na final daquele ano entre a equipa da Carolina do Norte e os Georgetown Hoyas, foi o próprio MJ quem marcou o cesto da vitória que valeu o título à sua equipa.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qklYkm2jAQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
