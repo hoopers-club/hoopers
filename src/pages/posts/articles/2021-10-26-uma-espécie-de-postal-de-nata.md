@@ -1,5 +1,5 @@
 ---
-title: Uma espécie de postal de Nata
+title: Uma espécie de postal de Natal
 subname: O Natal aproxima-se e o final do 2020 também e, por isso, decidimos
   escrever o nosso postal de Natal para falar um pouco sobre este ano que
   passou. Este é um artigo assinado por André Costa.
