@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_vila.png
 name: Vila Gualdina
 subname: Portugal
+position: 5
 location: Vila Gualdina, Penafiel
 artist: Matilde Horta
 partner:

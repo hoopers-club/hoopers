@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_quinta.png
 name: Quinta das Lages
 subname: Portugal
+position: 6
 location: Quinta das Lages, Penafiel
 artist: Flix
 partner:

@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_conde.png
 name: Conde de Bonfim
 subname: Portugal
+position: 8
 location: Largo Conde Bonfim | Lisbon, Portugal
 artist: Pitanga
 duration: 10 Days

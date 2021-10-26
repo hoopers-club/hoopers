@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_ameixoeira.png
 name: Ameixoeira
 subname: Portugal
+position: 4
 location: Ameixoeira
 artist: Los Pepes
 partner:

@@ -1,40 +1,11 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
-// import Nba from '../components/Nba.jsx'
-// import Heros from '../components/Hero.jsx'
+
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
-	// const courtImage = allPosts[0]
-
-	// const skip = (direction) => {
-	// 	let currentIndex = allPosts.findIndex(
-	// 		(court) => court === courtImage
-	// 	);
-	// 	console.log(currentIndex);
-		// if (direction === 'forward') {
-		// 	setcourtImage(
-		// 		court.galleryImages[(currentIndex + 1) % court.galleryImages.length]
-		// 	);
-		// 	console.log(courtImage);
-		// }
-		// if (direction === 'back') {
-		// 	if ((currentIndex - 1) % court.galleryImages.length === -1) {
-		// 		setcourtImage(court.galleryImages[court.galleryImages.length - 1]);
-
-		// 		return;
-		// 	}
-		// 	setcourtImage(
-		// 		court.galleryImages[(currentIndex - 1) % court.galleryImages.length]
-		// 	);
-		// }
-// 	// };
-// const nbaportugal= await ( await fetch('https://hoopers-club.netlify.app/nba.json')).json();
-// const slam= await ( await fetch('https://hoopers-club.netlify.app/slam.json')).json();
-// const realgm= await ( await fetch('https://hoopers-club.netlify.app/realgm.json')).json();
-// const ballislife= await ( await fetch('https://hoopers-club.netlify.app/ballislife.json')).json();
 import nbaportugal from'/nba.json'
 import slam from'/slam.json'
 import realgm from'/realgm.json'
@@ -61,7 +32,7 @@ import ballislife from'/ballislife.json'
 				}
 			>
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
-				<div class="headline quotes">{allPosts[0]?.title}</div>
+				<div class="headline">{allPosts[0]?.title}</div>
 				<div class="sub-headline">
 					{allPosts[0]?.subname}
 				</div>
@@ -285,9 +256,10 @@ import ballislife from'/ballislife.json'
 			<div class="buttons-black centered" >show more</div>
 		</section> -->
 <script>
+// button show more function
 function showMe() {
 const hiddenArticles=document.querySelectorAll('.hidden');
- console.log(hiddenArticles[0]) ;
+//console.log(hiddenArticles[0]) ; 
 
   if(hiddenArticles){
 hiddenArticles.forEach(article=>{ 

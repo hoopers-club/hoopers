@@ -1,26 +1,28 @@
 import { useState } from 'react';
 
 const CourtDetail = ({ handleDetail, court, setDetail }) => {
-	const [courtImage, setcourtImage] = useState(court?.galleryImages[0]);
+	const [courtImage, setcourtImage] = useState(
+		court ? court?.galleryImages[0] : ''
+	);
 
 	const skip = (direction) => {
-		let currentIndex = court.galleryImages.findIndex(
+		let currentIndex = court?.galleryImages.findIndex(
 			(court) => court === courtImage
 		);
 		if (direction === 'forward') {
 			setcourtImage(
-				court.galleryImages[(currentIndex + 1) % court.galleryImages.length]
+				court?.galleryImages[(currentIndex + 1) % court?.galleryImages.length]
 			);
 			console.log(courtImage);
 		}
 		if (direction === 'back') {
-			if ((currentIndex - 1) % court.galleryImages.length === -1) {
-				setcourtImage(court.galleryImages[court.galleryImages.length - 1]);
+			if ((currentIndex - 1) % court?.galleryImages.length === -1) {
+				setcourtImage(court?.galleryImages[court?.galleryImages.length - 1]);
 
 				return;
 			}
 			setcourtImage(
-				court.galleryImages[(currentIndex - 1) % court.galleryImages.length]
+				court?.galleryImages[(currentIndex - 1) % court?.galleryImages.length]
 			);
 		}
 	};

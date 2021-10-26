@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_chicago.png
 name: Chicago
 subname: Portugal
+position: 2
 location: Chelas, Lisboa
 artist: "Halfstudio "
 partner:

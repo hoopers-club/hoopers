@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_barreiro.png
 name: Barreiro
 subname: Portugal
+position: 7
 location: Zona 4, Barreiro
 artist: Samina
 partner:

@@ -2,6 +2,7 @@
 image: /assets/uploads/thumb_calçada.png
 name: Calçada de Carriche
 subname: Portugal
+position: 3
 location: Calçada de Carriche, Lisbon
 artist: " Hélio Bray"
 partner:

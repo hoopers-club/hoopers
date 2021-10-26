@@ -2,6 +2,7 @@
 image: /assets/uploads/thumbnails.png
 name: Braga
 subname: Portugal
+position: 1
 location: Enguardas, Braga
 artist: Contra
 partner:
