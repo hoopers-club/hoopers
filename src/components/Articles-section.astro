@@ -1,18 +1,16 @@
 ---
 
 
-
+// get object from index
 let {articles}=Astro.props
+// filters articles by featured === true
 articles=articles.filter(article=>article.featured==true)
 
-// console.log(articles)
 
-// const title= document.querySelector('.title-section')
-// console.log()
 ---
  
 <section class="articles">
-			<div class="title">
+			<div class="title" style="padding-top:0;">
 				<div class="title-section centerleft-i">articles</div>
 				<img class="line centerright-i" src="/assets/Homepage/section line.svg" alt="line" />
 			</div>
