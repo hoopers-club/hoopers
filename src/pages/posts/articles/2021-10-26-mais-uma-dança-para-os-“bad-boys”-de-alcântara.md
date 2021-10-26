@@ -5,7 +5,7 @@ subname: A pandemia trouxe muitas dificuldades e adversidades para o basquetebol
   de amigos junta-se para uma “last dance” e devolver o Basket a um histórico da
   modalidade.
 featured: false
-publishDate: Oct 26th 21
+publishDate: Oct 9th 20
 image: /assets/uploads/85_banner_badboys.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
