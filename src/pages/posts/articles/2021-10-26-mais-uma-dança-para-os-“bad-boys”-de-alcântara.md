@@ -36,13 +36,21 @@ Estava reunida a matéria-prima para começar, mas faltava definir o sítio. “
 
 O grupo começou então a definir as suas regras e a garantir que as mesmas eram aceites e cumpridas por todos. Consideraram-se as várias condições e limitações inerentes às responsabilidades familiares e profissionais de cada um durante este processo, mas tudo acabou por ser relativamente simples. Reinava a boa disposição, o compromisso com o projeto e o amor pelo jogo (e não só). As principais regras são: **\#1**) os treinos são às terças e quintas às 22h para todos terem tempo de chegarem dos seus trabalhos e/ou deitarem os seus filhos; **\#2)** não há treinos às sextas feiras, que ficam reservadas para os momentos com as famílias e amigos; **\#3)** no final de cada treino, celebra-se com a equipa e bebem-se umas minis em conjunto.
 
+![Créditos: Filipe Cabral / Pedro Medley](/assets/uploads/bad_boys_04.jpeg "Créditos: Filipe Cabral / Pedro Medley")
 
+Créditos: Filipe Cabral / Pedro Medley
 
 Esta equipa formada é uma mistura de experiência e de gerações com ligações ao Atlético e à modalidade, com uma média de idades em torno dos 35 anos, o que até podia constituir alguma espécie de recorde no Basquetebol português, não fosse a mais recente adição de três “novos” jogadores ao grupo: **André Baptista** oriundo do Benfica, assim como **João Alcântara** e **João Neves** provenientes do Algés, com idades compreendidas entre os 18 e os 24 anos. Neste plantel pautam várias referências e caras conhecidas da modalidade. Para além do já referido **Miguel Araújo**, o plantel conta com nomes como **João Manuel**, **Jorge Afonso**, **Miguel Barroca**, **Pedro Bagio**, **Tiago Magalhães**, **Bruno Trinchante**, **Hugo Aurélio**, **Nuno Pinho** e **Tiago Westenfeld**. Aos quais se juntam também **Diogo Leiria**, **António Nabais, Frederico Tavares**, **João Marques**, **Duarte Filipe**, **André Costa**, **Manuel Veloso** e **Jorge Medina**.
 
 Para Hugo Sousa os objetivos desta época “*passam por viver de forma intensa e consciente aquilo que o presente nos oferece. E este presente oferece-nos a oportunidade de voltar a jogar basquetebol, em família e na nossa casa, contribuindo para o renascimento do clube na modalidade*”. A integração das várias pessoas e a construção deste grupo tem sido um dos principais desafios que tem enfrentado, mas “*nada me dá mais gozo do que isto*”, refere o técnico. E juntar a este processo, existe também a questão da recuperação da forma física e das rotinas de jogo da equipa.
 
-Para Miguel Araújo, estas primeiras semanas de treinos têm sido de enorme regozijo. “*É uma satisfação enorme vir treinar e estar aqui a competir. Todos gostamos de competir e de ganhar, e aqui no Atlético sempre tivemos essa máxima*”, conclui o capitão do Atlético.A equipa da Tapadinha estreia-se este **domingo** às **17h** frente à equipa do **CNN - Clube Nacional de Natação** - para a Taça de Portugal, uma partida que marca o regresso do histórico Atlético aos palcos do Basquetebol nacional.
+Para Miguel Araújo, estas primeiras semanas de treinos têm sido de enorme regozijo. “*É uma satisfação enorme vir treinar e estar aqui a competir. Todos gostamos de competir e de ganhar, e aqui no Atlético sempre tivemos essa máxima*”, conclui o capitão do Atlético.
+
+![Créditos: Filipe Cabral / Pedro Medley](/assets/uploads/bad_boys_05.jpeg "Créditos: Filipe Cabral / Pedro Medley")
+
+Créditos: Filipe Cabral / Pedro Medley
+
+A equipa da Tapadinha estreia-se este **domingo** às **17h** frente à equipa do **CNN - Clube Nacional de Natação** - para a Taça de Portugal, uma partida que marca o regresso do histórico Atlético aos palcos do Basquetebol nacional.
 
 A pandemia trouxe muitas dificuldades e adversidades para o basquetebol em Portugal, mas também várias histórias inspiradoras, que tal como esta, valem a pena serem contadas. 
 
