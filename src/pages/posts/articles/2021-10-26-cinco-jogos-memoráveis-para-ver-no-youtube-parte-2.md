@@ -5,7 +5,7 @@ subname: Selecionámos 5 partidas inesquecíveis para te ajudar a passar mais um
 featured: false
 publishDate: Mar 5th 21
 image: /assets/uploads/game6.jpg
-author: By Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 Continuamos a fazer a nossa parte e a dar-te boas desculpas para ficares em casa. <u>[Selecionámos mais cinco partidas completas e inesquecíveis](https://www.hoopers.club/noticias/seis-jogos-memoraveis-para-ver-no-youtube) </u>para que te possas entreter durante este fim de semana.
