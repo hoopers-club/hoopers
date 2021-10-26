@@ -26,9 +26,9 @@ Ao contrário de outras edições em que o evento percorria vários estados amer
 \
 Uma tradição importante do March Madness é preencher o [“NCAA Bracket”](https://www.ncaa.com/march-madness-live/bracket), tentando acertar os possíveis resultados dos jogos. E se acham que é fácil, fiquem a saber que **nunca na história da competição uma pessoa acertou o vencedor de todos os confrontos**. Até agora, o recorde é de 39 jogos certeiros e as probabilidades de **montar um bracket perfeito são de 1 em 9.2 triliões**. Ainda assim, e para quem queira arriscar, o **Bracket Challenge Game** oficial da NCAA estará disponível para ser preenchido logo após o Selection Sunday - e na **Hoopers** vamos criar a nossa própria liga para que te possas juntar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yL8W4lx30l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yL8W4lx30l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **História** 
+# **História**
 
 Com apenas oito equipas, o primeiro March Madness ocorreu no ano de 1939 e a Universidade de Oregon bateu o Ohio State por 46-33. Foi apenas em 1951 que o número de equipas participantes duplicou, passando para 16. Depois disso, o número de universidades participantes tem vindo a aumentar ao longo dos anos, e foi no ano 1985 que o torneio contou pela primeira vez com 64 equipas universitárias a disputar o título. Em 2001, foi criada mais uma vaga e, em 2011, foram criadas três novas vagas, chegando assim aos atuais 68 participantes.
 
@@ -39,8 +39,6 @@ Entre os maiores vencedores desta competição temos os **UCLA Bruins** com 11 t
 ![Bill Russell comemora o título de 1956.](/assets/uploads/march_2.jpg "Bill Russell comemora o título de 1956.")
 
 *Bill Russell comemora o título de 1956.*
-
-
 
 No entanto, foi justamente no ano em que **Michael Jordan** se sagrou campeão do torneio, em 1982, pelos North Carolina Tar Heels, que o jornalista Brent Musburger “apelidou” a competição de **March Madness**. Na final daquele ano entre a equipa da Carolina do Norte e os Georgetown Hoyas, foi o próprio MJ quem marcou o cesto da vitória que valeu o título à sua equipa.
 
