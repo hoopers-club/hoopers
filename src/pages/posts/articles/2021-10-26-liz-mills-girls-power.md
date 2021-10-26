@@ -6,7 +6,7 @@ subname: Mills junta-se ao grupo restrito de treinadoras que alcançou o sucesso
 featured: false
 publishDate: Feb 24th 21
 image: /assets/uploads/48_banner_lizmills.png
-author: By Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 Este jogo já tem quatro dias, mas os ecos deste feito continuam a suceder-se. Tudo porque **Liz Mills** fez o que poucos acreditaram e abriu a montra do basquetebol em África para as mulheres.
