@@ -10,21 +10,21 @@ const Courtlist = ({ allCourts }) => {
 	return (
 		<div className=''>
 			<Menu open={open} setOpen={setOpen} />
-			{open && (
-				<div
-					className='courts-list'
-					style={{ display: open ? 'flex !important' : 'none !important' }}>
-					{allCourts.map((court, i) => (
-						<Court
-							detail={detail}
-							setDetail={setDetail}
-							key={i}
-							court={court}
-							first={court === allCourts[0] ? true : false}
-						/>
-					))}
-				</div>
-			)}
+			{/* {open && ( */}
+			<div
+				className='courts-list'
+				style={{ display: open ? 'flex !important' : 'none !important' }}>
+				{allCourts.map((court, i) => (
+					<Court
+						detail={detail}
+						setDetail={setDetail}
+						key={i}
+						court={court}
+						first={court === allCourts[0] ? true : false}
+					/>
+				))}
+			</div>
+			{/* // )} */}
 		</div>
 	);
 };
