@@ -8,7 +8,7 @@ image: /assets/uploads/75_banner_13.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-a cultura ocidental, o **número 13** não é visto com bons olhos. Considerado como sinal de azar, este número ganha ainda mais teorias da conspiração quando combinado com uma sexta feira 13. Existem diversas hipóteses que explicam como é que o 13 se tornou um símbolo do infortúnio, mas o mais provável é que essa lenda tenha surgido depois de uma sexta feira, a 13 de outubro no ano de 1307, quando o rei Filipe IV de França ordenou que os membros da Ordem dos Cavaleiros Templários fossem perseguidos e executados por heresia. 
+Na cultura ocidental, o **número 13** não é visto com bons olhos. Considerado como sinal de azar, este número ganha ainda mais teorias da conspiração quando combinado com uma sexta feira 13. Existem diversas hipóteses que explicam como é que o 13 se tornou um símbolo do infortúnio, mas o mais provável é que essa lenda tenha surgido depois de uma sexta feira, a 13 de outubro no ano de 1307, quando o rei Filipe IV de França ordenou que os membros da Ordem dos Cavaleiros Templários fossem perseguidos e executados por heresia. 
 
 Ainda assim, existem aqueles que acreditam que o número 13 pode ser um número de sorte. No basquetebol, existem muitos atletas que não tiveram receio em jogar com o 13 nas costas e, indo contra todas as teorias da conspiração deste número, escreveram (ou continuam a escrever) incríveis histórias vitoriosas no nosso desporto. 
 
@@ -32,8 +32,6 @@ Alguém que recebeu inúmeros créditos por ter sido um dos responsáveis por ap
 
 Crédito: Mike Powell, Getty Images
 
-
-
 **Steve Nash**
 
 No draft com o número 50 da NBA, que decorreu no dia 26 de junho de 1996, ninguém imaginava que o jovem Steve Nash, vaiado pela plateia presente no Continental Airlines Arena ao ser anunciado como a escolha dos Phoenix Suns, se tornaria num dos maiores base do basquetebol. O canadiano nascido na África do Sul, foi eleito MVP em duas temporadas (05/06) ao serviço dos Phoenix Suns. Apenas não utilizou o número 13 como profissional quando atuou pelos Lakers. Nash participou em 8 All-Star Games (2002-2003 / 2005-2008 / 2010, 2012) e teve o número 13 homenageado pelos Suns ao receber o prémio “Ring of Honor”. Steve Nash faz parte da categoria dos grandes jogadores que nunca se sagraram campeões da NBA.
@@ -41,8 +39,6 @@ No draft com o número 50 da NBA, que decorreu no dia 26 de junho de 1996, ningu
 ![Christian Petersen/Getty Images](/assets/uploads/steve_nash.jpeg "Christian Petersen/Getty Images")
 
 Christian Petersen/Getty Images
-
-
 
 **James Harden**
 
@@ -59,7 +55,5 @@ Ao contrário de James Harden, Edrice “Bam” Adebayo utilizou outros números
 ![Crédito: Kim Klement, USA TODAY Sports](/assets/uploads/bam_adebayo.jpeg "Crédito: Kim Klement, USA TODAY Sports")
 
 Crédito: Kim Klement, USA TODAY Sports
-
-
 
 **E tu: qual é o teu número #13 favorito?**
