@@ -6,7 +6,7 @@ subname: A viver uma temporada individual de sonho, Neemias Queta arrecadou o
 featured: false
 publishDate: Mar 9th 21
 image: /assets/uploads/41_banner_neemydefensive.jpeg
-author: by Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 O site [Bleacher Report](https://bleacherreport.com/articles/2934779-bleacher-reports-2020-21-mens-college-basketball-end-of-season-awards) nomeou **Neemias Queta** como “Jogador Defensivo do Ano” do basquetebol universitário norte americano. Esta designação faz parte de uma série de **oito prémios** anunciados pelo site desportivo nesta última segunda-feira, 8 de março.
