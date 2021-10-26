@@ -15,15 +15,13 @@ Em traços gerais, somos um recurso de trabalho extra-clube, que permite aos atl
 
 Definindo o nosso trabalho numa frase, diria que somos um apoio ao desenvolvimento especializado, individualizado e focado nas necessidades de cada atleta. Este trabalho adicional e localizado pode fazer a diferença. Alguém crê que se chega à excelência sem trabalho?
 
-> “Este trabalho era *off the record*, isto é, fazíamo-lo porque tanto eu como os atletas queríamos dar um pouco mais de nós ao jogo (…)”
+> **“Este trabalho era *off the record*, isto é, fazíamo-lo porque tanto eu como os atletas queríamos dar um pouco mais de nós ao jogo (…)”**
 
 \- César Rodrigues (Fundador do OnSeason Basketball Lab)
 
 ![Créditos: On Season Basketball Lab](/assets/uploads/lab.jpg "Créditos: On Season Basketball Lab")
 
 Créditos: On Season Basketball Lab
-
-
 
 Para explicar como surgiu a ideia é preciso um pouco de história. A minha carreira como treinador começou em 2009 e, desde então, tenho trabalhado com equipas de formação desde os sub14 aos sub18. Ao fim de alguns anos a treinar equipas de formação, as debilidades dos jogadores que tinha à disposição eram significativas.
 
@@ -33,7 +31,7 @@ No primeiro clube onde trabalhei, o **Sport Algés e Dafundo**, consegui, com al
 
 Em 2018, mudei-me para o **Clube Atlético de Queluz** e a ideia manteve-se: passar a mensagem clara aos atletas de que, apesar de as condições que lhes eram dadas pelo clube serem muito boas, era preciso mais.
 
-> “Trabalhar durante a *off season* no Elite Basketball Program (nosso parceiro) proporcionou-me a oportunidade de contactar com atletas seniores e de me aperceber que também estes queriam um acompanhamento extra-clube.”
+> **“Trabalhar durante a *off season* no Elite Basketball Program (nosso parceiro) proporcionou-me a oportunidade de contactar com atletas seniores e de me aperceber que também estes queriam um acompanhamento extra-clube.”**
 
 \- César Rodrigues (Fundador do On Season Basketball Lab)
 
@@ -41,23 +39,19 @@ Em 2018, mudei-me para o **Clube Atlético de Queluz** e a ideia manteve-se: pas
 
 Créditos: On Season Basketball Lab
 
-
-
 Eram precisas mais horas e mais investimento deles – e neles. Este trabalho iniciou-se com um pequeno grupo de atletas, que aceitaram o desafio de fazer trabalho extra, quer por si mesmos, quer com acompanhamento. O aumento de procura por parte dos atletas levou a que ficasse claro para mim que os atletas querem mais. E sabem que trabalhar fora dos treinos de equipa faz a diferença.
 
 Trabalhar durante a *off season* no [Elite Basketball Program](https://www.hoopers.club/noticias/elite-basketball-program-os-bons-os-maus-e-os-viloes) (nosso parceiro) proporcionou-me a oportunidade de contactar com atletas seniores e de me aperceber que também estes queriam um acompanhamento extra-clube. Estes sentiam que precisavam de trabalhar mais e que o período de verão não era suficiente para darem resposta ao que precisavam de incluir e melhorar no seu jogo.
 
 Foi então que, durante o verão de 2019, comecei a “criar” o **On Season Basketball Lab**. A ideia de que os atletas queriam trabalhar mais e melhor estava clara na minha cabeça e eu queria dar-lhes esse espaço e essas ferramentas. O trabalho que é feito no **On Season Basketball Lab** tem, como principal objetivo, ajudar a que os atletas que trabalham connosco evoluam e melhorem o seu rendimento em treino e em jogo.
 
-> “Com os atletas seniores, a visão do treino não é tanto com uma procura a longo prazo de evolução, mas sim uma abordagem mais direta a aspetos que tenham que ver com o seu rendimento.”
+> **“Com os atletas seniores, a visão do treino não é tanto com uma procura a longo prazo de evolução, mas sim uma abordagem mais direta a aspetos que tenham que ver com o seu rendimento.”**
 
 \- César Rodrigues (Fundador do On Season Basketball Lab)
 
 ![Créditos: On Season Basketball Lab](/assets/uploads/lab3.jpg "Créditos: On Season Basketball Lab")
 
 Créditos: On Season Basketball Lab
-
-
 
 No nosso trabalho, temos em atenção o que o atleta pretende melhorar, o que o treinador do atleta nos pede que ele melhore e ainda aquilo que achamos ser pertinente para a sua melhoria técnica e/ou tática após análise às necessidades do jogador.
 
