@@ -25,11 +25,7 @@ const Search = () => {
 
 	return (
 		<div className='search'>
-			<form
-				className='form-search'
-				onSubmit={storage}
-				action='/search/'
-				method='POST'>
+			<form className='form-search' onSubmit={storage} action='/search/'>
 				<input
 					onKeyDown={handlekey}
 					type='search'
