@@ -3,7 +3,7 @@ image: /assets/uploads/thumb_quinta.png
 name: Quinta das Lages
 subname: Portugal
 position: 6
-location: Rua das Lajes, Penafiel
+location: Rua das Lajes | Penafiel, Portugal
 artist: Flix
 duration: 12 days
 partner:
