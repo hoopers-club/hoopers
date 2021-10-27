@@ -1,6 +1,5 @@
 ---
-title: '"Histórias do Desporto: Noite de Incidentes na NBA” chegou para contar
-  mais detalhes do jogo entre os Pistons e os Pacers'
+title: '"Noite de Incidentes na NBA”'
 subname: Este episódio faz parte da série “Untold”, que conta histórias nunca
   antes desvendadas e relata os diversos acontecimentos que se sucederam numa
   noite que marcou o mundo desportivo pelas piores razões.

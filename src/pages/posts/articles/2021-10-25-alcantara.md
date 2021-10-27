@@ -3,7 +3,7 @@ title: ALCÂNTARA
 subname: Doca de Alcântara volta a afirmar-se como espaço para o basquetebol de 3x3
 featured: true
 publishDate: Oct 22nd 21
-image: /assets/uploads/banner_alcantara3.png
+image: /assets/uploads/banner_apl.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
