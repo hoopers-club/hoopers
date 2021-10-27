@@ -8,7 +8,8 @@ artist: Pitanga
 duration: 10 Days
 partner:
   - Parish Council Of São Domingos
-  - GAU + Jopinto
+  - GAU
+  - Jopinto
   - Robbialac
   - Sport Design
 whaWeDid: Refurbished the basketball floor.
