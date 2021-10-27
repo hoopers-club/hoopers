@@ -46,3 +46,16 @@
 .new-centered {
 	margin: 0em auto 2em auto;
 }
+
+@media screen and (max-width: 50em) {
+	iframe {
+		width: 100%;
+		height: auto;
+	}
+	.term-title {
+		font-size: 1.2rem !important;
+	}
+	.page {
+		padding: 20vh 15% 15% 15% !important;
+	}
+}
