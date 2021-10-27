@@ -3,20 +3,20 @@ image: /assets/uploads/thumb_quinta.png
 name: Quinta das Lages
 subname: Portugal
 position: 6
-location: Quinta das Lages, Penafiel
+location: Rua das Lajes, Penafiel
 artist: Flix
+duration: 12 days
 partner:
-  - Robbialac
-  - Jopinto
-  - Sport Design
-  - Câmara de Penafiel
-whaWeDid: Two new basketball courts, making Penafiel the first city to receive
-  two simultaneous artistic interventions.
+  - penafiel city council
+  - jopinto
+  - machrent
+  - robbialac
+  - sport design
+whaWeDid: "full transformation: 3x3 basketball court + 5x5 mini basket court"
 galleryImages:
   - /assets/uploads/3_quinta-das-lages-1.jpg
   - /assets/uploads/3_quinta-das-lages-2.jpg
   - /assets/uploads/3_quinta-das-lages-3.jpg
-duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/2.jpg
