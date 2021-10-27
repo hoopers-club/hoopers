@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_conde.png
+image: /assets/uploads/thumb2_conde.png
 name: Conde de Bonfim
 subname: Portugal
 position: 8
