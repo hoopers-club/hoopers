@@ -63,3 +63,18 @@
 .appbar-solid {
 	background-color: rgba(8, 8, 8, 100%);
 }
+
+@media screen and (max-width: 500px) {
+	.logo {
+		img {
+			width: 5em;
+		}
+	}
+	.menus-list {
+		ul {
+			li {
+				font-size: 2em;
+			}
+		}
+	}
+}

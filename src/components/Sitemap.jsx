@@ -10,10 +10,15 @@ const Sitemap = ({ openSitemap }) => {
 		<div className='menus'>
 			<div className='nav'>
 				<div onClick={openSitemap}>
-					<img className='menu' src='/assets/Homepage/close.svg' alt='menu' />
+					<img
+						className='menu'
+						style={{ width: '5em' }}
+						src='/assets/Homepage/close.svg'
+						alt='menu'
+					/>
 				</div>
-				<div className='logo-menu'>
-					<img src='/assets/Homepage/Logo Hoopers.svg' alt='' />
+				<div className='logo-menu' style={{ maxWidth: '10em' }}>
+					<img src='/assets/Homepage/logo_hoopers.svg' alt='' />
 				</div>
 			</div>
 			<div class='menus-list'>
