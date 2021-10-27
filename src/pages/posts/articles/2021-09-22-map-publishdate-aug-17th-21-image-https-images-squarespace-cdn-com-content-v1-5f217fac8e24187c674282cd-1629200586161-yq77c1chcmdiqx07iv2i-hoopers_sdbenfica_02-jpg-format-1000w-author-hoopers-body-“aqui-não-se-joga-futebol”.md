@@ -4,7 +4,7 @@ subname: Campo de basquetebol em São Domingos de Benfica recebe intervenção
   artística de Pitanga
 featured: true
 publishDate: Aug 17th 21
-image: /assets/uploads/1_banner_benfica.png
+image: /assets/uploads/banner_benfica.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
