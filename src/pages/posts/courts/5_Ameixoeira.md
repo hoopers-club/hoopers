@@ -5,7 +5,7 @@ subname: Portugal
 position: 4
 location: RUA PROFESSOR ADELINO DE PALMA CARLOS | LISBON, PORTUGAL
 artist: Los Pepes
-duration: 15 days
+duration: 10 days
 partner:
   - PARISH COUNCIL OF SANTA CLARA
   - GAU
