@@ -3,46 +3,45 @@ image: /assets/uploads/thumb_calçada.png
 name: Calçada de Carriche
 subname: Portugal
 position: 3
-location: Calçada de Carriche, Lisbon
+location: RUA ANDRÉ DE GOUVEIA | LISBON, PORTUGAL
 artist: " Hélio Bray"
+duration: 18 days
 partner:
-  - Robbialac
+  - PARISH COUNCIL OF LUMIAR
+  - GAU
   - JOPINTO
-  - Sport Design
-  - Machrent
-  - Galeria de Arte Urbana
-  - Junta de Freguesia do Lumiar
-whaWeDid: An iconic new court and the largest urban art mural in the city.
+  - MACHRENT
+  - ROBBIALAC
+  - SPORT DESIGN
+whaWeDid: |
+  REFURBISHED THE BASKETBALL FLOOR + LARGEST URBAN ART MURAL IN THE CITY
 galleryImages:
   - /assets/uploads/6_calcada1.jpg
   - /assets/uploads/6_calcada2.jpg
   - /assets/uploads/6_calcada3.jpg
-duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/2.jpg
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/3.jpg
 ---
-A [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia do Lumiar juntaram-se numa homenagem a Kobe Bryant com a requalificação de um novo campo de basquetebol de rua na calçada de Carriche. Junto ao campo, nasce também a maior empena da cidade que exibe os retratos de Kobe Bryant, Shaquille O’Neal, Derek Fisher, Robert Horry e Pau Gasol, numa obra com assinatura do *writer* [Hélio Bray](https://www.instagram.com/heliobray/?hl=pt).
+Hoopers, a community platform for basketball players and fans, Galeria de Arte Urbana (Urban Art Gallery – Lisbon’s City Council) and Lumiar Parish Council have come together to pay tribute to Kobe Bryant with the requalification of a new street basketball court on Calçada de Carriche. Next to the court, the biggest street art wall in the city will display the portraits of Kobe Bryant, Shaquille O’Neal, Derek Fisher, Robert Horry and Pau Gasol, a work signed by writer <u>[Hélio Bray](https://www.instagram.com/heliobray)</u>.
 
 ![](/assets/uploads/1_carriche_makingof.jpg)
 
-A Calçada de Carriche foi o espaço escolhido para a homenagem a Kobe Bryant, o mítico jogador do Los Angeles Lakers, que faleceu inesperadamente em janeiro de 2020, num trágico acidente de aviação. O campo escolhido foi o da Rua André Gouveia, situada no limiar dos concelhos de Lisboa, Loures e Odivelas. O campo já está aberto ao público e a empena é a maior da cidade com uma obra de arte urbana (52 metros de altura).
+Calçada de Carriche was the spot chosen to pay tribute to Kobe Bryant, the iconic player for LA Lakers who unexpectedly passed away in January 2020 following a helicopter crash. The chosen court was the one in Rua André Gouveia, located on the border of Lisbon, Loures and Odivelas. The court is already open to the public, and the wall is the biggest one in the city displaying a street art piece (52 meters high).
 
-Celebrar o espírito de equipa e a *Mamba Mentality*, assim como homenagear Kobe Bryant, foi o mote para o novo projeto de intervenção artística da [Hoopers](https://www.hoopers.club/), que já conta com várias iniciativas semelhantes, como o campo Chicago, em Chelas, e o maior campo de basquetebol de rua da europa, em Braga. Neste terceiro projeto, além de homenagear a lenda dos *Lakers*, o objetivo é também celebrar um espaço que une três concelhos do distrito de Lisboa e que é, para muitos, um ponto de encontro histórico para jogar basquetebol na rua.
-
-Entre os muitos jogadores que por ali passaram está [Lancelot](https://www.instagram.com/lancel0t_odc/), *rapper* português, que cresceu a jogar naquele local e que vai lançar um novo single na sequência deste projeto designado por “O campo”. Hélio Bray, um dos representantes de marcas como a DC Shoes ou a Loop, e [autor de uma tela de homenagem encomendada pela família de Kobe Bryant](https://www.instagram.com/p/CBDvKo6HPYf/), foi o escolhido para pintar o campo e aquela que será a maior empena intervencionada até agora na cidade.
+The motto for [Hoopers](https://www.hoopers.club/)’ new artistic intervention project was celebrating team spirit and the Mamba Mentality, as well as Kobe Bryant. Hoopers has already put forth several similar initiatives, such as the Chicago court, in Chelas, and Europe’s largest street basketball court, which is in Braga. Besides paying tribute to the Lakers legend, this third project aims to give praise to a place that connects three municipalities of the Lisbon district and is a significant meeting point to play street basketball.
 
 ![](/assets/uploads/2_carriche_makingof.jpg)
 
-“Isto é muito especial, para nós e para a comunidade. Desde o trágico desaparecimento do Kobe que tínhamos esta ideia de homenagear um dos nossos heróis, mas também de celebrar a *Mamba Mentality* - associada à resiliência, ao trabalho e à irreverência personificadas pela lenda dos Lakers - e valores positivos do desporto, como o espírito de equipa. Este lugar sempre teve a magia de juntar pessoas, de vários concelhos, estratos sociais e etnias. E é, por isso, que além da homenagem, este legado vai ficar e perdurar” afirma André Costa, cofundador da Hoopers.
+[Lancelot](https://www.instagram.com/lancel0t_odc/), Portuguese rapper, is one of the many players who’ve played there all their lives and is preparing to release a new single, “O campo”, inspired by this project. Hélio Bray, one of the ambassadors of brands such as DC Shoes or Loop, and [author of a tribute piece commissioned by Kobe Bryant’s family](https://www.instagram.com/p/CBDvKo6HPYf/), was chosen to paint the court and what will be the biggest street art wall in the city so far.
 
-Para o artista Hélio Bray, “este foi o maior projeto, em dimensão, onde já participei e deu-me a oportunidade de mostrar várias vertentes do meu trabalho. A ligação que senti com esta homenagem e com a história deste lugar cativou-me desde o princípio. Estou muito contente com o resultado final e espero que este projeto possa inspirar as novas gerações”.
+“This is very special to the community and us. Since Kobe’s tragic death, we had this idea of paying tribute to one of our heroes, as well as celebrating the Mamba Mentality — which is associated with the resilience, hard work and irreverence personified by the Lakers legend — and positive values of sports, such as team spirit. This place always had the magical gift of bringing people together from different towns, classes and ethnicities. And that’s why that, in addition to the tribute, this legacy will live forever”, says André Costa, co-founder of Hoopers.
+
+To Hélio Bray, “this was the largest project I’ve ever taken part in, and it gave me the chance to show different sides to my work. The connection I felt to this tribute and the story of this place thrilled me from the very start. I’m extremely happy with the final result, and I hope this project inspires the new generations”.
 
 ![](/assets/uploads/3_carriche_makingof.jpg)
 
-Este projeto enquadra-se na estratégia de intervenção artística para a cidade de Lisboa de requalificação de espaços públicos e desportivos, que se iniciou com a intervenção de AkaCorleone, no Campo dos Mártires de Pátria (2019), hoje referência de arte urbana e desporto. "Esta é uma estratégia que temos vindo a delinear de valorização de espaço público, promoção de prática desportiva, acessível e agregadora, em que a arte urbana assume um papel central, e que hoje sentimos ser fundamental por causa da pandemia, criar espaços de apropriação desportiva e artística”, afirma Hugo Cardoso, coordenador da Galeria de Arte Urbana.
+This project fits in the artistic intervention strategy for Lisbon in terms of requalification of public places and sports areas, which kicked off with AKACorleone’s intervention in Campo Mártires da Pátria (2019), today a reference of street art and sport. “This is a strategy we’ve been shaping in terms of appreciation of public space and promotion of sports activities, accessible and aggregative, where street art plays a pivotal role, which we feel today is absolutely crucial because of the pandemic, to create spaces for sports and artistic interventions”, states Hugo Cardoso, coordinator of Galeria de Arte Urbana.
 
-Para Pedro Delgado Alves, Presidente da Junta de Freguesia do Lumiar, “o projeto é mais uma importante referência desportiva e artística na Freguesia e para este bairro em especial, reforçando a aposta na dinamização de atividades e iniciativas em espaço público”.
-
-Este projeto contou com o imprescindível apoio de parceiros como a [Robbialac](https://tintasrobbialac.pt/), a [JOPINTO](https://www.facebook.com/tintasjopinto/), a [Sport Design](http://www.sport-design.pt/) e a [Machrent](https://machrent.pt/Portal/). O campo está aberto ao público e é de acesso livre à população.
+For Pedro Delgado Alves, president of Lumiar Parish Council, “the project is yet another important sports and artistic reference in the parish, and particularly this neighbourhood, reinforcing our investment in activities and initiatives set in public spaces”.
