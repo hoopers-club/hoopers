@@ -3,20 +3,20 @@ image: /assets/uploads/thumb_vila.png
 name: Vila Gualdina
 subname: Portugal
 position: 5
-location: Vila Gualdina, Penafiel
+location: rua da vila gualdina | penafiel, portugal
 artist: Matilde Horta
+duration: 12 days
 partner:
-  - Robbialac
-  - Jopinto
-  - Sport Design
-  - Câmara de Penafiel
-whaWeDid: Two new basketball courts, making Penafiel the first city to receive
-  two simultaneous artistic interventions.
+  - penafiel city council
+  - jopinto
+  - machrent
+  - robbialac
+  - sport design
+whaWeDid: "Full transformation: 5x5 basketball court."
 galleryImages:
   - /assets/uploads/4_vila-gualdina-1.jpg
   - /assets/uploads/4_vila-gualdina-2.jpg
   - /assets/uploads/4_vila-gualdina-3.jpg
-duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/4_Vila%20Gualdina/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/4_Vila%20Gualdina/Galeria%20(Esquerda)/2.jpg
