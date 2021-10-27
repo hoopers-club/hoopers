@@ -3,20 +3,22 @@ image: /assets/uploads/thumb_ameixoeira.png
 name: Ameixoeira
 subname: Portugal
 position: 4
-location: Ameixoeira
+location: RUA PROFESSOR ADELINO DE PALMA CARLOS | LISBON, PORTUGAL
 artist: Los Pepes
+duration: 15 days
 partner:
-  - Robbialac
-  - Jopinto
-  - Sport Design
-  - galeria de arte urbana
-  - junta de freguesia de santa clara
-whaWeDid: The first exclusive iconic mini basketball court in Portugal.
+  - PARISH COUNCIL OF SANTA CLARA
+  - GAU
+  - JOPINTO
+  - ROBBIALACS
+  - SORT DESIGN
+whaWeDid: >
+  FULL TRANSFORMATION: CREATION OF 2 MINI BASKET ICONIC COURTS - FIRST IN
+  PORTUGAL.
 galleryImages:
   - /assets/uploads/5_ameixoeira-1.jpg
   - /assets/uploads/5_ameixoeira-2.jpg
   - /assets/uploads/5_ameixoeira-3.jpg
-duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/2.jpg
