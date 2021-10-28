@@ -3,39 +3,51 @@ image: /assets/uploads/thumb_quinta.png
 name: Quinta das Lages
 subname: Portugal
 position: 6
-location: Quinta das Lages, Penafiel
+location: Rua das Lajes | Penafiel, Portugal
 artist: Flix
+duration: 12 days
 partner:
-  - Robbialac
-  - Jopinto
-  - Sport Design
-  - Câmara de Penafiel
-whaWeDid: Two new basketball courts, making Penafiel the first city to receive
-  two simultaneous artistic interventions.
+  - penafiel city council
+  - jopinto
+  - machrent
+  - robbialac
+  - sport design
+whaWeDid: "full transformation: 3x3 basketball court + 5x5 mini basket court"
 galleryImages:
   - /assets/uploads/3_quinta-das-lages-1.jpg
   - /assets/uploads/3_quinta-das-lages-2.jpg
   - /assets/uploads/3_quinta-das-lages-3.jpg
-duration: 15 days
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/2.jpg
   - /assets/courts/Our%20Courts%20Imagens/3_Quinta%20das%20Lages%20/Galeria%20(Esquerda)/3.jpg
 ---
-A Câmara de Penafiel e a [Hoopers](https://hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, são os responsáveis do projeto. Intervenção artística a cargo de [Matilde Horta](https://www.instagram.com/matildehorta/), artista natural de Penafiel, e [Flix](https://www.instagram.com/flixrobotico/). Penafiel é o primeiro Município a ter dois campos em simultâneo lançados pela startup portuguesa.
+The <b>Municipality of Penafiel</b> and <b>Hoopers</b>, a basketball community platform are the promoters of the project. The urban art interventions were performed by <b>Matilde Horta</b>, a local artist, and <b>Flix</b>. <b>Penafiel</b> becomes the first city to simultaneously launch two new iconic courts along with the Portuguese startup.
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/1_quinta_makingof.jpg "Créditos: Hoopers / Malagueta")
 
-O campo da Quinta das Lages, da autoria de Flix, é mais um campo de 3x3 desenvolvido pela Hoopers, e encontra-se localizado junto às infraestruturas desportivas da cidade e ao parque escolar, o que deverá impulsionar a sua utilização por parte de toda a comunidade. 
+Penafiel and Hoopers, a basketball community platform, have joined forces and renovated two basketball courts in the city.
+
+</br>
+
+The <b>Quinta das Lages</b> field, renovated by Flix, gained a 3x3 court and it is located next to the city's main sports hub and a big scholar area, which should boost its use by the entire local community.
+
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F6ZIY-YexSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Para Antonino de Sousa, Presidente da Câmara Municipal de Penafiel, “este projeto é o resultado feliz da combinação entre desporto, juventude e cultura. Esta intervenção possibilitou a recuperação de dois campos de basquetebol da cidade, possibilitando e incentivando a sua utilização por todos: as famílias, os amantes da modalidade e os atletas do Clube de Basquetebol de Penafiel. Adicionalmente, permitiu-nos também dar palco a uma artista da cidade, a Matilde Horta, para expor a sua obra e demonstrar que também sabemos acolher os talentos internacionais como é o caso do artista Flix”.
+</br>
+
+The second court, located in a residential area, received an intervention by Matilde Horta, an artist born in Penafiel. She redesigned the existing 5x5 court, which was quite used by the local community and basketball clubs during the lockdown period. The project was even more special for the artist because this court was located next to her grandparent’s residence.
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/2_quinta_makingof.jpg "Créditos: Hoopers / Malagueta")
 
-“Este projeto foi um enorme desafio, pois estivemos a realizar uma intervenção praticamente em simultâneo nos dois espaços. Estamos muito satisfeitos com o resultado final e acreditamos que ambos os espaços serão muito utilizados pela comunidade local para jogar basquetebol formal e informalmente”, explica André Costa, co-fundador da Hoopers.
+For Antonino de Sousa, <b>Mayor of Penafiel</b>, “this project is the product of a great combination of sport, youth and culture. This intervention allowed us to recover two basketball courts in the city, encouraging their use by the population: families, basketball enthusiasts and athletes from the Penafiel Basketball Club. Additionally, it also allowed us to showcase our local talent (Matilde Horta) and international talent (Flix)”.
+
+</br>
+
+“This project was a huge challenge for us, because we carried out two interventions simultaneously. We are very satisfied with the final result and we believe that both spaces will be widely used by the community to play formally and informally”, explains André Costa, co-founder of Hoopers.
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/3_quinta_makingof.jpg "Créditos: Hoopers / Malagueta")
 
-A intervenção artística está concluída e os espaços foram abertos ao público na passada sexta feira às 18h, numa pequena iniciativa que juntou os responsáveis do projeto, a comunidade local e os jovens do Clube de Basquetebol de Penafiel. Os trabalhos de intervenção arrancaram no dia 17 de maio e são parceiros desta iniciativa a Robbialac, a JOPINTO e a Sport Design.
+The interventions were completed and the spaces were opened in a small initiative that brought together the entities involved, the local community and the young players of the Penafiel Basketball Club. The partners of the project were <b>Robbialac</b>, <b>JOPINTO</b> and <b>Sport Design</b>.

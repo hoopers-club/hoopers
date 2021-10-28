@@ -3,40 +3,48 @@ image: /assets/uploads/thumb_barreiro.png
 name: Barreiro
 subname: Portugal
 position: 7
-location: Zona 4, Barreiro
+location: RUA DO BAIRRO DAS CAIXAS | BARREIRO, PORTUGAL
 artist: Samina
+duration: 25 Days
 partner:
+  - Barreiro City Council
+  - Jopinto
+  - Machrent
   - Robbialac
-  - JoPinto
-  - sport design
-  - machrent
-  - Câmara Municipal do Barreiro
-whaWeDid: A new basketball court and an artistic intervention to honor local
-  sports heroes.
+  - Sport Design
+whaWeDid: "Full transformation: 5x5 basketball court + 3x3 basketball court +
+  urban soccer court + mural + hall of fame to honor local sports heroes."
 galleryImages:
   - /assets/uploads/2_barreiro1.jpg
   - /assets/uploads/2_barreiro2.jpg
   - /assets/uploads/2_barreiro3.jpg
-duration: 15 Days
 ---
-O Polidesportivo Francisco do Paço, figura local e que dá nome a este espaço localizado na Zona 4 do Barreiro, recebe uma homenagem a 37 figuras históricas do desporto da cidade do Barreiro, com intervenção artística a cargo de **[SAMINA](https://www.instagram.com/j_samina/)** no campo de jogos, na empena e na zona de balneários. Entre os homenageados constam nomes como **Fernando Chalana**, **João Cancelo**, **Carlos Manuel**, **Manuel Bento**, **Mike Plowden**, **Miguel Minhava** ou **Diogo Carreira**, entre outros.
+The Francisco do Paço Sports Park, a local figure from Zona 4 in Barreiro, receives a tribute for 37 historical sports figures of this city. The artistic intervention was performed by SAMINA, covering a court, a mural and a locker room. Among the honored figures are names such as Fernando Chalana, João Cancelo, Carlos Manuel, Manuel Bento, Mike Plowden, Miguel Minhava or Diogo Carreira, among many others.
 
-Enquadrado nas iniciativas de comemoração dos **500 anos do município**, este é um projeto promovido pela **Hoopers**, plataforma de comunidade para jogadores e fãs de Basquetebol, e pela **Câmara Municipal do Barreiro** com o objetivo de homenagear alguns dos heróis locais que ajudaram a elevar o nome da cidade e dos seus desportos, além de proceder à recuperação e renovação daquele espaço desportivo, procurando fomentar a sua utilização pela comunidade.
+</br>
+
+As part of the initiatives to celebrate the municipality's 500th anniversary, this project promoted by Hoopers, a basketball community platform, and the Barreiro City Council aimed to honor some of the city’s local sports heroes, while recovering and transforming a big sports area and encouraging its usage by the community.
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/1.jpg)
 
-A reabertura do espaço ao público teve lugar às 09h30 do dia de hoje, numa cerimónia que contará com a presença de **Frederico Rosa**, Presidente da Câmara Municipal do Barreiro e também ele um ex-desportista da cidade, de jovens desportistas de vários desportos e clubes do Município, bem como de algumas das figuras homenageadas nesta intervenção.
+The reopening of the space to the public took place on June 28th, in a ceremony hosted by Frederico Rosa, Mayor of Barreiro, young sportsmen from various local sports and clubs, as well as some of the local heroes that were honored with this intervention.
 
-A intervenção artística ficou a cargo do artista Setubalense [SAMINA](https://www.instagram.com/j_samina/?hl=pt), que executou aqui a sua maior obra, naquele que também é já o maior projeto de intervenção artística e desportiva realizado pela Hoopers. Foram intervencionados três espaços, compreendendo uma área total com cerca de 1800 metros quadrados: um campo de jogos (com espaços dedicados e exclusivos para a prática de basquetebol e de futebol), uma empena e a zona dos balneários, local onde estão eternizados os 37 desportistas selecionados pelo Município.
+</br>
+
+The artistic intervention was done by SAMINA, who carried out his greatest work in terms of extension. This was also the largest renovation project done by Hoopers. Three spaces were transformed, covering a total area with more than 1800 square meters: a sports court (with dedicated and exclusive areas for basketball and football), a mural and a locker-room, where the 37 athletes selected by the Municipality are featured.
+
+
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/2.jpg "Créditos: Hoopers / Malagueta")
 
-Para Frederico Rosa, Presidente da Câmara Municipal do Barreiro “esta intervenção é uma afirmação da enorme qualidade desportiva do Barreiro e das suas gentes. Com esta intervenção quisemos não só reforçar a ligação das pessoas à cidade, mas também homenagear alguns dos diversos heróis desportivos que este Município já produziu, procurando, ao mesmo tempo, reforçar e promover a aproximação e a apropriação das pessoas do espaço público”. 
+For Frederico Rosa, Mayor of Barreiro, “this intervention is the affirmation of the enormous sports quality of Barreiro and its people. With this intervention, we wanted not only to strengthen the connection of people to the city, but also to pay a tribute to some local sports heroes, while reinforcing and promoting the appropriation of public space by the population”.
 
-“Este projeto foi especialmente relevante para a Hoopers, não só pela sua dimensão, mas também pelo simbolismo desta homenagem. Foi também o nosso primeiro trabalho com modalidades que não o basquetebol, o que nos poderá abrir novas oportunidades de crescimento junto de outras comunidades”, explica André Costa, CEO da Hoopers.
+</br>
+
+“This project was especially relevant to Hoopers, not only because of its size, but also due to its symbolism. It was also our first work involving other sports than basketball, which could open up new possibilities to access into other communities”, explains André Costa, CEO of Hoopers.
 
 ![Créditos: Hoopers / Malagueta](/assets/uploads/3.jpg "Créditos: Hoopers / Malagueta")
 
-O campo de jogos, onde pode ler-se a palavra “Barreiro” e o código postal da cidade “2830”, já se encontra aberto ao público e a sua utilização é de acesso livre. O local está bem identificado pela indicação de “Zona 4” e pelas duas figuras a praticar basquetebol e futebol que ali se encontram. Na zona dos balneários, os visitantes poderão contemplar os rostos dos 37 heróis desportivos ali homenageados nesta intervenção a cargo de SAMINA. 
+In the space, you can read the word “Barreiro” as well as the city’s zip code “2830”. The court is open to the public and is free to use. The court is well identified with a big mural saying “Zona 4”, where two figures are playing basketball and football. In the locker rooms area, visitors will be able to contemplate the faces of the 37 sports heroes honored in this intervention done by SAMINA.
 
-Este projeto contou com o apoio de parceiros como a [Robbialac](https://tintasrobbialac.pt/), a [JOPINTO](https://www.facebook.com/tintasjopinto/), a [Sport Design](http://www.sport-design.pt/) e a [Machrent](https://machrent.pt/Portal/).
+The project had the support of [Robbialac](https://tintasrobbialac.pt/), [JOPINTO](https://www.facebook.com/tintasjopinto/), [Sport Design](http://www.sport-design.pt/) and [Machrent](https://machrent.pt/Portal/).

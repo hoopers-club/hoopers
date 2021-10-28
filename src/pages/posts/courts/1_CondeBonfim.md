@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_conde.png
+image: /assets/uploads/thumb2_conde.png
 name: Conde de Bonfim
 subname: Portugal
 position: 8
@@ -8,7 +8,8 @@ artist: Pitanga
 duration: 10 Days
 partner:
   - Parish Council Of São Domingos
-  - GAU + Jopinto
+  - GAU
+  - Jopinto
   - Robbialac
   - Sport Design
 whaWeDid: Refurbished the basketball floor.
@@ -17,26 +18,28 @@ galleryImages:
   - /assets/uploads/1_conde-de-bonfim2.jpg
   - /assets/uploads/1_conde-de-bonfim3.jpg
 ---
-“Aqui não se joga futebol” é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
+<b>“We don't play football here”</b> is a bold statement to be made in a football country, but that's exactly what you can read near the entrance of this basketball court at Largo do Conde de Bonfim, in the parish of São Domingos de Benfica, in Lisbon. The court was recently renovated by the artist <u><b>[Pitanga](https://www.instagram.com/vaidarpitanga/)</u></b>. This is a project promoted by <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the São Domingos de Benfica Parish Council.
 
-![](/assets/uploads/1_benfica_makingof.jpg)
+![Credits: Hoopers | Malagueta](/assets/uploads/1_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
-Este campo histórico para a comunidade de basquetebol de Lisboa, localizado junto ao Palácio Béau-Séjour e no coração da freguesia de São Domingos de Benfica, foi alvo de uma intervenção artística e desportiva, onde se procurou captar a essência, a elegância e a vida deste lugar cosmopolita onde moradores, transeuntes e turistas por ali passam e fazem a sua vida.
+This historic field for the Lisbon basketball community located next to the <b>Palácio Béau-Séjour</b> and in the heart of the parish of São Domingos de Benfica, received an artistic and sporting intervention. The goal was to elevate the essence, elegance and cosmopolitan life of this place where locals and tourists walk around.
 
-
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mo9q7Bp8Ntk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</br>
 
+For Pitanga, invited artist for this project, “it was the first time I had the opportunity to develop a project on the floor. This is something I had in mind for a long time. My work is based on strong and bold colors, combined with shapes and figures. I tried to transpose my identity to the neighborhood and what I felt here: the constant movement, the people’s interactions, the strength of local traditional commerce, the beauty of the green spaces and the Palace nearby.”
 
-Para Pitanga, artista convidada para o projeto, “*foi a primeira vez que tive a oportunidade de realizar um projeto num pavimento, algo que queria experimentar há muito tempo. O meu trabalho é marcado por cores fortes e arrojadas, combinadas com formas e figuras. Procurei transpor a minha identidade para o campo e dar-lhe uma vida semelhante àquela que senti aqui no bairro: o constante movimento, o convívio das pessoas, a dinâmica do comércio local e a beleza dos espaços verdes e do Palácio aqui bem perto*.”
+![Credits: Hoopers | Malagueta](/assets/uploads/2_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
-![](/assets/uploads/2_benfica_makingof.jpg)
+This is the eighth project promoted by startup Hoopers, where it can be highlighted the well-known Chicago x Chelas, the Mamba Mentality’s tribute at the Calçada de Carriche, and, more recently, the tribute to Neemias Queta, the first Portuguese player in the NBA.
 
-Este é o oitavo projeto deste género dinamizado pela startup Hoopers: Entre eles estão o já conhecido campo Chicago, em [Chelas](https://www.instagram.com/p/CH52p02hPw6/), o campo de homenagem à Mamba Mentality, na [Calçada de Carriche](https://www.instagram.com/p/COYmexihOVF/), e, mais recentemente, as homenagens aos desportistas do [Barreiro](https://www.instagram.com/p/CQqivFwBxi5/) ou a [Neemias Queta](https://www.instagram.com/p/CR2C-DgBM1M/), o primeiro jogador português na NBA. 
+</br>
 
-“*Este espaço é muito frequentado pelos membros da comunidade que gostam de vir aqui jogar informalmente ou apenas fazer uns lançamentos. A sua centralidade e o facto de ser exclusivo para se jogar basquetebol são elementos distintivos deste local. O calor excessivo foi uma dificuldade acrescida, mas as reações dos moradores e da comunidade local deram-nos força para não abrandar. Tem sido engraçado observar as reações de miúdos e graúdos que ficaram entusiasmados ao ver o seu bairro mais colorido e o espaço requalificado*”, afirma André Costa, CEO da Hoopers.
+“This space is very used by local community members who like to play informally here or just make a few shots. Its central location and basketball exclusive usage are distinctive elements of this court. The high temperatures made this project a difficult challenge, but the reactions of the local community gave us strength not to slow down. It’s fun to see the reactions of kids and adults thrilled by the colors of this renovated space”, says <b>André Costa</b>, CEO of Hoopers.
 
-![](/assets/uploads/3_benfica_makingof.jpg)
+![Credits: Hoopers | Malagueta](/assets/uploads/3_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
-A intervenção artística arrancou no dia 9 de Agosto e o espaço será novamente aberto ao público a partir de amanhã. Os parceiros desta iniciativa foram a Robbialac, a JOPINTO e a Sport Design.
+The artistic intervention started on the 9th of August and the space is already open to the general public. The partners of this initiative were <b>Robbialac</b>, <b>JOPINTO</b> and <b>Sport Design</b>.
