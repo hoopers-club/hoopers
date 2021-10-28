@@ -18,13 +18,11 @@ galleryImages:
   - /assets/uploads/1_conde-de-bonfim2.jpg
   - /assets/uploads/1_conde-de-bonfim3.jpg
 ---
-“We don't play football here” is a bold statement to be made in a football country, but that's exactly what you can read near the entrance of this basketball court at Largo do Conde de Bonfim, in the parish of São Domingos de Benfica, in Lisbon. The court was recently renovated by the artist <u><b>[Pitanga](https://www.instagram.com/vaidarpitanga/)</u></b>. This is a project promoted by Hoopers, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the São Domingos de Benfica Parish Council.
-
-
+<b>“We don't play football here”</b> is a bold statement to be made in a football country, but that's exactly what you can read near the entrance of this basketball court at Largo do Conde de Bonfim, in the parish of São Domingos de Benfica, in Lisbon. The court was recently renovated by the artist <u><b>[Pitanga](https://www.instagram.com/vaidarpitanga/)</u></b>. This is a project promoted by <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the São Domingos de Benfica Parish Council.
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/1_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
-This historic field for the Lisbon basketball community located next to the Palácio Béau-Séjour and in the heart of the parish of São Domingos de Benfica, received an artistic and sporting intervention. The goal was to elevate the essence, elegance and cosmopolitan life of this place where locals and tourists walk around.
+This historic field for the Lisbon basketball community located next to the <b>Palácio Béau-Séjour</b> and in the heart of the parish of São Domingos de Benfica, received an artistic and sporting intervention. The goal was to elevate the essence, elegance and cosmopolitan life of this place where locals and tourists walk around.
 
 </br>
 
@@ -40,8 +38,8 @@ This is the eighth project promoted by startup Hoopers, where it can be highligh
 
 </br>
 
-“This space is very used by local community members who like to play informally here or just make a few shots. Its central location and basketball exclusive usage are distinctive elements of this court. The high temperatures made this project a difficult challenge, but the reactions of the local community gave us strength not to slow down. It’s fun to see the reactions of kids and adults thrilled by the colors of this renovated space”, says André Costa, CEO of Hoopers.
+“This space is very used by local community members who like to play informally here or just make a few shots. Its central location and basketball exclusive usage are distinctive elements of this court. The high temperatures made this project a difficult challenge, but the reactions of the local community gave us strength not to slow down. It’s fun to see the reactions of kids and adults thrilled by the colors of this renovated space”, says <b>André Costa</b>, CEO of Hoopers.
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/3_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
-The artistic intervention started on the 9th of August and the space is already open to the general public. The partners of this initiative were Robbialac, JOPINTO and Sport Design.
+The artistic intervention started on the 9th of August and the space is already open to the general public. The partners of this initiative were <b>Robbialac</b>, <b>JOPINTO</b> and <b>Sport Design</b>.
