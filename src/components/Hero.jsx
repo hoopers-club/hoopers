@@ -49,9 +49,10 @@ const Hero = ({ articles }) => {
 				<div className='sub-headline'>{courtImage?.subname}</div>
 
 				<div className='sub-text centered'>
-					{courtImage?.publishDate} <br />
 					{courtImage?.author}
+					<p>{courtImage?.publishDate}</p> <p>{courtImage?.author}</p>
 				</div>
+				<div className='sub-text centered'>{courtImage?.author}</div>
 			</div>
 		</div>
 	);

@@ -53,9 +53,9 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	padding: 2em 4em;
-	align-items: center;
 	padding: 2em;
+	align-items: center;
+	// padding: 2em;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -63,6 +63,7 @@ body {
 	flex-wrap: wrap;
 	z-index: 3;
 	flex: 1;
+	transition: all 0.5s ease-in-out;
 	// margin-bottom: auto;
 	.logo {
 		cursor: pointer;
@@ -71,6 +72,7 @@ body {
 		justify-content: space-around;
 		width: 100%;
 		img {
+			transition: all 0.5s ease-in-out;
 			width: 100%;
 			height: 100%;
 		}
@@ -87,6 +89,7 @@ body {
 		margin-left: auto;
 		justify-content: flex-end;
 		flex: 0.33;
+		transition: all 0.5s ease-in-out;
 		a {
 			display: flex;
 			margin-left: auto;
@@ -106,6 +109,9 @@ body {
 	margin: 1em auto;
 }
 
+.centered-button {
+	margin: 3em auto;
+}
 .condensed {
 	font-family: $aktiv-grotesk-BoldCD;
 }
@@ -113,12 +119,13 @@ body {
 .buttons {
 	padding: 0.38em 1.5em;
 	background-color: $hoopers-yellow;
-	color: black;
+	color: $black;
+	font-family: $roboto-medium;
 	width: fit-content;
 	font-size: 1.5em;
 	text-transform: uppercase;
 	&:hover {
-		background-color: $hoopers-black;
+		background-color: $black;
 		color: $hoopers-yellow;
 		transition: all 1s;
 		cursor: pointer;
@@ -129,13 +136,14 @@ body {
 	text-transform: uppercase;
 	padding: 0.38em 1.5em;
 	width: fit-content;
-	background-color: $hoopers-black;
+	background-color: $black;
 	color: $dark-orange;
 	font-size: 1.5em;
+	font-family: $roboto-medium;
 	&:hover {
 		cursor: pointer;
 		background-color: $dark-orange;
-		color: black;
+		color: $black;
 	}
 }
 
@@ -241,9 +249,11 @@ section {
 }
 
 .menu {
-	transition: transform 0.2s;
-	&:hover {
-		transform: scale(1.1);
+	img {
+		transition: transform 0.2s;
+		&:hover {
+			transform: scale(1.1);
+		}
 	}
 }
 

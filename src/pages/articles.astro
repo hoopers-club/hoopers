@@ -32,14 +32,13 @@ import ballislife from'/ballislife.json'
 				}
 			>
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
-				<div class="headline">{allPosts[0]?.title}</div>
+				<div class="headline"><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
 				<div class="sub-headline">
 					{allPosts[0]?.subname}
 				</div>
-				<div class='sub-text centered'>
-					{allPosts[0]?.publishDate} <br />
-					{allPosts[0]?.author}
-				</div>
+				<div class='sub-text centered' style='display:flex;flex-direction:column; padding-bottom: 2em;'>
+					<p style="text-align:center">{allPosts[0]?.publishDate}</p><p style="text-align:center">{allPosts[0]?.author}</p></div>
+				
 				
 			</div>
 		</div>

@@ -9,15 +9,14 @@ const Sitemap = ({ openSitemap }) => {
 	return (
 		<div className='menus'>
 			<div className='nav'>
-				<div onClick={openSitemap}>
+				<div className='menu' onClick={openSitemap}>
 					<img
-						className='menu'
 						style={{ width: '5em' }}
 						src='/assets/Homepage/close.svg'
 						alt='menu'
 					/>
 				</div>
-				<div className='logo-menu' style={{ maxWidth: '10em' }}>
+				<div className='logo-menu' style={{ maxWidth: '100%' }}>
 					<img src='/assets/Homepage/logo_hoopers.svg' alt='' />
 				</div>
 			</div>
@@ -26,7 +25,7 @@ const Sitemap = ({ openSitemap }) => {
 					<li>
 						<a href='/articles'>ARTICLES</a>
 					</li>
-					<li className='strikeline'>
+					<li className='strikeline hide'>
 						<span style={{ color: 'white' }}>ESPORTS</span>
 					</li>
 					<li onClick={submenu}>COURTS</li>
@@ -36,13 +35,15 @@ const Sitemap = ({ openSitemap }) => {
 								<a href='/courts'>OUR COURTS</a>
 							</li>
 							<li>
-								<a href='https://hoopers-map.netlify.app'>MAP</a>
+								<a href='https://hoopers-map.netlify.app' target='_blank'>
+									MAP
+								</a>
 							</li>
 						</span>
 					) : (
 						''
 					)}
-					<li className='strikeline'>
+					<li className='strikeline hide'>
 						<span style={{ color: 'white' }}>SUMMER LEAGUE</span>
 					</li>
 					<li>
@@ -59,7 +60,7 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li className='strikeline'>
+					<li className='strikeline hide'>
 						<span style={{ color: 'white' }}>NFT</span>
 					</li>
 					<li>

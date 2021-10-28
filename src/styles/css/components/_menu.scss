@@ -3,13 +3,14 @@
 
 .menus {
 	min-height: 100vh;
-	background-color: black;
+	background-color: $black;
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
 	padding-top: 15vh;
 	z-index: unset;
+	transition: all 0.3s ease-out;
 
 	.nav {
 		display: grid;
@@ -51,6 +52,11 @@
 .logo-menu {
 	display: grid;
 	place-items: center;
+	img {
+		max-width: 10em !important;
+		display: flex;
+		margin: auto;
+	}
 }
 
 .sub-courts {
@@ -59,9 +65,39 @@
 
 .appbar-transparent {
 	background-color: rgba(8, 8, 8, 0%);
+	transition: all 0.5s ease-in-out;
 }
 .appbar-solid {
-	background-color: rgba(8, 8, 8, 100%);
+	justify-content: space-between;
+	background-color: #080808;
+	transition: all 0.5s ease-in-out;
+	.logo {
+		justify-content: center;
+		// width: 100% !important;
+		transition: all 0.5s ease-in-out;
+		img {
+			display: flex;
+			margin: auto;
+
+			max-width: 6em !important;
+			transition: all 0.5s ease-in-out;
+		}
+	}
+	.lang {
+		transition: all 0.5s ease-in-out;
+		img {
+			max-width: 4em !important;
+			transition: all 0.5s ease-in-out;
+		}
+	}
+	.menu {
+		justify-content: left;
+		transition: all 0.5s ease-in-out;
+		img {
+			max-width: 3em !important;
+			transition: all 0.5s ease-in-out;
+		}
+	}
 }
 
 @media screen and (max-width: 500px) {
@@ -77,4 +113,7 @@
 			}
 		}
 	}
+}
+.hide {
+	display: none !important;
 }
