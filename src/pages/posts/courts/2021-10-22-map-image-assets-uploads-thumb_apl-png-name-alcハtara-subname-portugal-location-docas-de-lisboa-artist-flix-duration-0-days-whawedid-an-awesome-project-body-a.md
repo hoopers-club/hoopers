@@ -20,7 +20,7 @@ galleryImages:
   - /assets/uploads/4_apl_final.png
   - /assets/uploads/5_apl_final.png
 ---
-During the late 90s and early 2000s the spaces in the <b><u>Porto of Lisbon</u></b> were a historical place for 3x3 basketball tournaments, and now they have regained new life and promise to be the new favorite place for street basketball players. The space located at Doca do Espanhol received an intervention by the urban artist <b><u>[Flix](https://www.instagram.com/flixrobotico/?hl=es)</u></b>. The project was promoted by the <b><u>Administração do Porto de Lisboa</u></b> and <b><u>Hoopers</u></b>.
+During the late 90s and early 2000s the spaces in the <b>Porto of Lisbon</b> were a historical place for 3x3 basketball tournaments, and now they have regained new life and promise to be the new favorite place for street basketball players. The space located at Doca do Espanhol received an intervention by the urban artist [Flix](https://www.instagram.com/flixrobotico/?hl=es). The project was promoted by the <b><u>Administração do Porto de Lisboa</u></b> and <b>Hoopers</b>.
 
 </br>
 
@@ -32,7 +32,7 @@ Flix's intervention works as a big artistic mural and pays tribute to the origin
 
 </br>
 
-For <b><u>Ricardo Medeiros</u></b>, Board Member of the Administração do Porto de Lisboa, “this project is one of the first steps of our vision of making this area and these spaces more interesting and closer to the people and companies here located. We are very happy with the final result and we firmly believe that it is going to be widely used by the community”.
+For <b>Ricardo Medeiros</b>, Board Member of the Administração do Porto de Lisboa, “this project is one of the first steps of our vision of making this area and these spaces more interesting and closer to the people and companies here located. We are very happy with the final result and we firmly believe that it is going to be widely used by the community”.
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/2_apl_makingof.png "Credits: Hoopers | Malagueta")
 
