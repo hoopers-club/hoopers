@@ -24,22 +24,32 @@ leftimage:
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/2.jpg
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/3.jpg
 ---
-Os novos campos estão situados junto à piscina municipal de Santa Clara, no pólo desportivo e de lazer da zona, que já inclui um parque infantil e um skate park. A [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de Santa Clara são os responsáveis do projeto e a intervenção artística fica a cargo de [Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt), a dupla de artistas urbanos cuja identidade se centra em padrões, formas abstratas e cores arrojadas.
+The new courts are located next to the Santa Clara’s municipal swimming pool, in an area that already includes a children's playground and a skate park. <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the Santa Clara Parish Council are responsible for the project. The artistic intervention is in charge of <u><b>[Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt)</u></b>, the duo of urban artists whose identity is centered on patterns, abstract shapes and bold colors.
+
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YNnwq_nykA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Este é o primeiro campo icónico exclusivo de minibasquetebol do país e visa incentivar e aproximar os mais novos à prática da modalidade. Este é também o primeiro projeto da Hoopers dedicado aos mais pequenos e que vai dar continuidade às iniciativas desenvolvidas pela startup a pensar nas crianças, ou seja, nos “Little Hoopers”.
+</br>
+
+This is the country's first exclusive iconic court for mini basketball and it aims to bring kids closer to basketball. This is also the first Hoopers project fully dedicated to the little ones and the startup will continue to develop initiatives for children - the <b>“Little Hoopers”</b>.
 
 ![Créditos: Hoopers / Miguel Fernandes](/assets/uploads/1_ameixoeira_makingof.jpg "Créditos: Hoopers / Miguel Fernandes")
 
-“No espírito de comunidade que estamos a construir, não nos podemos esquecer dos mais novos que serão em breve o futuro da comunidade de fãs e praticantes de basquetebol. Queremos que se liguem com a modalidade e se divirtam a praticá-la com as suas famílias e amigos”, explica André Costa, co-fundador da Hoopers.
+“Inside the community we are building, we cannot forget about the children who are the future of our community. We want to connect kids with the sport and allow them to have fun while playing it with their families and friends”, explains <b>André Costa</b>, co-founder of Hoopers.
 
-“Temos feito vários projetos para um público mais jovem, mas foi a primeira vez que pudemos colocar o nosso trabalho num pavimento de um campo desportivo. Estamos muito satisfeitos por termos tido a possibilidade de criar um novo espaço para as crianças, conferindo-lhe cores vibrantes e aproximando-as do desporto e da diversão”, referem Francisco e Meggie da dupla artística Los Pepes.
+</br>
+
+
+
+“We have been doing several projects for a younger audience, but this was the first time that we were able to put our work on a sports floor.  We are very proud of being able to create a new space for children, giving them vibrant colors and bringing them closer to sport and fun”, refer Francisco and Meggie from Los Pepes.
+
+
 
 ![Créditos: Hoopers / Miguel Fernandes](/assets/uploads/2_ameixoeira_makingof.jpg "Créditos: Hoopers / Miguel Fernandes")
 
-Para Maria da Graça Pinto Ferreira, presidente da Junta de Freguesia de Santa Clara, “este é um importante projeto porque vai permitir complementar a oferta desportiva e de lazer já existente naquele local, reforçando e promovendo a utilização do espaço público pelos mais jovens”.
+For <b>Maria da Graça Ferreira</b>, president of the Santa Clara Parish Council, “this is an important project because it will complement the existing sports and leisure offer in the area, while reinforcing and promoting the usage of public spaces by younger generations”**.**
 
-![](/assets/uploads/3_ameixoeira_makingof.jpg)
+![Créditos: Hoopers / Miguel Fernandes](/assets/uploads/3_ameixoeira_makingof.jpg "Créditos: Hoopers / Miguel Fernandes")
 
-Estão pensadas algumas atividades no espaço de forma a dinamizá-lo e a dá-lo a conhecer a toda a comunidade, sem nunca esquecer as crianças. Esta intervenção arrancou no passado dia 3 de maio e o espaço já se encontra aberto ao público. Este projeto contou com o imprescindível contributo e apoio dos parceiros [Robbialac](https://tintasrobbialac.pt/), [JOPINTO](https://www.facebook.com/tintasjopinto/) e [Sport Design](http://www.sport-design.pt/).
+Some activities are being planned in order to make the space more dynamic and attract the local community, especially the kids. This intervention started on May 3rd and this space is already open to the public. This project counted with the support of <b>Robbialac</b>, <b>JOPINTO</b> and <b>Sport Design</b>.
