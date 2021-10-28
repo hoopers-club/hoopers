@@ -26,7 +26,11 @@ galleryImages:
 
 This historic field for the Lisbon basketball community located next to the Palácio Béau-Séjour and in the heart of the parish of São Domingos de Benfica, received an artistic and sporting intervention. The goal was to elevate the essence, elegance and cosmopolitan life of this place where locals and tourists walk around.
 
+</br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mo9q7Bp8Ntk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</br>
 
 For Pitanga, invited artist for this project, “it was the first time I had the opportunity to develop a project on the floor. This is something I had in mind for a long time. My work is based on strong and bold colors, combined with shapes and figures. I tried to transpose my identity to the neighborhood and what I felt here: the constant movement, the people’s interactions, the strength of local traditional commerce, the beauty of the green spaces and the Palace nearby.”
 
