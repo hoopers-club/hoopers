@@ -24,7 +24,7 @@ leftimage:
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/2.jpg
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/3.jpg
 ---
-The new courts are located next to the Santa Clara’s municipal swimming pool, in an area that already includes a children's playground and a skate park. <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the Santa Clara Parish Council are responsible for the project. The artistic intervention is in charge of <u><b>[Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt)</u></b>, the duo of urban artists whose identity is centered on patterns, abstract shapes and bold colors.
+The new courts are located next to the Santa Clara’s municipal swimming pool, in an area that already includes a children's playground and a skate park. <strong>Hoopers</strong>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the Santa Clara Parish Council are responsible for the project. The artistic intervention is in charge of <u><b>[Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt)</u></b>, the duo of urban artists whose identity is centered on patterns, abstract shapes and bold colors.
 
 </br>
 
@@ -40,11 +40,7 @@ This is the country's first exclusive iconic court for mini basketball and it ai
 
 </br>
 
-
-
 “We have been doing several projects for a younger audience, but this was the first time that we were able to put our work on a sports floor.  We are very proud of being able to create a new space for children, giving them vibrant colors and bringing them closer to sport and fun”, refer Francisco and Meggie from Los Pepes.
-
-
 
 ![Créditos: Hoopers / Miguel Fernandes](/assets/uploads/2_ameixoeira_makingof.jpg "Créditos: Hoopers / Miguel Fernandes")
 
