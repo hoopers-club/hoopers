@@ -20,7 +20,7 @@ galleryImages:
   - /assets/uploads/4_apl_final.png
   - /assets/uploads/5_apl_final.png
 ---
-During the late 90s and early 2000s the spaces in the <b>Porto of Lisbon</b> were a historical place for 3x3 basketball tournaments, and now they have regained new life and promise to be the new favorite place for street basketball players. The space located at Doca do Espanhol received an intervention by the urban artist [Flix](https://www.instagram.com/flixrobotico/?hl=es). The project was promoted by the <b><u>Administração do Porto de Lisboa</u></b> and <b>Hoopers</b>.
+During the late 90s and early 2000s the spaces in the <b>Porto of Lisbon</b> were a historical place for 3x3 basketball tournaments, and now they have regained new life and promise to be the new favorite place for street basketball players. The space located at Doca do Espanhol received an intervention by the urban artist [Flix](https://www.instagram.com/flixrobotico/?hl=es). The project was promoted by the <b>Administração do Porto de Lisboa</b> and <b>Hoopers</b>.
 
 </br>
 
@@ -36,7 +36,7 @@ For <b>Ricardo Medeiros</b>, Board Member of the Administração do Porto de Lis
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/2_apl_makingof.png "Credits: Hoopers | Malagueta")
 
-We had already worked with Flix and it was during that project he showed us this idea of ​​making a field with nautical flags. This space was a reference for the community in the past and the fact we can bring back the 3x3 is a mixture of pride and nostalgia. We are confident the space will be used by many people.” says <b><u>André Costa from Hoopers</u></b>.
+We had already worked with Flix and it was during that project he showed us this idea of ​​making a field with nautical flags. This space was a reference for the community in the past and the fact we can bring back the 3x3 is a mixture of pride and nostalgia. We are confident the space will be used by many people.” says <b>André Costa from Hoopers</b>.
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/3_apl_makingof.png "Credits: Hoopers | Malagueta")
 
