@@ -18,7 +18,7 @@ galleryImages:
   - /assets/uploads/1_conde-de-bonfim2.jpg
   - /assets/uploads/1_conde-de-bonfim3.jpg
 ---
-<b>“We don't play football here”</b> is a bold statement to be made in a football country, but that's exactly what you can read near the entrance of this basketball court at Largo do Conde de Bonfim, in the parish of São Domingos de Benfica, in Lisbon. The court was recently renovated by the artist <u><b>[Pitanga](https://www.instagram.com/vaidarpitanga/)</u></b>. This is a project promoted by <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the São Domingos de Benfica Parish Council.
+**“We don't play football here”** is a bold statement to be made in a football country, but that's exactly what you can read near the entrance of this basketball court at Largo do Conde de Bonfim, in the parish of São Domingos de Benfica, in Lisbon. The court was recently renovated by the artist <u><b>[Pitanga](https://www.instagram.com/vaidarpitanga/)</u></b>. This is a project promoted by <b>Hoopers</b>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the São Domingos de Benfica Parish Council.
 
 ![Credits: Hoopers | Malagueta](/assets/uploads/1_benfica_makingof.jpg "Credits: Hoopers | Malagueta")
 
