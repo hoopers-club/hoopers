@@ -35,7 +35,7 @@ const Sitemap = ({ openSitemap }) => {
 								<a href='/courts'>OUR COURTS</a>
 							</li>
 							<li>
-								<a href='https://hoopers-map.netlify.app' target='_blank'>
+								<a href='https://hoopersmap.com' target='_blank'>
 									MAP
 								</a>
 							</li>
