@@ -1,0 +1,406 @@
+---
+import Bases from '../Layout/Layout-Article.astro'
+
+
+let allPosts = Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
+
+import nbaportugal from'/nba.json'
+import slam from'/slam.json'
+import realgm from'/realgm.json'
+import ballislife from'/ballislife.json'
+
+
+
+
+
+---
+
+<Bases>
+		
+        <!-- <Heros articles={allPosts} client:visible/> -->
+        <div class="container">
+			<div
+				class="top"
+				style={`
+				
+				
+					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+						url('${allPosts[0]?.image}');
+							background-attachment: fixed;
+							background-position:center;
+							align-content:center;
+							display:flex;`
+				}
+			>
+				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+				
+				<div class="headline"><img class="esportlogo" src="/assets/esports/Asset 1.svg" alt=""><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
+				<!-- <div class="sub-headline">
+					{allPosts[0]?.subname}
+				</div> -->
+				<!-- <div class='sub-text centered' style='display:flex;flex-direction:column; padding-bottom: 2em;'>
+					<p style="text-align:center">{allPosts[0]?.publishDate}</p><p style="text-align:center">{allPosts[0]?.author}</p></div> -->
+				
+				
+			</div>
+		</div>
+			
+       
+        <section class="articles black" style="min-height:0;">
+			<div class="articles-featured">
+				<div class="esport-title">Featured</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+
+			<div class="articles-list">
+			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
+
+				<a class="articles-item" href={article.url} >
+					<div
+						class="articles-item"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href='${article.url}'`}
+					>
+						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						<div class="article-underline"></div>
+						<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+			))}
+				
+				
+			</div>
+		</section>
+		<section class="articles black" style="min-height:0;position:relative;">
+			<div class="articles-featured">
+				<div class="esport-title">Gallery</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+			 <img
+					src='/assets/courts/left.svg'
+					alt=''
+					
+					onclick="slide('left')"
+					id='leftbtn'
+					
+				/>
+				<img
+					src='/assets/courts/right.svg'
+					alt=''
+					id='rightbtn'
+					onclick="slide('right')"
+					
+				/> 
+			<div class="day-list" id="gallery" >
+			
+				<a class="articles-item " href="" >
+					<div
+						class="articles-item gallery-width "
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href=''`}
+					>
+						<div class="esportgalleryfont">Day 1</div>
+						<div class="article-underline"></div>
+						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+				<a class="articles-item" href="" >
+					<div
+						class="articles-item gallery-width"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href=''`}
+					>
+						<div class="esportgalleryfont">Day 2</div>
+						<div class="article-underline"></div>
+						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+				<a class="articles-item" href="" >
+					<div
+						class="articles-item gallery-width"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href=''`}
+					>
+						<div class="esportgalleryfont">Day 3</div>
+						<div class="article-underline"></div>
+						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+				<a class="articles-item" href="" >
+					<div
+						class="articles-item gallery-width"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href=''`}
+					>
+						<div class="esportgalleryfont">Day 4</div>
+						<div class="article-underline"></div>
+						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+				
+				
+			</div>
+			</section>
+		 <section class="articles black" style="min-height:0;">
+			<div class="articles-featured">
+				<div class="esport-title">Schedule</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+			<div class="schedule-list">
+				<div class="schedule-item">
+					<div class="match">TEAM1 X TEAM2</div>
+					<div class="match-secondary">
+						<div class="time">12/07 -11H</div>
+						<div class="match-location">MONSANTO</div>
+					</div>
+				</div>
+				<div class="schedule-item">
+					<div class="match">TEAM1 X TEAM2</div>
+					<div class="match-secondary">
+						<div class="time">12/07 -11H</div>
+						<div class="match-location">MONSANTO</div>
+					</div>
+				</div>
+				<div class="schedule-item">
+					<div class="match">TEAM1 X TEAM2</div>
+						<div class="match-secondary">
+						<div class="time">12/07 -11H</div>
+						<div class="match-location">MONSANTO</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
+			<div class="articles-featured">
+				<div class="esport-title">all articles</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+			<div class="articles-list-all">
+			{allPosts.slice(0,3).map(article =>(
+				<a class="article-item"  href={article.url}>
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+				
+				{allPosts.slice(6,allPosts.length).map(article =>(
+				<a class="article-item hidden" href={article.url} >
+					<div style="display: flex;flex-direction: column;height: 100%;" >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+
+				</div>
+				<div class="buttons-black centered" onclick="showMe()">show more</div>
+		
+		</div>
+		
+<script>
+
+function slide(direction){
+    var container = document.getElementById('gallery');
+    scrollCompleted = 0;
+    var slideVar = setInterval(function(){
+        if(direction == 'left'){
+            container.scrollLeft -= 90;
+        } else {
+            container.scrollLeft += 90;
+        }
+         scrollCompleted += 10; 
+        if(scrollCompleted >= 80){
+            window.clearInterval(slideVar);
+        }
+    }, 50);
+}
+
+// button show more function
+function showMe() {
+const hiddenArticles=document.querySelectorAll('.hidden');
+//console.log(hiddenArticles[0]) ; 
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hidden')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMenba() {
+const hiddenArticles=document.querySelectorAll('.hiddennba');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddennba')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeslam() {
+const hiddenArticles=document.querySelectorAll('.hiddenslam');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenslam')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMereal() {
+const hiddenArticles=document.querySelectorAll('.hiddenreal');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenreal')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeball() {
+const hiddenArticles=document.querySelectorAll('.hiddenball');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenball')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+
+</script>
+</Bases>

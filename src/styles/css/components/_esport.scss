@@ -1,0 +1,142 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+.black {
+	background-color: black !important;
+	color: white !important;
+}
+
+.schedule-list {
+	display: grid;
+	padding: 1em 10%;
+	grid-template-columns: repeat(auto-fit, minmax(15em, 3fr));
+	place-items: center;
+
+	.schedule-item {
+		* {
+			width: 100%;
+			padding: 0.5em auto;
+		}
+		.match {
+			font-size: 2em;
+			width: 100%;
+			text-align: center;
+		}
+		.match-secondary {
+			color: $hoopers-yellow;
+			display: flex;
+			flex-direction: column;
+			width: fit-content;
+			margin: auto;
+			gap: 0.5em;
+			padding-top: 0.5em;
+			font-size: 2em;
+			font-family: $aktiv-grotesk-light;
+		}
+	}
+}
+
+.esport-title {
+	font-size: 2em;
+	text-transform: uppercase;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	font-family: $aktiv-grotesk-medium;
+}
+
+.esportlogosmall {
+	width: 4em;
+	height: 4em;
+	margin: 0 auto;
+}
+
+.esportlogo {
+	width: 100%;
+	display: flex;
+	height: 100%;
+	margin: auto;
+	object-fit: contain;
+	// padding: 2em;
+}
+
+.day-list {
+	// display: inline-grid;
+	background-color: $hoopers-black;
+	margin: 1em 10% 0 10%;
+	// grid-template-columns: repeat(1, 2fr);
+	grid-template-rows: masonry;
+	// scroll-snap-type: x mandatory;
+	// place-items: center;
+	display: flex;
+	overflow-x: scroll;
+	position: relative;
+}
+
+.esportlogomedium {
+	width: 6em;
+	height: 6em;
+	margin: 0 auto;
+}
+
+.esportgalleryfont {
+	font-size: 6em !important;
+	display: flex;
+	justify-content: center;
+	padding: 1em;
+	// height: 1em;
+	font-family: $aktiv-grotesk-bold;
+
+	font-stretch: condensed;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.gallery-width {
+	width: 40vw !important;
+	height: auto !important;
+	scroll-snap-align: start;
+}
+
+// #rightbth {
+// 	position: absolute;
+// 	right: -1em;
+// }
+
+// #leftbtn {
+// 	position: absolute;
+// 	left: -1em;
+// 	z-index: 1;
+// }
+
+#leftbtn,
+#rightbtn {
+	width: 3em !important;
+	position: absolute;
+	height: 3em !important;
+	transition: all 0.5s ease;
+
+	&:hover {
+		transform: scale(1.2);
+	}
+}
+
+#leftbtn {
+	left: 2em;
+	top: 50%;
+}
+#rightbtn {
+	right: 2em;
+	top: 50%;
+}
+
+@media screen and (max-width: 600px) {
+	#leftbtn,
+	#rightbtn {
+		display: none;
+	}
+	.gallery-width {
+		width: 80vw !important;
+	}
+	.day-list {
+		scroll-snap-type: x mandatory;
+	}
+}

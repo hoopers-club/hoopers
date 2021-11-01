@@ -1,0 +1,175 @@
+---
+import Bases from '../Layout/Layout-Article.astro'
+
+
+let allPosts = Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
+
+import nbaportugal from'/nba.json'
+import slam from'/slam.json'
+import realgm from'/realgm.json'
+import ballislife from'/ballislife.json'
+
+
+
+
+
+---
+
+<Bases>
+		
+        <!-- <Heros articles={allPosts} client:visible/> -->
+        <div class="container">
+			<div
+				class="top"
+				style={`
+				
+					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+						url('${allPosts[0]?.image}');
+							background-attachment: fixed;
+							background-position:center;`
+				}
+			>
+				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+				<div class="headline " >
+				<!-- <img class="esportlogo" src="/assets/esports/Asset 1.svg" alt=""/> -->
+				nft's <span><h4 >by Hoopers</h4></span></div>
+				<div class="centered-button buttons" style="z-index: 1;display:flex;" onclick="window.open('https://youtu.be/6YNnwq_nykA','_blank')">Check our drops</div>
+		</div>
+		
+       
+		<section class="single-articles black" style="min-height:0;position:relative;">
+		<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
+			<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id facilis ad officia odit, nesciunt soluta nobis quidem minima dolorem asperiores quos nulla iusto tenetur quia. Adipisci nam officia illum atque sunt magni perferendis, dolorem delectus eum perspiciatis alias natus quae distinctio soluta velit architecto pariatur corporis temporibus porro placeat illo facere suscipit rem? Quidem consectetur, obcaecati explicabo magnam illo minima, assumenda harum quo vero totam autem error modi repellat ipsam tempore dolorem ratione dolores nam doloribus nihil exercitationem ullam vitae ducimus quibusdam! Nihil perspiciatis provident, itaque, dolorem aperiam fugiat numquam assumenda necessitatibus maxime eligendi beatae amet maiores voluptatem? Velit, nostrum?</p>
+
+
+		<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
+		</section>
+
+		
+<script>
+// button show more function
+function showMe() {
+const hiddenArticles=document.querySelectorAll('.hidden');
+//console.log(hiddenArticles[0]) ; 
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hidden')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMenba() {
+const hiddenArticles=document.querySelectorAll('.hiddennba');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddennba')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeslam() {
+const hiddenArticles=document.querySelectorAll('.hiddenslam');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenslam')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMereal() {
+const hiddenArticles=document.querySelectorAll('.hiddenreal');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenreal')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+function showMeball() {
+const hiddenArticles=document.querySelectorAll('.hiddenball');
+ console.log(hiddenArticles[0]) ;
+
+  if(hiddenArticles){
+hiddenArticles.forEach(article=>{ 
+
+	 article.classList.add('hidden-disabled')
+	 article.classList.remove('hiddenball')
+
+ console.log('opened')
+ });
+   }
+   else {
+    hiddenArticles.forEach(article=>{ 
+const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+	 article.classList.add('hidden')
+	 article.classList.remove('hidden-disabled')
+
+ console.log('locked')
+ });
+   }
+   } 
+
+</script>
+</Bases>
