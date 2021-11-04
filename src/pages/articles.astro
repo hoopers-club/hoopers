@@ -94,7 +94,7 @@ import ballislife from'/ballislife.json'
 				<a class="article-item"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
@@ -103,7 +103,7 @@ import ballislife from'/ballislife.json'
 				<a class="article-item hidden" href={article.url} >
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
 				</a>))}
