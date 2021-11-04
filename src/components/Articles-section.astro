@@ -32,7 +32,9 @@ articles=articles.filter(article=>article.featured==true)
 						`}
 						onclick={`location.href='${article.url}'`}
 					>
-						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						<!--<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>-->
+						<div class="title">{article?.title}</div>
+
 						<div class="article-underline"></div>
 						<div class="by">by {article?.author}</div>
 					</div>
