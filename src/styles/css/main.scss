@@ -45,8 +45,9 @@ html {
 	font-family: $aktiv-grotesk-bold;
 }
 
-body {
-	width: 100%;
+body,
+html {
+	width: 100vw;
 	overflow-x: hidden;
 }
 
