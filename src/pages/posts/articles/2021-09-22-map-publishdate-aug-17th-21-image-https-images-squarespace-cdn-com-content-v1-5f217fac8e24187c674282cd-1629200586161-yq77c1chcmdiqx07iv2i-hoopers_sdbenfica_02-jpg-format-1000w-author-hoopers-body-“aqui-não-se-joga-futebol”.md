@@ -8,7 +8,7 @@ image: /assets/uploads/banner_benfica.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-“Aqui não se joga futebol” é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
+**“Aqui não se joga futebol”** é uma afirmação corajosa para ser feita num país de futebol, mas é isso que se pode ler numa placa junto à entrada do campo de basquetebol no Largo do Conde de Bonfim, na freguesia de São Domingos de Benfica, em Lisboa, que foi alvo recentemente de uma intervenção artística a cargo da artista [Pitanga](https://www.instagram.com/vaidarpitanga/). Este é um projeto promovido pela [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de São Domingos de Benfica.
 
 ![Créditos: Hoopers / Malagueta](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200586161-YQ77C1CHCMDIQX07IV2I/Hoopers_SDBenfica_02.JPG?format=2500w "Créditos: Hoopers / Malagueta")
 
@@ -27,7 +27,5 @@ Este é o oitavo projeto deste género dinamizado pela startup Hoopers: Entre el
 ![Créditos: Hoopers / Malagueta](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1629200763136-SI2HAPM9XDV0YMAF7BIK/Hoopers_SDBenfica_01.JPG?format=2500w "Créditos: Hoopers / Malagueta")
 
 A intervenção artística arrancou no dia 9 de Agosto e o espaço será novamente aberto ao público a partir de amanhã. Os parceiros desta iniciativa foram a Robbialac, a JOPINTO e a Sport Design.
-
-
 
 ``
