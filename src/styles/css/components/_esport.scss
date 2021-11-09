@@ -1,7 +1,7 @@
 @use '../abstracts/colors' as *;
 @use '../abstracts/fonts' as *;
 .black {
-	background-color: black !important;
+	background-color: $hoopers-black !important;
 	color: white !important;
 }
 
