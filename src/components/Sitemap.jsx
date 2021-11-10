@@ -25,8 +25,8 @@ const Sitemap = ({ openSitemap }) => {
 					<li>
 						<a href='/articles'>ARTICLES</a>
 					</li>
-					<li className='strikeline hide'>
-						<span style={{ color: 'white' }}>ESPORTS</span>
+					<li>
+						<a href='/articles'>ESPORTS</a>
 					</li>
 					<li onClick={submenu}>COURTS</li>
 					{expanded ? (
