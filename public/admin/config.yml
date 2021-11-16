@@ -163,7 +163,7 @@ collections:
           field: { label: Image, name: image, widget: image },
         }
   - name: 'summerarticles'
-    label: 'Summer league articlesArticles'
+    label: 'Summer league Articles'
     create: true
     publish_mode: editorial_workflow
     folder: 'src/pages/posts/summerarticles'
@@ -198,4 +198,30 @@ collections:
           name: 'layout',
           widget: 'string',
           default: '../../../Layout/single-article.astro',
+        }
+  - name: 'summergames'
+    label: 'Summer league Games'
+    create: true
+    publish_mode: editorial_workflow
+    folder: 'src/pages/posts/summergames'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Team A', name: 'teamA', widget: 'string', required: true }
+      - { label: 'Team B', name: 'teamB', widget: 'string', required: true }
+      - {
+          label: 'Location',
+          name: 'location',
+          widget: 'string',
+          required: true,
+        }
+      - {
+          label: 'Game time',
+          name: 'time',
+          widget: 'datetime',
+          default: '',
+          date_format: 'DD/MM',
+          time_format: 'HH:mm',
+          format: 'LLL',
+          picker_utc: false,
+          required: true,
         }
