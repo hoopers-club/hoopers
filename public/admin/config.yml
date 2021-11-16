@@ -143,3 +143,23 @@ collections:
           required: true,
         }
       - { label: 'Product Link', name: 'productLink', widget: 'string' }
+  - name: 'summergallery'
+    label: 'Summerleague Gallery',
+
+    folder: 'src/pages/posts/summergallery'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - {
+          label: 'Publish Date',
+          name: 'publishDate',
+          widget: 'date',
+          format: 'YY-MM-DD',
+          required: true,
+        }
+      - {
+          label: 'Gallery',
+          name: 'galleryImages',
+          widget: 'list',
+          field: { label: Image, name: image, widget: image },
+        }
