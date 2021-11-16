@@ -20,8 +20,8 @@ console.log(games)
             <div class="schedule-item">
 					<div class="match">{game?.teamA} X {game?.teamB}</div>
 					<div class="match-secondary">
-						<div class="time">{`${new Date(game.time).getDay()}/${new Date(game.time).getMonth()} - ${new Date(game.time).getUTCHours()}H${new Date(game?.time).getUTCMinutes()=='00'?'':new Date(game?.time).getUTCMinutes()} `}</div>
-						<div class="match-location">{game?.location}</div>
+						<div class="time">{`${new Date(game.time).getDay()}/${new Date(game.time).getMonth()} - ${new Date(game.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
+						<div class="match-location">{game?.location}</div> 
 					</div>
 				</div>
 
