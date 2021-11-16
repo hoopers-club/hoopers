@@ -144,6 +144,7 @@ collections:
       - { label: 'Product Link', name: 'productLink', widget: 'string' }
   - name: 'summergallery'
     label: 'Summerleague Gallery'
+    create: true
     folder: 'src/pages/posts/summergallery'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
@@ -160,4 +161,41 @@ collections:
           name: 'galleryImages',
           widget: 'list',
           field: { label: Image, name: image, widget: image },
+        }
+  - name: 'summerarticles'
+    label: 'Summer league articlesArticles'
+    create: true
+    publish_mode: editorial_workflow
+    folder: 'src/pages/posts/summerarticles'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - { label: 'Subtitle', name: 'subname', widget: 'text' }
+      - {
+          label: 'Featured',
+          name: 'featured',
+          widget: 'boolean',
+          default: false,
+        }
+      - {
+          label: 'Publish Date',
+          name: 'publishDate',
+          widget: 'date',
+          format: 'MMM Do YY',
+          required: true,
+        }
+      - {
+          label: 'Banner',
+          name: 'image',
+          widget: 'image',
+          choose_url: true,
+          required: true,
+        }
+      - { label: 'Author', name: 'author', widget: 'string', required: true }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'string',
+          default: '../../../Layout/single-article.astro',
         }
