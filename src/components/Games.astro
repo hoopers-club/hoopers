@@ -1,0 +1,35 @@
+---
+let games = Astro.fetchContent('../pages/posts/summergames/*.md');
+games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
+
+console.log(games)
+---
+
+		 <section class="articles black" style="min-height:0;">
+			<div class="articles-featured">
+				<div class="esport-title">Schedule</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+			<div class="schedule-list">
+            {games?.map(game =>(
+
+            <div class="schedule-item">
+					<div class="match">{game?.teamA} X {game?.teamB}</div>
+					<div class="match-secondary">
+						<div class="time">{`${new Date(game.time).getDay()}/${new Date(game.time).getMonth()} - ${new Date(game.time).getUTCHours()}H${new Date(game?.time).getUTCMinutes()=='00'?'':new Date(game?.time).getUTCMinutes()} `}</div>
+						<div class="match-location">{game?.location}</div>
+					</div>
+				</div>
+
+            ))}
+
+
+				
+				
+				
+			</div>
+		</section>

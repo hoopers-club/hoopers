@@ -1,9 +1,14 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
+import Games from '../components/Games.astro'
 
 
-let allPosts = Astro.fetchContent('./posts/articles/*.md');
+let allPosts = Astro.fetchContent('./posts/summerarticles/*.md');
+
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
+
+
 
 
 import nbaportugal from'/nba.json'
@@ -196,39 +201,10 @@ import ballislife from'/ballislife.json'
 				
 			</div>
 			</section>
-		 <section class="articles black" style="min-height:0;">
-			<div class="articles-featured">
-				<div class="esport-title">Schedule</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			<div class="schedule-list">
-				<div class="schedule-item">
-					<div class="match">TEAM1 X TEAM2</div>
-					<div class="match-secondary">
-						<div class="time">12/07 -11H</div>
-						<div class="match-location">MONSANTO</div>
-					</div>
-				</div>
-				<div class="schedule-item">
-					<div class="match">TEAM1 X TEAM2</div>
-					<div class="match-secondary">
-						<div class="time">12/07 -11H</div>
-						<div class="match-location">MONSANTO</div>
-					</div>
-				</div>
-				<div class="schedule-item">
-					<div class="match">TEAM1 X TEAM2</div>
-						<div class="match-secondary">
-						<div class="time">12/07 -11H</div>
-						<div class="match-location">MONSANTO</div>
-					</div>
-				</div>
-			</div>
-		</section>
+			
+<Games/>
+
+
 		<div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
 			<div class="articles-featured">
 				<div class="esport-title">all articles</div>
