@@ -143,7 +143,7 @@ collections:
         }
       - { label: 'Product Link', name: 'productLink', widget: 'string' }
   - name: 'summergallery'
-    label: 'Summerleague Gallery',
+    label: 'Summerleague Gallery'
     folder: 'src/pages/posts/summergallery'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
