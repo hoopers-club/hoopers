@@ -81,3 +81,12 @@
 		// max-height: 35vh;
 	}
 }
+
+input[type=email] {
+	border-bottom: solid 1px black;
+    margin-bottom: 0.25em;
+    width: 98%;
+	&:focus {
+		outline: none !important;
+	}
+}
