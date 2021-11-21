@@ -1,5 +1,5 @@
 ---
-let games = Astro.fetchContent('../pages/posts/summergames/*.md');
+let games = Astro.fetchContent('../pages/posts/summergallery/*.md');
 games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
 
 console.log(games)

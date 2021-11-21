@@ -158,7 +158,7 @@ collections:
         }
       - label: 'Gallery'
         name: 'galleryImages'
-        widget: 'object'
+        widget: 'list'
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Image description, name: description, widget: text }
