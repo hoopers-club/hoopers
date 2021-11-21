@@ -1,6 +1,7 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
 import Games from '../components/Games.astro'
+import Modal from '../components/Modal.jsx'
 
 
 let allPosts = Astro.fetchContent('./posts/summerarticles/*.md');
@@ -134,9 +135,9 @@ import ballislife from'/ballislife.json'
 						<div class="esportgalleryfont">Day 1</div>
 						<div class="article-underline"></div>
 						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
-						
 					</div>
 				</a>
+						<Modal client:visible/>
 				<a class="articles-item" href="" >
 					<div
 						class="articles-item gallery-width"

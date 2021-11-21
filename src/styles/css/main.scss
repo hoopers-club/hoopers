@@ -11,6 +11,7 @@
 @use './components/court' as *;
 @use './components/search' as *;
 @use './components/esport' as *;
+@use './components/modal' as *;
 * {
 	padding: 0;
 	margin: 0;
@@ -312,7 +313,6 @@ section {
 	padding-top: 20vh;
 }
 
-
 /* -------------------------------------------------------------------------- */
 
 /*                                TABLE (TEST)                                */
@@ -320,21 +320,21 @@ section {
 /* -------------------------------------------------------------------------- */
 
 table {
-	border-collapse:collapse;
+	border-collapse: collapse;
 	margin-right: 5%;
 	margin-left: 5%;
 	width: 90%;
 }
 
-table, th, td {
-	border:1px solid white;
+table,
+th,
+td {
+	border: 1px solid white;
 }
 
 table .strong {
 	font-family: 'Charter-Bold';
 }
-
-
 
 /* -------------------------------------------------------------------------- */
 

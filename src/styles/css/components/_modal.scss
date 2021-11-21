@@ -1,0 +1,38 @@
+@use '../abstracts/colors' as *;
+@use '../abstracts/fonts' as *;
+
+.modal {
+	background-color: rgba(200, 191, 207, 0.685);
+	color: black;
+	position: fixed;
+	top: -10%;
+	left: 0;
+	right: 0;
+
+	margin: 10%;
+	z-index: 2;
+	width: 80%;
+	height: 80%;
+	.gallery {
+		flex-direction: column !important;
+		height: 30em;
+		width: auto;
+		font-family: $aktiv-grotesk-light;
+
+		.modal-description {
+			padding: 1em;
+			p {
+				font-family: $aktiv-grotesk-light;
+				strong {
+					font-family: $aktiv-grotesk-bold;
+				}
+			}
+			strong {
+				font-family: $aktiv-grotesk-bold;
+			}
+		}
+	}
+}
+.modal > * {
+	width: 100% !important;
+}
