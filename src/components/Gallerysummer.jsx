@@ -2,22 +2,27 @@ import { useState } from 'react';
 
 const Gallery = ({ articles }) => {
 	const url = '/assets/Homepage/hero main.svg';
-	const [courtImage, setcourtImage] = useState(articles[0]);
+	const [courtImage, setcourtImage] = useState(articles[0]?.image);
+	const [i, setI] = useState(articles[0]);
 
 	const skip = (direction) => {
-		let currentIndex = articles.findIndex((court) => court === courtImage);
-		console.log(courtImage);
+		let currentIndex = articles.findIndex(
+			(court) => court?.image === courtImage
+		);
+
 		if (direction === 'forward') {
-			setcourtImage(articles[(currentIndex + 1) % articles.length]);
-			console.log(courtImage);
+			setcourtImage(articles[(currentIndex + 1) % articles.length]?.image);
+			setI(articles[(currentIndex + 1) % articles.length]);
 		}
 		if (direction === 'back') {
 			if ((currentIndex - 1) % articles.length === -1) {
-				setcourtImage(articles[articles.length - 1]);
+				setcourtImage(articles[articles.length - 1]?.image);
+				setI(articles[articles.length - 1]);
 
 				return;
 			}
-			setcourtImage(articles[(currentIndex - 1) % articles.length]);
+			setcourtImage(articles[(currentIndex - 1) % articles.length]?.image);
+			setI(articles[(currentIndex - 1) % articles.length]);
 		}
 	};
 	return (
@@ -50,7 +55,8 @@ const Gallery = ({ articles }) => {
 				))} */}
 			</div>
 			<div className='modal-description'>
-				image description <strong>this is a test</strong>
+				<p>{i?.description}</p>
+				<strong>Credito:{i?.credito}</strong>
 			</div>
 		</div>
 	);

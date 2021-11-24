@@ -1,10 +1,15 @@
 import Gallery from './Gallerysummer';
-const Modal = () => {
+
+const Modal = ({ gallery, handleModal }) => {
 	return (
 		<div className='modal'>
-			<Gallery
-				articles={['https://unsplash.it/500', 'https://unsplash.it/700']}
+			<img
+				className='close-btn'
+				src='/assets/courts/Fechar Card.svg'
+				alt=''
+				onClick={() => handleModal()}
 			/>
+			<Gallery articles={gallery} />
 		</div>
 	);
 };

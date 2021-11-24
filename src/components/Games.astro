@@ -1,8 +1,15 @@
 ---
-let games = Astro.fetchContent('../pages/posts/summergallery/*.md');
+let games = Astro.fetchContent('../pages/posts/summergames/*.md');
 games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
+games=games.filter(game=>new Date()<new Date(game.time))
 
-console.log(games)
+console.log(new Date(games[0].time),'fulltime')
+console.log(new Date(games[0].time).toDateString(),'fulltime')
+console.log(new Date(games[0].time).getDate(),'date')
+console.log(new Date(games[0].time).getDay(),'day')
+console.log(new Date(games[0].time).getMonth(),'month')
+console.log(new Date(games[0].time).getHours(),'hours')
+console.log(new Date(games[0].time).getMinutes(),'minutes')
 ---
 
 		 <section class="articles black" style="min-height:0;">
@@ -20,7 +27,7 @@ console.log(games)
             <div class="schedule-item">
 					<div class="match">{game?.teamA} X {game?.teamB}</div>
 					<div class="match-secondary">
-						<div class="time">{`${new Date(game.time).getDay()}/${new Date(game.time).getMonth()} - ${new Date(game.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
+						<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth()} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
 						<div class="match-location">{game?.location}</div> 
 					</div>
 				</div>

@@ -14,7 +14,7 @@ main {
 	padding: 1em 10%;
 	grid-template-columns: repeat(auto-fit, minmax(15em, 3fr));
 	place-items: center;
-
+	gap: 3em;
 	.schedule-item {
 		* {
 			width: 100%;

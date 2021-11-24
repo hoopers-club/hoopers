@@ -1,7 +1,8 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
 import Games from '../components/Games.astro'
-import Modal from '../components/Modal.jsx'
+import GallerySection from '../components/Gallery-section.astro'
+
 
 
 let allPosts = Astro.fetchContent('./posts/summerarticles/*.md');
@@ -92,116 +93,7 @@ import ballislife from'/ballislife.json'
 				
 			</div>
 		</section>
-		<section class="articles black" style="min-height:0;position:relative;">
-			<div class="articles-featured">
-				<div class="esport-title">Gallery</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			 <img
-					src='/assets/courts/left.svg'
-					alt=''
-					
-					onclick="slide('left')"
-					id='leftbtn'
-					
-				/>
-				<img
-					src='/assets/courts/right.svg'
-					alt=''
-					id='rightbtn'
-					onclick="slide('right')"
-					
-				/> 
-			<div class="day-list" id="gallery" >
-			
-				<a class="articles-item " href="" >
-					<div
-						class="articles-item gallery-width "
-						style={`
-							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
-							background-repeat: no-repeat;
-							background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
-							background-position:center;
-					
-					
-						`}
-						onclick={`location.href=''`}
-					>
-						<div class="esportgalleryfont">Day 1</div>
-						<div class="article-underline"></div>
-						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
-					</div>
-				</a>
-						<Modal client:visible/>
-				<a class="articles-item" href="" >
-					<div
-						class="articles-item gallery-width"
-						style={`
-							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
-							background-repeat: no-repeat;
-							background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
-							background-position:center;
-					
-					
-						`}
-						onclick={`location.href=''`}
-					>
-						<div class="esportgalleryfont">Day 2</div>
-						<div class="article-underline"></div>
-						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
-						
-					</div>
-				</a>
-				<a class="articles-item" href="" >
-					<div
-						class="articles-item gallery-width"
-						style={`
-							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
-							background-repeat: no-repeat;
-							background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
-							background-position:center;
-					
-					
-						`}
-						onclick={`location.href=''`}
-					>
-						<div class="esportgalleryfont">Day 3</div>
-						<div class="article-underline"></div>
-						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
-						
-					</div>
-				</a>
-				<a class="articles-item" href="" >
-					<div
-						class="articles-item gallery-width"
-						style={`
-							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url(https://unsplash.it/400);
-							background-repeat: no-repeat;
-							background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
-							background-position:center;
-					
-					
-						`}
-						onclick={`location.href=''`}
-					>
-						<div class="esportgalleryfont">Day 4</div>
-						<div class="article-underline"></div>
-						<img class="esportlogomedium" src="/assets/esports/Asset 1.svg" alt="">
-						
-					</div>
-				</a>
-				
-				
-			</div>
-			</section>
+	<GallerySection/>
 			
 <Games/>
 
@@ -216,7 +108,7 @@ import ballislife from'/ballislife.json'
 				/>
 			</div>
 			<div class="articles-list-all">
-			{allPosts.slice(0,3).map(article =>(
+			{allPosts.slice(0,6).map(article =>(
 				<a class="article-item"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>

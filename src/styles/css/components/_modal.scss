@@ -2,17 +2,27 @@
 @use '../abstracts/fonts' as *;
 
 .modal {
+	position: relative;
 	background-color: rgba(200, 191, 207, 0.685);
 	color: black;
 	position: fixed;
-	top: -10%;
+	top: 0%;
 	left: 0;
 	right: 0;
 
 	margin: 10%;
-	z-index: 2;
+	z-index: 3;
 	width: 80%;
 	height: 80%;
+	.close-btn {
+		position: absolute;
+		width: 4em;
+		height: 4em;
+		z-index: 2;
+		right: -2em;
+		top: -2em;
+	}
+
 	.gallery {
 		flex-direction: column !important;
 		height: 30em;
@@ -33,6 +43,6 @@
 		}
 	}
 }
-.modal > * {
-	width: 100% !important;
-}
+// .modal > * {
+// 	width: 100% !important;
+// }
