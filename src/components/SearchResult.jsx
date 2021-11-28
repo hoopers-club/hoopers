@@ -17,8 +17,8 @@ const SearchResult = ({ articles }) => {
 		setSearch(sessionStorage.getItem('SEARCH'));
 	}, [search]);
 	const re = new RegExp(search, 'i');
-	const filtered = art?.filter(
-		(article) => article.title.match(re)
+	const filtered = art.filter(
+		(article) => article?.title.match(re)
 		// console.log(article.title.match(re))
 	);
 	// const filtered = art;
