@@ -38,7 +38,7 @@ const SearchResult = ({ articles }) => {
 					))}
 				</div>
 			) : (
-				<div class='search-query'>
+				<div className='search-query'>
 					{search != ''
 						? `Sorry, no results matching "${search}" were found.`
 						: 'Searching'}
