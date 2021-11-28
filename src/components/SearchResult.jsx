@@ -16,8 +16,10 @@ const SearchResult = ({ articles }) => {
 	useEffect(() => {
 		setSearch(sessionStorage.getItem('SEARCH'));
 	}, [search]);
-	const filtered = art.filter((article) =>
-		article.title.match(new RegExp(search, 'i'))
+	const re = new RegExp(search, 'i');
+	const filtered = art.filter(
+		(article) => article.title.match(re)
+		// console.log(article.title.match(re))
 	);
 	// const filtered = art;
 	return (
@@ -25,7 +27,11 @@ const SearchResult = ({ articles }) => {
 			{search !== '' && filtered?.length > 0 ? (
 				<div className='search-list-all'>
 					{filtered.map((article, i) => (
-						<a key={i} className='article-item' href={article?.url}>
+						<a
+							key={i}
+							className='article-item'
+							href={article?.url}
+							target='_blank'>
 							<div>
 								<div className='img'>
 									<img src={article?.image} alt='' />
