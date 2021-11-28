@@ -18,7 +18,7 @@ const SearchResult = ({ articles }) => {
 	}, [search]);
 	const re = new RegExp(search, 'i');
 	const filtered = art.filter(
-		(article) => article?.title.match(re)
+		(article) => re.test(article?.title)
 		// console.log(article.title.match(re))
 	);
 	// const filtered = art;
