@@ -16,9 +16,10 @@ const SearchResult = ({ articles }) => {
 	useEffect(() => {
 		setSearch(sessionStorage.getItem('SEARCH'));
 	}, [search]);
-	const filtered = art.filter((article) =>
-		article?.title.match(new RegExp(search, 'i'))
-	);
+	// const filtered = art.filter((article) =>
+	// 	// article?.title.match(new RegExp(search, 'i'))
+	// );
+	const filtered = art;
 	return (
 		<div className=''>
 			{search !== '' && filtered?.length > 0 ? (
