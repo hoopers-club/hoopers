@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import Sitemap from './Sitemap.jsx';
 const Menu = ({ open, setOpen }) => {
+	/* -------------------------------------------------------------------------- */
+	/*                                    menu                                    */
+	/* -------------------------------------------------------------------------- */
 	const [openSite, setOpenSite] = useState(false);
 	const openSitemap = () => {
 		// console.log('worked');
@@ -44,6 +47,35 @@ const Menu = ({ open, setOpen }) => {
 				<a href='https://hoopers.store/' target='_blank'>
 					<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
 				</a>
+				{/* <div class='dropdown'>
+					<button class='dropbtn'>LANG</button>
+					<div class='dropdown-content'>
+						<a
+							href='#'
+							onclick="doGTranslate('en|pt');return false;"
+							title='Portuguese'
+							class='glink nturl notranslate'>
+							PT
+						</a>
+						<a
+							href='#'
+							onclick="doGTranslate('pt|en');return false;"
+							title='english'
+							class='glink nturl notranslate'>
+							EN
+						</a>
+						<a
+							href='#'
+							onclick={() => {
+								window[doGTranslate]('en|es');
+								return false;
+							}}
+							title='Spanish'
+							class='glink nturl notranslate'>
+							ES
+						</a>
+					</div>
+				</div> */}
 				{/* <img src='/assets/Homepage/Botão Idioma.svg' alt='pt' /> */}
 			</div>
 			{openSite ? <Sitemap openSitemap={openSitemap} /> : ''}
