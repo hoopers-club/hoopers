@@ -12,26 +12,27 @@ const SearchResult = ({ articles }) => {
 	// console.log(c);
 	const [search, setSearch] = useState('');
 	const art = [...articles, ...nbaportugal, ...slam, ...realgm, ...ballislife];
-	const filtered = art.filter((article) =>
-		article.title.match(new RegExp(search, 'i'))
-	);
+
 	useEffect(() => {
 		setSearch(sessionStorage.getItem('SEARCH'));
 	}, [search]);
+	const filtered = art.filter((article) =>
+		article?.title.match(new RegExp(search, 'i'))
+	);
 	return (
 		<div className=''>
-			{search !== '' && filtered.length > 0 ? (
+			{search !== '' && filtered?.length > 0 ? (
 				<div className='search-list-all'>
 					{filtered.map((article, i) => (
-						<a key={i} className='article-item' href={article.url}>
+						<a key={i} className='article-item' href={article?.url}>
 							<div>
 								<div className='img'>
-									<img src={article.image} alt='' />
+									<img src={article?.image} alt='' />
 								</div>
 								<div className='article-title' style={{ fontSize: '0.8em' }}>
-									{article.title}
+									{article?.title}
 								</div>
-								<div className='article-writer'> BY {article.author}</div>
+								<div className='article-writer'> BY {article?.author}</div>
 							</div>
 						</a>
 					))}

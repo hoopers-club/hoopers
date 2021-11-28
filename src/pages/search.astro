@@ -16,7 +16,7 @@ const articles=Astro.fetchContent('./posts/articles/*.md')
 
 
 <div class="search-page">
-    <div class="search-query" >Your results for '<span id="key">Lisbon basket</span>'</div>
+    <div class="search-query" >Your results for '<span id="key"></span>'</div>
 
 </div>
 <script>
@@ -24,7 +24,7 @@ const articles=Astro.fetchContent('./posts/articles/*.md')
 const searched = sessionStorage.getItem('SEARCH')
 const key=document.getElementById('key')
 key.innerHTML=searched
-console.log(key)
+
 </script>
 <SearchResult articles={articles}  client:visible/>
 <!-- <div class="search-list-all">
