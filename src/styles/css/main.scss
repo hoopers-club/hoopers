@@ -642,14 +642,19 @@ footer {
 	font-size: 16px;
 	border: none;
 	cursor: pointer;
+	background-color: black;
+	padding: 20px 10px 20px 10px;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-	position: absolute;
+	// position: absolute;
 	display: inline-block;
 	right: 0;
 	z-index: 101;
+	position: fixed;
+	right: 4rem;
+	bottom: 9rem;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -657,9 +662,10 @@ footer {
 	display: none;
 	position: absolute;
 	background-color: #f9f9f9;
-	min-width: 160px;
+	// min-width: 160px;
 	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 	z-index: 1;
+	width: 64px;
 }
 
 /* Links inside the dropdown */
@@ -668,6 +674,7 @@ footer {
 	padding: 12px 16px;
 	text-decoration: none;
 	display: block;
+	padding: 14px 22px;
 }
 
 /* Change color of dropdown links on hover */
@@ -683,6 +690,7 @@ footer {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
 	background-color: orange;
+	color: black;
 }
 #goog-gt-tt {
 	display: none !important;
@@ -702,4 +710,22 @@ body {
 }
 #google_translate_element2 {
 	display: none !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                             REMOVED SCROLL BAR                             */
+/* -------------------------------------------------------------------------- */
+
+.day-list::-webkit-scrollbar {
+	display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.day-list {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+
+.center-games {
+	margin-inline: auto;
 }

@@ -26,7 +26,9 @@ const Sitemap = ({ openSitemap }) => {
 						<a href='/articles'>ARTICLES</a>
 					</li>
 					<li>
-						<a href='/esports'>ESPORTS</a>
+						<a href='/esports' className='notranslate'>
+							ESPORTS
+						</a>
 					</li>
 					<li className='notranslate' onClick={submenu}>
 						COURTS

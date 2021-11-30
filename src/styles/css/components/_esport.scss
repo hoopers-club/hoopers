@@ -15,6 +15,7 @@ main {
 	grid-template-columns: repeat(auto-fit, minmax(15em, 3fr));
 	place-items: center;
 	gap: 3em;
+	margin-block-end: 1em;
 	.schedule-item {
 		* {
 			width: 100%;
