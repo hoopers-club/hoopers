@@ -149,7 +149,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
-       - { label: Cover, name: cover, widget: image }
+      - { label: Cover, name: cover, widget: image }
       - {
           label: 'Publish Date',
           name: 'publishDate',
