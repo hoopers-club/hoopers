@@ -9,7 +9,7 @@ courtDescription: >
   talents to fall in love with our game. <br/> <br/> Check our projects and
   learn more about their stories.
 productName: summer 21 t-shirt
-productPrice: 16
+productPrice: 25
 productDescription: |-
   Made with love for our community.
   <br/>
