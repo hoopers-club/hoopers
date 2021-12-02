@@ -61,7 +61,7 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 				<img src='/assets/courts/courtseparatordetail.svg' alt='' />
 				<div className='court-detail-info'>
 					<div className='title'>Location</div>
-					<div className='detail'>{court?.location}</div>
+					<div className='detail notranslate'>{court?.location}</div>
 				</div>
 				<div className='court-detail-info'>
 					<div className='title'>ARTIST</div>

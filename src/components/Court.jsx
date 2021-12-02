@@ -19,7 +19,7 @@ const Court = ({ first, court, detail, setDetail }) => {
 			{/* {!detail && ( */}
 			<div
 				// id='#court'
-				className='court'
+				className='court notranslate'
 				style={{
 					...styles,
 					background: `url(${court?.image})`,
