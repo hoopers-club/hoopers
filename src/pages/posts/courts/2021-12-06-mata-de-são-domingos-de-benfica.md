@@ -7,7 +7,7 @@ location: Parque Ecológico de Monsanto | Lisbon, Portugal
 artist: Fredy Klit e Pedro Mojojojoo
 duration: 20 days
 partner:
-  - PARISH COUNCIL OF SÃO DOMINGOS
+  - PARISH COUNCIL OF SÃO DOMINGOS DE BENFICA
   - GAU
   - FCMP
   - JOPINTO
