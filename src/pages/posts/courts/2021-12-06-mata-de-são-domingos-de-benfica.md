@@ -4,7 +4,7 @@ name: Mata de São Domingos de Benfica
 subname: Portugal
 position: 10
 location: Parque Ecológico de Monsanto | Lisbon, Portugal
-artist: Fredy Klit e Pedro Mojojojoo
+artist: Fredy Klit e Pedro Mojojojo
 duration: 20 days
 partner:
   - PARISH COUNCIL OF SÃO DOMINGOS DE BENFICA
