@@ -110,6 +110,7 @@ import ballislife from'/ballislife.json'
 
 				</div>
 				<div class="buttons-black centered" onclick="showMe()">show more</div>
+				
 			<div class="articles-featured">
 				<div class="featured notranslate">NBA Portugal</div>
 				<img
@@ -257,29 +258,30 @@ import ballislife from'/ballislife.json'
 <script>
 // button show more function
 function showMe() {
-const hiddenArticles=document.querySelectorAll('.hidden');
-//console.log(hiddenArticles[0]) ; 
+	const hiddenArticles=document.querySelectorAll('.hidden');
+	//console.log(hiddenArticles[0]) ; 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+  	if(hiddenArticles){
+		hiddenArticles.forEach(article=>{ 
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hidden')
+			article.classList.add('hidden-disabled')
+	 		article.classList.remove('hidden')
 
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+			console.log('opened')
+ 		});
+   	}
+    else {
+    	hiddenArticles.forEach(article=>{ 
+			const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
+			article.classList.add('hidden')
+			article.classList.remove('hidden-disabled')
 
- console.log('locked')
- });
-   }
-   } 
+    		console.log('locked')
+		});
+    }
+}
+ 
 function showMenba() {
 const hiddenArticles=document.querySelectorAll('.hiddennba');
  console.log(hiddenArticles[0]) ;
