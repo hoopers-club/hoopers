@@ -110,8 +110,9 @@ import ballislife from'/ballislife.json'
 
 				</div>
 				<div class="buttons-black centered" onclick="showMe()">show more</div>
+				
 			<div class="articles-featured">
-				<div class="featured">NBA Portugal</div>
+				<div class="featured notranslate">NBA Portugal</div>
 				<img
 					class="featured-line"
 					src="/assets/articles/linha.svg"
@@ -139,7 +140,7 @@ import ballislife from'/ballislife.json'
 			</div>
 			<div class="buttons-black centered" onclick="showMenba()">show more</div>
 			<div class="articles-featured">
-				<div class="featured">Slam</div>
+				<div class="featured notranslate">Slam</div>
 				<img
 					class="featured-line"
 					src="/assets/articles/linha.svg"
@@ -167,7 +168,7 @@ import ballislife from'/ballislife.json'
 			</div>
 			<div class="buttons-black centered" onclick="showMeslam()">show more</div>
 			<div class="articles-featured">
-				<div class="featured">BasketBall RealGM</div>
+				<div class="featured notranslate">BasketBall RealGM</div>
 				<img
 					class="featured-line"
 					src="/assets/articles/linha.svg"
@@ -195,7 +196,7 @@ import ballislife from'/ballislife.json'
 			</div>
 			<div class="buttons-black centered" onclick="showMereal()">show more</div>
 			<div class="articles-featured">
-				<div class="featured">Ball is Life</div>
+				<div class="featured notranslate">Ball is Life</div>
 				<img
 					class="featured-line"
 					src="/assets/articles/linha.svg"
@@ -225,7 +226,7 @@ import ballislife from'/ballislife.json'
 		</section>
 		<!-- <section class="articles white">
 			<div class="articles-featured">
-				<div class="featured">NBA Portugal</div>
+				<div class="featured notranslate">NBA Portugal</div>
 				<img
 					class="featured-line"
 					src="/assets/Homepage/section line.svg"
@@ -257,29 +258,30 @@ import ballislife from'/ballislife.json'
 <script>
 // button show more function
 function showMe() {
-const hiddenArticles=document.querySelectorAll('.hidden');
-//console.log(hiddenArticles[0]) ; 
+	const hiddenArticles=document.querySelectorAll('.hidden');
+	//console.log(hiddenArticles[0]) ; 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+  	if(hiddenArticles){
+		hiddenArticles.forEach(article=>{ 
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hidden')
+			article.classList.add('hidden-disabled')
+	 		article.classList.remove('hidden')
 
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+			console.log('opened')
+ 		});
+   	}
+    else {
+    	hiddenArticles.forEach(article=>{ 
+			const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
+			article.classList.add('hidden')
+			article.classList.remove('hidden-disabled')
 
- console.log('locked')
- });
-   }
-   } 
+    		console.log('locked')
+		});
+    }
+}
+ 
 function showMenba() {
 const hiddenArticles=document.querySelectorAll('.hiddennba');
  console.log(hiddenArticles[0]) ;

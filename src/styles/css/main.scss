@@ -347,6 +347,9 @@ table .strong {
 	.search {
 		right: 0;
 	}
+	.dropdown {
+		right: 0 !important;
+	}
 	.form-search {
 		input:focus {
 			width: 35ch;
@@ -559,7 +562,7 @@ footer {
 	position: fixed;
 	width: fit-content;
 	right: 4rem;
-	bottom: 8rem;
+	bottom: 13rem;
 	img {
 		height: 4em;
 		width: 4em;
@@ -643,15 +646,14 @@ footer {
 	border: none;
 	cursor: pointer;
 	background-color: black;
-	padding: 20px 10px 20px 10px;
+	padding: 1.25em 0.65em 1.25em 0.65em;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
 	// position: absolute;
 	display: inline-block;
-	right: 0;
-	z-index: 101;
+	z-index: 2;
 	position: fixed;
 	right: 4rem;
 	bottom: 9rem;
@@ -665,21 +667,20 @@ footer {
 	// min-width: 160px;
 	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 	z-index: 1;
-	width: 64px;
+	width: 4em;
 }
 
 /* Links inside the dropdown */
 .dropdown-content a {
 	color: black;
-	padding: 12px 16px;
 	text-decoration: none;
 	display: block;
-	padding: 14px 22px;
+	padding: 0.9em 1.35em 0.5em 1.35em;
 }
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-	background-color: #f1f1f1;
+	background-color: #dbdbdb;
 }
 
 /* Show the dropdown menu on hover */

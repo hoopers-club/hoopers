@@ -36,7 +36,7 @@ const Sitemap = ({ openSitemap }) => {
 					{expanded ? (
 						<span className='sub-courts'>
 							<li>
-								<a href='/courts'>OUR COURTS</a>
+								<a href='/courts'>OUR <span className="notranslate">COURTS</span></a>
 							</li>
 							<li>
 								<a href='https://hoopersmap.com' target='_blank'>
@@ -47,10 +47,10 @@ const Sitemap = ({ openSitemap }) => {
 					) : (
 						''
 					)}
-					<li className='strikeline hide'>
+					<li className='strikeline hide notranslate'>
 						<span style={{ color: 'white' }}>SUMMER LEAGUE</span>
 					</li>
-					<li>
+					<li className="notranslate">
 						<a
 							href='https://www.youtube.com/channel/UC9majUuTNcytG0nmt_B8Ubg'
 							target='_blank'>

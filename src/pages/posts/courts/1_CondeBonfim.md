@@ -7,7 +7,7 @@ location: Largo Conde Bonfim | Lisbon, Portugal
 artist: Pitanga
 duration: 10 Days
 partner:
-  - Parish Council Of São Domingos
+  - Parish Council Of São Domingos de Benfica
   - GAU
   - Jopinto
   - Robbialac
