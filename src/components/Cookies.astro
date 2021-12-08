@@ -1,0 +1,29 @@
+<div class="cookie-container  ">
+    <div class="left">
+        <p><strong>We value your privacy</strong></p>
+        <p>hoopers.club uses cookies to personalize content, ads and to optimize your experience.</p>
+        <a href="/cookies" target="_blank">For more information check our Cookies Policy</a>
+    </div>
+    <div class="right"><button class="buttons accept">agree</button></div>
+</div>
+
+<script type="text/javascript">
+
+let cookiecontainer=document.querySelector(".cookie-container");
+let acceptbtn=document.querySelector(".buttons.accept");
+
+acceptbtn.addEventListener("click",function(){
+    cookiecontainer.classList.remove("active");
+    localStorage.setItem("cookiesAccepted","yes");
+   
+
+});
+
+
+setTimeout(function(){
+    if(localStorage.getItem("cookiesAccepted")!=="yes"){
+        cookiecontainer.classList.add("active");
+    }
+},5000)
+
+</script>

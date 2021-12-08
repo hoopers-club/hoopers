@@ -28,3 +28,54 @@
 		font-size: 0.9em;
 	}
 }
+.cookie-container {
+	gap: 1em;
+	z-index: 102;
+	padding: 5%;
+	display: none;
+	flex-direction: row;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	// right: 0;
+	background-color: $hoopers-black;
+	width: 90vw;
+	.left,
+	.right {
+		display: flex;
+		width: 100%;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.left {
+		p {
+			strong {
+				font-family: $aktiv-grotesk-bold;
+			}
+			color: $white;
+			font-family: $aktiv-grotesk-light;
+		}
+		a {
+			color: $white;
+			font-family: $aktiv-grotesk-bold;
+			text-decoration: underline;
+		}
+	}
+	.right {
+		button {
+			margin: auto;
+			border: transparent;
+		}
+	}
+}
+.cookie-container.active {
+	display: flex;
+}
+@media (max-width: 40em) {
+	.cookie-container {
+		flex-direction: column;
+		.left {
+			padding-right: 5%;
+		}
+	}
+}

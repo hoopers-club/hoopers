@@ -5,7 +5,7 @@ import Hero from '../components/Hero.astro'
 import Products from '../components/Products.astro'
 import Court from '../components/Court-section.astro'
 import Articles from '../components/Articles-section.astro'
-
+import Cookies from '../components/Cookies.astro'
 
 
 
@@ -24,7 +24,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').repl
 <Court/>
 <Articles articles={allPosts} />
 <Products/>
-
+<Cookies/>
 </Bases>
 
      
