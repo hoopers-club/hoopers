@@ -31,14 +31,14 @@
 .cookie-container {
 	gap: 1em;
 	z-index: 102;
-	padding: 5%;
+	padding: 2em 5% 2em 5%;
 	display: none;
 	flex-direction: row;
 	position: fixed;
 	bottom: 0;
 	left: 0;
 	// right: 0;
-	background-color: $hoopers-black;
+	background-color: #080808;
 	width: 90vw;
 	.left,
 	.right {
