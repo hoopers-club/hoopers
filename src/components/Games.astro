@@ -3,13 +3,18 @@ let games = Astro.fetchContent('../pages/posts/summergames/*.md');
 games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
 games=games.filter(game=>new Date()<new Date(game.time))
 
-console.log(new Date(games[0].time),'fulltime')
-console.log(new Date(games[0].time).toDateString(),'fulltime')
-console.log(new Date(games[0].time).getDate(),'date')
-console.log(new Date(games[0].time).getDay(),'day')
-console.log(new Date(games[0].time).getMonth(),'month')
-console.log(new Date(games[0].time).getHours(),'hours')
-console.log(new Date(games[0].time).getMinutes(),'minutes')
+/*console.log(new Date(games[0]?.time),'fulltime')
+console.log(new Date(games[0]?.time).toDateString(),'fulltime')
+console.log(new Date(games[0]?.time).getDate(),'date')
+console.log(new Date(games[0]?.time).getDay(),'day')
+console.log(new Date(games[0]?.time).getMonth(),'month')
+console.log(new Date(games[0]?.time).getHours(),'hours')
+console.log(new Date(games[0]?.time).getMinutes(),'minutes')*/
+
+let isScheduled;
+
+games[0]?.time ? isScheduled = true : isScheduled = false;
+//console.log("the value of isScheduled = " + isScheduled);
 ---
 
 		 <section class="articles black" style="min-height:0;">
@@ -22,9 +27,11 @@ console.log(new Date(games[0].time).getMinutes(),'minutes')
 				/>
 			</div>
 			<div class="schedule-list">
-            {games?.map(game =>(
+            
+			{isScheduled ? 
+				games?.map(game =>(
 
-            <div class="schedule-item">
+            	<div class="schedule-item">
 					<div class="match">{game?.teamA} X {game?.teamB}</div>
 					<div class="match-secondary">
 						<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth()} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
@@ -32,7 +39,13 @@ console.log(new Date(games[0].time).getMinutes(),'minutes')
 					</div>
 				</div>
 
-            ))}
+            ))
+				: (
+					<div class="schedule.item">
+						<p>No games scheduled</p>
+					</div>
+				)
+			}
 
 
 				
