@@ -157,15 +157,13 @@ collections:
           format: 'YYYY MM DD H:M:S',
           required: true,
         }
-      - {
-          label: 'Gallery'
-          name: 'galleryImages'
-          widget: 'list'
-          fields:
-            - { label: Image, name: image, widget: image }
-            - { label: Image description, name: description, widget: text }
-            - { label: Credito, name: credito, widget: text }
-        }
+      - label: 'Gallery'
+        name: 'galleryImages'
+        widget: 'list'
+        fields:
+          - { label: Image, name: image, widget: image }
+          - { label: Image description, name: description, widget: text }
+          - { label: Credito, name: credito, widget: text }
   - name: 'summerarticles'
     label: 'Summer league Articles'
     create: true
@@ -244,14 +242,12 @@ collections:
           format: 'YYYY MM DD H:M:S',
           required: true,
         }
-      - {
-          label: 'Gallery'
-          name: 'galleryImages'
-          widget: 'list'
-          fields:
-            - { label: Image, name: image, widget: image }
-            - { label: Image description, name: description, widget: text }
-            - { label: Credito, name: credito, widget: text }
-            - { label: Price, name: price, widget: text }
-        }
+      - label: 'Gallery'
+        name: 'galleryImages'
+        widget: 'list'
+        fields:
+          - { label: Image, name: image, widget: image }
+          - { label: Image description, name: description, widget: text }
+          - { label: Credito, name: credito, widget: text }
+          - { label: Price, name: price, widget: text }
 
