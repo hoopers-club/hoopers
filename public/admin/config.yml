@@ -154,7 +154,7 @@ collections:
           label: 'Publish Date',
           name: 'publishDate',
           widget: 'date',
-          format: 'YY-MM-DD',
+          format: 'YYYY MM DD H:M:S',
           required: true,
         }
       - label: 'Gallery'
@@ -227,3 +227,25 @@ collections:
           picker_utc: false,
           required: true,
         }
+  - name: 'nft'
+    label: 'NFT'
+    create: true
+    folder: 'src/pages/posts/nft'
+    slug: '{{year}}-{{month}}-{{day}}-{{fields.dropname}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { label: 'Dropname', name: 'dropname', widget: 'string', required: true }
+      - { label: Cover, name: cover, widget: image }
+      - {
+          label: 'Publish Date',
+          name: 'publishDate',
+          widget: 'date',
+          format: 'YYYY MM DD H:M:S',
+          required: true,
+        }
+      - label: 'Gallery'
+        name: 'galleryImages'
+        widget: 'list'
+        fields:
+          - { label: Image, name: image, widget: image }
+          - { label: Image description, name: description, widget: text }
+          - { label: Credito, name: credito, widget: text }
