@@ -247,7 +247,7 @@ collections:
         widget: 'list'
         fields:
           - { label: Image, name: image, widget: image }
-          - { label: Image description, name: description, widget: text }
-          - { label: Credito, name: credito, widget: text }
+          - { label: NFT Name, name: name, widget: text }
+          - { label: Artist, name: artist, widget: text }
           - { label: Price, name: price, widget: text }
 
