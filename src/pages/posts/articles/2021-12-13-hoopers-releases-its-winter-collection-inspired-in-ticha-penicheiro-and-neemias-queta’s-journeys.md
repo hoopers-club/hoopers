@@ -4,7 +4,7 @@ title: Hoopers releases its Winter collection inspired in Ticha Penicheiro and
 subname: The “SAC Royalty” is now available at Hoopers store
 featured: true
 publishDate: Dec 13th 21
-image: /assets/uploads/tee_01.png
+image: /assets/uploads/banner_sac.png
 author: hoopers
 layout: ../../../Layout/single-article.astro
 ---
