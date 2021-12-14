@@ -1,6 +1,5 @@
 ---
-title: Hoopers releases its Winter collection inspired in Ticha Penicheiro and
-  Neemias Queta’s journeys
+title: Hoopers' Winter collection inspired by Ticha Penicheiro and Neemias Queta
 subname: The “SAC Royalty” is now available at Hoopers store
 featured: true
 publishDate: Dec 13th 21
