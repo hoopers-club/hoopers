@@ -12,6 +12,8 @@
 @use './components/search' as *;
 @use './components/esport' as *;
 @use './components/modal' as *;
+@use './components/nft' as *;
+@use './components/hero' as *;
 * {
 	padding: 0;
 	margin: 0;
@@ -174,10 +176,10 @@ html {
 	font-weight: bold;
 	flex-flow: column;
 	gap: 0;
-	z-index: 2;
+	z-index: 0;
 	h2 {
 		font-family: $aktiv-grotesk-XBoldEX;
-		font-size: 1.7647058823529411em;
+		font-size: 1.5em;
 		margin: 0;
 		padding: 0;
 	}
@@ -384,6 +386,12 @@ table .strong {
 		}
 	}
 }
+
+@media screen and (max-width: 450px) {
+	.headline h2{
+		font-size: 1.2em !important;
+	}
+}
 @media screen and (max-width: 1000px) {
 	.headline {
 		font-size: 4em;
@@ -399,7 +407,7 @@ main {
 .page,
 .container,
 section {
-	scroll-snap-align: start;
+	//scroll-snap-align: start;
 }
 
 footer {
@@ -730,3 +738,4 @@ body {
 .center-games {
 	margin-inline: auto;
 }
+
