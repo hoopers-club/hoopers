@@ -1,21 +1,19 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
-
+import NftSection from '../components/nft-section.astro'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
-import nbaportugal from'/nba.json'
-import slam from'/slam.json'
-import realgm from'/realgm.json'
-import ballislife from'/ballislife.json'
 
+/*
+nft platform possible future integration
 
 const response = await fetch('https://api.opensea.io/api/v1/collection/homecourt-1');
 const data = await response.json();
- console.log(data)
-
+console.log(data);
+*/
 ---
 
 <Bases>
@@ -47,131 +45,37 @@ const data = await response.json();
 
 		<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
 		</section>
+
+		<NftSection/>
 		
 
 		
 <script>
-// button show more function
-function showMe() {
-const hiddenArticles=document.querySelectorAll('.hidden');
-//console.log(hiddenArticles[0]) ; 
+	// button show more function
+	function showMe() {
+		const hiddenArticles=document.querySelectorAll('.hidden');
+		//console.log(hiddenArticles[0]) ; 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+		if(hiddenArticles){
+			hiddenArticles.forEach(article=>{ 
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hidden')
+				article.classList.add('hidden-disabled');
+				article.classList.remove('hidden');
 
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+				console.log('opened');
+			});
+   		}
+    	
+		else {
+    		hiddenArticles.forEach(article=>{ 
+				const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
+				article.classList.add('hidden');
+				article.classList.remove('hidden-disabled');
 
- console.log('locked')
- });
-   }
-   } 
-function showMenba() {
-const hiddenArticles=document.querySelectorAll('.hiddennba');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddennba')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMeslam() {
-const hiddenArticles=document.querySelectorAll('.hiddenslam');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenslam')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMereal() {
-const hiddenArticles=document.querySelectorAll('.hiddenreal');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenreal')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMeball() {
-const hiddenArticles=document.querySelectorAll('.hiddenball');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenball')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-
+				console.log('locked');
+			});
+   		}
+    } 
 </script>
 </Bases>

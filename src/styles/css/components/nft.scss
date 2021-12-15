@@ -6,25 +6,44 @@
 /*                                   ARTICLE                                  */
 
 /* -------------------------------------------------------------------------- */
+.articles-list-all {
+	border: none; 
+	margin: 0;
+}
+
+.article-title {
+	font-size:0.7em;
+}
+
+.separator {
+	width: 100%;
+}
 
 .nft {
 	// padding-top: 10vh;
 	background-color: $hoopers-black !important;
 	min-height: 100vh;
-	.featured {
-		font-size: 3em;
+
+	
+	
+	.drops {
+		
 		text-transform: uppercase;
-		padding-top: 1em;
-		padding-bottom: 0.5em;
-		background-color: $dark-orange;
+		padding-top: 0;
+		padding-bottom: 0;
+		color: $dark-orange;
+		font-size: 3em;
 		&-line {
 			padding-bottom: 1rem;
 		}
+		
 	}
-	&-featured {
+	&-drops {
 		display: flex;
 		flex-direction: column;
-		padding: 0 10%;
+		padding: 0 15% 2em;
+		
+		
 	}
 	&-item {
 		cursor: pointer;
@@ -60,7 +79,7 @@
 	}
 	&-list {
 		display: grid;
-		padding: 1em 10%;
+		padding: 0 15%;
 		grid-template-columns: repeat(auto-fit, minmax(33%, 3fr));
 		place-items: center;
 		.articles-item {
@@ -75,10 +94,16 @@
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
 		// grid-auto-rows: 30vh;
-		margin: 0 10%;
+		//margin: 0 10%;
 		// margin: 0 5em;
 		gap: 2em;
-		border-bottom: 0.5px solid $dark-orange;
+		//border-bottom: 0.5px solid $dark-orange;
+		.nft-drop-title {
+			width: 100%;
+			color: white;
+			font-size: 2em;
+			font-family: $aktiv-grotesk-light;
+		}
 		.article-item {
 			display: flex;
 			flex-direction: column;
@@ -153,7 +178,7 @@
 }
 
 .single-articles {
-	padding: 2em 15% 5em 15%;
+	padding: 2em 15% 2em 15%;
 	iframe {
 		width: 100%;
 		height: 30em;
