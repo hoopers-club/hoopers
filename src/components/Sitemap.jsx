@@ -17,7 +17,7 @@ const Sitemap = ({ openSitemap }) => {
 					/>
 				</div>
 				<div className='logo-menu' style={{ maxWidth: '100%' }}>
-					<img src='/assets/Homepage/logo_hoopers_beta.svg' alt='' />
+					<img src='/assets/Homepage/hoopers_club_logo.svg' alt='' />
 				</div>
 			</div>
 			<div class='menus-list'>
