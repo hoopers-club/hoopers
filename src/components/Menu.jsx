@@ -39,7 +39,7 @@ const Menu = ({ open, setOpen }) => {
 
 			<div className='logo'>
 				<a href='/'>
-					<img src='/assets/Homepage/logo_hoopers_beta.svg' alt='' />
+					<img src='/assets/Homepage/hoopers_club_logo.svg' alt='' />
 				</a>
 			</div>
 
