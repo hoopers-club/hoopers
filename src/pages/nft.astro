@@ -1,6 +1,6 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
-import NftSection from '../components/nft-section.astro'
+import NftSection from '../components/Nft-section.astro'
 
 let allPosts = Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
@@ -49,33 +49,4 @@ console.log(data);
 		<NftSection/>
 		
 
-		
-<script>
-	// button show more function
-	function showMe() {
-		const hiddenArticles=document.querySelectorAll('.hidden');
-		//console.log(hiddenArticles[0]) ; 
-
-		if(hiddenArticles){
-			hiddenArticles.forEach(article=>{ 
-
-				article.classList.add('hidden-disabled');
-				article.classList.remove('hidden');
-
-				console.log('opened');
-			});
-   		}
-    	
-		else {
-    		hiddenArticles.forEach(article=>{ 
-				const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-				article.classList.add('hidden');
-				article.classList.remove('hidden-disabled');
-
-				console.log('locked');
-			});
-   		}
-    } 
-</script>
 </Bases>

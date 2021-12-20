@@ -4,7 +4,6 @@ import Modal from '../components/Modal.jsx'
 let drops = Astro.fetchContent('../pages/posts/nft/*.md');
 drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
 
-//console.log("dropGallery: " + dropGallery);
 ---
 
 
@@ -13,34 +12,40 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 		
 		<div class="nft-drops drops">Our Latest Drops</div>
 
+		
+		
+
 		{drops?.map((drop) => (
 			<div class="nft-list nft-list-all">
-				<div class="nft-drop-title">{drop?.dropname}
+				<div class="nft-drop-title">
+					<div class="drop-title">{drop?.dropname}</div>
+											{console.log(drop.galleryImages.length)}
 					<div class="articles-list-all">
-					{drop?.galleryImages?.map((dropGallery) => (
-						<a class="articles-item" href={dropGallery.url} target="_blank">
-							<div
-								class="articles-item"
-								style={`
-									background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), 
-												url('${dropGallery?.image}');
-									background-repeat: no-repeat;
-									background-size: cover;
-									background-color: hsla(0%, 0%, 0%, 0.5);
-									background-position:center;
-								`}
-								onclick={`window.open('${dropGallery.url}', 'new window')`}
-							>
-								
-							</div>
-							<div class="article-title">{dropGallery?.name}</div>
-
+						{drop?.galleryImages?.map((dropGallery) => (
 							
-						
-						</a>
+							<a class="articles-item" href={dropGallery.url} target="_blank">
+								
+								<div
+									class="articles-item"
+									style={`
+										background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), 
+													url('${dropGallery?.image}');
+										background-repeat: no-repeat;
+										background-size: cover;
+										background-color: hsla(0%, 0%, 0%, 0.5);
+										background-position:center;
+									`}
+									onclick={`window.open('${dropGallery.url}', 'new window')`}
+								>
+									
+								</div>
+								<div class="drop-name">{dropGallery?.name}</div>
+								<div class="drop-artist">{dropGallery?.artist}</div>
+								<div class="drop-bid">current bid</div>
+								<div class="drop-price">{dropGallery?.price}</div>
+							</a>
 					
-
-					))}
+						))}
 					</div>
 
 					<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
@@ -50,7 +55,7 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 			</div>
 
 		))}
-
+	
     
 	</section>
 		
