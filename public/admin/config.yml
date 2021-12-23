@@ -246,9 +246,9 @@ collections:
         name: 'galleryImages'
         widget: 'list'
         fields:
-          - { label: Image, name: image, widget: image }
-          - { label: NFT Name, name: name, widget: text }
-          - { label: Url, name: url, widget: text}
-          - { label: Artist, name: artist, widget: text }
-          - { label: Price, name: price, widget: text }
+          - { label: Image, name: image, widget: image, required: true }
+          - { label: NFT Name, name: name, widget: text, required: true }
+          - { label: Url, name: url, widget: text, required: true }
+          - { label: Artist, name: artist, widget: text, required: true }
+          - { label: Price, name: price, widget: text, required: true }
 
