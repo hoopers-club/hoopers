@@ -19,7 +19,6 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 			<div class="nft-list nft-list-all">
 				<div class="nft-drop-title">
 					<div class="drop-title">{drop?.dropname}</div>
-											{console.log(drop.galleryImages.length)}
 					<div class="articles-list-all">
 						{drop?.galleryImages?.map((dropGallery) => (
 							
@@ -37,7 +36,6 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 									`}
 									onclick={`window.open('${dropGallery.url}', 'new window')`}
 								>
-									
 								</div>
 								<div class="drop-name">{dropGallery?.name}</div>
 								<div class="drop-artist">{dropGallery?.artist}</div>
