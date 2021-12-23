@@ -1,5 +1,4 @@
 ---
-//import Modal from '../components/Modal.jsx'
 
 let drops = Astro.fetchContent('../pages/posts/nft/*.md');
 drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
@@ -22,7 +21,7 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 					<div class="articles-list-all">
 						{drop?.galleryImages?.map((dropGallery) => (
 							
-							<a class="articles-item" href={dropGallery.url} target="_blank">
+							<a class="articles-item" href={dropGallery?.url} target="_blank">
 								
 								<div
 									class="articles-item"
@@ -34,7 +33,7 @@ drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate
 										background-color: hsla(0%, 0%, 0%, 0.5);
 										background-position:center;
 									`}
-									onclick={`window.open('${dropGallery.url}', 'new window')`}
+									onclick={`window.open('${dropGallery?.url}', 'new window')`}
 								>
 								</div>
 								<div class="drop-name">{dropGallery?.name}</div>

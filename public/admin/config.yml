@@ -163,7 +163,7 @@ collections:
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Image description, name: description, widget: text }
-          - { label: Credito, name: credito, widget: text }
+          - { label: Créditos, name: credito, widget: text }
   - name: 'summerarticles'
     label: 'Summer league Articles'
     create: true
