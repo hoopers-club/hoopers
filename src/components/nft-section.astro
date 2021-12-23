@@ -1,5 +1,5 @@
 ---
-import Modal from '../components/Modal.jsx'
+//import Modal from '../components/Modal.jsx'
 
 let drops = Astro.fetchContent('../pages/posts/nft/*.md');
 drops=drops.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
