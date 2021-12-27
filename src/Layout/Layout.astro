@@ -148,7 +148,7 @@ observer= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`left 0.5s 0.25s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -165,7 +165,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`right 0.5s 0.25s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -178,7 +178,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
+		entry.target.style.animation=`down 1s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -208,7 +208,7 @@ observercenter= new IntersectionObserver(entries=>{
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s  forwards ease-out`;
+		entry.target.style.animation=`left 0.5s  forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -225,7 +225,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+		entry.target.style.animation=`right 0.5s 0.25s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -238,7 +238,7 @@ entries.forEach(entry => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 2s forwards ease-out`;
+		entry.target.style.animation=`down 1s forwards ease-out`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -259,18 +259,6 @@ centerright_i.forEach(right => {
 	centerdown_i.forEach(down => {
   observer_center.observe(down)
 });
-
-
-const test=[ {
-    title: 'Stephen A. Smith: “Lonzo Ball deve ir L.A. e LaVine para a costa Este”',
-    url: 'https://www.nbaportugal.com/stephen-a-smith-lonzo-ball-deve-ir-l-a-e-lavine-para-a-costa-este/',
-    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-24_084031.png'
-  },
-  {
-    title: 'Bol Bol esteve para ser trocado por Lonzo?',
-    url: 'https://www.nbaportugal.com/bol-bol-esteve-para-ser-trocado-por-lonzo/',
-    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-23_150720-800x445.png'
-  }]
 
 </script>
 <style >

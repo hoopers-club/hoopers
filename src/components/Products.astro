@@ -7,14 +7,14 @@ let frontpageProduct = Astro.fetchContent('../pages/posts/frontpage/*.md');
 				<div class="title-section centerright-i">products</div>
 				<img class="line centerleft-i " src="/assets/Homepage/section line.svg" alt="line" />
 			</div>
-			<div class="content">
+			<div class="content down-i">
 				<div class="content-left">
-					<img class="down-i" src={frontpageProduct[0]?.productImage} alt="" />
+					<img class="" src={frontpageProduct[0]?.productImage} alt="" />
 				</div>
 				<div class="content-right">
-					<div class="title down-i">{frontpageProduct[0]?.productName}</div>
-					<div class="price down-i">€{frontpageProduct[0]?.productPrice}</div>
-					<div class="text fonte-creditos down-i">
+					<div class="title ">{frontpageProduct[0]?.productName}</div>
+					<div class="price ">€{frontpageProduct[0]?.productPrice}</div>
+					<div class="text fonte-creditos ">
 						{frontpageProduct[0]?.productDescription}
 					</div>
 					

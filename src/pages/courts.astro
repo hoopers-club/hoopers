@@ -31,7 +31,7 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position)
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`bounce-in-right 2s forwards`;
+		entry.target.style.animation=`bounce-in-right 1s forwards`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -50,7 +50,7 @@ subtitle.forEach(right => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`bounce-in-left 2s forwards`;
+		entry.target.style.animation=`bounce-in-left 1s forwards`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -70,7 +70,7 @@ main.forEach(right => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`slide-in-elliptic-left-bck 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
+		entry.target.style.animation=`slide-in-elliptic-left-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
 	}else{
 		entry.target.style.animation=`none`;
 	}
@@ -89,7 +89,7 @@ left.forEach(right => {
 entries.forEach(entry => {
   
 	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`slide-in-elliptic-right-bck 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
+		entry.target.style.animation=`slide-in-elliptic-right-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
 	}else{
 		entry.target.style.animation=`none`;
 	}

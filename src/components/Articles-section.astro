@@ -9,11 +9,14 @@ articles=articles.filter(article=>article.featured==true)
 
 ---
  
-<section class="articles">
+<section class="articles" id="frontpage-articles">
 			<div class="title" style="padding-top:0;">
+				
 				<div class="title-section centerleft-i">articles</div>
 				<img class="line centerright-i" src="/assets/Homepage/section line.svg" alt="line" />
 			</div>
+
+			
 			<div class="articles-list centerdown-i">
 				
 				{articles.slice(0,3).map((article,index) => (
@@ -39,9 +42,10 @@ articles=articles.filter(article=>article.featured==true)
 					</div>
 				</a>
 			))}
-	
 			</div>
+			
 			<div class="centered buttons condensed" onclick="location.href='/articles'">more articles</div>
+			
 		</section>
 
 
