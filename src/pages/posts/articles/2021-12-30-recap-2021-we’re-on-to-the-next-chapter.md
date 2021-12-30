@@ -7,7 +7,7 @@ image: /assets/uploads/recap_banner.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-Another year has come to an end. The year of 2021 taught us how to walk, but in 2022 we just want to run. As fast as we can. 
+**Another year has come to an end. The year of 2021 taught us how to walk, but in 2022 we just want to run. As fast as we can.** 
 
 Here’s our annual & short recap:
 
@@ -32,16 +32,12 @@ Here’s our annual & short recap:
 * We inspired and helped others to start their own basketball projects in many areas of our sport (and that’s fuel that keep us alive)
 * And we learnt a bunch!
 
-
-
 But there were things that also didn’t work according to the plan. We made our mistakes and also got stopped by Covid on a few occasions, which forced us to postpone some projects and ideas.
 
 Thank you to everyone we met, we worked with, we collaborated with, we partnered with, we learned from, we got inspiration from, we got help from, but especially to all of you who joined our community and will be changing the game along with us.
-
-
 
 The future looks exciting and we are preparing new things (you know us).
 
 The marathon continues. Godspeed.
 
-See you in 2022!
+**See you in 2022!**
