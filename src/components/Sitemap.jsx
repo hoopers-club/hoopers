@@ -39,7 +39,7 @@ const Sitemap = ({ openSitemap }) => {
 								<a href='/courts'>OUR <span className="notranslate">COURTS</span></a>
 							</li>
 							<li>
-								<a href='https://hoopersmap.com' target='_blank'>
+								<a href='https://map.hoopers.club'>
 									MAP
 								</a>
 							</li>
