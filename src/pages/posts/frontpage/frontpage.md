@@ -8,7 +8,7 @@ courtDescription: >
   bring the community back to the streets and inspire the next generation of
   talents to fall in love with our game. <br/> <br/> Check our projects and
   learn more about their stories.
-productName: summer 21 t-shirt
+productName: sac royalty tee
 productPrice: 25
 productDescription: |-
   Made with love for our community.
@@ -24,6 +24,6 @@ productDescription: |-
   <br/>
   <br/>
   Check our store.
-productImage: /assets/uploads/hoopers_products.png
-productLink: https://hoopers.store/collections/t-shirts/products/t-shirt-hoopers-summer
+productImage: /assets/uploads/tshirt.jpg
+productLink: https://hoopers.store/collections/t-shirts/products/sac-royalty-tee
 ---
