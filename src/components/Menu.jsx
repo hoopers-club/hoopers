@@ -18,7 +18,7 @@ const Menu = ({ open, setOpen }) => {
 
 	useEffect(() => {
 		const handleScroll = () => {
-			const show = window.scrollY > 300;
+			const show = window.scrollY > 200;
 			if (show) {
 				setNavBackground('appbar-solid');
 			} else {
