@@ -34,7 +34,7 @@ const Menu = ({ open, setOpen }) => {
 	return (
 		<div className={`nav ${navRef.current} `}>
 			<div className='menu' onClick={openSitemap}>
-				<img src='/assets/Homepage/Botão Novo Hamburguer.svg' alt='menu' />
+				<img src='/assets/Homepage/menu.png' alt='menu' />
 			</div>
 
 			<div className='logo'>
@@ -45,7 +45,7 @@ const Menu = ({ open, setOpen }) => {
 
 			<div className='lang'>
 				<a href='https://hoopers.store/' target='_blank'>
-					<img src='/assets/Homepage/Botão Carrinho.svg' alt='' />
+					<img src='/assets/Homepage/shop.png' alt='' />
 				</a>
 				{/* <div class='dropdown'>
 					<button class='dropbtn'>LANG</button>
