@@ -267,6 +267,13 @@
 	.nft-list{
 		padding: 0 5%;
 	}
+
+	#nft-hero {
+		background: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15)), url(../../../../assets/nft_hero_mobile.jpg) !important;
+		background-size: cover !important;
+		background-position: center !important;
+		background-attachment: fixed !important;
+	}
 }
 
 @media screen and (max-width: 418px) {
