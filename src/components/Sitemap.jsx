@@ -64,7 +64,7 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li className='strikeline'>
+					<li>
 					<a href='/nft'>NFT</a>
 					</li>
 					<li>
