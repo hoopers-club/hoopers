@@ -2,8 +2,8 @@
 import Bases from '../Layout/Layout-Article.astro'
 import NftSection from '../components/nft-section.astro'
 
-let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+//let allPosts = Astro.fetchContent('./posts/articles/*.md');
+//allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
 
@@ -25,30 +25,52 @@ console.log(data);
 				style={`
 				
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-						url('${allPosts[0]?.image}');
+						url('/assets/nft_hero.jpg');
 							background-attachment: fixed;
-							background-position:center;`
+							background-position:center;
+							background-size: cover;`
+
 				}
 			>
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
 				<div class="headline " >
 					<!-- <img class="esportlogo" src="/assets/esports/Asset 1.svg" alt=""/> -->
-					nft's <span><h4 >by Hoopers</h4></span>
+					Hoopers NFT's
 				</div>
-				<div class="centered-button buttons" style="z-index: 1;display:flex;" onclick="window.open('https://youtu.be/6YNnwq_nykA','_blank')">Check our drops</div>
+				<div class="centered-button buttons" style="z-index: 1;display:flex;" 
+					 onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">JOIN THE WHITELIST
+				</div>
 			</div>
 		</div>
 		
        
 		<section class="single-articles black" style="min-height:0;position:relative;">
 			<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id facilis ad officia odit, nesciunt soluta nobis quidem minima dolorem asperiores quos nulla iusto tenetur quia. Adipisci nam officia illum atque sunt magni perferendis, dolorem delectus eum perspiciatis alias natus quae distinctio soluta velit architecto pariatur corporis temporibus porro placeat illo facere suscipit rem? Quidem consectetur, obcaecati explicabo magnam illo minima, assumenda harum quo vero totam autem error modi repellat ipsam tempore dolorem ratione dolores nam doloribus nihil exercitationem ullam vitae ducimus quibusdam! Nihil perspiciatis provident, itaque, dolorem aperiam fugiat numquam assumenda necessitatibus maxime eligendi beatae amet maiores voluptatem? Velit, nostrum?</p>
-
+			<br><br>
+			<h3 style="text-align: center;">GOT GAME? LET’S PLAY!</h3>
+			
+			<p>
+				Hoopers is building the largest global basketball community platform and you can be part of this story. 
+				Our goal is to continue to connect the basketball community, also in the NFT space with unique collections 
+				built for and by the community.<br><br>
+				In our first drop, we will be offering a limited NFT collection inspired on projects we build for the community.<br><br>
+				We’re changing the game!<br><br>
+				Join our whitelist and be the first to know about NFTs, news and products.
+			</p>
+			<br><br>
 
 			<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
-		</section>
 
-		<NftSection/>
+			<div class="centered-button buttons" style="z-index: 1;display:flex;" 
+				 onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">JOIN THE WHITELIST
+			</div>
+
+		</section>
+		<!--
+				<NftSection/>
+
+		-->
+	
 		
 
 </Bases>
