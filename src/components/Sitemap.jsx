@@ -64,8 +64,8 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li className='strikeline hide'>
-						<span style={{ color: 'white' }}>NFT</span>
+					<li className='strikeline'>
+					<a href='/nft'>NFT</a>
 					</li>
 					<li>
 						<a href='https://hoopers.store/' target='_blank'>
