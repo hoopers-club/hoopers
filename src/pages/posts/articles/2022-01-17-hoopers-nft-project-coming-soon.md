@@ -4,7 +4,7 @@ subname: We are starting 2022 with new, big and renowned ambitions!
 featured: true
 publishDate: Jan 17th 22
 image: /assets/uploads/nft_banner.jpg
-author: by Hoopers
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 At Hoopers our goal is to build the largest global basketball community platform and you can be part of this story, or even better: own a piece of it.
