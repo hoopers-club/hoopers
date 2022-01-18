@@ -24,6 +24,6 @@ productDescription: |-
   <br/>
   <br/>
   Check our store.
-productImage: /assets/uploads/tee.jpg
+productImage: /assets/uploads/tee_site.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/sac-royalty-tee
 ---
