@@ -6,7 +6,10 @@ import videourl from '/assets/Video Final - SD Benfica_1.mp4'
 
 	<div class="top">
 		
-		<video src="../../assets/nft_banner_video.mp4" autoplay loop playsinline muted id="myVideo"></video>
+		<video  autoplay loop playsinline muted id="myVideo">
+			<source src="../../assets/nft_banner_video.mp4" type="video/mp4" media="all and (min-width: 500px)">
+			<source src="../../assets/nft_banner_mobile.mp4" type="video/mp4" media="all and (max-width: 500px)">			
+		</video>
 		
 
 	<!--	<div class="headline" style="padding: 0 1em;" ><h2>2021 RECAP</h2><span><h2>We’re on to the next chapter</h2></span></div>-->
