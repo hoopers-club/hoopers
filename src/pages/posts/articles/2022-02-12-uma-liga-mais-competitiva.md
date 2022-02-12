@@ -21,8 +21,6 @@ Já para não falar da ascensão incrível do Imortal de Albufeira na época tra
 
 Esta edição da Liga Betclic está ao rubro e ainda só vamos a meio! 
 
-![FPB](/assets/uploads/whatsapp-image-2022-02-12-at-12.00.23-am.jpeg)
-
-
+![](/assets/uploads/whatsapp-image-2022-02-12-at-12.00.23-am.jpeg "Créditos: FPB")
 
 <!--EndFragment-->
