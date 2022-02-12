@@ -1,6 +1,6 @@
 ---
 title: Uma Liga mais competitiva?
-subname: Montell Goodwin, disse que sim!
+subname: "Montell Goodwin, disse que sim! "
 featured: true
 publishDate: Feb 11th 22
 image: /assets/uploads/whatsapp-image-2022-02-12-at-12.00.23-am.jpeg
