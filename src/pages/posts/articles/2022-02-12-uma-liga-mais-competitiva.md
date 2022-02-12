@@ -23,4 +23,5 @@ Esta edição da Liga Betclic está ao rubro e ainda só vamos a meio! 
 
 ![](/assets/uploads/whatsapp-image-2022-02-12-at-12.00.23-am.jpeg "Créditos: FPB")
 
+Escrito por: Martim Figueiredo.\
 <!--EndFragment-->
