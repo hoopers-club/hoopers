@@ -24,7 +24,7 @@ Olhando para os mais jovens, Diogo Seixas em Sevilha e André Cruz em Wyoming, f
 
 Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
-* Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo. <https://twitter.com/basquetgirona/status/1491521798931898369?s=21>
+* Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo. <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[](https://twitter.com/basquetgirona/status/1491521798931898369?s=21)
 * Não jogou no outro jogo da semana frente ao Melilla, em que a equipa de Girona venceu por 78-71. <https://twitter.com/basquetgirona/status/1492933381797163012?s=21>
 
 
