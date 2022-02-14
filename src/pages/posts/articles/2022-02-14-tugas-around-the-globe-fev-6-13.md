@@ -63,8 +63,5 @@ Sasa Borovnjak (Saint Chamond Basket, ProB – França):
 
   André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)
 
-  * Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC.<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LCCC 80<br>WWCC 87<br><br>Pierce 23Pts 5Rebs 3Ast<br>Prim 20Pts 4Rebs<br>Trost 18Pts 5Rebs<br>Cruz 9Pts 7Rebs<br>Stephens 8Pts 7Rebs<br><br>Mustangs improve to 22-3 &amp; 6-1!<br><br>Next game is Saturday at NWC!<a href="https://twitter.com/hashtag/PonyUp?src=hash&amp;ref_src=twsrc%5Etfw">#PonyUp</a> 🐎🐴</p>&mdash; Western Wyoming Mustangs Basketball (@wwccmbb) <a href="https://twitter.com/wwccmbb/status/1491995816554209283?ref_src=twsrc%5Etfw">February 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  * Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC.<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LCCC 80<br>WWCC 87<br><br>Pierce 23Pts 5Rebs 3Ast<br>Prim 20Pts 4Rebs<br>Trost 18Pts 5Rebs<br>Cruz 9Pts 7Rebs<br>Stephens 8Pts 7Rebs<br><br>Mustangs improve to 22-3 &amp; 6-1!<br><br>Next game is Saturday at NWC!<a href="https://twitter.com/hashtag/PonyUp?src=hash&amp;ref_src=twsrc%5Etfw">#PonyUp</a> 🐎🐴</p>&mdash; Western Wyoming Mustangs Basketball (@wwccmbb) <a href="https://twitter.com/wwccmbb/status/1491995816554209283?ref_src=twsrc%5Etfw">February 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-    \
-    Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
+  \
+  Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
