@@ -32,7 +32,7 @@ Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)
 * Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA.[](https://twitter.com/penya1930/status/1492902328038526978?s=21)[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
 * Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que ata na LEB Oro.
 
-Diogo Brito (C.B. Móron, LEB Plata – Espanha):[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/cbmoron/status/1491500801646374912?s=21)
+Diogo Brito (C.B. Móron, LEB Plata – Espanha):
 
 * Anotou 15 pontos, 3 ressaltos, 6 assistências em 31 minutos na derrota frente a Navarra, por 73-79.
 * Marco 25 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 25 minutos jogados na vitória frente a Aquimisa Carbajosa Empresarial, por 81-73.
@@ -49,7 +49,7 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 
 * Marcou 4 pontos, 6 ressaltos, 2 assistências e 3 roubos de bola em 23:13 minutos jogados na derrota frente ao Obradoiro Silleda, por 75-68. 
 
-
+</br>
 
 # **Em França fala-se português…**
 
@@ -57,8 +57,12 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 
 Sasa Borovnjak (Saint Chamond Basket, ProB – França):
 
-* Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81.[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link)
-* Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço do Lusitânia.[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)
+[](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)
+
+* Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81.
+* Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço da Lusitânia.
+
+</br>
 
 # **Pela restante Europa…**
 
@@ -71,7 +75,7 @@ Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
 Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
-* Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71.[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](<* <https://www.instagram.com/p/CZ7aO0jrV6k/?utm_medium=copy_link>>)
+* Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71.
 
 
 
@@ -79,7 +83,7 @@ Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
 André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)
 
-* Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC.[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/wwccmbb/status/1491995816554209283?s=21)
+* Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC.
 * Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC. 
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
