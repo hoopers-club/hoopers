@@ -30,14 +30,12 @@ Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)
 
 * Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA.[](https://twitter.com/penya1930/status/1492902328038526978?s=21)[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
-* Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que atua na LEB Oro.[](<* <https://twitter.com/cbprat/status/1492926204298604544?s=21>>)[](https://twitter.com/cbprat/status/1492926204298604544?s=21)
+* Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que ata na LEB Oro.
 
+Diogo Brito (C.B. Móron, LEB Plata – Espanha):[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/cbmoron/status/1491500801646374912?s=21)
 
-
-Diogo Brito (C.B. Móron, LEB Plata – Espanha):
-
-* Anotou 15 pontos, 3 ressaltos, 6 assistências em 31 minutos na derrota frente a Navarra, por 73-79.[](<* <https://twitter.com/cbmoron/status/1492602377437863945?s=21>>)[](https://twitter.com/cbmoron/status/1492602377437863945?s=21)
-* Marcou 25 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 25 minutos jogados na vitória frente a Aquimisa Carbajosa Empresarial, por 81-73.[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/cbmoron/status/1491500801646374912?s=21)
+* Anotou 15 pontos, 3 ressaltos, 6 assistências em 31 minutos na derrota frente a Navarra, por 73-79.
+* Marco 25 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 25 minutos jogados na vitória frente a Aquimisa Carbajosa Empresarial, por 81-73.
 
 Candido Sá (C.B. Benicarlo, LEB Plata – Espanha):
 
