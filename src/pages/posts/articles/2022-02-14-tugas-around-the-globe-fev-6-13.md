@@ -29,7 +29,7 @@ Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
 Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)
 
-* Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA. <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🟢⚫️ El derbi badaloní és nostre! <a href="https://twitter.com/hashtag/EBA?src=hash&amp;ref_src=twsrc%5Etfw">#EBA</a><a href="https://twitter.com/AEBDimonis?ref_src=twsrc%5Etfw">@AEBDimonis</a> 57-64 <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <br><br>📈 Una nova victòria, 2 de 2 al mes de febrer!<a href="https://twitter.com/hashtag/SomElBressol?src=hash&amp;ref_src=twsrc%5Etfw">#SomElBressol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/IJlQpbPBJ4">pic.twitter.com/IJlQpbPBJ4</a></p>&mdash; Club Joventut Badalona (@Penya1930) <a href="https://twitter.com/Penya1930/status/1492902328038526978?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
+* [Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA. ](https://twitter.com/penya1930/status/1492902328038526978?s=21)[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
 * Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que atua na LEB Oro. <https://twitter.com/cbprat/status/1492926204298604544?s=21>
 
 
