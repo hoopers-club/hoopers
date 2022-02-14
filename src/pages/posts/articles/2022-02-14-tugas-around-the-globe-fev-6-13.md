@@ -97,7 +97,3 @@ André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da Amé
 
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
-
-
-
-Escrito por: Martim Figueiredo
