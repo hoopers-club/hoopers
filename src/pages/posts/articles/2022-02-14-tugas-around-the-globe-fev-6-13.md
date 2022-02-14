@@ -90,6 +90,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC. 
 
-Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
+**\
+Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club**
 
-Escrito por: Martim Figueiredo
+Escrito por: **Martim Figueiredo**
