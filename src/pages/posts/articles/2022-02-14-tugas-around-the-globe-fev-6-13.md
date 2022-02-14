@@ -68,8 +68,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB – França):
 * <u>[Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81.](<* <https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link>>)</u>[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link)
 * <u>[Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço do Lusitânia.](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)</u>[](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)
 
-# **\
-Pela restante Europa…**
+# **Pela restante Europa…**
 
 Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
