@@ -20,7 +20,7 @@ Olhando para os mais jovens, Diogo Seixas em Sevilha e André Cruz em Wyoming, f
 
 
 
-Em terras de nuestros hermanos…
+**Em terras de nuestros hermanos…**
 
 Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
@@ -61,7 +61,7 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 
 
 
-Em França fala-se português…
+**Em França fala-se português…**
 
 
 
@@ -72,7 +72,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB – França):
 
 
 
-Pela restante Europa…
+**Pela restante Europa…**
 
 Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
@@ -87,7 +87,7 @@ Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
 
 
-Nos States…
+**Nos States…**
 
 André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)
 
