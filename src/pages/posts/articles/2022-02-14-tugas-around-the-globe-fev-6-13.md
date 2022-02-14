@@ -59,9 +59,8 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
 
 # **Em França fala-se português…**
 
-
-
-**Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
+**\
+Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81.
 
