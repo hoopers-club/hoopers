@@ -1,11 +1,11 @@
 ---
-title: Tugas Around The Globe (Fev. 6 - 13)
+title: Tugas Around The Globe (Fev. 7 - 13)
 subname: A semana fica marcada por excelentes exibições individuais dos
   internacionais portugueses.
 featured: true
 publishDate: Feb 14th 22
 image: /assets/uploads/gonçalo.jpeg
-author: Martim Figueiredo
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 A poucos dias da paragem para seleções, é importante destacar as exibições dos nossos jogadores portugueses, principalmente aqueles que se encontram a jogar no estrangeiro e longe de casa! 
@@ -20,24 +20,24 @@ Olhando para os mais jovens, **Diogo Seixas** em Sevilha e **André Cruz** em Wy
 
 
 
-###### **Em terras de nuestros hermanos…**
+# **Em terras de nuestros hermanos…**
 
 Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
 * Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo. <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[](https://twitter.com/basquetgirona/status/1491521798931898369?s=21)
-* [Não jogou no outro jogo da semana frente ao Melilla, em que a equipa de Girona venceu por 78-71. ](https://twitter.com/basquetgirona/status/1492933381797163012?s=21%3E)[](https://twitter.com/basquetgirona/status/1492933381797163012?s=21)
+* <u>[Não jogou no outro jogo da semana frente ao Melilla, em que a equipa de Girona venceu por 78-71.](https://twitter.com/basquetgirona/status/1492933381797163012?s=21%3E)</u>[](https://twitter.com/basquetgirona/status/1492933381797163012?s=21)
 
 Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)
 
-* [Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA. ](https://twitter.com/penya1930/status/1492902328038526978?s=21)[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
-* Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que atua na LEB Oro. <https://twitter.com/cbprat/status/1492926204298604544?s=21>
+* <u>[Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA](https://twitter.com/penya1930/status/1492902328038526978?s=21).</u>[](https://twitter.com/penya1930/status/1492902328038526978?s=21)[](https://twitter.com/penya1930/status/1492902328038526978?s=21)
+* <u>[Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que atua na LEB Oro.](<* <https://twitter.com/cbprat/status/1492926204298604544?s=21>>)</u>[ ](<* <https://twitter.com/cbprat/status/1492926204298604544?s=21>>)[](https://twitter.com/cbprat/status/1492926204298604544?s=21)
 
 
 
 Diogo Brito (C.B. Móron, LEB Plata – Espanha):
 
-* Anotou 15 pontos, 3 ressaltos, 6 assistências em 31 minutos na derrota frente a Navarra, por 73-79. <https://twitter.com/cbmoron/status/1492602377437863945?s=21>
-* Marcou 25 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 25 minutos jogados na vitória frente a Aquimisa Carbajosa Empresarial, por 81-73. <https://twitter.com/cbmoron/status/1491500801646374912?s=21>
+* <u>[Anotou 15 pontos, 3 ressaltos, 6 assistências em 31 minutos na derrota frente a Navarra, por 73-79.](<* <https://twitter.com/cbmoron/status/1492602377437863945?s=21>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1492602377437863945?s=21>>)[](https://twitter.com/cbmoron/status/1492602377437863945?s=21)
+* <u>[Marcou 25 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 25 minutos jogados na vitória frente a Aquimisa Carbajosa Empresarial, por 81-73.](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/cbmoron/status/1491500801646374912?s=21)
 
 
 
@@ -59,18 +59,17 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 
 
 
-**Em França fala-se português…**
+# **Em França fala-se português…**
 
 
 
 Sasa Borovnjak (Saint Chamond Basket, ProB – França):
 
-* Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81. <https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link>
-* Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço do Lusitânia. <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>
+* <u>[Anotou 23 pontos, 14 ressaltos, 2 assistências em 24 minutos na vitória frente a Bouzalac, por 100-81.](<* <https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://www.instagram.com/p/CZ2fWixoJXw/?utm_medium=copy_link)
+* <u>[Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço do Lusitânia.](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](<* <https://www.instagram.com/p/CZu0TrArlpp/?utm_medium=copy_link>>)
 
-
-
-**Pela restante Europa…**
+# **\
+Pela restante Europa…**
 
 Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
@@ -81,17 +80,17 @@ Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
 Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
-* Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71. <https://www.instagram.com/p/CZ7aO0jrV6k/?utm_medium=copy_link> <https://www.instagram.com/p/CZ7jI9EraOS/?utm_medium=copy_link>
+* <u>[Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71.](<* <https://www.instagram.com/p/CZ7aO0jrV6k/?utm_medium=copy_link>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](<* <https://www.instagram.com/p/CZ7aO0jrV6k/?utm_medium=copy_link>>)
 
 
 
-**Nos States…**
+# **Nos States…**
 
 André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)
 
-* Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC. <https://twitter.com/wwccmbb/status/1491995816554209283?s=21>
-* Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC. <https://twitter.com/wwccmbb/status/1491995816554209283?s=21>
-
-
+* <u>[Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC. ](<* <https://twitter.com/wwccmbb/status/1491995816554209283?s=21>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/wwccmbb/status/1491995816554209283?s=21)
+* <u>[Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC. ](<* <https://twitter.com/wwccmbb/status/1491995816554209283?s=21>>)</u>[ ](<* <https://twitter.com/cbmoron/status/1491500801646374912?s=21>>)[](https://twitter.com/wwccmbb/status/1491995816554209283?s=21)
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
+
+Escrito por: Martim Figueiredo
