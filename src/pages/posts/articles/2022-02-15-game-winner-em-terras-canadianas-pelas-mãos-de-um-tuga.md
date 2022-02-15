@@ -2,7 +2,7 @@
 title: Game winner em terras canadianas pelas mãos de um Tuga!
 subname: Ricardo Neves, extremo português de 22 anos, está atualmente a jogar
   nos Nipissing Lakers MBB.
-featured: false
+featured: true
 publishDate: Feb 15th 22
 image: /assets/uploads/ricardo_neves.jpeg
 author: Hoopers
