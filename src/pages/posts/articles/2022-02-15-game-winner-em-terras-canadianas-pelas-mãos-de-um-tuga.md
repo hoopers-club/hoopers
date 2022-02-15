@@ -4,7 +4,7 @@ subname: Ricardo Neves, extremo português de 22 anos, está atualmente a jogar
   nos Nipissing Lakers MBB.
 featured: true
 publishDate: Feb 15th 22
-image: /assets/uploads/ricardo_neves.jpeg
+image: /assets/uploads/ricardo_neves_02.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
