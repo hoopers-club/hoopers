@@ -1,0 +1,13 @@
+{
+    "name": "Hoopers",
+    "short_name": "Hoopers",
+    "description": "Global basketball community platform that connects players, fans and enthusiasts through products, contents, experiences and NFTs.",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#fff",
+    "icons": [{
+      "src": "favicon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }
