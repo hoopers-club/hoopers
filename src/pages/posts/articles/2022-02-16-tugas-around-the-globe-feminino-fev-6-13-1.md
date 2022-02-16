@@ -71,7 +71,7 @@ Nota: O motivo da ausência de jogos é a pausa para o Mundial.
 
 **Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):**
 
-\- Registou 12 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola na derrota por 70-76 frente a Breidablik.
+\- Registou 12 pontos, 5 ressaltos, 4 assistências e 1 roubo de bola em 37 minutos na derrota por 70-76 frente a Breidablik.
 
 \- Marcou 22 pontos, 17 ressaltos, 6 assistências e 2 roubos de bola em 31 minutos. Venceu o jogo por 82-55, frente a Fjolnir.
 
