@@ -59,6 +59,7 @@ collections:
           name: 'publishDate',
           widget: 'date',
           format: 'Y-m-d H:i:s',
+          format: 'YYYY MM DD H:M:S',
           required: true,
         }
       - {
