@@ -12,39 +12,93 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
 ---
 
 <Bases>
-    
+
     <div class="content-black">
                 <div class="top content-black">
                     
-                    <div class="page" style="padding: 8% 15% 0 15%;">
+                    <div class="page" style="padding: 12% 15% 0 15%;">
                         <div class="term-title font-bold">CAREERS AT HOOPERS</div>
                         <img src="/assets/policy/Line Breaker white.svg" alt="" />
                         <div class="term-title font-bold orange"> {allPosts.length>=1?'WE’RE HIRING!':'SORRY, THERE ARE NO OPEN POSITIONS RIGHT NOW.'}</div>
                         <div class="positions">{allPosts.length>=1?'OPEN POSITIONS':''}</div>
                         <div class="openings-list">
                       
-                           {allPosts.length>=1?allPosts.map(position=>(
+                           {allPosts.length >= 1 ? allPosts.map(position => (
+                               	<div class="position">
+                                
+                                    <div class="career-accordion">{position.title}</div>
+                                    
+                                    <div class="career-panel">
+                                        <p>{position.astro.source}</p>
+                                        
+                                        <div class="email">Send resume to: 
+                                            <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a>
+                                        </div>
+                                    </div>
+                                    
+                                    
+                                
+                                </div>
+                                
+                                
 
-                               <div class="position">
+/*
+                                
+                                <div class="position">
                                     <div class="title">{position.title}</div>
                                     <div class="detail">
                                         {position.astro.source}
                                     </div>
                                     <div class="email">Send resume to: 
-                                    <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a></div>
-                            </div>
-                           )):''
-                                }
-                           {allPosts.length>=1?'': (<div class="new-centered"><iframe src="https://giphy.com/embed/ehmL4HSm7F38hkamtu" width="720" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-upset-michael-jordan-ehmL4HSm7F38hkamtu"></a></p></div>)}
+                                        <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a>
+                                    </div>
+                                </div>*/
+                                )):''
+                            }
+
+                           {allPosts.length>=1?'': (
+                                <div class="new-centered"><iframe src="https://giphy.com/embed/ehmL4HSm7F38hkamtu" width="720" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-upset-michael-jordan-ehmL4HSm7F38hkamtu"></a></p>
+                                </div>
+                                )}
                         </div>
                     </div>
-                    <div
-                        class="buttons new-centered"
-                        style="font-size: 1rem; padding: 1em 0.2em"
-                    >
-                        FOLLOW US ON LINKEDIN
+                    <div class="career-btn">
+                        <div
+                            class="buttons new-centered btn-left"
+                            style="font-size: 1rem; padding: 1em 0.2em"
+                            onclick="window.open('https://pt.linkedin.com/company/hoopers-club','_blank')"
+                        >
+                        APPLY ON LINKEDIN
+                        </div>
+
+                        <div
+                            class="buttons new-centered btn-right"
+                            style="font-size: 1rem; padding: 1em 0.2em"
+                            onclick="window.open('https://www.freshworks.com/hrms/pricing/','_blank')"
+                        >
+                        APPLY ON FRESHWORKS
+                        </div>
                     </div>
+                    
                     
                 </div>
             </div>
+
+            <script>
+                let acc = document.getElementsByClassName("career-accordion");
+                let i;
+
+                for (i = 0; i < acc.length; i++) {
+                    acc[i].addEventListener("click", function() {
+                        this.classList.toggle("active");
+                        let panel = this.nextElementSibling;
+                    
+                        if (panel.style.display === "block") {
+                            panel.style.display = "none";
+                        } else {
+                            panel.style.display = "block";
+                        }
+                    });
+                }
+            </script>
 </Bases>

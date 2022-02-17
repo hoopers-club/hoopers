@@ -1,16 +1,41 @@
 @use '../abstracts/colors' as *;
 @use '../abstracts/fonts' as *;
 
+
+
 .openings-list {
 	display: flex;
 	flex-direction: column;
 
 	gap: 2em;
+	
+
+	.career-accordion {
+		color: #d38731;
+		font-family: ' Aktiv-Grotesk-light';
+		text-transform: uppercase;
+		font-size: 1.5em;
+		padding: 0.5em 0;
+		border-bottom: 0.5px solid #d38731;
+	}
+
+	.career-panel {
+		display: none;
+		overflow: hidden;
+
+		p{
+			color: white;
+			font-family: ' Aktiv-Grotesk-light';
+			padding-bottom: 1em;
+		}
+	}
+
 	.position {
 		display: flex;
 		max-width: 75ch;
 		flex-direction: column;
 		gap: 1em;
+		margin-bottom: 2em;
 		.title {
 			color: $dark-orange;
 			font-family: $aktiv-grotesk-light;
@@ -31,8 +56,9 @@
 }
 
 .positions {
-	color: $white;
-	font-family: $aktiv-grotesk-light;
+	color: white;
+    font-family: $aktiv-grotesk-light;
+    font-size: 1.5em;
 }
 
 .font-bold {
@@ -44,7 +70,29 @@
 }
 
 .new-centered {
-	margin: 0em auto 2em auto;
+	padding: 0.38em 1.5em;
+	min-width: 13em;
+    font-size: 1.5em;
+    margin: 0 0.25em;
+    text-align: center;
+}
+
+.career-btn {
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1300px){
+	.page {
+		padding: 18% 15% 0 15% !important;
+	}
+}
+
+@media screen and (max-width: 900px){
+	.page {
+		padding: 25% 15% 0 15% !important;
+	}
 }
 
 @media screen and (max-width: 50em) {
@@ -58,4 +106,16 @@
 	.page {
 		padding: 20vh 15% 15% 15% !important;
 	}
+}
+
+@media screen and (max-width: 515px) {
+	.career-btn {
+		flex-direction: column;
+
+		.new-centered {
+			margin: 0.5em 0.25em;
+		}
+	}
+
+	
 }
