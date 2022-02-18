@@ -92,6 +92,11 @@
 @media screen and (max-width: 900px){
 	.page {
 		padding: 25% 15% 0 15% !important;
+		
+	}
+
+	.openings-list .position {
+		max-width: 100%;
 	}
 }
 
@@ -107,9 +112,7 @@
 		padding: 20vh 15% 15% 15% !important;
 	}
 
-	.position {
-		max-width: 100%;
-	}
+	
 }
 
 @media screen and (max-width: 515px) {
