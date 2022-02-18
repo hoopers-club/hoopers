@@ -26,7 +26,10 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
                            {allPosts.length >= 1 ? allPosts.map(position => (
                                	<div class="position">
                                 
-                                    <div class="career-accordion">{position.title}</div>
+                                    <div class="career-accordion"> 
+                                        <span style="color: #d38731">{position.title}</span>
+                                        <span class="career-dropd-icon"></span>
+                                    </div>
                                     
                                     <div class="career-panel">
                                        <div>{position.astro.html}</div>

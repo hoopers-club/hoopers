@@ -11,12 +11,22 @@
 	
 
 	.career-accordion {
-		color: #d38731;
 		font-family: ' Aktiv-Grotesk-light';
 		text-transform: uppercase;
 		font-size: 1.5em;
 		padding: 0.5em 0;
 		border-bottom: 0.5px solid #d38731;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.career-dropd-icon {
+		background-image: url('/assets/seta_baixo.svg');
+		background-position: center;
+		background-size: cover;
+		width: 32px;
+		height: 17px;
+		display: flex;
 	}
 
 	.career-panel {
