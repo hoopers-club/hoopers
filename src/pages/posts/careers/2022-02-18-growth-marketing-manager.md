@@ -33,8 +33,6 @@ We are looking for a Growth Marketing Manager to help us to create our digital s
 
 Your role and position will be critical for the company’s development and your decisions will have a strong impact on the product roadmap and business overall. You might turn into our future Marketing lead or CMO.
 
-
-
 **Responsibilities:**
 
 * Lead and own our marketing strategy
@@ -45,8 +43,6 @@ Your role and position will be critical for the company’s development and your
 * Work cross-functionally with the rest of the team and business areas
 * Analyze consumer behavior data to adjust and fine tune email and add spend
 
-
-
 **Requirements:**
 
 * Basketball & Sports lover (former/current Hooper is a plus)
@@ -56,8 +52,6 @@ Your role and position will be critical for the company’s development and your
 * Strong prioritization skills and the ability to focus on the most urgent tasks and activities that require immediate attention at any point in time
 * A problem solver with an analytical and creative combo mind
 * Data-driven, comfortable working with numbers, making sense of metrics and processing data on spreadsheets and analytics tools
-
-
 
 **What do we offer?**
 
