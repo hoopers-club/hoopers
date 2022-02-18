@@ -29,7 +29,7 @@ let allPosts = Astro.fetchContent('./posts/careers/*.md');
                                     <div class="career-accordion">{position.title}</div>
                                     
                                     <div class="career-panel">
-                                        <p>{position.astro.source}</p>
+                                       <div>{position.astro.html}</div>
                                         
                                         <div class="email">Send resume to: 
                                             <a href={`mailto:info@hoopers.club?subject=Hoopers Careers: ${position.title} `}>info@hoopers.club</a>

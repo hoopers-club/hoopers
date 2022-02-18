@@ -23,7 +23,7 @@
 		display: none;
 		overflow: hidden;
 
-		p{
+		div{
 			color: white;
 			font-family: ' Aktiv-Grotesk-light';
 			padding-bottom: 1em;
@@ -32,7 +32,7 @@
 
 	.position {
 		display: flex;
-		max-width: 75ch;
+		max-width: 75%;
 		flex-direction: column;
 		gap: 1em;
 		margin-bottom: 2em;
@@ -105,6 +105,10 @@
 	}
 	.page {
 		padding: 20vh 15% 15% 15% !important;
+	}
+
+	.position {
+		max-width: 75ch;
 	}
 }
 
