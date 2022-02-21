@@ -4,7 +4,7 @@ subname: Semana ficou marcada pela apresentação de Lavínia da Silva e pelos 1
   pontos alcançados por Maria Carvalho.
 featured: true
 publishDate: 2022 02 21 10:2:7
-image: /assets/uploads/lavinia.jpeg
+image: /assets/uploads/lavinia_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
