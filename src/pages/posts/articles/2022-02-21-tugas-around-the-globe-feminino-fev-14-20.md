@@ -18,9 +18,9 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 </br>
 
-
-
 ## Em terras de nuestras hermanas…
+
+</br>
 
 #### **Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
@@ -28,37 +28,25 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Registou apenas 1 ressalto e 1 roubo de bola em 13 minutos na derrota frente ao Perfumarias Avenida por 67-80.
 
-
-
 #### **Maria João Correia (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
 \- Não jogou esta semana.
-
-
 
 #### Sofia da Silva (Duran Maquinaria Ensino Lugo, Liga Femenina Endesa – Espanha):
 
 \- Apontou 6 pontos, 5 ressaltos e em 12 minutos na derrota frente ao Gran Canaria, por 73-61. 
 
-
-
 #### **Marcy Gonçalves (Osés Construcción Ardoi, Liga Feminina 2 - Espanha):** 
 
 \- Jogou 12 minutos e realizou 1 assistência na vitória frente ao Azkoitia, por 70-64. 
-
-
 
 #### Josephine Filipe (Osés Construcción Ardoi, Liga Feminina 2 - Espanha)
 
 \- Marcou 24 pontos, 2 ressaltos, 1 assistência e 1 roubo de bola na vitória frente a Azpeitia, por 70-64. 
 
-
-
 #### Joana Ferreira (Fustecma Nou Basquet Castello, Liga Femenina 2 – Espanha):
 
 \- Anotou 19 pontos, 7 ressaltos, 2 assistência e 3 roubos de bola em 31 minutos, na vitória frente a Sant Adria, por 85-73. 
-
-
 
 #### Catarina Frederico (Milar Cordoba, Liga Femenina 2 – Espanha):
 
@@ -66,17 +54,13 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 </br>
 
-
-
 ## Pela restante Europa…
 
-
+</br>
 
 #### **Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):**
 
 \- Apontou 13 pontos, 10 ressaltos e 5 assistências na vitória sobre Haukar por 70-78.
-
-
 
 #### **Inês Viana (Namur Capitale, Top Division 1 – Bélgica):**
 
@@ -84,9 +68,9 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 </br>
 
-
-
 ## Estados Unidos da América dominados …
+
+</br>
 
 #### **Maria Carvalho (Utah Valley University, NCAA - Estados Unidos da América)**
 
@@ -120,28 +104,22 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Registou 2 ressaltos, 1 assistência e 3 roubos de bola em 16 minutos na vitória de Utah frente a UCLA por 70-75.
 
-**\
+#### **\
 Beatriz Jordão (Iowa State, NCAA– Estados Unidos da América):**
 
 \- Registou 2 pontos, 1 ressalto, 2 desarmes de lançamento e 1 roubo de bola na derrota frente ao Texas por 73-48.
 
 \- Anotou 4 pontos, 7 ressaltos, 1 assistência e 1 desarme de lançamento em 17 minutos, na derrota frente a Oklahoma por 89-67.
 
-
-
 #### Sara Guerreiro (South Florida, NCAA– Estados Unidos da América):
 
 \- Conquistou 2 ressaltos na vitória frente a Cincinnati por 54-45.
-
-
 
 #### Teresa Faustino (Western Kentucky, NCAA– Estados Unidos da América):
 
 \- Registou 2 pontos, 1 ressalto e 1 assistência em 14 minutos na derrota sobre Old Dominion por 75-55;
 
 \- Marcou 8 pontos e 4 roubos de bola em 16 minutos na derrota frente a Charlotte por 89-43;
-
-
 
 #### Tess Santos  (Denver, NCAA– Estados Unidos da América):
 
@@ -155,10 +133,6 @@ Beatriz Jordão (Iowa State, NCAA– Estados Unidos da América):**
 
 </br>
 
-
-
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
-
-
 
 Escrito por: **Martim Figueiredo**
