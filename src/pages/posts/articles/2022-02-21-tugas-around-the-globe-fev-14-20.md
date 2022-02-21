@@ -18,31 +18,33 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 ## Em terras de nuestros hermanos…
 
-**Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
+</br>
+
+#### **Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
 
 \- Não jogou esta semana.
 
-**Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)**
+#### **Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)**
 
 \- Anotou 2 pontos, 4 ressaltos e 1 assistência em 15 minutos jogados na derrota do CB Prat frente ao ICG Força Lleida por 72-82, a contar para a LEB Oro.
 
 \- Registou 22 pontos, 10 ressaltos, 1 roubo de bola e 2 desarmes de lançamento na vitória do Joventut Badalona por 75-54, frente ao Alpicat ao serviço do Joventut Badalona.
 
-**Diogo Brito (C.B. Móron, LEB Plata – Espanha):**
+#### **Diogo Brito (C.B. Móron, LEB Plata – Espanha):**
 
 \- Não jogou esta semana. Jogo adiado devido a um surto de COVID-19.
 
-**Candido Sá (C.B. Benicarlo, LEB Plata – Espanha):**
+#### **Candido Sá (C.B. Benicarlo, LEB Plata – Espanha):**
 
 \- Marcou 4 pontos, 1 ressalto e 2 bolas roubadas em 14 minutos, na vitória contra o FC Cartagena CB, por 75-67.
 
 \- Registou 13 pontos, 7 ressaltos e 1 assistência na vitória do Benicarló frente ao Gran Canaria B por 77-55.
 
-**Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):**
+#### **Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):**
 
 \- Registou 4 pontos e 3 ressaltos e 2 assistências em 14:23 min na vitória frente ao CB Cimbis, por 75-67.
 
-**Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
+#### **Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
 
 \- Apontou 7 pontos, 7 ressaltos, 4 assistências e 1 roubo de bola em 26 minutos, na vitória de Chantada sobre o CB La Flecha por 77-58.
 
@@ -50,7 +52,9 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 ## Em França fala-se português…
 
-**Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
+</br>
+
+#### **Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
 
 \- Não jogou esta semana.
 
@@ -58,13 +62,15 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 ## Pela restante Europa…
 
-**Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
+</br>
+
+#### **Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
 
 \- Anotou 6 pontos, 2 ressaltos e 3 assistências na vitória derrota frente ao Oostende por 100-90.
 
 \- Apontou 12 pontos, 2 ressaltos e 9 assistências na vitória fora de casa frente ao Leuven Bears, por 87-92. 
 
-**Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):**
+#### **Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):**
 
 \- Apontou 10 pontos, 11 ressaltos e 1 assistência na derrota frente ao Ferrara, por 70-72. 
 
@@ -74,7 +80,9 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 ## **Nos States…**
 
-**André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)**
+</br>
+
+#### **André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)**
 
 \- Anotou 15 pontos e 9 ressaltos na vitória por 75-65 frente a CWC.
 
