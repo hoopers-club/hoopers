@@ -104,8 +104,7 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Registou 2 ressaltos, 1 assistência e 3 roubos de bola em 16 minutos na vitória de Utah frente a UCLA por 70-75.
 
-#### **\
-Beatriz Jordão (Iowa State, NCAA– Estados Unidos da América):**
+#### **Beatriz Jordão (Iowa State, NCAA - Estados Unidos da América):**
 
 \- Registou 2 pontos, 1 ressalto, 2 desarmes de lançamento e 1 roubo de bola na derrota frente ao Texas por 73-48.
 
