@@ -94,3 +94,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club**
 
 Escrito por: **Martim Figueiredo**
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
