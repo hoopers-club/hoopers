@@ -152,7 +152,7 @@
 	font-family: $aktiv-grotesk-mediumitalic;
 	// border-bottom: 3px solid white;
 	width: fit-content;
-	margin: 0 auto;
+	margin: auto;
 }
 
 .white {
@@ -178,6 +178,12 @@
 	}
 	img {
 		width: 100%;
+	}
+}
+
+@media screen and (max-width:460px) {
+	.sub-headline {
+		margin: 0 2em;
 	}
 }
 

@@ -66,7 +66,7 @@ html {
 	left: 0;
 	right: 0;
 	flex-wrap: wrap;
-	z-index: 3;
+	z-index: 6;
 	flex: 1;
 	transition: all 0.5s ease-in-out;
 	// margin-bottom: auto;
@@ -160,6 +160,7 @@ html {
 	img {
 		width: 4rem;
 	}
+	z-index: 4;
 }
 
 .headline {
@@ -392,10 +393,7 @@ table .strong {
 				font-size: 2.2em !important;
 			}
 			.sub-headline {
-				font-size: 1em !important 
-                ;
-				margin-left: 2em;
-				margin-right: 2em;
+				font-size: 1em !important;
 			}
 		}
 	}
@@ -689,7 +687,7 @@ footer {
 .dropdown {
 	// position: absolute;
 	display: inline-block;
-	z-index: 2;
+	z-index: 5;
 	position: fixed;
 	right: 4rem;
 	bottom: 9rem;
