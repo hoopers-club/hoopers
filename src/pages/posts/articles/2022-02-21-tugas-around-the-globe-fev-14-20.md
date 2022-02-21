@@ -14,15 +14,13 @@ A paragem irá ser marcada por dois jogos, os dois frente à França, sendo o pr
 
 Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e Rúben Prey, a atuar em duas competições diferentes, foram os destaques da semana. (PS: ambos internacionais sub-16 e sub-20, respetivamente, em 2021)
 
+</br>
 
-
-##### Em terras de nuestros hermanos…
+## Em terras de nuestros hermanos…
 
 **Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
 
 \- Não jogou esta semana.
-
-
 
 **Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)**
 
@@ -30,13 +28,9 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Registou 22 pontos, 10 ressaltos, 1 roubo de bola e 2 desarmes de lançamento na vitória do Joventut Badalona por 75-54, frente ao Alpicat ao serviço do Joventut Badalona.
 
-
-
 **Diogo Brito (C.B. Móron, LEB Plata – Espanha):**
 
 \- Não jogou esta semana. Jogo adiado devido a um surto de COVID-19.
-
-
 
 **Candido Sá (C.B. Benicarlo, LEB Plata – Espanha):**
 
@@ -44,31 +38,25 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Registou 13 pontos, 7 ressaltos e 1 assistência na vitória do Benicarló frente ao Gran Canaria B por 77-55.
 
-
-
 **Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):**
 
 \- Registou 4 pontos e 3 ressaltos e 2 assistências em 14:23 min na vitória frente ao CB Cimbis, por 75-67.
-
-
 
 **Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
 
 \- Apontou 7 pontos, 7 ressaltos, 4 assistências e 1 roubo de bola em 26 minutos, na vitória de Chantada sobre o CB La Flecha por 77-58.
 
+</br>
 
-
-##### Em França fala-se português…
-
-
+## Em França fala-se português…
 
 **Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
 
 \- Não jogou esta semana.
 
+</br>
 
-
-##### Pela restante Europa…
+## Pela restante Europa…
 
 **Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
 
@@ -76,17 +64,15 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Apontou 12 pontos, 2 ressaltos e 9 assistências na vitória fora de casa frente ao Leuven Bears, por 87-92. 
 
-
-
 **Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):**
 
 \- Apontou 10 pontos, 11 ressaltos e 1 assistência na derrota frente ao Ferrara, por 70-72. 
 
 \- Marcou 12 pontos e 4 ressaltos em 27 minutos na vitória do Chiusi por 77-60.
 
+</br>
 
-
-##### **Nos States…**
+## **Nos States…**
 
 **André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)**
 
@@ -96,8 +82,8 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Registou 15 pontos e 6 ressaltos na vitória frente a Casper por 73-77
 
+</br>
+
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
-
-
 
 Escrito por: **Martim Figueiredo**
