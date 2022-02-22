@@ -103,4 +103,4 @@ Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um ema
 
 Escrito por: **Martim Figueiredo**
 
-`<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+<blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote>
