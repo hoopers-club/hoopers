@@ -22,7 +22,9 @@ Olhando para os mais jovens, **Diogo Seixas** em Sevilha e **André Cruz** em Wy
 
 \- Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo. 
 
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> 
+```
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 \- [](https://twitter.com/basquetgirona/status/1491521798931898369?s=21)Não jogou no outro jogo da semana frente ao Melilla, em que a equipa de Girona venceu por 78-71.[](https://twitter.com/basquetgirona/status/1492933381797163012?s=21)
 
@@ -30,7 +32,9 @@ Olhando para os mais jovens, **Diogo Seixas** em Sevilha e **André Cruz** em Wy
 
 \- Apontou 7 ressaltos e 1 assistência em 18:54 minutos na vitória frente ao A.E Badalonès por 57-64, a contar para a Liga EBA.
 
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🟢⚫️ El derbi badaloní és nostre! <a href="https://twitter.com/hashtag/EBA?src=hash&amp;ref_src=twsrc%5Etfw">#EBA</a><a href="https://twitter.com/AEBDimonis?ref_src=twsrc%5Etfw">@AEBDimonis</a> 57-64 <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <br><br>📈 Una nova victòria, 2 de 2 al mes de febrer!<a href="https://twitter.com/hashtag/SomElBressol?src=hash&amp;ref_src=twsrc%5Etfw">#SomElBressol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/IJlQpbPBJ4">pic.twitter.com/IJlQpbPBJ4</a></p>&mdash; Club Joventut Badalona (@Penya1930) <a href="https://twitter.com/Penya1930/status/1492902328038526978?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> 
+```
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🟢⚫️ El derbi badaloní és nostre! <a href="https://twitter.com/hashtag/EBA?src=hash&amp;ref_src=twsrc%5Etfw">#EBA</a><a href="https://twitter.com/AEBDimonis?ref_src=twsrc%5Etfw">@AEBDimonis</a> 57-64 <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <br><br>📈 Una nova victòria, 2 de 2 al mes de febrer!<a href="https://twitter.com/hashtag/SomElBressol?src=hash&amp;ref_src=twsrc%5Etfw">#SomElBressol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/IJlQpbPBJ4">pic.twitter.com/IJlQpbPBJ4</a></p>&mdash; Club Joventut Badalona (@Penya1930) <a href="https://twitter.com/Penya1930/status/1492902328038526978?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 \- Jogou 6 minutos ao serviço do C.B Prat, equipa filiada ao Joventut Badalona, que ata na LEB Oro.
 
@@ -94,7 +98,3 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club**
 
 Escrito por: **Martim Figueiredo**
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
