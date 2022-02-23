@@ -5,7 +5,8 @@ import Menus from '../components/Menu.jsx'
 import Search from '../components/Search.jsx'
 import Footer from '../components/Footer.astro'
 
-
+// get object from index
+let {title, author, subname, image}=Astro.props;
 
 // You can import components from any supported Framework here!
 
@@ -44,21 +45,21 @@ body {
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d13b3274eddb0f43cd6a140f9/d11445bc404f13950da67d208.js");</script>
     
 	<!-- Primary Meta Tags -->
-	<title>Hoopers</title>
-	<meta name="title" content="Hoopers" />
-    <meta name="author" content="Hoopers">
-    <meta name="description" content="Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs.">
+	<title>{title ? title : "Hoopers"}</title>
+	<meta name="title" content={title ? title : "Hoopers"} />
+    <meta name="author" content={author ? author : "Hoopers"}>
+    <meta name="description" content={subname ? subname : "Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs."}>
 	
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.hoopers.club" />
-	<meta property="og:title" content="Hoopers" />
-	<meta property="og:description" content="Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs." />
+	<meta property="og:title" content={title ? title : "Hoopers"} />
+	<meta property="og:description" content={subname ? subname : "Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs."}/>
 
 	<!-- Twitter -->
 	<meta property="twitter:url" content="https://www.hoopers.club" />
-	<meta property="twitter:title" content="Hoopers" />
-	<meta property="twitter:description" content="Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs." />
+	<meta property="twitter:title" content={title ? title : "Hoopers"}/>
+	<meta property="twitter:description" content={subname ? subname : "Global basketball community platform connecting players, fans and enthusiasts through products, contents, experiences and NFTs."}/>
 
 
     <link rel="shortcut icon" href="https://www.hoopers.club/assets/favicon.svg" type="image/x-icon">
@@ -73,11 +74,11 @@ body {
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:url" content="https://www.hoopers.club" />
-	<meta property="og:image:secure_url" content="https://www.hoopers.club/assets/bray_hero.jpg" />
+	<meta property="og:image:secure_url" content={image ? "https://www.hoopers.club" + image : "https://www.hoopers.club/assets/bray_hero.jpg"} />
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:image" content="/assets/bray_hero.jpg" />
+	<meta property="twitter:image" content={image ? "https://www.hoopers.club" + image : "https://www.hoopers.club/assets/bray_hero.jpg"} />
 
 	<link rel="manifest" href="https://www.hoopers.club/assets/manifest.json" />
 

@@ -6,7 +6,7 @@ const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
 
 ---
-<Bases>
+<Bases title={title} author={author} subname={subname} image={image}>
 	
 	
 	<div class="container">
