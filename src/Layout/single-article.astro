@@ -1,6 +1,5 @@
 ---
 import Bases from './Layout.astro'
-import Gallery from '../components/Gallery.jsx'
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
@@ -8,7 +7,6 @@ const {title, publishDate, author,subname, image} = content;
 
 const articleDate = publishDate.split('-')[0];
 
-console.log('publishDate = ' + publishDate + '; articleDate = ' + articleDate);
 ---
 <Bases title={title} author={author} subname={subname} image={image}>
 	
