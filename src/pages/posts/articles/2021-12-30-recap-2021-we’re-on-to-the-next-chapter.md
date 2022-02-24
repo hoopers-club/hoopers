@@ -2,7 +2,7 @@
 title: "Recap 2021: We’re on to the next chapter"
 subname: 2021 taught us how to walk, but in 2022 we just want to run.
 featured: true
-publishDate: Dec 30th 21
+publishDate: Dec 30th, 2021
 image: /assets/uploads/recap_banner.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro

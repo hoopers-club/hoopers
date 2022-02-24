@@ -4,7 +4,7 @@ subname: É tempo de ficar em casa. Deixámos alguns planos em suspenso, mas já
   estamos a trabalhar em coisas novas para a nossa comunidade. Este é um artigo
   assinado pela equipa da Hoopers.
 featured: false
-publishDate: Jan 22nd 21
+publishDate: Jan 22nd, 2021
 image: /assets/uploads/62_banner_hoopersathome.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro

@@ -3,7 +3,7 @@ title: Tugas Around The Globe (Fev. 14-20)
 subname: André Cruz, dos Western Wyoming Mustangs Basketball, foi um dos
   destaques da semana.
 featured: true
-publishDate: 2022 02 21 10:2:6
+publishDate: Feb 21st, 2022-11:00:00
 image: /assets/uploads/andre.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

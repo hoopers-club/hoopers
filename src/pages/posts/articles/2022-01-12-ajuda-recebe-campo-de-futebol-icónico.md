@@ -2,7 +2,7 @@
 title: Ajuda recebe campo de futebol icónico
 subname: O campo foi inspirado na gaiola Sacchi.
 featured: true
-publishDate: Jan 12th 22
+publishDate: Jan 12th, 2022
 image: /assets/uploads/ajuda_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

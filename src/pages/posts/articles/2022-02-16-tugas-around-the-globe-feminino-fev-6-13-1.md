@@ -3,7 +3,7 @@ title: Tugas Around The Globe - Feminino (Fev. 6 - 13)
 subname: Exibições individuais de Lavínia da Silva, Maria Carvalho e Luana
   Serrano são alguns dos destaques da semana.
 featured: true
-publishDate: Feb 16th 22
+publishDate: Feb 16th, 2022
 image: /assets/uploads/maria_caravalho_02.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

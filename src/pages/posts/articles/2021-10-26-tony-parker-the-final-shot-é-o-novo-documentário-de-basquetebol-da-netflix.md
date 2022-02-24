@@ -7,7 +7,7 @@ subname: >+
 
 
 featured: false
-publishDate: Jan 6th 21
+publishDate: Jan 6th, 2021
 image: /assets/uploads/67_banner_tony.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro

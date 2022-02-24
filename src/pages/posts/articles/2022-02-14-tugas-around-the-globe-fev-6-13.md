@@ -3,7 +3,7 @@ title: Tugas Around The Globe (Fev. 7 - 13)
 subname: A semana fica marcada por excelentes exibições individuais dos
   internacionais portugueses.
 featured: true
-publishDate: Feb 14th 22
+publishDate: Feb 14th, 2022
 image: /assets/uploads/gonçalo.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

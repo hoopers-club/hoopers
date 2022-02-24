@@ -3,7 +3,7 @@ title: Tugas Around The Globe - Feminino (Fev.14-20)
 subname: Semana ficou marcada pela apresentação de Lavínia da Silva e pelos 1000
   pontos alcançados por Maria Carvalho.
 featured: true
-publishDate: 2022 02 21 10:2:7
+publishDate: Feb 21st, 2022-12:00:00
 image: /assets/uploads/lavinia_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

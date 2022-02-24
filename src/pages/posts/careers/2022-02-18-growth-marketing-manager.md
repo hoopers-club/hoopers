@@ -23,7 +23,7 @@ You are a team player! Our story is something you want to be a part of.
 
 **<br>**
 
-**The Role:**
+**The Role:** 
 
 We are looking for a Growth Marketing Manager to help us to create our digital strategy and lead our efforts to grow our community, user-acquisition and revenues. We are developing new tech projects and platforms that will require your attention. Your main responsibilities are to:
 

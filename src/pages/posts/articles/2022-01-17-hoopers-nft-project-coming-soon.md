@@ -2,7 +2,7 @@
 title: "Hoopers NFT Project: Coming soon!"
 subname: We are starting 2022 with new, big and renowned ambitions!
 featured: true
-publishDate: Jan 17th 22
+publishDate: Jan 17th, 2022
 image: /assets/uploads/nft_banner.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro

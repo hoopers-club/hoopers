@@ -6,7 +6,7 @@ const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
 
 
-const articleDate = new Date(publishDate).getDate();
+const articleDate = publishDate.split('-')[0];
 
 console.log('publishDate = ' + publishDate + '; articleDate = ' + articleDate);
 ---

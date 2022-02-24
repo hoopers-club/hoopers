@@ -4,7 +4,7 @@ subname: >
   É a nova rubrica para falar dos jovens talentos (sub-23) portugueses na Liga
   Betclic.
 featured: true
-publishDate: Feb 15th 22 12:00:00
+publishDate: Feb 15th, 2022-11:00:00
 image: /assets/uploads/whatsapp-image-2022-02-15-at-12.13.57.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
