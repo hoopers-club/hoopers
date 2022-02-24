@@ -4,6 +4,11 @@ import Gallery from '../components/Gallery.jsx'
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
+
+
+const articleDate = new Date(publishDate).getDate();
+
+console.log('publishDate = ' + publishDate + '; articleDate = ' + articleDate);
 ---
 <Bases title={title} author={author} subname={subname} image={image}>
 	
@@ -28,7 +33,7 @@ const {title, publishDate, author,subname, image} = content;
 					<div class="sub-headline">
 						{subname}
 					</div>
-					<div class="sub-text centered">{publishDate} <br />{author}</div>
+					<div class="sub-text centered">{articleDate} <br />{author}</div>
 	
 					
 				</div>

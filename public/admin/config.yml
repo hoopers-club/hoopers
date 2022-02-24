@@ -58,7 +58,7 @@ collections:
           label: 'Publish Date',
           name: 'publishDate',
           widget: 'date',
-          format: 'YYYY MM DD H:M:S',
+          format: 'mm DD HH-H:M:S',
           required: true,
         }
       - {
