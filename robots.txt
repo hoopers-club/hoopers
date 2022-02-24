@@ -1,3 +1,2 @@
-Sitemap: https://www.hoopers.club/sitemap.xml
 User-agent: *
 Disallow:
