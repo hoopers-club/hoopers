@@ -3,7 +3,7 @@ title: Derrota com a França, mas ainda 3 jogos por disputar
 subname: Portugueses ganharam primeiro quarto, mas não conseguiram sustentar a
   vantagem ao longo da partida.
 featured: false
-publishDate: 2ndnt11 25, 2022-11:02:58
+publishDate: Feb 25, 2022-11:02:58
 image: /assets/uploads/artigo_02.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
