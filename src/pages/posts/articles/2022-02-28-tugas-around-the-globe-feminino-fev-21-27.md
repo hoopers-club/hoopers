@@ -3,7 +3,7 @@ title: Tugas Around The Globe - Feminino (Fev.21-27)
 subname: |
   Título para Luana Serranho e muitos destaques nos Estados Unidos e Europa.
 featured: true
-publishDate: 000 Mo, 2022-00:02:00
+publishDate: Feb 28, 2022-00:02:00
 image: /assets/uploads/luana.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
