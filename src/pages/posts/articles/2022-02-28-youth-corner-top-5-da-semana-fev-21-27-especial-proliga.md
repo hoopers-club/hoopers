@@ -3,7 +3,7 @@ title: "Youth Corner: Top 5 da semana (Fev. 21-27) - Especial Proliga"
 subname: Esta semana dedicámos esta rubrica a 5 jovens talentos (sub 23) que
   atuam no campeonato da Proliga.
 featured: true
-publishDate: 000 Mo, 2022-00:02:00
+publishDate: Feb 28, 2022-00:02:00
 image: /assets/uploads/proliga_01.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
