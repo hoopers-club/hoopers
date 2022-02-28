@@ -3,7 +3,7 @@ title: Nova derrota contra a França numa boa réplica da armada portuguesa
 subname: Portugal mostrou bons argumentos, mas acabou por prevalecer o poderio e
   experiência da seleção francesa.
 featured: true
-publishDate: 000 Mo, 2022-00:02:00
+publishDate: Feb 28, 2022-00:02:00
 image: /assets/uploads/image.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
