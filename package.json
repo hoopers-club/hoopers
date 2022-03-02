@@ -19,12 +19,9 @@
 		"cheerio": "^1.0.0-rc.10",
 		"express": "^4.17.1",
 		"front-matter": "^4.0.2",
-		"json-schema": "^0.4.0",
 		"lottie-web": "^5.8.1",
 		"node-cron": "^3.0.0",
-		"node-fetch": "^2.6.7",
 		"path": "^0.12.7",
-		"postcss": "^7.0.36",
 		"puppeteer": "^13.4.1"
 	}
 }
