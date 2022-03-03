@@ -12,12 +12,12 @@
 	"devDependencies": {
 		"@astrojs/renderer-preact": "^0.2.1",
 		"@netlify/plugin-sitemap": "^0.8.1",
-		"astro": "^0.20.5"
+		"astro": "^0.20.12"
 	},
 	"dependencies": {
 		"axios": "^0.22.0",
 		"cheerio": "^1.0.0-rc.10",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"front-matter": "^4.0.2",
 		"lottie-web": "^5.8.1",
 		"node-cron": "^3.0.0",
