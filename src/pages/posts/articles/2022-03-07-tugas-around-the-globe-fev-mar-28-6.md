@@ -1,7 +1,8 @@
 ---
-title: Tugas Around The Globe (Fev/Mar. 28-6)
-subname: A presente semana fica marcada pelo regresso dos jogadores aos
-  respetivos clubes após a pausa das seleções.
+title: Estreia de Prey no 5 inicial na LebOro
+subname: >
+  Destaques para André Cruz, Diogo Brito, Jeremiah Wilson… e a estreia de Ruben
+  Prey!
 featured: true
 publishDate: Mar 07, 2022-12:03:02
 image: /assets/uploads/prey.jpeg
@@ -10,7 +11,7 @@ layout: ../../../Layout/single-article.astro
 ---
 A presente semana fica marcada pelo regresso dos jogadores aos respetivos clubes após a pausa das seleções. Portugal perdeu os dois jogos frente à França, contudo, **Rafael Lisboa, Diogo Brito e Sasa Borovnjak** mostraram-se os mais inconformados a defender a equipa das Quinas.
 
-Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua época a chegar ao fim. *What’s next para o internacional sub-20?* 👀
+Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua época a chegar ao fim. *What’s next para o internacional sub-20?* 👀
 
 **Rúben Prey** foi pela primeira vez jogador de 5 inicial na LEB Oro e tem vindo a ganhar os seus minutos no 2° nível do basquetebol espanhol, tendo apenas 17 anos!
 
