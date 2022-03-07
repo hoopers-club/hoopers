@@ -8,9 +8,9 @@ image: /assets/uploads/prey.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-A presente semana fica marcada pelo regresso dos jogadores aos respetivos clubes após a pausa das seleções. Portugal perdeu os dois jogos frente à França, contudo,  **Rafael Lisboa, Diogo Brito e Sasa Borovnjak** mostraram-se os mais inconformados a defender a equipa das Quinas.
+A presente semana fica marcada pelo regresso dos jogadores aos respetivos clubes após a pausa das seleções. Portugal perdeu os dois jogos frente à França, contudo, **Rafael Lisboa, Diogo Brito e Sasa Borovnjak** mostraram-se os mais inconformados a defender a equipa das Quinas.
 
-Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua época a chegar ao fim. What’s next para o internacional sub-20? 👀
+Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua época a chegar ao fim. *What’s next para o internacional sub-20?* 👀
 
 **Rúben Prey** foi pela primeira vez jogador de 5 inicial na LEB Oro e tem vindo a ganhar os seus minutos no 2° nível do basquetebol espanhol, tendo apenas 17 anos!
 
@@ -22,7 +22,9 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua é
 
 #### Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
-\- Não jogou esta semana.</br>
+\- Não jogou esta semana.
+
+</br>
 
 #### Rúben Prey (Joventut Badalona, Liga EBA e C.B Prat, LEB Oro- Espanha)
 
@@ -39,8 +41,6 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua é
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Final del partido! <br><br> <a href="https://twitter.com/CirculoGijon?ref_src=twsrc%5Etfw">@CirculoGijon</a> VS <a href="https://twitter.com/cbmoron?ref_src=twsrc%5Etfw">@cbmoron</a><br><br>🟢🟠🟢🟠⚪️🟠<a href="https://twitter.com/hashtag/VamosMiMoron?src=hash&amp;ref_src=twsrc%5Etfw">#VamosMiMoron</a> <a href="https://t.co/mYR2qLmNST">pic.twitter.com/mYR2qLmNST</a></p>&mdash; C.B. Morón (@cbmoron) <a href="https://twitter.com/cbmoron/status/1500211793528070145?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote> 
 
 </br>
-
-
 
 #### Candido Sá (C.B. Benicarlo, LEB Plata – Espanha):
 
@@ -85,6 +85,7 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêm a sua é
 #### Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
 \- Anotou 33 pontos, 12 ressaltos e 3 assistências na vitória frente ao Pallacanestro Nardo, por 83-79.\
+
 <blockquote class="twitter-tweet"><p lang="it" dir="ltr">Finale-thrilling ma la spunta Chiusi con merito su Nardò 🐂🏀<br>All’Estra Forum l’Umana passa 83-79 🔥<a href="https://twitter.com/hashtag/chiusibulls?src=hash&amp;ref_src=twsrc%5Etfw">#chiusibulls</a> <a href="https://twitter.com/hashtag/lastoriacontinua?src=hash&amp;ref_src=twsrc%5Etfw">#lastoriacontinua</a> <a href="https://twitter.com/hashtag/getready?src=hash&amp;ref_src=twsrc%5Etfw">#getready</a> <a href="https://twitter.com/hashtag/chiusinardo?src=hash&amp;ref_src=twsrc%5Etfw">#chiusinardo</a> <a href="https://t.co/fFggqz5Hfo">pic.twitter.com/fFggqz5Hfo</a></p>&mdash; San Giobbe Basket (@SanGiobbeBasket) <a href="https://twitter.com/SanGiobbeBasket/status/1500546993990553605?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote> 
 
 </br>
