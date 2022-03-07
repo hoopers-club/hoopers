@@ -1,7 +1,7 @@
 ---
 title: Inês e Luana em destaque
 subname: |
-  Duas finalistas: Inês Vieira e Luana Serranho em destaquen os Estados Unidos 
+  Duas finalistas: Inês Vieira e Luana Serranho em destaque nos Estados Unidos 
 featured: true
 publishDate: Mar 07, 2022-09:03:08
 image: /assets/uploads/utah_ines.jpeg
