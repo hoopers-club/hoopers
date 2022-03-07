@@ -189,7 +189,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 #### Ana Rita Antunes (Trinity Christian College, NAIA- Estados Unidos da América):
 
-* Não jogou esta semana.
+\- Não jogou esta semana.
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
 
