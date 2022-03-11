@@ -15,7 +15,7 @@ layout: ../../../Layout/single-article.astro
 
 <!--StartFragment-->
 
-O mote da nova iniciativa promovida pela startup portuguesa [Hoopers](https://hoopers.club/) é simples: “O campo da comunidade pode ser na tua cidade!”. Depois de mais de dez intervenções artísticas e desportivas realizadas por todo o país, a startup pretende arrancar a nova temporada de intervenções de forma diferente, procurando envolver a comunidade de jogadores, fãs e jogadores da modalidade na escolha da cidade que irá acolher o seu próximo campo.
+O mote da nova iniciativa promovida pela startup portuguesa [Hoopers](https://hoopers.club/) é simples: “O campo da comunidade pode ser na tua cidade!”. Depois de mais de dez intervenções artísticas e desportivas realizadas por todo o país, a startup pretende arrancar a nova temporada de intervenções de forma diferente, procurando envolver a comunidade de jogadores, fãs e entusiastas da modalidade na escolha da cidade que irá acolher o seu próximo campo.
 
 <!--EndFragment-->
 
@@ -48,5 +48,9 @@ André recorda que “no dia 1 de Abril do ano passado [“brincámos” com a c
 <!--StartFragment-->
 
 Recorde-se que já existem vários espaços deste género desenvolvidos pela startup portuguesa. Em Lisboa, alguns exemplos são o Chicago x Chelas - intervenção a cargo da dupla dos HalfStudio e participação especial do rapper Sam The Kid - ou os campos de 3x3 na Doca do Espanhol - intervenção a cargo do venezuelano Flix - mas existem outros exemplos espalhados pelo país, tais como o maior campo de basquetebol icónico da Europa em Braga ou uma homenagem com quase 2000m2 de intervenção artística aos desportistas da cidade do Barreiro, que assinalou os 500 anos do Município e foi executada pelo artista setubalense João Samina.
+
+
+
+**Redação:** Hoopers
 
 <!--EndFragment-->
