@@ -30,7 +30,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 ## Em terras de nuestras hermanas…   
 
-
+</br>
 
 #### Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):
 
@@ -62,7 +62,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 ## Pela restante Europa…     
 
-##  
+</br>
 
 #### Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):
 
@@ -76,7 +76,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 ## Estados Unidos da América dominados …    
 
-##  
+</br>
 
 #### Maria Carvalho (Utah Valley University, NCAA - Estados Unidos da América)
 
