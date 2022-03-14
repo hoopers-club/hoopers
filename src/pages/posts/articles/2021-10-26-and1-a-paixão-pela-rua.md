@@ -25,7 +25,7 @@ Depois de invadir a NBA, a AND1 protagonizou outra jogada de marketing genial no
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TA04S4yOA_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A AND1 acreditava tanto no potencial da sua “***mixtape***” que, no verão de 1999, um exemplar da “**AND1 Mixtape Vol. 1**” era entregue gratuitamente na compra de qualquer produto da marca. Em três semanas, mais de duzentas mil cópias foram distribuídas. Este sucesso rendeu à marca a possibilidade de celebrar contratos com mais alguns jogadores da NBA e , no ano 2000, **Kevin Garnett** e **Vince Carter** já utilizavam os produtos da AND1. Vince Carter, inclusivamente, utilizou o famoso modelo “**Tai Chi**” quando protagonizou  [uma das performances mais impressionantes de um Slam Dunk Contest da NBA.](https://www.hoopers.club/noticias/seis-jogos-memoraveis-para-ver-no-youtube) 
+A AND1 acreditava tanto no potencial da sua “***mixtape***” que, no verão de 1999, um exemplar da “**AND1 Mixtape Vol. 1**” era entregue gratuitamente na compra de qualquer produto da marca. Em três semanas, mais de duzentas mil cópias foram distribuídas. Este sucesso rendeu à marca a possibilidade de celebrar contratos com mais alguns jogadores da NBA e , no ano 2000, **Kevin Garnett** e **Vince Carter** já utilizavam os produtos da AND1. Vince Carter, inclusivamente, utilizou o famoso modelo “**Tai Chi**” quando protagonizou <u> [uma das performances mais impressionantes de um Slam Dunk Contest da NBA.](https://www.hoopers.club/noticias/seis-jogos-memoraveis-para-ver-no-youtube) </u>
 
 ![](/assets/uploads/and3.jpg)
 

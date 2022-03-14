@@ -1,14 +1,14 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
+
+
+let allPosts = Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
 import nbaportugal from'/nba.json'
 import slam from'/slam.json'
 import realgm from'/realgm.json'
 import ballislife from'/ballislife.json'
-
-
-let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
-
 
 
 ---

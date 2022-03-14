@@ -1,12 +1,13 @@
 ---
-import Bases from '../Layout/LayoutMenu.astro';
-import Courtlist from '../components/Courtlist.jsx';
+import Bases from '../Layout/LayoutMenu.astro'
+
+import Courtlist from '../components/Courtlist.jsx'
 
 
 
 let allCourts = Astro.fetchContent('./posts/courts/*.md');
-allCourts=allCourts.sort((a,b)=> b.position-a.position);
-//console.log(allCourts);
+allCourts=allCourts.sort((a,b)=> b.position-a.position)
+
 
 
 ---
@@ -23,88 +24,84 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 
 
 
-	<script>
-	const subtitle= document.querySelectorAll('.court-subtext');
+<script>
+	const subtitle= document.querySelectorAll('.court-subtext')
 
-	observer_court= new IntersectionObserver(entries=>{
-		entries.forEach(entry => {
+		observer_court= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
   
-			if (entry.intersectionRatio>0) {
-				entry.target.style.animation=`bounce-in-right 1s forwards`;
-			}
-			else {
-				entry.target.style.animation=`none`;
-			}
-		});
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`bounce-in-right 1s forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
 
-	});
+})
 
 
-	subtitle.forEach(right => {
-  		observer_court.observe(right);
-	});
+subtitle.forEach(right => {
+  observer_court.observe(right)
+});
 
-	const main= document.querySelectorAll('.court-headline');
+	const main= document.querySelectorAll('.court-headline')
 
-	observer_countmain= new IntersectionObserver(entries=>{
-		entries.forEach(entry => {
+		observer_countmain= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
   
-			if (entry.intersectionRatio>0) {
-				entry.target.style.animation=`bounce-in-left 1s forwards`;
-			}
-			else {
-				entry.target.style.animation=`none`;
-			}
-		});
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`bounce-in-left 1s forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
 
-	});
-
-
-	main.forEach(right => {
-  		observer_countmain.observe(right);
-	});
+})
 
 
-	const left= document.querySelectorAll('.left');
+main.forEach(right => {
+  observer_countmain.observe(right)
+});
 
-	observer_countleft= new IntersectionObserver(entries=>{
-		entries.forEach(entry => {
+
+	const left= document.querySelectorAll('.left')
+
+		observer_countleft= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
   
-			if (entry.intersectionRatio>0) {
-				entry.target.style.animation=`slide-in-elliptic-left-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
-			}
-			else {
-				entry.target.style.animation=`none`;
-			}
-		});
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`slide-in-elliptic-left-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
 
-	});
+})
 
 
-	left.forEach(right => {
-  		observer_countleft.observe(right);
-	});
+left.forEach(right => {
+  observer_countleft.observe(right)
+});
 
-	const right= document.querySelectorAll('.right');
+	const right= document.querySelectorAll('.right')
 
-	observer_countright= new IntersectionObserver(entries=>{
-		entries.forEach(entry => {
+		observer_countright= new IntersectionObserver(entries=>{
+entries.forEach(entry => {
   
-			if (entry.intersectionRatio>0) {
-				entry.target.style.animation=`slide-in-elliptic-right-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
-			}
-			else {
-				entry.target.style.animation=`none`;
-			}
-		});
+	if (entry.intersectionRatio>0) {
+		entry.target.style.animation=`slide-in-elliptic-right-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards`;
+	}else{
+		entry.target.style.animation=`none`;
+	}
+})
 
-	});
-
-
-	right.forEach(right => {
-  		observer_countright.observe(right);
-	});
+})
 
 
-	</script>
+right.forEach(right => {
+  observer_countright.observe(right)
+});
+
+
+</script>
 </Bases>

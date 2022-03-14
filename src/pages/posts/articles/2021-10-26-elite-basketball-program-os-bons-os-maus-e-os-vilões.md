@@ -16,7 +16,9 @@ Em 2012, o **Nuno Monteiro**, na altura a jogar pela Física de Torres Vedras, j
 
 ![Créditos: Elite Basketball Program / Miguel Catita](/assets/uploads/elite_01.jpeg "Créditos: Elite Basketball Program / Miguel Catita")
 
+Créditos: Elite Basketball Program / Miguel Catita
 
+\
 Numa fase inicial, trabalhámos apenas com pessoas que pertenciam ao nosso grupo de amigos, não tínhamos grande alcance, muito menos tínhamos tração com os atletas, isto numa altura que a maioria dos atletas de alto nível pouco ou nada faziam nas férias. Na edição de 2012, os dias de trabalho eram no mínimo interessantes, consistiam (não só mas também) em levar os discos, halteres e barras para o campo num carrinho de mão gigante, trabalhar tração com cordas das obras e na destruição de inúmeros elásticos impróprios para treino.
 
 Este ano de adaptação, com alguma surpresa nossa, acabou por ser o ano da 1ª explosão a nível de reconhecimento com o prémio de MVP do **Arnette Hallman** no final da época 2012/2013. A feliz coincidência de, após o verão em que ele mais trabalhou, ter encontrado o prof. Norberto Alves como treinador, apostando nele sem reservas, fez a nossa credibilidade crescer.
@@ -30,6 +32,8 @@ Ver treinadores jovens que connosco trabalham consistentemente a crescer e a con
 Sempre nos orgulhámos por tentar fazer as coisas da forma mais correta possível, e se pecamos por alguma coisa, é por atribuirmos muito mais importância ao treino propriamente dito do que à publicitação do mesmo. Esta nossa identidade, por um lado não nos permite seguirmos 1 milhão de pessoas para nos seguirem de volta, mas permite-nos receber equipas de universidades americanas (femininas ou masculinos) de 1ª divisão (inclusive equipas disputaram o **March Madness**) e competir 16 jogos com estas de igual para igual nos últimos dois verões pré-COVID. Passando a mensagem aos nossos jovens jogadores que não interessa de onde viemos mas sim, para onde vamos.
 
 ![Créditos: Elite Basketball Program / Miguel Catita](/assets/uploads/elite_02.jpeg "Créditos: Elite Basketball Program / Miguel Catita")
+
+Créditos: Elite Basketball Program / Miguel Catita
 
 
 
