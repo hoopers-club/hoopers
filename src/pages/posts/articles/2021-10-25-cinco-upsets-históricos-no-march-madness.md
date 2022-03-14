@@ -54,6 +54,6 @@ Nunca um 16ª seed tinha vencido um 1ª seed na primeira ronda. Mas em 2018 essa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SuHVvSsNY2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Nós já completámos o nosso bracket  **(junta-te à nossa competição**, ainda vais a tempo de participar)  e colocámos os **Cleveland State Vikings** de **Hugo Ferreira** e os **Utah State Aggies** de **Neemias Queta** a causarem surpresa na 1ª ronda!
+Nós já completámos o nosso bracket <u> **(junta-te à nossa competição**, ainda vais a tempo de participar) </u> e colocámos os **Cleveland State Vikings** de **Hugo Ferreira** e os **Utah State Aggies** de **Neemias Queta** a causarem surpresa na 1ª ronda!
 
 Porque também acreditamos em *Cinderella Stories* das equipas dos nossos portugueses!

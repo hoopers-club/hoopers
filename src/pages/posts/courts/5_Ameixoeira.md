@@ -24,13 +24,13 @@ leftimage:
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/2.jpg
   - /assets/courts/Our%20Courts%20Imagens/5_Ameixoeira/Galeria%20(Esquerda)/3.jpg
 ---
-The new courts are located next to the Santa Clara’s municipal swimming pool, in an area that already includes a children's playground and a skate park. <strong>Hoopers</strong>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the Santa Clara Parish Council are responsible for the project. The artistic intervention is in charge of <b>[Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt)</b>, the duo of urban artists whose identity is centered on patterns, abstract shapes and bold colors.
+The new courts are located next to the Santa Clara’s municipal swimming pool, in an area that already includes a children's playground and a skate park. <strong>Hoopers</strong>, a basketball community platform, the Galeria de Arte Urbana (Lisbon City Council) and the Santa Clara Parish Council are responsible for the project. The artistic intervention is in charge of <u><b>[Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt)</u></b>, the duo of urban artists whose identity is centered on patterns, abstract shapes and bold colors.
 
-
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YNnwq_nykA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+</br>
 
 This is the country's first exclusive iconic court for mini basketball and it aims to bring kids closer to basketball. This is also the first Hoopers project fully dedicated to the little ones and the startup will continue to develop initiatives for children - the <b>“Little Hoopers”</b>.
 
@@ -38,7 +38,7 @@ This is the country's first exclusive iconic court for mini basketball and it ai
 
 “Inside the community we are building, we cannot forget about the children who are the future of our community. We want to connect kids with the sport and allow them to have fun while playing it with their families and friends”, explains <b>André Costa</b>, co-founder of Hoopers.
 
-
+</br>
 
 “We have been doing several projects for a younger audience, but this was the first time that we were able to put our work on a sports floor.  We are very proud of being able to create a new space for children, giving them vibrant colors and bringing them closer to sport and fun”, refer Francisco and Meggie from Los Pepes.
 

@@ -11,7 +11,7 @@ layout: ../../../Layout/single-article.astro
 ---
 Faltavam 46 segundos para o fim da partida entre os **Indiana Pacers** e os **Detroit Pistons** quando **Ben Wallace** sofreu aquela que seria uma das faltas mais recordadas na história da **NBA**.
 
-A jogada entre Wallace e **Ron Artest** provocou uma violenta luta que envolveu vários atletas e que se alastrou por todo o Palácio de Auburn Hill em Detroit. Designada por  **[“Malice at the Palace”](https://en.wikipedia.org/wiki/Pacers%E2%80%93Pistons_brawl)**   este episódio de violência - muito conhecido entre os apaixonados do Basket e da NBA - acaba de ganhar mais um capítulo.
+A jogada entre Wallace e **Ron Artest** provocou uma violenta luta que envolveu vários atletas e que se alastrou por todo o Palácio de Auburn Hill em Detroit. Designada por <u> **[“Malice at the Palace”](https://en.wikipedia.org/wiki/Pacers%E2%80%93Pistons_brawl)**  </u> este episódio de violência - muito conhecido entre os apaixonados do Basket e da NBA - acaba de ganhar mais um capítulo.
 
 Chegou à Netflix a nova mini-série **“Untold: Malice at the Palace”**, ou em português “**Histórias do Desporto: Noite de Incidentes na NBA”**, que traz todos os detalhes sobre o que sucedeu a 19 de novembro de 2004.
 

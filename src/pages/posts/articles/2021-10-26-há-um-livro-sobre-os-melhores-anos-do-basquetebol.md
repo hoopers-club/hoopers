@@ -25,4 +25,4 @@ Estas histórias são contadas na primeira pessoa pelas 20 pessoas, que deram o 
 
 É uma viagem ao passado e o recordar de algumas referências - tal como temos feito também no nosso [Podcast 1x1 by Hoopers](https://open.spotify.com/show/0hhUbVNzpsyUT7dIlFxL1a) - e episódios que marcaram a história do Basquetebol Português. É lembrar a descentralização de títulos, com os clubes mais improváveis a viverem as suas tardes e noites de glória, os directos na TV e até na rádio, ou o culminar de um sonho lindo de se viver com a selecção a colocar-se entre as nove melhores da europa na “geração de ouro” do Europeu 2007. Esta é a história das temporadas de sucesso da primeira modalidade extra-futebol a projectar em Portugal uma Liga Profissional com relatos dos seus intervenientes.
 
-E a melhor parte: está disponível gratuitamente na página [“Os Melhores Anos”](http://osmelhoresanos.pt/).
+E a melhor parte: está disponível gratuitamente na página <u>[“Os Melhores Anos”](http://osmelhoresanos.pt/)</u>.

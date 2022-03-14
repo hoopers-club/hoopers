@@ -14,9 +14,9 @@ let frontpageProduct = Astro.fetchContent('../pages/posts/frontpage/*.md');
 				<div class="content-right">
 					<div class="title ">{frontpageProduct[0]?.productName}</div>
 					<div class="price ">€{frontpageProduct[0]?.productPrice}</div>
-						
-					<p set:html={frontpageProduct[0]?.productDescription} class="text fonte-creditos ">
-					</p>
+					<div class="text fonte-creditos ">
+						{frontpageProduct[0]?.productDescription}
+					</div>
 					
 						<div class="buttons condensed" ><a href={frontpageProduct[0]?.productLink} target="_blank">SHOP NOW</a></div>
 					

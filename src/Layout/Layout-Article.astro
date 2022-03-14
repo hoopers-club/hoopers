@@ -1,10 +1,23 @@
 ---
+// Component Imports
 
 import Menus from '../components/Menu.jsx'
 import Search from '../components/Search.jsx'
 import Footer from '../components/Footer.astro'
 
 
+
+// You can import components from any supported Framework here!
+
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
 
 ---
 
@@ -63,7 +76,7 @@ body {
 	<link rel="manifest" href="https://www.hoopers.club/assets/manifest.json" />
 
 
-    <link rel="stylesheet" href="/src/styles/css/main.scss">
+    <link rel="stylesheet" href="{Astro.resolve('../styles/css/main.css')}">
     
  
 
