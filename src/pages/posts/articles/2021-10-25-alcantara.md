@@ -8,7 +8,7 @@ author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 
-Os espaços no Porto de Lisboa que foram um lugar histórico de torneios de 3x3 durante o final dos anos 90 e princípio de 2000, voltaram a ganhar nova vida e prometem afirmar-se como um local de eleição para os jogadores de basquetebol de rua. O espaço situado na Doca do Espanhol recebeu uma intervenção do <u> **[artista urbano Flix](https://www.instagram.com/flixrobotico/)** </u> numa iniciativa da Administração do Porto de Lisboa e da Hoopers.
+Os espaços no Porto de Lisboa que foram um lugar histórico de torneios de 3x3 durante o final dos anos 90 e princípio de 2000, voltaram a ganhar nova vida e prometem afirmar-se como um local de eleição para os jogadores de basquetebol de rua. O espaço situado na Doca do Espanhol recebeu uma intervenção do  **[artista urbano Flix](https://www.instagram.com/flixrobotico/)**  numa iniciativa da Administração do Porto de Lisboa e da Hoopers.
 
 ![Créditos: Hoopers | Malagueta](/assets/uploads/4_hoopers_apl-créditos-hoopers-malagueta-.jpg 'Créditos: Hoopers | Malagueta')
 
@@ -38,4 +38,4 @@ O espaço já está aberto ao público e além dos campos de basquetebol irá re
 
 _Créditos: Hoopers | Malagueta_
 
-Este projeto contou com o apoio da <u> **[Empark](https://www.empark.com/pt/pt/)** </u>, da <u> **[Federação Portuguesa de Ténis de Mesa](https://fptm.pt/)**</u>, da <u> **[Galeria de Arte Urbana da Câmara Municipal de Lisboa](http://gau.cm-lisboa.pt/galeria.html)**</u>, da <u> **[JOPINTO](https://www.facebook.com/tintasjopinto/)**</u>, da <u> **[Robbialac](https://tintasrobbialac.pt/)**</u>, da <u> **[Sport Design](http://www.sport-design.pt/)** </u> e da <u> **[Social Innovation Sports](https://www.socialinnovationsports.org/)**</u>.
+Este projeto contou com o apoio da  **[Empark](https://www.empark.com/pt/pt/)** , da  **[Federação Portuguesa de Ténis de Mesa](https://fptm.pt/)**, da  **[Galeria de Arte Urbana da Câmara Municipal de Lisboa](http://gau.cm-lisboa.pt/galeria.html)**, da  **[JOPINTO](https://www.facebook.com/tintasjopinto/)**, da  **[Robbialac](https://tintasrobbialac.pt/)**, da  **[Sport Design](http://www.sport-design.pt/)**  e da  **[Social Innovation Sports](https://www.socialinnovationsports.org/)**.

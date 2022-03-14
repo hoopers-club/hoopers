@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 
 const Court = ({ first, court, detail, setDetail }) => {
 	const [detailOpened, setDetailOpened] = useState(false);
-
+	//console.log(court);
 	const handleDetail = () => {
 		setDetailOpened(!detailOpened);
 		setDetail(!detail);
@@ -16,7 +16,6 @@ const Court = ({ first, court, detail, setDetail }) => {
 	useEffect(() => {}, [detail, detailOpened]);
 	return (
 		<div>
-			{/* {!detail && ( */}
 			<div
 				// id='#court'
 				className='court notranslate'
@@ -27,7 +26,8 @@ const Court = ({ first, court, detail, setDetail }) => {
 					backgroundSize: 'cover',
 					backgroundRepeat: 'no-repeat',
 				}}
-				onClick={handleDetail}>
+				onClick={handleDetail}
+			>
 				<img
 					className='leftseparator left'
 					src='/assets/courts/courtseparator.svg'
@@ -39,7 +39,7 @@ const Court = ({ first, court, detail, setDetail }) => {
 				</div>
 				<img className='right' src='/assets/courts/courtseparator.svg' alt='' />
 			</div>
-			{/* )} */}
+
 			{detailOpened ? (
 				<CourtDetail
 					setdetail={setDetail}

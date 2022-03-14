@@ -10,7 +10,7 @@ app.use(cors());
 /* -------------------------------------------------------------------------- */
 /*                                 new section                                */
 /* -------------------------------------------------------------------------- */
-const data = [];
+let data = [];
 const nbaget = async () => {
 	try {
 		const nbaurl = 'https://www.nbaportugal.com/category/artigos/';

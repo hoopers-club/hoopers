@@ -1,6 +1,6 @@
 ---
-import Modal from '../components/Modal.jsx'
-import GalleryItem from '../components/GalleryItem.jsx'
+
+import GalleryItem from '../components/GalleryItem.jsx';
 
 let gallerys = Astro.fetchContent('../pages/posts/summergallery/*.md');
 gallerys=gallerys.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());

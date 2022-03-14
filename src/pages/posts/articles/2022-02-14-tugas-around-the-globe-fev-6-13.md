@@ -63,7 +63,7 @@ Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
 
 \- Marcou 4 pontos, 6 ressaltos, 2 assistências e 3 roubos de bola em 23:13 minutos jogados na derrota frente ao Obradoiro Silleda, por 75-68. 
 
-</br>
+
 
 # **Em França fala-se português…**
 
@@ -74,7 +74,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço da Lusitânia.
 
-</br>
+
 
 # **Pela restante Europa…**
 
@@ -88,7 +88,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71.
 
-</br>
+
 
 # **Nos States…**
 

@@ -1,6 +1,6 @@
 ---
 let games = Astro.fetchContent('../pages/posts/summergames/*.md');
-games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
+games=games.sort((a,b)=>new Date(a.time).valueOf()-new Date(b.time).valueOf());
 games=games.filter(game=>new Date()<new Date(game.time))
 
 /*console.log(new Date(games[0]?.time),'fulltime')

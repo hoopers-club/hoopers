@@ -14,8 +14,8 @@ let frontpage = Astro.fetchContent('../pages/posts/frontpage/*.md');
 					<img class="" src={frontpage[0]?.courtImage} alt="" />
 				</div>
 				<div class="content-right">
-					<div class="text fonte-creditos" dangerouslySetInnerHTML={{ __html: frontpage[0]?.courtDescription }}>
-					{frontpage[0]?.courtDescription}
+					<div set:html={frontpage[0]?.courtDescription} class="text fonte-creditos">
+						
 					</div>
 					<div class="buttons condensed" onclick="location.href='/courts'">Our <span class="notranslate">Courts</span></div>
 				</div>

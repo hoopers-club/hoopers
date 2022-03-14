@@ -7,23 +7,22 @@
     <div class="right"><button class="buttons accept">agree</button></div>
 </div>
 
-<script type="text/javascript">
+<script>
 
 let cookiecontainer=document.querySelector(".cookie-container");
 let acceptbtn=document.querySelector(".buttons.accept");
 
-acceptbtn.addEventListener("click",function(){
+acceptbtn.addEventListener("click", function() {
     cookiecontainer.classList.remove("active");
     localStorage.setItem("cookiesAccepted","yes");
-   
-
-});
+}
+);
 
 
 setTimeout(function(){
     if(localStorage.getItem("cookiesAccepted")!=="yes"){
         cookiecontainer.classList.add("active");
     }
-},5000)
+},5000);
 
 </script>
