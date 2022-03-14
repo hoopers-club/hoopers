@@ -1,0 +1,13 @@
+<svg id="Botão_Compartilhar" data-name="Botão Compartilhar" xmlns="http://www.w3.org/2000/svg" width="86.633" height="78.072" viewBox="0 0 86.633 78.072">
+  <g id="Rectangle_178" data-name="Rectangle 178" transform="translate(-944.795 -1741.965)">
+    <rect id="Rectangle_198" data-name="Rectangle 198" width="86.633" height="78.072" transform="translate(944.795 1741.965)"/>
+    <rect id="Rectangle_199" data-name="Rectangle 199" width="85.905" height="77.342" transform="translate(945.159 1742.329)"/>
+  </g>
+  <g id="Icon_feather-share-2" data-name="Icon feather-share-2" transform="translate(-944.795 -1741.965)">
+    <path id="Path_67" data-name="Path 67" d="M1006.724,1763.455a7.52,7.52,0,1,1-7.52-7.52A7.519,7.519,0,0,1,1006.724,1763.455Z" fill="none" stroke="#d48832" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.013"/>
+    <path id="Path_68" data-name="Path 68" d="M976.645,1781a7.52,7.52,0,1,1-7.52-7.52A7.519,7.519,0,0,1,976.645,1781Z" fill="none" stroke="#d48832" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.013"/>
+    <path id="Path_69" data-name="Path 69" d="M1006.724,1798.547a7.52,7.52,0,1,1-7.52-7.52h0A7.52,7.52,0,0,1,1006.724,1798.547Z" fill="none" stroke="#d48832" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.013"/>
+    <path id="Path_70" data-name="Path 70" d="M975.617,1784.786l17.12,9.976" fill="none" stroke="#d48832" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.013"/>
+    <path id="Path_71" data-name="Path 71" d="M992.712,1767.24l-17.095,9.976" fill="none" stroke="#d48832" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.013"/>
+  </g>
+</svg>

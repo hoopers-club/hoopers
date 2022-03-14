@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.939" height="69.939" viewBox="0 0 69.939 69.939">
+  <g id="Play_Button" data-name="Play Button" transform="translate(1 1)">
+    <path id="Icon_awesome-play-circle" data-name="Icon awesome-play-circle" d="M34.532.562A33.97,33.97,0,1,0,68.5,34.532,33.964,33.964,0,0,0,34.532.562Z" transform="translate(-0.563 -0.563)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Icon_awesome-play-circle-2" data-name="Icon awesome-play-circle" d="M40.247,29.822,16.14,43.656a3.293,3.293,0,0,1-4.89-2.876V12.289a3.3,3.3,0,0,1,4.89-2.876L40.247,24.069A3.3,3.3,0,0,1,40.247,29.822Z" transform="translate(11.153 7.434)" fill="#fff"/>
+  </g>
+</svg>
