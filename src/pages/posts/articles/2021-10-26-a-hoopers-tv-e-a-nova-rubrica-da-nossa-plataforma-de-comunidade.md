@@ -13,7 +13,7 @@ A **Hoopers** é uma plataforma de comunidade para jogadores e fãs de Basqueteb
 
 Hoje lança uma nova rubrica - a **Hoopers TV** - para continuar a servir a sua comunidade, através de conteúdos exclusivos e únicos, que personificam e colocam os protagonistas do jogo no centro das atenções, proporcionando-lhes uma ferramenta de comunicação e exposição à comunidade.
 
-Este primeiro episódio é baseado no artigo <u>“[Mais uma dança para os ‘bad boys’ de Alcântara](https://www.hoopers.club/noticias/mais-uma-danca-para-os-bad-boys-de-alcantara)”</u> e que marca o regresso do histórico clube, Atlético Clube de Portugal, às competições nacionais no Basquetebol português, e que já pode ser visualizado abaixo - e também no canal de youtube da Hoopers:
+Este primeiro episódio é baseado no artigo “[Mais uma dança para os ‘bad boys’ de Alcântara](https://www.hoopers.club/noticias/mais-uma-danca-para-os-bad-boys-de-alcantara)” e que marca o regresso do histórico clube, Atlético Clube de Portugal, às competições nacionais no Basquetebol português, e que já pode ser visualizado abaixo - e também no canal de youtube da Hoopers:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kb7HtSwWAeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

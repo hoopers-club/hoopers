@@ -1,9 +1,9 @@
 ---
 // Component Imports
 
-import Menus from '../components/Menu.jsx'
-import Search from '../components/Search.jsx'
-import Footer from '../components/Footer.astro'
+import Menus from '../components/Menu.jsx';
+import Search from '../components/Search.jsx';
+import Footer from '../components/Footer.astro';
 
 
 
@@ -76,7 +76,7 @@ body {
 	<link rel="manifest" href="https://www.hoopers.club/assets/manifest.json" />
 
 
-    <link rel="stylesheet" href="{Astro.resolve('../styles/css/main.css')}">
+    <link rel="stylesheet" href="/src/styles/css/main.scss">
     
  
 
@@ -130,172 +130,162 @@ body {
 
 
            <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
+				if (window.netlifyIdentity) {
+					window.netlifyIdentity.on("init", user => {
+					if (!user) {
+						window.netlifyIdentity.on("login", () => {
+						document.location.href = "/admin/";
+						});
+					}
+					});
+				}
 
 
   	
-const right_i= document.querySelectorAll('.right-i')
+			const right_i= document.querySelectorAll('.right-i');
 
 
-observer= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+			observer= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-}
-);
+					if (entry.intersectionRatio>0) {
+						entry.target.style.animation=`left 1s 0.5s forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}	
+				});
+			}
+			);
 
 
 
 
-	const left_i= document.querySelectorAll('.left-i')
+			const left_i= document.querySelectorAll('.left-i');
 
-		observer_article= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+			observer_article= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-})
+					if ( entry.intersectionRatio>0) {
+						entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}
+				});
+			});
 
-	const down_i= document.querySelectorAll('.down-i')
+			const down_i= document.querySelectorAll('.down-i');
 
-		observer_= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+			observer_= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-})
+					if (entry.intersectionRatio>0) {
+						entry.target.style.animation=`down 2s ${entry.target.dataset.delay?entry.target.dataset.delay:'0s'} forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}
+				});
+			});
 
-right_i.forEach(right => {
-  observer.observe(right)
-});
-
-
-
-	left_i.forEach(left => {
-  observer_article.observe(left)
-});
-
-	down_i.forEach(down => {
-  observer_.observe(down)
-});
+			right_i.forEach(right => {
+  				observer.observe(right);
+			});
 
 
 
-const centerright_i= document.querySelectorAll('.centerright-i')
+			left_i.forEach(left => {
+  				observer_article.observe(left);
+			});
+
+			down_i.forEach(down => {
+  				observer_.observe(down);
+			});
 
 
-observercenter= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+
+			const centerright_i= document.querySelectorAll('.centerright-i');
+
+
+			observercenter= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`left 1s  forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-}
-);
+					if (entry.intersectionRatio>0) {
+						entry.target.style.animation=`left 1s  forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}
+				});
+			}
+			);
 
 
 
 
-	const centerleft_i= document.querySelectorAll('.centerleft-i')
+			const centerleft_i= document.querySelectorAll('.centerleft-i');
 
-		observer_articlecenter= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+			observer_articlecenter= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if ( entry.intersectionRatio>0) {
-		entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-})
+					if ( entry.intersectionRatio>0) {
+						entry.target.style.animation=`right 1s 0.5s forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}
+				});
+			});
 
-	const centerdown_i= document.querySelectorAll('.centerdown-i')
+			const centerdown_i= document.querySelectorAll('.centerdown-i');
 
-		observer_center= new IntersectionObserver(entries=>{
-entries.forEach(entry => {
+			observer_center= new IntersectionObserver(entries=>{
+				entries.forEach(entry => {
   
-	if (entry.intersectionRatio>0) {
-		entry.target.style.animation=`down 2s forwards ease-out`;
-	}else{
-		entry.target.style.animation=`none`;
-	}
-})
-})
+					if (entry.intersectionRatio>0) {
+						entry.target.style.animation=`down 2s forwards ease-out`;
+					}else{
+						entry.target.style.animation=`none`;
+					}
+				});
+			});
 
 
-centerright_i.forEach(right => {
-  observercenter.observe(right)
-});
+			centerright_i.forEach(right => {
+  				observercenter.observe(right);
+			});
 
 
 
-	centerleft_i.forEach(left => {
-  observer_articlecenter.observe(left)
-});
+			centerleft_i.forEach(left => {
+  				observer_articlecenter.observe(left);
+			});
 
-	centerdown_i.forEach(down => {
-  observer_center.observe(down)
-});
+			centerdown_i.forEach(down => {
+  				observer_center.observe(down);
+			});
 
 
-const test=[ {
-    title: 'Stephen A. Smith: “Lonzo Ball deve ir L.A. e LaVine para a costa Este”',
-    url: 'https://www.nbaportugal.com/stephen-a-smith-lonzo-ball-deve-ir-l-a-e-lavine-para-a-costa-este/',
-    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-24_084031.png'
-  },
-  {
-    title: 'Bol Bol esteve para ser trocado por Lonzo?',
-    url: 'https://www.nbaportugal.com/bol-bol-esteve-para-ser-trocado-por-lonzo/',
-    image: 'https://www.nbaportugal.com/wp-content/uploads/2021/03/imagem_2021-03-23_150720-800x445.png'
-  }]
-
+			
 </script>
 
 <style >
-			#goog-gt-tt {
-				display: none !important;
-			}
-			.goog-te-banner-frame {
-				display: none !important;
-			}
-			.goog-te-menu-value:hover {
-				text-decoration: none !important;
-			}
-			.goog-text-highlight {
-				background-color: transparent !important;
-				box-shadow: none !important;
-			}
-			body {
-				top: 0 !important;
-			}
-			#google_translate_element2 {
-				display: none !important;
-			}
-		</style>
+	#goog-gt-tt {
+		display: none !important;
+	}
+	.goog-te-banner-frame {
+		display: none !important;
+	}
+	.goog-te-menu-value:hover {
+		text-decoration: none !important;
+	}
+	.goog-text-highlight {
+		background-color: transparent !important;
+		box-shadow: none !important;
+	}
+	body {
+		top: 0 !important;
+	}
+	#google_translate_element2 {
+		display: none !important;
+	}
+</style>
 
 		<div id="google_translate_element2"></div>
 		<script defer>

@@ -1,0 +1,8 @@
+---
+dropname: "Los Pepes NFT 02"
+mainphoto: /assets/uploads/los_pepes.jpg
+invertedphoto: /assets/uploads/los_pepes_inverted.jpg
+publishDate: 2021 12 19 12:12:3
+hyperlink: https://opensea.io/
+featured: true
+---

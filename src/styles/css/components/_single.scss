@@ -16,7 +16,11 @@
 
 	flex-direction: column;
 	p {
-		padding: 2em 15%;
+		padding: 1.5em 15%;
+		a {
+			text-decoration: underline;
+		}
+		
 	}
 	.quoted {
 		font-style: italic;
