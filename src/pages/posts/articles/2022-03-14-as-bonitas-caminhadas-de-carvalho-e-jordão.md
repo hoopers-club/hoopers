@@ -60,7 +60,9 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Anotou 4 pontos, 3 ressaltos e 1 assistência em 22 minutos jogados, na derrota do Córdoba frente ao Adareva, por 74-61.
 
-## Pela restante Europa…
+## Pela restante Europa…     
+
+##  
 
 #### Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):
 
@@ -72,7 +74,9 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Não jogou esta semana.
 
-## Estados Unidos da América dominados …
+## Estados Unidos da América dominados …    
+
+##  
 
 #### Maria Carvalho (Utah Valley University, NCAA - Estados Unidos da América)
 
