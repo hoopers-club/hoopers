@@ -82,31 +82,21 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This floater by Maria gives the Wolverines a 10-0 start in the second quarter!<a href="https://twitter.com/hashtag/GoUVU?src=hash&amp;ref_src=twsrc%5Etfw">#GoUVU</a> <a href="https://twitter.com/hashtag/UVU?src=hash&amp;ref_src=twsrc%5Etfw">#UVU</a> <a href="https://twitter.com/hashtag/WACVegas?src=hash&amp;ref_src=twsrc%5Etfw">#WACVegas</a> <a href="https://t.co/UwVPOCikGX">pic.twitter.com/UwVPOCikGX</a></p>&mdash; UVU Women&#39;s Basketball (@UVUwbb) <a href="https://twitter.com/UVUwbb/status/1502381047094202369?ref_src=twsrc%5Etfw">March 11, 2022</a></blockquote> 
 
-
-
 #### Luana Serranho (Campbell WBB, NCAA - Estados Unidos da América)
 
 \- Não jogou esta semana.
-
-
 
 #### Marta Vargas (Rhode Island, NCAA - Estados Unidos da América)
 
 \- Não jogou esta semana.
 
-
-
 #### Leonor Paisana (Winthrop, NCAA - Estados Unidos Da América)
 
 \- Não jogou esta semana.
 
-
-
 #### Inês Vieira (Utah, NCAA– Estados Unidos da América):
 
 \- Não jogou esta semana.
-
-
 
 #### Beatriz Jordão (Iowa State, NCAA– Estados Unidos da América):
 
@@ -116,45 +106,31 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bigjordan13?ref_src=twsrc%5Etfw">@bigjordan13</a> FOR THREE!<br><br>She connects on the first 3-point make of her career in OT.<br><br>🌪️🏀🌪️ <a href="https://t.co/4IlB9H5Yg2">pic.twitter.com/4IlB9H5Yg2</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1502772833461673984?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> 
 
-
-
 #### Sara Guerreiro (South Florida, NCAA– Estados Unidos da América):
 
 \- Jogou 5 minutos, na vitória sobre Memphis, por 63-53.
 
 \- Não entrou em campo na vitória frente a Houston, por 50-58 nem na derrota frente a UCF, por 45-53.
 
-
-
 #### Teresa Faustino (Western Kentucky, NCAA– Estados Unidos da América):
 
 \- Registou 3 pontos, 5  ressaltos e 1 roubo de bola em 27 minutos na derrota frente a UAB, por 74-62.
-
-
 
 #### Tess Santos  (Denver, NCAA – Estados Unidos da América):
 
 \- Não jogou esta semana.
 
-
-
 #### Eliana Cabral  (UTEP, NCAA – Estados Unidos da América):
 
 \- Anotou 3 pontos, 1 assistência e 1 roubo de bola em 8 minutos jogados na derrota sobre UTSA, por 58-57.
-
-
 
 #### Mariana Pereira (MSU Denver WBB, NCAA D2 - Estados Unidos da América):
 
 \- Marcou 2 pontos, 1 assistência e 1 roubo de bola em 15 minutos, na derrota frente a Texas Women’s, em overtime por 90-83.
 
-
-
 #### Ana Rita Antunes (Trinity Christian College, NAIA- Estados Unidos da América):
 
 \- Não jogou esta semana.
-
-
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para **info@hoopers.club**
 
