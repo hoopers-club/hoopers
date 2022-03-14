@@ -1,7 +1,7 @@
 ---
 title: Domínio português em terras de nuestros hermanos
 subname: Destaques para os jovens Costa, Prey e Seixas, mas também para Brito e Sá
-featured: false
+featured: true
 publishDate: Mar 14, 2022-11:03:14
 image: /assets/uploads/diogo_brito1.jpeg
 author: Hoopers
