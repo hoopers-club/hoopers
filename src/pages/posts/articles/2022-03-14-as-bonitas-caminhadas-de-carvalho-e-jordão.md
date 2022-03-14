@@ -28,7 +28,9 @@ Em termos competitivos, a sua equipa perdeu esta sexta-feira frente a Stephen F.
 
 Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silva** e **Joana Ferreira** são os destaques da semana, a par de **Lavínia** que continua a brilhar em terras nórdicas, desempenhando um papel fundamental no Njardvik, nos dois lados do campo. 
 
-## Em terras de nuestras hermanas…
+## Em terras de nuestras hermanas…   
+
+
 
 #### Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):
 
