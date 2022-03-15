@@ -26,5 +26,4 @@ Num conjunto onde três jogadores estrangeiros **(Delaney Blaylock, Nakye Sander
 
 Escrito por: **Martim Figueiredo**
 
-\
  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
