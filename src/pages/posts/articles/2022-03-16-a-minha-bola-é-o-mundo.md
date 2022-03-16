@@ -36,7 +36,7 @@ Krayy pensou nos pormenores todos: desde quem envolver no projeto, mas também n
 
 Na Hoopers estamos cá pela comunidade e vermos estes projetos a nascerem é verdadeiramente inspirador. Estamos muito orgulhosos e felizes por termos contribuído, dentro do possível, para tudo isto ter sido possível. A nossa porta está sempre aberta.  
 
-**Obrigado Kravy, GridLocks e E.se. pelo vosso trabalho e por nos inspirarem também!**
+**Obrigado Krayy, GridLocks e E.se. pelo vosso trabalho e por nos inspirarem também!**
 
 A nossa bola é o mundo!
 
