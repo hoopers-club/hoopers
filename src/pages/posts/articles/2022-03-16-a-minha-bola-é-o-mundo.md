@@ -7,7 +7,7 @@ image: /assets/uploads/275841392_442858637580691_5376525647980064219_n.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-O campo localizada nas **Docas de Alcântara**, resultante de uma iniciativa promovida pela **Hoopers** e pela **Administração do Porto de Lisboa** (APL) e com arte de **Flix** - **foi o palco do videoclipe da música 0/3 da autoria dos músicos Krayy, GriLocks e E.se.**
+O campo localizado nas **Docas de Alcântara**, resultante de uma iniciativa promovida pela **Hoopers** e pela **Administração do Porto de Lisboa** (APL) e com arte de **Flix** - **foi o palco do videoclipe da música 0/3 da autoria dos músicos Krayy, GriLocks e E.se.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBelnWfe6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
