@@ -157,6 +157,11 @@ collections:
           format: 'YYYY MM DD H:M:S',
           required: true,
         }
+      - { label: 'Published', 
+          name: 'published', 
+          widget: 'boolean', 
+          required: true
+        }
       - label: 'Gallery'
         name: 'galleryImages'
         widget: 'list'
@@ -206,7 +211,7 @@ collections:
     create: true
     publish_mode: editorial_workflow
     folder: 'src/pages/posts/summergames'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: '{{year}}-{{month}}-{{day}}-{{time}}-{{location}}-{{teamA}}-vs-{{teamB}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - { label: 'Team A', name: 'teamA', widget: 'string', required: true }
       - { label: 'Team B', name: 'teamB', widget: 'string', required: true }

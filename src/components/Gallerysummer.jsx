@@ -56,7 +56,7 @@ const Gallery = ({ articles }) => {
 			</div>
 			<div className='modal-description'>
 				<p>{i?.description}</p>
-				<strong>Credito:{i?.credito}</strong>
+				<strong>Crédito:{i?.credito}</strong>
 			</div>
 		</div>
 	);

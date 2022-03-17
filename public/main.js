@@ -148,7 +148,6 @@ const realgm = () => {
 };
 
 // cron.schedule('0 */8 * * *', function () {
-console.log('running a task every minute');
 getNbaportugal();
 slam();
 ballislife();
