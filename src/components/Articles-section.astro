@@ -1,46 +1,53 @@
 ---
+
+
 // get object from index
 let {articles}=Astro.props;
 // filters articles by featured === true
 articles=articles.filter(article=>article.featured==true);
 
+
+
 ---
  
 <section class="articles" id="frontpage-articles">
-	<div class="title" style="padding-top:0;">			
-		<div class="title-section centerleft-i">articles</div>
-	
-		<img class="line centerright-i" src="/assets/Homepage/section line.svg" alt="line" />
-	</div>
-	
-	<div class="articles-list centerdown-i">
+			<div class="title" style="padding-top:0;">
 				
-		{articles.slice(0,3).map((article,index) => (
-			<a class="articles-item" href={article.url} >
-				<div
-					class="articles-item"
-					style={`
-						background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
-						background-repeat: no-repeat;
-						background-size: cover;
-						background-color: hsla(0%, 0%, 0%, 0.5);
-						background-position:center;
+				<div class="title-section centerleft-i">articles</div>
+				<img class="line centerright-i" src="/assets/Homepage/section line.svg" alt="line" />
+			</div>
+
+			
+			<div class="articles-list centerdown-i">
+				
+				{articles.slice(0,3).map((article,index) => (
+
+					<a class="articles-item" href={article.url} >
+					<div
+						class="articles-item"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+							background-repeat: no-repeat;
+							background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-position:center;
+					
+					
 						`}
-					onclick={`location.href='${article.url}'`}
-				>
-					<div class="title" style={article.title.length>16?"font-size:0.7em":''}>
-						{article?.title}
-					</div>	
-					<div class="article-underline"></div>
-					<div class="by">by {article?.author}</div>
-				</div>
-			</a>
-		))}
-	</div>
-		
-	<div class="centered buttons condensed" onclick="location.href='/articles'">more articles</div>
-		
-</section>
+						onclick={`location.href='${article.url}'`}
+					>
+						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						
+						<div class="article-underline"></div>
+						<div class="by">by {article?.author}</div>
+					</div>
+				</a>
+			))}
+			</div>
+			
+			<div class="centered buttons condensed" onclick="location.href='/articles'">more articles</div>
+			
+		</section>
 
 
 

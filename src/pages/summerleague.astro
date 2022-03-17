@@ -1,11 +1,14 @@
 ---
-import Bases from '../Layout/Layout-Article.astro';
-import Games from '../components/Games.astro';
-import GallerySection from '../components/Gallery-section.astro';
+import Bases from '../Layout/Layout-Article.astro'
+import Games from '../components/Games.astro'
+import GallerySection from '../components/Gallery-section.astro'
 
-let allPosts = await Astro.fetchContent('./posts/summerarticles/*.md');
 
-allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() - new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
+
+let allPosts = Astro.fetchContent('./posts/summerarticles/*.md');
+
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
 
 ---
 
@@ -16,21 +19,29 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			<div
 				class="top"
 				style={`
+				
+				
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-					url('${allPosts[0]?.image}');
-					background-attachment: fixed;
-					background-position:center;
-					align-content:center;
-					display:flex;`
+						url('${allPosts[0]?.image}');
+							background-attachment: fixed;
+							background-position:center;
+							align-content:center;
+							display:flex;`
 				}
 			>
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
 				
-				<div class="headline"><img class="esportlogo" src="/assets/esports/Asset 1.svg" alt="">
-					<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
-				</div>
+				<div class="headline"><img class="esportlogo" src="/assets/esports/Asset 1.svg" alt=""><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
+				<!-- <div class="sub-headline">
+					{allPosts[0]?.subname}
+				</div> -->
+				<!-- <div class='sub-text centered' style='display:flex;flex-direction:column; padding-bottom: 2em;'>
+					<p style="text-align:center">{allPosts[0]?.publishDate}</p><p style="text-align:center">{allPosts[0]?.author}</p></div> -->
+				
+				
 			</div>
 		</div>
+			
        
         <section class="articles black" style="min-height:0;">
 			<div class="articles-featured">
@@ -41,29 +52,33 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					alt="line"
 				/>
 			</div>
-			<div class="articles-list">
-				{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
-					<a class="articles-item" href={article.url} >
-						<div
-							class="articles-item"
-							style={`
-								background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
-								background-repeat: no-repeat;
-								background-size: cover;
+			<div class="articles-list">
+			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
+
+				<a class="articles-item" href={article.url} >
+					<div
+						class="articles-item"
+						style={`
+							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+							background-repeat: no-repeat;
+							background-size: cover;
 								background-color: hsla(0%, 0%, 0%, 0.5);
-								background-position:center;			
-							`}
-							onclick={`location.href='${article.url}'`}
-						>
-							<div class="title" style={article.title.length>16?"font-size:0.7em":''}>
-								{article?.title}
-							</div>
-							<div class="article-underline"></div>
-							<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt=""/>
-						</div>
-					</a>
-				))}		
+							background-position:center;
+					
+					
+						`}
+						onclick={`location.href='${article.url}'`}
+					>
+						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
+						<div class="article-underline"></div>
+						<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt="">
+						
+					</div>
+				</a>
+			))}
+				
+				
 			</div>
 		</section>
 	
@@ -82,74 +97,72 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			</div>
 			<div class="articles-list-all">
 				{allPosts.slice(0,6).map(article =>(
-					<a class="article-item"  href={article.url}>
-						<div style="display: flex;flex-direction: column;height: 100%;"  >
-							<div class="img"><img src={article?.image} alt=""></div>
-							<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-								{article?.title}
-							</div>
-							<div class="article-writer"> BY {article?.author}</div>
-						</div>
-					</a>
-				))}
+				<a class="article-item"  href={article.url}>
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
 				
 				{allPosts.slice(6,allPosts.length).map(article =>(
-					<a class="article-item hidden" href={article.url} >
-						<div style="display: flex;flex-direction: column;height: 100%;" >
-							<div class="img"><img src={article?.image} alt=""></div>
-							<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-								{article?.title}
-							</div>
-							<div class="article-writer"> BY {article?.author}</div>
-						</div>
-					</a>
-				))}
+				<a class="article-item hidden" href={article.url} >
+					<div style="display: flex;flex-direction: column;height: 100%;" >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>{article?.title}</div>
+						<div class="article-writer"> BY {article?.author}</div>
+					</div>
+				</a>))}
+
 			</div>
-			
 			<div class="buttons-black centered" onclick="showMeHiddenSummerArticles()">show more</div>
+				
+		
 		</div>
 		
-	<script>
+<script>
 
-		function slide(direction){
-			var container = document.getElementById('gallery');
-			scrollCompleted = 0;
-			
-			var slideVar = setInterval(function(){
-				if(direction == 'left'){
-					container.scrollLeft -= 90;
-				} else {
-					container.scrollLeft += 90;
-				}
-				
-				scrollCompleted += 10; 
-			
-				if(scrollCompleted >= 80){
-					window.clearInterval(slideVar);
-				}
-			}, 50);
-		}
+function slide(direction){
+    var container = document.getElementById('gallery');
+    scrollCompleted = 0;
+    var slideVar = setInterval(function(){
+        if(direction == 'left'){
+            container.scrollLeft -= 90;
+        } else {
+            container.scrollLeft += 90;
+        }
+         scrollCompleted += 10; 
+        if(scrollCompleted >= 80){
+            window.clearInterval(slideVar);
+        }
+    }, 50);
+}
 
-		// button show more function
-		function showMeHiddenSummerArticles() {
-			const hiddenArticles=document.querySelectorAll('.hidden');
-			console.log(hiddenArticles[0]) ; 
+// button show more function
+function showMeHiddenSummerArticles() {
+	const hiddenArticles=document.querySelectorAll('.hidden');
+	console.log(hiddenArticles[0]) ; 
 
-			if(hiddenArticles){
-				hiddenArticles.forEach(article=>{ 
-					article.classList.add('hidden-disabled');
-					article.classList.remove('hidden');
-				});
-			}
-			else {
-				hiddenArticles.forEach(article=>{ 
-					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+  	if(hiddenArticles){
+		hiddenArticles.forEach(article=>{ 
 
-					article.classList.add('hidden');
-					article.classList.remove('hidden-disabled');
-				});
-			}
-		}
+			article.classList.add('hidden-disabled')
+	 		article.classList.remove('hidden')
 
-	</script>
+			console.log('opened')
+ 		});
+   	}
+    else {
+    	hiddenArticles.forEach(article=>{ 
+			const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+
+			article.classList.add('hidden')
+			article.classList.remove('hidden-disabled')
+
+    		console.log('locked')
+		});
+    }
+}
+
+</script>
 </Bases>

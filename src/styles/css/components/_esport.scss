@@ -3,7 +3,10 @@
 .black {
 	background-color: $hoopers-black !important;
 	color: white !important;
-	padding-bottom: 1em;
+}
+
+main {
+	background-color: $hoopers-black;
 }
 
 .schedule-list {
