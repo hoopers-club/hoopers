@@ -16,11 +16,11 @@ Aqui mesmo ao lado, na LF2, Josephine Filipe e Joana Ferreira realizaram 2 excel
 
 Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais precisamente na Islândia onde desempenha um papel fundamental no Njardvik, que detém um recorde de 12-4 na Liga.
 
-</br>
+
 
 ## Em terras de nuestras hermanas…
 
-</br>
+
 
 #### **Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
@@ -52,11 +52,11 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Jogou 25 minutos na vitória frente a Coruna por 60-58, onde marcou 9 pontos, 3 ressaltos, 1 assistência e 2 roubos de bola.
 
-</br>
+
 
 ## Pela restante Europa…
 
-</br>
+
 
 #### **Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):**
 
@@ -66,11 +66,11 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Não jogou esta semana.
 
-</br>
+
 
 ## Estados Unidos da América dominados …
 
-</br>
+
 
 #### **Maria Carvalho (Utah Valley University, NCAA - Estados Unidos da América)**
 
@@ -130,7 +130,7 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Jogou 1 minutos na derrota contra Southern Missouri por 86-79 em duplo prolongamento.
 
-</br>
+
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
 

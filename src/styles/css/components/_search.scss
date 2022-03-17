@@ -31,14 +31,14 @@
 		cursor: pointer;
 		.img {
 			max-width: 100%;
-
+			margin-bottom: 0.5em;
 			overflow: hidden;
-			height: 10em;
+			height: 14em;
 
 			img {
 				display: block;
 				margin: 0 auto auto auto;
-				max-width: 100%;
+				max-width: 100%;;
 			}
 		}
 		.article-title {
