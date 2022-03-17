@@ -1,53 +1,46 @@
 ---
 import Bases from '../Layout/Layout-Article.astro'
 
-
-let allPosts = Astro.fetchContent('./posts/esports/*.md');
-allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
-
-
-
-
+let allPosts = await Astro.fetchContent('./posts/esports/*.md');
+allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() - new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf());
 
 ---
 
 <Bases>
 		
-        <!-- <Heros articles={allPosts} client:visible/> -->
-        <div class="container">
-			<div
-				class="top"
-				style={`
-				
+	<!-- <Heros articles={allPosts} client:visible/> -->
+	<div class="container">
+		<div
+			class="top"
+			style={`
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-						url('${allPosts[0]?.image}');
-							background-attachment: fixed;
-							background-position:center;`
+					url('${allPosts[0]?.image}');
+					background-attachment: fixed;
+					background-position:center;`
 				}
-			>
-				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
-				<div class="headline"><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
-				<div class="sub-headline">
-					{allPosts[0]?.subname}
-				</div>
-				<div class='sub-text centered' style='display:flex;flex-direction:column; padding-bottom: 2em;'>
-					<p style="text-align:center">{allPosts[0]?.publishDate}</p><p style="text-align:center">{allPosts[0]?.author}</p></div>
-				
-				
+		>
+			<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+			<div class="headline"><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
+			<div class="sub-headline">
+				{allPosts[0]?.subname}
 			</div>
+			<div class='sub-text centered' style='display:flex;flex-direction:column; padding-bottom: 2em;'>
+				<p style="text-align:center">{allPosts[0]?.publishDate}</p><p style="text-align:center">{allPosts[0]?.author}</p>
+			</div>			
 		</div>
+	</div>
 		
-        <section class="articles black" style="min-height:0;">
-			<div class="articles-featured">
-				<div class="featured">Featured</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
+	<section class="articles black" style="min-height:0;">
+		<div class="articles-featured">
+			<div class="featured">Featured</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
 
-			<div class="articles-list">
+		<div class="articles-list">
 			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
 				<a class="articles-item" href={article.url} >
@@ -70,20 +63,21 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					</div>
 				</a>
 			))}
-				
-				
-			</div>
-		</section>
-		<section class="articles black">
-			<div class="articles-featured">
-				<div class="featured">all articles</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			<div class="articles-list-all">
+					
+		</div>
+	</section>
+	
+	<section class="articles black">
+		<div class="articles-featured">
+			<div class="featured">all articles</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{allPosts.slice(0,6).map(article =>(
 				<a class="article-item"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
@@ -91,174 +85,44 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{allPosts.slice(6,allPosts.length).map(article =>(
+			{allPosts.slice(6,allPosts.length).map(article =>(
 				<a class="article-item hidden" href={article.url} >
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 
-				</div>
-				<div class="buttons-black centered" onclick="showMe()">show more</div>
+		</div>
 		
-		</section>
-		<!-- <section class="articles white">
-			<div class="articles-featured">
-				<div class="featured">NBA Portugal</div>
-				<img
-					class="featured-line"
-					src="/assets/Homepage/section line.svg"
-					alt="line"
-				/>
-			</div>
-		<div class="articles-list-all">
-			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
-						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
-					</div>
-				</a>))}
-				
-				{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
-				<a class="article-item hidden" href={article.url} >
-					<div >
-						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
-					</div>
-				</a>))}
-			</div>
-			<Nba client:visible/>
-			<div class="buttons-black centered" >show more</div>
-		</section> -->
-<script>
-// button show more function
-function showMe() {
-const hiddenArticles=document.querySelectorAll('.hidden');
-//console.log(hiddenArticles[0]) ; 
+		<div class="buttons-black centered" onclick="showMe()">show more</div>
+		
+	</section>
+		
+	<script>
+		// button show more function
+		function showMe() {
+			const hiddenArticles=document.querySelectorAll('.hidden');
+		
+			if(hiddenArticles){
+				hiddenArticles.forEach(article=>{ 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hidden');
+				});
+			} else {
+				hiddenArticles.forEach(article=>{ 
+					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hidden')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMenba() {
-const hiddenArticles=document.querySelectorAll('.hiddennba');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddennba')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMeslam() {
-const hiddenArticles=document.querySelectorAll('.hiddenslam');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenslam')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMereal() {
-const hiddenArticles=document.querySelectorAll('.hiddenreal');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenreal')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMeball() {
-const hiddenArticles=document.querySelectorAll('.hiddenball');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenball')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-
-</script>
+					article.classList.add('hidden');
+					article.classList.remove('hidden-disabled');
+				});
+			}
+		} 
+	</script>
 </Bases>

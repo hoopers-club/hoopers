@@ -1,80 +1,76 @@
 ---
-import Bases from './Layout.astro'
+import Bases from './Layout.astro';
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
-
-
 const articleDate = publishDate.split('-')[0];
 
 ---
 <Bases title={title} author={author} subname={subname} image={image}>
 	
-	
 	<div class="container">
-				<div id="image"
-					class="top"
-					style={`
-					
-						background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-									url('${image}')
-									center;
-						background-size: cover;
-						background-attachment: fixed;
-						
-					`}
-				>
+		<div 
+			id="image"
+			class="top"
+			style={`
+				background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+				url('${image}')
+				center;
+				background-size: cover;
+				background-attachment: fixed;
+				`}
+			>
 					<!--~
 					<img src="/assets/courts/left.svg" alt="" class="changeleft"><img src="/assets/courts/right.svg" alt="" class="changeright">
 					-->
-					<div id="title" class="headline " style={title.length>16?"font-size:3em;":''} >{title}</div>
-					<div class="sub-headline">
-						{subname}
-					</div>
-					<div class="sub-text centered">{articleDate} <br />{author}</div>
-	
-					
-				</div>
+			<div id="title" class="headline " style={title.length>16?"font-size:3em;":''} >{title}</div>
+			<div class="sub-headline">
+				{subname}
 			</div>
-			<div class="socials">
-					<input type="checkbox" name="socials" id="social-id" />
-					<div class="social-icons">
-						<a id="facebook"  href="" target="_blank"><img src="/assets/articles/facebook.svg" alt="" /></a
-						><a id="twitter" href="" target="_blank"><img src="/assets/articles/twitter.svg" alt="" /></a
-						><a id="whatsapp" href="" target="_blank"><img src="/assets/articles/whats_icon.svg" alt="" /></a>
-					</div>
-					<label for="social-id" class="social-toggle"
-						><img
-							class="share"
-							src="/assets/articles/Compartilhar.svg"
-							alt=""
-						/>
-					</label>
-					<label for="social-id" class="social-toggle"
-						><img class="share-close" src="/assets/articles/Close.svg" alt="" />
-					</label>
-				</div>
-			<section class="single-articles white">
-				<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
-				{content.astro.html}
-				
+			<div class="sub-text centered">{articleDate} <br />{author}</div>
 
-			</section>
+		</div>
+	</div>
 
-<script>
-	const postlink=encodeURI(document.location.href)
-	const title=encodeURI(document.getElementById('title').innerHTML)
-	var img = document.getElementById('image'),
-style = img.currentStyle || window.getComputedStyle(img, false),
-bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")[1].slice(1))
+	<div class="socials">
+		<input type="checkbox" name="socials" id="social-id" />
+		<div class="social-icons">
+			<a id="facebook"  href="" target="_blank"><img src="/assets/articles/facebook.svg" alt="" /></a>
+			<a id="twitter" href="" target="_blank"><img src="/assets/articles/twitter.svg" alt="" /></a>
+			<a id="whatsapp" href="" target="_blank"><img src="/assets/articles/whats_icon.svg" alt="" /></a>
+		</div>
+		
+		<label for="social-id" class="social-toggle">
+			<img
+				class="share"
+				src="/assets/articles/Compartilhar.svg"
+				alt=""
+			/>
+		</label>
+
+		<label for="social-id" class="social-toggle">
+			<img class="share-close" src="/assets/articles/Close.svg" alt="" />
+		</label>
+	</div>
 	
-	const facebook=document.getElementById('facebook')
-	const twitter=document.getElementById('twitter')
-	const whatsapp=document.getElementById('whatsapp')
-	facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`)
-	twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`)
-	whatsapp.setAttribute('href',`https://api.whatsapp.com/send?text=${title} ${postlink}`)
+	<section set:html={content.astro.html} class="single-articles white">
+		<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
+	</section>
 
+	<script>
+		const postlink=encodeURI(document.location.href);
+		const title=encodeURI(document.getElementById('title').innerHTML);
+		var img = document.getElementById('image'),
+			style = img.currentStyle || window.getComputedStyle(img, false),
+			bi = encodeURI(style.backgroundImage.slice(4, -1).replace(/"/g, "").split("url")[1].slice(1));
+	
+		const facebook=document.getElementById('facebook');
+		const twitter=document.getElementById('twitter');
+		const whatsapp=document.getElementById('whatsapp');
+		
+		facebook.setAttribute('href',`https://www.facebook.com/sharer.php?u=${postlink}`);
+		twitter.setAttribute('href',`https://twitter.com/share?url=${postlink}&text=${title}`);
+		whatsapp.setAttribute('href',`https://api.whatsapp.com/send?text=${title} ${postlink}`);
 
 	</script>			
 </Bases>

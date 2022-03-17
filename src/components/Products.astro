@@ -1,5 +1,5 @@
 ---
-let frontpageProduct = Astro.fetchContent('../pages/posts/frontpage/*.md');
+let frontpageProduct = await Astro.fetchContent('../pages/posts/frontpage/*.md');
 
 ---
 <section class="products">
@@ -12,14 +12,16 @@ let frontpageProduct = Astro.fetchContent('../pages/posts/frontpage/*.md');
 					<img class="" src={frontpageProduct[0]?.productImage} alt="" />
 				</div>
 				<div class="content-right">
-					<div class="title ">{frontpageProduct[0]?.productName}</div>
-					<div class="price ">€{frontpageProduct[0]?.productPrice}</div>
-					<div class="text fonte-creditos ">
-						{frontpageProduct[0]?.productDescription}
+					<div class="title ">
+						{frontpageProduct[0]?.productName}
 					</div>
-					
-						<div class="buttons condensed" ><a href={frontpageProduct[0]?.productLink} target="_blank">SHOP NOW</a></div>
-					
+					<div class="price ">
+						€{frontpageProduct[0]?.productPrice}
+					</div>
+					<div set:html={frontpageProduct[0]?.productDescription} class="text fonte-creditos "></div>
+					<div class="buttons condensed" >
+						<a href={frontpageProduct[0]?.productLink} target="_blank">SHOP NOW</a>
+					</div>
 				</div>
 			</div>
 		</section>

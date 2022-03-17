@@ -26,7 +26,6 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 			);
 		}
 	};
-	console.log(court);
 
 	return (
 		<div className='court-detail'>
@@ -44,12 +43,7 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 					onClick={() => skip('forward')}
 				/>
 				{courtImage && <img src={courtImage} alt='' />}
-				{/* {court.galleryImages.map((image, i) => (
-					<div>
-						<img src={image} alt='' />
-						{console.log(i)}
-					</div>
-				))} */}
+
 				<img
 					className='close-btn'
 					src='/assets/courts/Fechar Card.svg'

@@ -1,43 +1,45 @@
 ---
-import Modal from '../components/Modal.jsx'
-import GalleryItem from '../components/GalleryItem.jsx'
+import GalleryItem from '../components/GalleryItem.jsx';
 
-let gallerys = Astro.fetchContent('../pages/posts/summergallery/*.md');
-gallerys=gallerys.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
+let gallerys = await Astro.fetchContent('../pages/posts/summergallery/*.md');
 
+gallerys=gallerys?.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
 
+gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
 ---
 
-
-	<section class="articles black" style="min-height:0;position:relative;">
-		<div class="articles-featured">
-			<div class="esport-title">Gallery</div>
-			<img
-				class="featured-line"
-				src="/assets/articles/linha.svg"
-				alt="line"
-			/>
-		</div>
-		{gallerys.length >2 && <img
-				src='/assets/courts/left.svg'
-				alt=''
-				
-				onclick="slide('left')"
-				id='leftbtn'
-				
-			/>}
-		{gallerys.length >2 &&	<img
-				src='/assets/courts/right.svg'
-				alt=''
-				id='rightbtn'
-				onclick="slide('right')"
-				
-			/> }
-		<div class="day-list" id="gallery" >
-		{gallerys.map(gallery=><GalleryItem gallery={gallery} client:load/>) }
-			
+<section class="articles black" style="min-height:0;position:relative;">
+	<div class="articles-featured">
+		<div class="esport-title">Gallery</div>
+		<img
+			class="featured-line"
+			src="/assets/articles/linha.svg"
+			alt="line"
+		/>
+	</div>
 	
-				
-		</div>
-	</section>
+	{gallerys.length >2 && <img
+		src='/assets/courts/left.svg'
+		alt=''
+		
+		onclick="slide('left')"
+		id='leftbtn'
+		
+	/>}
+	
+	{gallerys.length >2 &&	<img
+		src='/assets/courts/right.svg'
+		alt=''
+		id='rightbtn'
+		onclick="slide('right')"
+		
+	/> }
+	
+	<div class="day-list" id="gallery" >
+	
+		{gallerys?.map(gallery => <GalleryItem gallery={gallery} client:load/>)}
 			
+	</div>
+
+</section>
+		

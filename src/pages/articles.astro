@@ -1,56 +1,54 @@
 ---
-import Bases from '../Layout/Layout-Article.astro'
+import Bases from '../Layout/Layout-Article.astro';
+import nbaportugal from '/nba.json';
+import slam from '/slam.json';
+import realgm from '/realgm.json';
+import ballislife from '/ballislife.json';
 
-
-let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
-
-import nbaportugal from'/nba.json'
-import slam from'/slam.json'
-import realgm from'/realgm.json'
-import ballislife from'/ballislife.json'
-
+let allPosts = await Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
 
 ---
 
 <Bases>
 		
-        <!-- <Heros articles={allPosts} client:visible/> -->
-        <div class="container">
-			<div
-				class="top"
-				style={`
-				
-					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-						url('${allPosts[0]?.image}');
-							background-attachment: fixed;
-							background-position:center;
-							background-size: cover;`
-				}
-			>
-				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
-				<div class="headline"><a href={allPosts[0]?.url}>{allPosts[0]?.title}</a></div>
-				<div class="sub-headline">
-					{allPosts[0]?.subname}
-				</div>
-				<div class='sub-text centered' >
-					<p >{allPosts[0]?.publishDate.split('-')[0]}</p><p class="notranslate">{allPosts[0]?.author}</p></div>
-				
-				
+    <!-- <Heros articles={allPosts} client:visible/> -->
+    <div class="container">
+		<div
+			class="top"
+			style={`
+				background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+				url('${allPosts[0]?.image}');
+				background-attachment: fixed;
+				background-position:center;
+				background-size: cover;`
+			}
+		>
+			
+		<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+			<div class="headline">
+				<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
 			</div>
+			<div class="sub-headline">
+				{allPosts[0]?.subname}
+			</div>
+			<div class='sub-text centered' >
+				<p >{allPosts[0]?.publishDate.split('-')[0]}</p><p class="notranslate">{allPosts[0]?.author}</p>
+			</div>			
 		</div>
+	</div>
 		
-        <section class="articles white" style="min-height:0;">
-			<div class="articles-featured">
-				<div class="featured">Featured</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
+	<section class="articles white" style="min-height:0;">
+		<div class="articles-featured">
+			<div class="featured">Featured</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
 
-			<div class="articles-list">
+		<div class="articles-list">
 			{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
 
 				<a class="articles-item" href={article.url} >
@@ -60,11 +58,9 @@ import ballislife from'/ballislife.json'
 							background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
 							background-repeat: no-repeat;
 							background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
+							background-color: hsla(0%, 0%, 0%, 0.5);
 							background-position:center;
-					
-					
-						`}
+							`}
 						onclick={`location.href='${article.url}'`}
 					>
 						<div class="title" style={article.title.length>16?"font-size:0.7em":''}>{article?.title}</div>
@@ -73,20 +69,21 @@ import ballislife from'/ballislife.json'
 					</div>
 				</a>
 			))}
-				
-				
-			</div>
-		</section>
-		<section class="articles white">
-			<div class="articles-featured">
-				<div class="featured">all articles</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			<div class="articles-list-all">
+		
+		</div>
+	</section>
+	
+	<section class="articles white">
+		<div class="articles-featured">
+			<div class="featured">all articles</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{allPosts.slice(0,6).map(article =>(
 				<a class="article-item"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
@@ -94,85 +91,99 @@ import ballislife from'/ballislife.json'
 						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{allPosts.slice(6,allPosts.length).map(article =>(
+			{allPosts.slice(6,allPosts.length).map(article =>(
 				<a class="article-item hidden" href={article.url} >
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title" >{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 
-				</div>
-				<div class="buttons-black centered" onclick="showMe()">show more</div>
+		</div>
+		
+		<div class="buttons-black centered" onclick="showMe()">show more</div>
 				
-			<div class="articles-featured">
-				<div class="featured notranslate">NBA Portugal</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-				<div class="articles-list-all">
+		<div class="articles-featured">
+			<div class="featured notranslate">NBA Portugal</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url} target="_blank" >
+				<a class="article-item" href={article?.url} target="_blank" >
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
-				<a class="article-item hiddennba" href={article.url}  target="_blank">
+			{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
+				<a class="article-item hiddennba" href={article?.url}  target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
-			</div>
-			<div class="buttons-black centered" onclick="showMenba()">show more</div>
-			<div class="articles-featured">
-				<div class="featured notranslate">Slam</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-				<div class="articles-list-all">
+				</a>
+			))}
+		</div>
+		
+		<div class="buttons-black centered" onclick="showMenba()">show more</div>
+		
+		<div class="articles-featured">
+			<div class="featured notranslate">Slam</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{slam.filter(i=>i.author!=null).slice(0,6).map(article =>(
 				<a class="article-item" href={article.url} target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
-						<div class="img"><img src={article?.image} alt=""></div>
+						<div class="img"><img src={article?.image} alt=""/></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{slam.filter(i=>i.author!=null).slice(6,slam.length).map(article =>(
-				<a class="article-item hiddenslam" href={article.url} target="_blank" >
-					<div  style="display: flex;flex-direction: column;height: 100%;">
-						<div class="img"><img src={article?.image} alt=""></div>
+			{slam.filter(i=>i.author!=null).slice(6,slam.length).map(article =>(
+				<a class="article-item hiddenslam" href={article?.url} target="_blank" >
+					<div style="display: flex;flex-direction: column;height: 100%;">
+						<div class="img"><img src={article?.image} alt=""/></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
-			</div>
-			<div class="buttons-black centered" onclick="showMeslam()">show more</div>
-			<div class="articles-featured">
-				<div class="featured notranslate">BasketBall RealGM</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-				<div class="articles-list-all">
+				</a>	
+			))}
+		</div>
+	
+		<div class="buttons-black centered" onclick="showMeslam()">show more</div>
+		
+		<div class="articles-featured">
+			<div class="featured notranslate">BasketBall RealGM</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{realgm.filter(i=>i.author!=null).slice(0,6).map(article =>(
 				<a class="article-item" href={article.url} target="_blank">
 					<div  style="display: flex;flex-direction: column;height: 100%;" >
@@ -180,27 +191,32 @@ import ballislife from'/ballislife.json'
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{realgm.filter(i=>i.author!=null).slice(6,realgm.length).map(article =>(
+			{realgm.filter(i=>i.author!=null).slice(6,realgm.length).map(article =>(
 				<a class="article-item hiddenreal" href={article.url} target="_blank" >
 					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
-			</div>
-			<div class="buttons-black centered" onclick="showMereal()">show more</div>
-			<div class="articles-featured">
-				<div class="featured notranslate">Ball is Life</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-				<div class="articles-list-all">
+				</a>
+			))}
+		</div>
+		
+		<div class="buttons-black centered" onclick="showMereal()">show more</div>
+		
+		<div class="articles-featured">
+			<div class="featured notranslate">Ball is Life</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
 			{ballislife.filter(i=>i.author!=null).slice(0,6).map(article =>(
 				<a class="article-item" href={article.url} target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
@@ -208,173 +224,123 @@ import ballislife from'/ballislife.json'
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
+				</a>
+			))}
 				
-				{ballislife.filter(i=>i.author!=null).slice(6,ballislife.length).map(article =>(
+			{ballislife.filter(i=>i.author!=null).slice(6,ballislife.length).map(article =>(
 				<a class="article-item hiddenball" href={article.url}  target="_blank">
 					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div class="article-title">{article?.title}</div>
 						<div class="article-writer"> BY {article?.author}</div>
 					</div>
-				</a>))}
-			</div>
-			<div class="buttons-black centered" onclick="showMeball()">show more</div>
-		</section>
-		<!-- <section class="articles white">
-			<div class="articles-featured">
-				<div class="featured notranslate">NBA Portugal</div>
-				<img
-					class="featured-line"
-					src="/assets/Homepage/section line.svg"
-					alt="line"
-				/>
-			</div>
-		<div class="articles-list-all">
-			{nbaportugal.filter(i=>i.author!=null).slice(0,6).map(article =>(
-				<a class="article-item" href={article.url}>
-					<div  >
-						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
-					</div>
-				</a>))}
-				
-				{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
-				<a class="article-item hidden" href={article.url} >
-					<div >
-						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
-					</div>
-				</a>))}
-			</div>
-			<Nba client:visible/>
-			<div class="buttons-black centered" >show more</div>
-		</section> -->
-<script>
+				</a>
+			))}
+		</div>
+		
+		<div class="buttons-black centered" onclick="showMeball()">show more</div>
+	</section>
+		 
+	
+	<script>
 // button show more function
-function showMe() {
-	const hiddenArticles=document.querySelectorAll('.hidden');
+		function showMe() {
+			const hiddenArticles=document.querySelectorAll('.hidden');
 	//console.log(hiddenArticles[0]) ; 
 
-  	if(hiddenArticles){
-		hiddenArticles.forEach(article=>{ 
+  			if(hiddenArticles){
+				hiddenArticles.forEach(article=>{ 
 
-			article.classList.add('hidden-disabled')
-	 		article.classList.remove('hidden')
+					article.classList.add('hidden-disabled');
+			 		article.classList.remove('hidden');
+		 		});
+   			} else {
+    			hiddenArticles.forEach(article=>{ 
+			
+					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-			console.log('opened')
- 		});
-   	}
-    else {
-    	hiddenArticles.forEach(article=>{ 
-			const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-			article.classList.add('hidden')
-			article.classList.remove('hidden-disabled')
-
-    		console.log('locked')
-		});
-    }
-}
+					article.classList.add('hidden');
+					article.classList.remove('hidden-disabled');
+				});
+    		}
+		}
  
-function showMenba() {
-const hiddenArticles=document.querySelectorAll('.hiddennba');
- console.log(hiddenArticles[0]) ;
+		function showMenba() {
+			const hiddenArticles=document.querySelectorAll('.hiddennba');
+ 
+ 			if(hiddenArticles){
+				hiddenArticles.forEach(article=>{ 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddennba');
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddennba')
+				});
+   			} else {
+			    hiddenArticles.forEach(article=>{ 
+					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+					article.classList.add('hidden');
+					article.classList.remove('hidden-disabled');
+				});
+   			}
+   		} 
 
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
+		function showMeslam() {
+			const hiddenArticles=document.querySelectorAll('.hiddenslam');
+			
+			if(hiddenArticles){
+				hiddenArticles.forEach(article=>{ 
 
- console.log('locked')
- });
-   }
-   } 
-function showMeslam() {
-const hiddenArticles=document.querySelectorAll('.hiddenslam');
- console.log(hiddenArticles[0]) ;
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddenslam');
+				});
+   			} else {
+    			hiddenArticles.forEach(article=>{ 
+					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
+					article.classList.add('hidden');
+					article.classList.remove('hidden-disabled');
+				});
+   			}
+   		} 
+	
+		function showMereal() {
+			const hiddenArticles=document.querySelectorAll('.hiddenreal');
+ 
+    			if(hiddenArticles){
+					hiddenArticles.forEach(article=>{ 
 
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenslam')
+						article.classList.add('hidden-disabled');
+						article.classList.remove('hiddenreal');
+					});
+				} else {
+					hiddenArticles.forEach(article=>{ 
+						const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+							article.classList.add('hidden');
+							article.classList.remove('hidden-disabled');
+					});
+   				}
+    		} 
+		
+		function showMeball() {
+			const hiddenArticles=document.querySelectorAll('.hiddenball');
+	
+			if(hiddenArticles){
+				hiddenArticles.forEach(article=>{ 
 
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddenball');
+				});
+		   	} else {
+    			hiddenArticles.forEach(article=>{ 
+					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
 
- console.log('locked')
- });
-   }
-   } 
-function showMereal() {
-const hiddenArticles=document.querySelectorAll('.hiddenreal');
- console.log(hiddenArticles[0]) ;
+					article.classList.add('hidden');
+					article.classList.remove('hidden-disabled');
+				});
+   			}
+   		} 
 
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenreal')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-function showMeball() {
-const hiddenArticles=document.querySelectorAll('.hiddenball');
- console.log(hiddenArticles[0]) ;
-
-  if(hiddenArticles){
-hiddenArticles.forEach(article=>{ 
-
-	 article.classList.add('hidden-disabled')
-	 article.classList.remove('hiddenball')
-
- console.log('opened')
- });
-   }
-   else {
-    hiddenArticles.forEach(article=>{ 
-const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-	 article.classList.add('hidden')
-	 article.classList.remove('hidden-disabled')
-
- console.log('locked')
- });
-   }
-   } 
-
-</script>
+	</script>
 </Bases>

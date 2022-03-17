@@ -1,42 +1,25 @@
 ---
-import Bases from '../Layout/Layout.astro'
-import SearchResult from '../components/SearchResult.jsx'
+import Bases from '../Layout/Layout.astro';
+import SearchResult from '../components/SearchResult.jsx';
 
-
-
-
-
-const articles=Astro.fetchContent('./posts/articles/*.md')
-// console.log(Astro.request.canonicalURL)
+const articles = await Astro.fetchContent('./posts/articles/*.md');
 ---
 
 <Bases>
 
+	<div class="search-page">
+		<div class="search-query" >Your results for '<span id="key"></span>'</div>
 
+	</div>
 
+	<script>
 
-<div class="search-page">
-    <div class="search-query" >Your results for '<span id="key"></span>'</div>
+		const searched = sessionStorage.getItem('SEARCH');
+		const key=document.getElementById('key');
+		key.innerHTML=searched;
 
-</div>
-<script>
+	</script>
 
-const searched = sessionStorage.getItem('SEARCH')
-const key=document.getElementById('key')
-key.innerHTML=searched
-
-</script>
-<SearchResult articles={articles}  client:load/>
-<!-- <div class="search-list-all">
-			
-				<a class="article-item" href="/">
-					<div  >
-						<div class="img"><img src='https://unsplash.it/500' alt=""></div>
-						<div class="article-title" style={10>16?"font-size:0.8em":''}>Article title</div>
-						<div class="article-writer"> BY test</div>
-					</div>
-				</a>
-</div> -->
-
+	<SearchResult articles={articles} client:load/>
 
 </Bases>

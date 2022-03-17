@@ -1,31 +1,22 @@
 ---
+import Bases from '../Layout/Layout.astro';
+import Hero from '../components/Hero.astro';
+import Products from '../components/Products.astro';
+import Court from '../components/Court-section.astro';
+import Articles from '../components/Articles-section.astro';
+import Cookies from '../components/Cookies.astro';
 
-import Bases from '../Layout/Layout.astro'
-import Hero from '../components/Hero.astro'
-import Products from '../components/Products.astro'
-import Court from '../components/Court-section.astro'
-import Articles from '../components/Articles-section.astro'
-import Cookies from '../components/Cookies.astro'
-
-
-
-
-let allPosts = Astro.fetchContent('./posts/articles/*.md');
-allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')));
-
+let allPosts = await Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() - new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf());
 
 ---
 
-
 <Bases>
 
-<Hero/>
+    <Hero/>
 
-<Court/>
-<Articles articles={allPosts} />
-<Products/>
-<Cookies/>
+    <Court/>
+    <Articles articles={allPosts} />
+    <Products/>
+    <Cookies/>
 </Bases>
-
-     
-
