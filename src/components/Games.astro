@@ -1,9 +1,7 @@
 ---
-let games = await Astro.fetchContent('../pages/posts/summergames/*.md');
-
-
-games=games.sort((a,b)=>new Date(a.time).valueOf()-new Date(b.time).valueOf());
-games=games.filter(game=>new Date()<new Date(game.time));
+let games = Astro.fetchContent('../pages/posts/summergames/*.md');
+games=games.sort((a,b)=>new Date(a.time)-new Date(b.time));
+games=games.filter(game=>new Date()<new Date(game.time))
 
 /*console.log(new Date(games[0]?.time),'fulltime')
 console.log(new Date(games[0]?.time).toDateString(),'fulltime')
@@ -19,35 +17,40 @@ games[0]?.time ? isScheduled = true : isScheduled = false;
 //console.log("the value of isScheduled = " + isScheduled);
 ---
 
-<section class="articles black" style="min-height:0;">
-	<div class="articles-featured">
-		<div class="esport-title">Schedule</div>
-		<img
-			class="featured-line"
-			src="/assets/articles/linha.svg"
-			alt="line"
-		/>
-	</div>
-	<div class="schedule-list">
-	
-	{isScheduled ? 
-		games?.map(game =>(
+		 <section class="articles black" style="min-height:0;">
+			<div class="articles-featured">
+				<div class="esport-title">Schedule</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+			<div class="schedule-list">
+            
+			{isScheduled ? 
+				games?.map(game =>(
 
-			<div class="schedule-item">
-				<div class="match">{game?.teamA} X {game?.teamB}</div>
-				<div class="match-secondary">
-					<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth()} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
-					<div class="match-location">{game?.location}</div> 
+            	<div class="schedule-item">
+					<div class="match">{game?.teamA} X {game?.teamB}</div>
+					<div class="match-secondary">
+						<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth()} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
+						<div class="match-location">{game?.location}</div> 
+					</div>
 				</div>
-			</div>
-		))
-		: (
-			<div class="schedule.item">
-				<p>No games scheduled</p>
-			</div>
-		)}
-	</div>
-	
-	<div class="buttons-black center-games " onclick="showMe()">show more</div>
 
-</section>
+            ))
+				: (
+					<div class="schedule.item">
+						<p>No games scheduled</p>
+					</div>
+				)
+			}
+
+
+				
+				
+				
+			</div>
+			<div class="buttons-black center-games " onclick="showMe()">show more</div>
+		</section>
