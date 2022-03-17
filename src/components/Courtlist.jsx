@@ -5,15 +5,15 @@ import { useState, useEffect } from 'react';
 const Courtlist = ({ allCourts }) => {
 	const [detail, setDetail] = useState(false);
 	const [open, setOpen] = useState(true);
-	
+	// console.log(allCourts);
 	useEffect(() => {}, [open, detail]);
 	return (
 		<div className=''>
 			<Menu open={open} setOpen={setOpen} />
+			{/* {open && ( */}
 			<div
 				className='courts-list'
-				style={{ display: open ? 'flex !important' : 'none !important' }}
-			>
+				style={{ display: open ? 'flex !important' : 'none !important' }}>
 				{allCourts.map((court, i) => (
 					<Court
 						detail={detail}
@@ -24,6 +24,7 @@ const Courtlist = ({ allCourts }) => {
 					/>
 				))}
 			</div>
+			{/* // )} */}
 		</div>
 	);
 };

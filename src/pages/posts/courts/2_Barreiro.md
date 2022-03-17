@@ -21,6 +21,7 @@ galleryImages:
 ---
 The Francisco do Paço Sports Park, a local figure from Zona 4 in Barreiro, receives a tribute for 37 historical sports figures of this city. The artistic intervention was performed by SAMINA, covering a court, a mural and a locker room. Among the honored figures are names such as Fernando Chalana, João Cancelo, Carlos Manuel, Manuel Bento, Mike Plowden, Miguel Minhava or Diogo Carreira, among many others.
 
+</br>
 
 As part of the initiatives to celebrate the municipality's 500th anniversary, this project promoted by Hoopers, a basketball community platform, and the Barreiro City Council aimed to honor some of the city’s local sports heroes, while recovering and transforming a big sports area and encouraging its usage by the community.
 
@@ -28,6 +29,7 @@ As part of the initiatives to celebrate the municipality's 500th anniversary, th
 
 The reopening of the space to the public took place on June 28th, in a ceremony hosted by Frederico Rosa, Mayor of Barreiro, young sportsmen from various local sports and clubs, as well as some of the local heroes that were honored with this intervention.
 
+</br>
 
 The artistic intervention was done by SAMINA, who carried out his greatest work in terms of extension. This was also the largest renovation project done by Hoopers. Three spaces were transformed, covering a total area with more than 1800 square meters: a sports court (with dedicated and exclusive areas for basketball and football), a mural and a locker-room, where the 37 athletes selected by the Municipality are featured.
 
@@ -37,6 +39,7 @@ The artistic intervention was done by SAMINA, who carried out his greatest work 
 
 For Frederico Rosa, Mayor of Barreiro, “this intervention is the affirmation of the enormous sports quality of Barreiro and its people. With this intervention, we wanted not only to strengthen the connection of people to the city, but also to pay a tribute to some local sports heroes, while reinforcing and promoting the appropriation of public space by the population”.
 
+</br>
 
 “This project was especially relevant to Hoopers, not only because of its size, but also due to its symbolism. It was also our first work involving other sports than basketball, which could open up new possibilities to access into other communities”, explains André Costa, CEO of Hoopers.
 

@@ -14,41 +14,39 @@
 	width: 100%;
 	flex: 1;
 	justify-content: space-evenly;
-	align-content: space-evenly;
 
 	&-location {
 		display: flex;
 		flex-direction: column;
-	    /* gap: 1em; */
-	    justify-content: space-between;		
-		padding-top: auto;
-
+		// justify-content: space-evenly;
+		gap: 1em;
+		.title {
+			padding-top: 0;
+		}
 		.location {
-			.title {
-				padding-top: 0;
-				display: flex;
-			}
-
 			.description {
 				font-family: fonts.$aktiv-grotesk-light;
-				padding-bottom: auto;
 			}
 		}
 	}
 }
 
+.follow {
+	ul {
+		li {
+			list-style-type: none;
+			font-family: fonts.$aktiv-grotesk-light;
+		}
+	}
+}
 
 .links {
 	ul {
-		height: 100%;
 		display: flex;
 		flex-direction: column;
-		justify-content: space-between;
-		padding: auto;
+		gap: 0.5em;
 
 		li {
-			display: block;
-			flex: 0 1 auto;
 			list-style-type: none;
 			&:hover {
 				box-shadow: inset 0 -1px 0 0 colors.$hoopers-black;
@@ -58,32 +56,18 @@
 }
 
 .follow {
-	padding: auto;
-	height: 100%;
 	ul {
+		height: 100%;
 		display: flex;
 		flex-direction: column;
-		justify-content: space-between;
+		gap: 0.5em;
 
 		li {
-			display: block;
-			flex: 0 1 auto;
-			list-style-type: none;
-			font-family: fonts.$aktiv-grotesk-light;
 			&:hover {
 				box-shadow: inset 0 -1px 0 0 colors.$hoopers-black;
 			}
 		}
 	}
-}
-
-#mc_embed_signup {
-	position: relative;
-	margin-top: auto;
-	padding-top: auto;
-	width: auto;
-	height: auto;
-	text-align: auto;
 }
 
 .subscription {
@@ -92,77 +76,17 @@
 	gap: 0.5em;
 }
 
+@media screen and (max-width: 500px) {
+	.footer {
+		// max-height: 35vh;
+	}
+}
+
 input[type=email] {
 	border-bottom: solid 1px black;
     margin-bottom: 0.25em;
     width: 98%;
 	&:focus {
 		outline: none !important;
-	}
-}
-
-@media screen and (max-width:1300px) {
-	#mc_embed_signup {
-		position: absolute !important;
-		margin-top: 10em;
-		padding-top: 1em;
-		width: 100%;
-		height: 8em;
-		background-color: #d38731;
-		text-align: center;
-		
-		input[type=email] {
-			width: 14.75em;
-		}
-
-		.subscription {
-			display: inline;
-		}
-	}
-}
-
-
-@media screen and (max-width:569px) {
-	.footer {
-		flex-direction: column;
-		justify-content: space-evenly;
-		align-content: center;
-		text-align: center;
-	
-		&-location {
-			justify-content: center;
-			padding-top: 1em;
-		
-			.location {
-				.title {
-					display: block;
-				}
-
-				.description {
-					padding-bottom: 1em;
-				}	
-			}
-		}
-
-		.follow {
-			padding: 1em 0;
-		}
-
-		.links {
-			padding: 1em 0;
-		}
-
-		#mc_embed_signup {
-			position: relative !important;
-			margin-top: auto;
-			padding-top: auto;
-			width: auto;
-			height: auto;
-			text-align: auto;
-
-			input[type=email] {
-				text-align: center;
-			}	
-		}
 	}
 }

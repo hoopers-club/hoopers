@@ -27,15 +27,15 @@ leftimage:
 ---
 Located in Braga, the São José (Enguardas) sports playground was the object of an urban art intervention performed by **Contra**, and it became the largest iconic street basketball court in Europe. The promoters are the Municipality of Braga and Hoopers – a basketball community platform with a strong focus on activating local street communities.
 
+</br>
 
-
-With a giant canvas of 1000 square meters, the Portuguese artist [Contra](https://www.isupportstreetart.com/artist/contra/)[ ](https://www.isupportstreetart.com/artist/contra/)wanted to mix arts and sports and by using his palette of iconic and vibrant colours, together with abstract, geometric elements and solid shapes, he intended to transmit joy and confidence for those using the space, but also promoting the informal practice of basketball.
+With a giant canvas of 1000 square meters, the Portuguese artist <u>[Contra](https://www.isupportstreetart.com/artist/contra/)</u>[ ](https://www.isupportstreetart.com/artist/contra/)wanted to mix arts and sports and by using his palette of iconic and vibrant colours, together with abstract, geometric elements and solid shapes, he intended to transmit joy and confidence for those using the space, but also promoting the informal practice of basketball.
 
 ![Créditos: Hoopers / Miguel Fernandes](/assets/uploads/1_braga_makingof.jpg "Créditos: Hoopers / Miguel Fernandes")
 
 He used one of the great Masters of Portuguese painting as a reference, Amadeo de Souza-Cardozo, who stated that he intended: “a virile, powerful, anti-sentimental art; (…) Cultivating regenerative optimism, the formidable desire for adventure, the passion for sport, the worship of muscles, physical and moral courage. ”
 
-
+</br>
 
 This canvas created the largest iconic basketball court in Europe, which offers the first exclusive 3×3 field in Portugal, with official dimensions to host FIBA competitions. The space also encourages informal players for 4×4 and 5×5 pickup games, but also to have fun while using the 2 shooting lines available. Its usage will be entirely free.
 
@@ -43,7 +43,7 @@ This canvas created the largest iconic basketball court in Europe, which offers 
 
 Not even the hoops were neglected, being completely customized to the design of this court, in an effort of reinforcing the connection between sports and urban art. Additionally, Hoopers and Contra collaborated to produce an exclusive reversible jersey to celebrate this court, bringing energy and passion to all the basketball and art lovers.
 
-
+</br>
 
 Since day one, the project was supported by Sameiro Araújo, Vice-President of the Municipality of Braga: “We immediately realised the enormous potential of the project in the sports, social and cultural transformation of that space and region. This project will also make it possible to bring basketball back to Leões das Enguardas – one of the historical clubs in the region – but also to encourage the informal practice between young people and the activation of the space by other clubs in the region”.
 

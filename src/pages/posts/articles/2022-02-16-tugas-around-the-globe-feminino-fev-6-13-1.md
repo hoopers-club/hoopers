@@ -15,23 +15,23 @@ Numa semana que fica marcada pela ausência de jogos na Liga Feminina Endesa, 1�
 Lavínia da Silva é o grande destaque a atuar na Europa, mais precisamente na Islândia onde desempenha um papel fundamental no Njardvik, que detém um recorde de 11-4 na Liga.
 
 \
-
+</br>
 
 # Em terras de nuestras hermanas…
 
-
+</br>
 
 **Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
 \- Não jogou esta semana.
 
-
+</br>
 
 **Maria João Correia (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
 \- Não jogou esta semana.
 
-
+</br>
 
 **Sofia da Silva (Duran Maquinaria Ensino Lugo, Liga Femenina Endesa – Espanha):**
 
@@ -39,35 +39,35 @@ Lavínia da Silva é o grande destaque a atuar na Europa, mais precisamente na I
 
 Nota: O motivo da ausência de jogos é a pausa para o Mundial.
 
-
+</br>
 
 **Marcy Gonçalves (Osés Construcción Ardoi, Liga Feminina 2 - Espanha):** 
 
 \- Anotou 2 pontos, 1 ressalto em 12 minutos na vitória frente ao Clube Deportivo Zamarat, por 53-48. 
 
-
+</br>
 
 **Josephine Filipe (Osés Construcción Ardoi, Liga Feminina 2 - Espanha)**
 
 \- Marcou 12 pontos, 7 ressaltos, 1 assistência e 2 roubos de bola na vitória frente a Clube Deportivo Zamarat, por 53-48. 
 
-
+</br>
 
 **Joana Ferreira (Fustecma Nou Basquet Castello, Liga Femenina 2 – Espanha):**
 
 \- Anotou 2 pontos, 3 ressaltos, 3 assistência e 2 roubos de bola em 23 minutos, na vitória frente a EKKE CB Lleida, por 56-70. 
 
-
+</br>
 
 **Catarina Frederico (Milar Cordoba, Liga Femenina 2 – Espanha):**
 
 \- Apontou 7 pontos, 3 ressaltos, 2assistência em 32 minutos na derrota frente a Ingenia Solar Energy Costa de Almeria, por 60-68. 
 
-
+</br>
 
 # Pela restante Europa…
 
-
+</br>
 
 **Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):**
 
@@ -75,17 +75,17 @@ Nota: O motivo da ausência de jogos é a pausa para o Mundial.
 
 \- Marcou 22 pontos, 17 ressaltos, 6 assistências e 2 roubos de bola em 31 minutos. Venceu o jogo por 82-55, frente a Fjolnir.
 
-
+</br>
 
 **Inês Viana**
 
 \- Não jogou esta semana.
 
-
+</br>
 
 # Estados Unidos da América dominados …
 
-
+</br>
 
 **Maria Carvalho (Utah Valley University, NJCAA - Estados Unidos da América)**
 
@@ -93,7 +93,7 @@ Nota: O motivo da ausência de jogos é a pausa para o Mundial.
 
 \- Registou 12 pontos, 7 ressaltos, 3 assistências e 1 roubo de bola na vitória por 66-32 frente a New Mexico State. 
 
-
+</br>
 
 **\
 Luana Serranho (Campbell WBB, NJCAA - Estados Unidos da América)**
@@ -104,7 +104,7 @@ Luana Serranho (Campbell WBB, NJCAA - Estados Unidos da América)**
 
 \- Registou 8 pontos, 2 ressaltos, 3 assistências e 1 roubo de bola na vitória frente a Charleston So., por 63-52.
 
-
+</br>
 
 **Marta Vargas (Rhode Island, NCAA - Estados Unidos da América)**
 

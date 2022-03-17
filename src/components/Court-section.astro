@@ -1,25 +1,24 @@
 ---
 
-let frontpage = await Astro.fetchContent('../pages/posts/frontpage/*.md');
+let frontpage = Astro.fetchContent('../pages/posts/frontpage/*.md');
 
 ---
 
-<section class="courts" >
-	<div class="title">
-		<div class="title-section notranslate centerright-i">courts</div>
-		<img class="line centerleft-i " src="/assets/Homepage/section line.svg" alt="line" />
-	</div>
-	<div class="content down-i">
-		<div class="content-left">
-			<img class="" src={frontpage[0]?.courtImage} alt="" />
-		</div>
-		<div class="content-right">
-		<!--
-			inside following div:
-			dangerouslySetInnerHTML={{ __html: frontpage[0]?.courtDescription }}-->
-			<div set:html={frontpage[0]?.courtDescription} class="text fonte-creditos"></div>
-			<div class="buttons condensed" onclick="location.href='/courts'">Our <span class="notranslate">Courts</span></div>
-		</div>
-	</div>
-</section>
+	<section class="courts" >
+			<div class="title">
+				<div class="title-section notranslate centerright-i">courts</div>
+				<img class="line centerleft-i " src="/assets/Homepage/section line.svg" alt="line" />
+			</div>
+			<div class="content down-i">
+				<div class="content-left">
+					<img class="" src={frontpage[0]?.courtImage} alt="" />
+				</div>
+				<div class="content-right">
+					<div class="text fonte-creditos" dangerouslySetInnerHTML={{ __html: frontpage[0]?.courtDescription }}>
+					{frontpage[0]?.courtDescription}
+					</div>
+					<div class="buttons condensed" onclick="location.href='/courts'">Our <span class="notranslate">Courts</span></div>
+				</div>
+			</div>
+		</section>
 

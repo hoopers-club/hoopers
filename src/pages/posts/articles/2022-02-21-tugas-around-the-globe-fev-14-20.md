@@ -14,11 +14,11 @@ A paragem irá ser marcada por dois jogos, os dois frente à França, sendo o pr
 
 Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e Rúben Prey, a atuar em duas competições diferentes, foram os destaques da semana. (PS: ambos internacionais sub-16 e sub-20, respetivamente, em 2021)
 
-
+</br>
 
 ## Em terras de nuestros hermanos…
 
-
+</br>
 
 #### **Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
 
@@ -48,21 +48,21 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Apontou 7 pontos, 7 ressaltos, 4 assistências e 1 roubo de bola em 26 minutos, na vitória de Chantada sobre o CB La Flecha por 77-58.
 
-
+</br>
 
 ## Em França fala-se português…
 
-
+</br>
 
 #### **Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
 
 \- Não jogou esta semana.
 
-
+</br>
 
 ## Pela restante Europa…
 
-
+</br>
 
 #### **Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
 
@@ -76,11 +76,11 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Marcou 12 pontos e 4 ressaltos em 27 minutos na vitória do Chiusi por 77-60.
 
-
+</br>
 
 ## **Nos States…**
 
-
+</br>
 
 #### **André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)**
 
@@ -90,7 +90,7 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Registou 15 pontos e 6 ressaltos na vitória frente a Casper por 73-77
 
-
+</br>
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
 
