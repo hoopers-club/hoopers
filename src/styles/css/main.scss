@@ -410,21 +410,6 @@ table .strong {
 	}
 }
 
-html,
-body,
-main {
-	// scroll-snap-type: y mandatory;
-}
-
-.page,
-.container,
-section {
-	//scroll-snap-align: start;
-}
-
-footer {
-	// scroll-snap-align: end;
-}
 
 /* -------------------------------------------------------------------------- */
 
@@ -628,8 +613,7 @@ footer {
 		.share-close {
 			display: none;
 		}
-		&:checked {
-		}
+		
 	}
 }
 
