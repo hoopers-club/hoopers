@@ -33,8 +33,19 @@ const SearchResult = ({ articles }) => {
 							href={article?.url}
 							target='_blank'>
 							<div>
+							
 								<div className='img'>
-									<img src={article?.image} alt='' />
+									<div 
+										style={{
+											background: `url(${article?.image})`,
+											backgroundPosition: `center`,
+											backgroundSize: 'cover',
+											backgroundRepeat: 'no-repeat',
+											width: '100%',
+											height: '100%'
+										}}
+										
+									></div>
 								</div>
 								<div className='article-title' style={{ fontSize: '0.8em' }}>
 									{article?.title}
