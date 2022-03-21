@@ -4,7 +4,7 @@ subname: |
   Diogo Peixe liderou a armada jovem esta jornada
 featured: true
 publishDate: Mar 21, 2022-09:03:23
-image: /assets/uploads/youth.jpeg
+image: /assets/uploads/diogo.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
@@ -25,6 +25,8 @@ Num conjunto onde jogadores estrangeiros **(Southerland, Thomas, McCloud, Watkin
 **João Neves** registou 3 ressaltos ao serviço do Imortal de Albufeira frente ao Benfica, na derrota por 95-64.
 
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🏀 <a href="https://twitter.com/SLBenfica?ref_src=twsrc%5Etfw">@SLBenfica</a> 95-64 <a href="https://twitter.com/ImortalBasket?ref_src=twsrc%5Etfw">@ImortalBasket</a> <br>🏆 𝐋𝐢𝐠𝐚 𝐁𝐞𝐭𝐜𝐥𝐢𝐜 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐚 (13.ª jornada)<br>📍 Pavilhão Fidelidade <br>⭐ <a href="https://twitter.com/TheGreat30?ref_src=twsrc%5Etfw">@thegreat30</a> (18pts, 7res, 1ast, 2dl)<br>📊 <a href="https://t.co/AbiJsy15QZ">https://t.co/AbiJsy15QZ</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/o6wVaTjumg">pic.twitter.com/o6wVaTjumg</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1505286217629376512?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote>
+
+**Curiosidade:** 4 dos 5 jogadores aqui presentes sagraram-se campeões europeus da Divisão B do campeonato sub-20.
 
 Escrito por: **Martim Figueiredo**
 
