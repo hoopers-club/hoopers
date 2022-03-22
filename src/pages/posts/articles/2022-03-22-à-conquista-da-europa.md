@@ -4,7 +4,7 @@ subname: |
   Marcus, Diogo, Rafa, Brito e Jay Wilson em destaque esta semana!
 featured: true
 publishDate: Mar 22, 2022-15:03:16
-image: /assets/uploads/rafael_lisboa.jpeg
+image: /assets/uploads/rafa_02.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
