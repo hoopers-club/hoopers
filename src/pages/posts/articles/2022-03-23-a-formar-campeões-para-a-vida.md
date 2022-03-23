@@ -13,6 +13,8 @@ O projeto da **MVP Academy**, sediado no Centro Olímpico de Rio Maior (Santaré
 
 São fruto de uma década de curtos eventos MVP por Portugal e pela Europa, sendo **um projeto que aposta no correto e global desenvolvimento do atleta (técnico, físico e mental) dentro e fora do campo**, com um apoio diário individualizado.
 
+![MVP Academy](/assets/uploads/mvp_03.jpeg "MVP Academy")
+
 Possuem uma equipa de trabalho dedicada e especializada, desde Treinadores Residentes, Nutricionista, Psicólogos, Preparadores Físicos e Tutores Académicos. Esta vertente profissional facilita a promoção e formação de bons atletas e estudantes.
 
 **Teresa Mbemba**, atleta internacional Angolana, que conta com algumas presenças em competições internacionais da FIBA é uma das mais recente chegadas à MVP Academy, mas já outros atletas passaram pelo programa, como a **Leonor Ferreira** e a **Ana Rita Antunes** que seguiram para os EUA com uma bolsa de estudo completa, ou o **Pedro Fortunato** e o **Salvador Janzen** que seguiram para Itália onde estão a jogar, entre muitos outros.
