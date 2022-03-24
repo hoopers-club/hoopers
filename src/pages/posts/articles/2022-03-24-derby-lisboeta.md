@@ -124,4 +124,6 @@ O jogador chave no conjunto encarnado foi Ben Romdhane, que registou um triplo-d
 
 <!--EndFragment-->
 
+Escrito por: **Martim Figueiredo**
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
