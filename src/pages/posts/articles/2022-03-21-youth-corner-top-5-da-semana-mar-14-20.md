@@ -4,7 +4,7 @@ subname: |
   Diogo Peixe liderou a armada jovem esta jornada
 featured: true
 publishDate: Mar 21, 2022-09:03:23
-image: /assets/uploads/diogo.jpeg
+image: /assets/uploads/diogo_02.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
