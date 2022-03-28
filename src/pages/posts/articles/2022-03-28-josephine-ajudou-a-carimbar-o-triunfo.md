@@ -61,6 +61,8 @@ layout: ../../../Layout/single-article.astro
 
 \- Apontou 4 pontos, 5 ressaltos e 2 assistências, na vitória sobre o Braine, por 72-79.
 
+</br>
+
 ## Estados Unidos da América dominados …
 
 </br>
