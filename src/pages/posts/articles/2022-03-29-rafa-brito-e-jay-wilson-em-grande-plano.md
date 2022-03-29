@@ -14,8 +14,7 @@ Quem também continua em bom plano é o naturalizado **Jeremiah Wilson**, que co
 
 </br>
 
-## \
-Em terras de nuestros hermanos…
+## Em terras de nuestros hermanos…
 
 </br>
 
@@ -80,8 +79,6 @@ Em terras de nuestros hermanos…
 </br>
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para **info@hoopers.club.**
-
-
 
 Escrito por: **Martim Figueiredo**
 
