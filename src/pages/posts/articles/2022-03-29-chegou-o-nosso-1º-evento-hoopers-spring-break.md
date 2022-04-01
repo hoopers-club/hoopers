@@ -29,7 +29,7 @@ O **HOOPERS SPRING BREAK** terá lugar este sábado, dia 2 de Abril, entre as 14
 
 <!--StartFragment-->
 
-Mas como ninguém faz a festa sozinho, a Hoopers convidou alguns amigos para se juntarem e participarem nesta celebração especial e que vão ajudar a tornar este dia cada vez mais especial: a Associação do Porto de Lisboa, a Decathlon e a Cerveja MUSA também estão na dinamização deste evento. Além da competição principal de Basquetebol 3x3, existirão outros espaços dedicados no local dedicados aos mais novos, à arte urbana e à música.
+Mas como ninguém faz a festa sozinho, a Hoopers convidou alguns amigos para se juntarem e participarem nesta celebração especial e que vão ajudar a tornar este dia cada vez mais especial: a Administração do Porto de Lisboa, a Decathlon e a Cerveja MUSA também estão na dinamização deste evento. Além da competição principal de Basquetebol 3x3, existirão outros espaços dedicados no local dedicados aos mais novos, à arte urbana e à música.
 
 <!--EndFragment-->
 
