@@ -25,7 +25,7 @@ O **HOOPERS SPRING BREAK** terá lugar este sábado, dia 2 de Abril, entre as 14
 
 <!--EndFragment-->
 
-![](/assets/uploads/hoopers_spring_break_event_article_photo.jpeg)
+![](/assets/uploads/agenda.jpg)
 
 <!--StartFragment-->
 
