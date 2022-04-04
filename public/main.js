@@ -2,7 +2,6 @@
 // const app = express();
 const axios = require('axios');
 const cheerio = require('cheerio');
-const cron = require('node-cron');
 const fs = require('fs');
 url = 'https://www.nbaportugal.com/category/artigos/';
 urlslam = 'https://www.slamonline.com/category/nba/';
@@ -38,7 +37,6 @@ const getNbaportugal = () => {
 		.then((response) => {
 			const html = response.data;
 			const $ = cheerio.load(html);
-			console.log("Nba Portugal's data: " + html);
 			const articles = [];
 			$('article', html).each(function () {
 				const title = $(this).find('a').attr('title');
@@ -50,7 +48,10 @@ const getNbaportugal = () => {
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
+
 			fs.writeFileSync('public/nba.json', data);
+			
+			console.log("Nba Portugal's data: " + articles);
 		})
 		.catch((err) => console.log(err));
 };
