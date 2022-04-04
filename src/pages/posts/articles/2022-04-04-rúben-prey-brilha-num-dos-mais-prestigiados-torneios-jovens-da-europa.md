@@ -76,7 +76,7 @@ Em Itália, **Rúben Prey** não se fez rogar e esteve ao mais alto nível no **
 
 </br>
 
-#### Pela restante Europa…
+## Pela restante Europa…
 
 </br>
 
