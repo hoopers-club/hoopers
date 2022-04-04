@@ -77,6 +77,8 @@ const slam = () => {
 			});
 			// console.log(articles);
 			let data = JSON.stringify(articles);
+			
+			console.log("Nba Portugal's data: " + data);
 
 			fs.writeFileSync('slam.json', data);
 		})
