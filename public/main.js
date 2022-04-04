@@ -78,7 +78,7 @@ const slam = () => {
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
-			fs.writeFileSync('public/slam.json', data);
+			fs.writeFileSync('slam.json', data);
 		})
 		.catch((err) => console.log(err));
 };
@@ -98,7 +98,7 @@ const ballislife = () => {
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
-			fs.writeFileSync('public/ballislife.json', data);
+			fs.writeFileSync('ballislife.json', data);
 		})
 		.catch((err) => console.log(err));
 };
@@ -118,7 +118,7 @@ const bleach = () => {
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
-			fs.writeFileSync('public/bleach.json', data);
+			fs.writeFileSync('bleach.json', data);
 		})
 		.catch((err) => console.log(err));
 };
@@ -144,7 +144,7 @@ const realgm = () => {
 			// console.table(articles);
 			let data = JSON.stringify(articles);
 
-			fs.writeFileSync('public/realgm.json', data);
+			fs.writeFileSync('realgm.json', data);
 		})
 		.catch((err) => console.log(err));
 };
