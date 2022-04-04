@@ -8,7 +8,6 @@ import ballislife from '/ballislife.json';
 let allPosts = await Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
 
-console.log(slam);
 ---
 
 <Bases>
