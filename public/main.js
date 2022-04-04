@@ -38,6 +38,7 @@ const getNbaportugal = () => {
 		.then((response) => {
 			const html = response.data;
 			const $ = cheerio.load(html);
+			console.log(cheerio);
 			const articles = [];
 			$('article', html).each(function () {
 				const title = $(this).find('a').attr('title');
