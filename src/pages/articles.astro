@@ -1,13 +1,16 @@
 ---
 import Bases from '../Layout/Layout-Article.astro';
-import nbaportugal from '/nba.json';
+import nbaportugal from '/public/nba.json';
 import slam from '/slam.json';
 import realgm from '/realgm.json';
 import ballislife from '/ballislife.json';
 
 let allPosts = await Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
-//console.log(nbaportugal);
+console.log("nba portugal: " + nbaportugal);
+console.log("slam: " + slam);
+console.log("real gm: " + realgm);
+console.log("ball is life: " + ballislife);
 ---
 
 <Bases>
