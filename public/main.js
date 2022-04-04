@@ -49,7 +49,7 @@ const getNbaportugal = () => {
 			let data = JSON.stringify(articles);
 
 
-			fs.writeFileSync('nba.json', data);
+			fs.writeFileSync('/public/nba.json', data);
 			
 			console.log("Nba Portugal's data: " + data);
 		})
