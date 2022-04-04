@@ -51,7 +51,7 @@ const getNbaportugal = () => {
 
 			fs.writeFileSync('nba.json', data);
 			
-			console.log("Nba Portugal's data: " + data);
+			//console.log("Nba Portugal's data: " + data);
 		})
 		.catch((err) => console.log(err));
 };
