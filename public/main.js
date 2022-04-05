@@ -131,7 +131,7 @@ const realgm = () => {
 			const $ = cheerio.load(html);
 			const articles = [];
 			$('.article', html).each(function () {
-				const title = $(this).find('.article-title').html();
+				const title = $(this).find('.article-title').text();
 				const url =
 					'https://basketball.realgm.com' + $(this).find('a').attr('href');
 				const image = $(this).find('img').attr('src')
