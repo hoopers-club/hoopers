@@ -235,7 +235,7 @@ collections:
   - name: 'nftheadline'
     label: 'NFT Headline'
     create: true
-    folder: 'src/pages/nftheadline'
+    folder: 'src/pages/posts/nftheadline'
     slug: '{{year}}-{{month}}-{{day}}-{{fields.dropname}}'
     fields:
       - { label: 'Drop Name', name: 'dropname', widget: 'string', required: true }
@@ -258,7 +258,7 @@ collections:
   - name: 'nftcountdowns'
     label: 'NFT Countdowns'
     create: true
-    folder: 'src/pages/nftcountdowns'
+    folder: 'src/pages/posts/nftcountdowns'
     slug: '{{year}}-{{month}}-{{day}}-{{fields.countname}}'
     fields:
       - {label: 'Countdown Name', name: 'countname', widget: 'string', required: true}
