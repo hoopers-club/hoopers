@@ -232,7 +232,7 @@ collections:
           picker_utc: false,
           required: true,
         }
-  - name: 'nft-headline'
+  - name: 'nftheadline'
     label: 'NFT Headline'
     create: true
     folder: 'src/pages/nftheadline'
@@ -255,7 +255,7 @@ collections:
           widget: 'boolean',
           default: false,
         }
-  - name: 'nft-countdowns'
+  - name: 'nftcountdowns'
     label: 'NFT Countdowns'
     create: true
     folder: 'src/pages/nftcountdowns'
