@@ -4,7 +4,7 @@ subname: |
   Diogo Brito termina a sua época em Espanha. 
 featured: true
 publishDate: Apr 11, 2022-16:04:46
-image: /assets/uploads/tugas_banner.jpg
+image: /assets/uploads/tugas_banner_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
@@ -71,6 +71,8 @@ layout: ../../../Layout/single-article.astro
 #### Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
 \- Apontou 16 pontos, 2 ressaltos e 7 assistências na vitória frente ao Leeuwarden, por 92-50.
+
+![Rafael Lisboa](/assets/uploads/tugas_banner.jpg "Rafael Lisboa")
 
 #### Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):
 
