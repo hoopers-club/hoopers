@@ -4,7 +4,7 @@ subname: |
   Diogo Brito termina a sua época em Espanha. 
 featured: true
 publishDate: Apr 11, 2022-16:04:46
-image: /assets/uploads/tugas_banner_02.jpg
+image: /assets/uploads/tugas_banner.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
