@@ -1,5 +1,5 @@
-@use '../abstracts/colors' as *;
-@use '../abstracts/fonts' as *;
+@use "../abstracts/colors" as *;
+@use "../abstracts/fonts" as *;
 
 .menus {
 	min-height: 100vh;
@@ -53,7 +53,7 @@
 	display: grid;
 	place-items: center;
 	img {
-		max-width: 10em !important;
+		width: 10em;
 		display: flex;
 		margin: auto;
 	}
@@ -63,57 +63,6 @@
 	padding-left: 5%;
 }
 
-.appbar-transparent {
-	background-color: rgba(8, 8, 8, 0%);
-	transition: all 0.5s ease-in-out;
-}
-.appbar-solid {
-	justify-content: space-between;
-	background-color: #080808;
-	transition: all 0.5s ease-in-out;
-	.logo {
-		justify-content: center;
-		// width: 100% !important;
-		transition: all 0.5s ease-in-out;
-		img {
-			display: flex;
-			margin: auto;
-
-			max-width: 6em !important;
-			transition: all 0.5s ease-in-out;
-		}
-	}
-	.lang {
-		transition: all 0.5s ease-in-out;
-		img {
-			max-width: 4em !important;
-			transition: all 0.5s ease-in-out;
-		}
-	}
-	.menu {
-		justify-content: left;
-		transition: all 0.5s ease-in-out;
-		img {
-			max-width: 3em !important;
-			transition: all 0.5s ease-in-out;
-		}
-	}
-}
-
-@media screen and (max-width: 500px) {
-	.logo {
-		img {
-			width: 5em;
-		}
-	}
-	.menus-list {
-		ul {
-			li {
-				font-size: 2em;
-			}
-		}
-	}
-}
 .hide {
 	display: none !important;
 }

@@ -61,7 +61,6 @@ html {
 	justify-content: space-between;
 	padding: 1em;
 	align-items: center;
-	// padding: 2em;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -70,35 +69,77 @@ html {
 	z-index: 6;
 	flex: 1;
 	transition: all 0.5s ease-in-out;
-	// margin-bottom: auto;
 	.logo {
 		cursor: pointer;
-		display: flex;
 		flex: 0.33;
-		justify-content: space-around;
 		width: 100%;
+		text-align: center;
+		margin-left: 1em;
 		img {
 			transition: all 0.5s ease-in-out;
-			width: 100%;
-			height: 100%;
+			width: 20em;
 		}
 	}
 	.menu {
-		display: flex;
 		width: 100%;
 		flex: 0.33;
-		// justify-content: space-around;
+		display: flex;
 	}
 	.lang {
 		display: flex;
 		width: 100%;
-		margin-left: auto;
-		justify-content: flex-end;
 		flex: 0.33;
+		text-align: end;
 		transition: all 0.5s ease-in-out;
 		a {
 			display: flex;
 			margin-left: auto;
+			.shop-link {
+				font-family: "Roboto-medium";
+				color: $dark-orange;
+				font-size: 2.5em;
+			}
+		}
+	}
+}
+
+.menu-close {
+	width: 5em;
+}
+.appbar-transparent {
+	background-color: rgba(8, 8, 8, 0%);
+	transition: all 0.5s ease-in-out;
+}
+
+.appbar-solid {
+	background-color: #080808;
+	transition: all 0.5s ease-in-out;
+	.logo {
+		justify-content: center;
+		transition: all 0.5s ease-in-out;
+		display: flex;
+		img {
+			display: flex;
+			margin: auto;
+			width: 6em;
+			transition: all 0.5s ease-in-out;
+		}
+	}
+	.lang {
+		transition: all 0.5s ease-in-out;
+		display: flex;
+		a {
+			span.shop-link {
+				font-size: 1.5em;
+			}
+		}
+	}
+	.menu {
+		justify-content: left;
+		transition: all 0.5s ease-in-out;
+		img {
+			width: 3em;
+			transition: all 0.5s ease-in-out;
 		}
 	}
 }
@@ -355,6 +396,12 @@ table .strong {
 
 /* -------------------------------------------------------------------------- */
 
+@media screen and (max-width: 1000px) {
+	.headline {
+		font-size: 4em;
+	}
+}
+
 @media screen and (max-width: 50em) {
 	.buttons {
 		align-self: center;
@@ -400,14 +447,50 @@ table .strong {
 	}
 }
 
+@media screen and (max-width: 500px) {
+	.menu-close {
+		width: 5em;
+	}
+
+	.appbar-transparent {
+		.logo {
+			margin-left: 0;
+			img {
+				width: 8em;
+			}
+		}
+		.menu {
+			img {
+				width: 3.5em;
+			}
+		}
+		.lang {
+			a {
+				span.shop-link {
+					font-size: 1.6em;
+				}
+			}
+		}
+	}
+
+	.appbar-solid {
+		.logo {
+			margin: 0;
+		}
+	}
+
+	.menus-list {
+		ul {
+			li {
+				font-size: 2em;
+			}
+		}
+	}
+}
+
 @media screen and (max-width: 450px) {
 	.headline h2 {
 		font-size: 1.2em !important;
-	}
-}
-@media screen and (max-width: 1000px) {
-	.headline {
-		font-size: 4em;
 	}
 }
 

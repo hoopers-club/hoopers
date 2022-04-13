@@ -11,9 +11,9 @@ const Sitemap = ({ openSitemap }) => {
 			<div className="nav">
 				<div className="menu" onClick={openSitemap}>
 					<img
-						style={{ width: "5em" }}
 						src="/assets/Homepage/close.svg"
 						alt="menu"
+						className="menu-close"
 					/>
 				</div>
 				<div className="logo-menu" style={{ maxWidth: "100%" }}>

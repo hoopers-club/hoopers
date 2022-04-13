@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import Sitemap from './Sitemap.jsx';
+import React, { useState, useEffect } from "react";
+import Sitemap from "./Sitemap.jsx";
 const Menu = ({ open, setOpen }) => {
 	/* -------------------------------------------------------------------------- */
 	/*                                    menu                                    */
@@ -12,7 +12,7 @@ const Menu = ({ open, setOpen }) => {
 		console.log(open);
 		console.log(openSite);
 	};
-	const [navBackground, setNavBackground] = useState('appbar-transparent');
+	const [navBackground, setNavBackground] = useState("appbar-transparent");
 	const navRef = React.useRef();
 	navRef.current = navBackground;
 
@@ -20,39 +20,37 @@ const Menu = ({ open, setOpen }) => {
 		const handleScroll = () => {
 			const show = window.scrollY > 200;
 			if (show) {
-				setNavBackground('appbar-solid');
+				setNavBackground("appbar-solid");
 			} else {
-				setNavBackground('appbar-transparent');
+				setNavBackground("appbar-transparent");
 			}
 		};
-		document.addEventListener('scroll', handleScroll);
+		document.addEventListener("scroll", handleScroll);
 		return () => {
-			document.removeEventListener('scroll', handleScroll);
+			document.removeEventListener("scroll", handleScroll);
 		};
 	}, []);
 
 	return (
 		<div className={`nav ${navRef.current} `}>
-			<div className='menu' onClick={openSitemap}>
-				<img src='/assets/Homepage/menu.png' alt='menu' />
+			<div className="menu" onClick={openSitemap}>
+				<img src="/assets/Homepage/menu.png" alt="menu" />
 			</div>
 
-			<div className='logo'>
-				<a href='/'>
-					<img src='/assets/Homepage/hoopers_club_logo.svg' alt='' />
+			<div className="logo">
+				<a href="/">
+					<img src="/assets/Homepage/hoopers_club_logo.svg" alt="" />
 				</a>
 			</div>
 
-			<div className='lang'>
-				<a href='https://hoopers.store/' target='_blank'>
-					<img src='/assets/Homepage/shop.png' alt='' />
+			<div className="lang">
+				<a href="https://hoopers.store/" target="_blank">
+					<span class="shop-link">SHOP</span>
 				</a>
-				
 			</div>
-			{openSite ? <Sitemap openSitemap={openSitemap} /> : ''}
+			{openSite ? <Sitemap openSitemap={openSitemap} /> : ""}
 		</div>
 	);
 };
-
 
 export default Menu;
