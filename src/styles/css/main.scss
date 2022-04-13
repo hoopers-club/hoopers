@@ -98,6 +98,7 @@ html {
 				font-family: "Roboto-medium";
 				color: $dark-orange;
 				font-size: 2.5em;
+				transition: all 0.5s ease-in-out;
 			}
 		}
 	}
@@ -131,6 +132,7 @@ html {
 		a {
 			span.shop-link {
 				font-size: 1.5em;
+				transition: all 0.5s ease-in-out;
 			}
 		}
 	}
