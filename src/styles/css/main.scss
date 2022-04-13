@@ -1,19 +1,20 @@
-@use './abstracts/colors' as *;
-@use './abstracts/fonts' as *;
-@use './components/footers' as *;
-@use './components/articles' as *;
-@use './components/single' as *;
-@use './components/termscookiespolicy' as *;
-@use './components/about' as *;
-@use './components/careers' as *;
-@use './components/menu' as *;
-@use './components/courtdetail' as *;
-@use './components/court' as *;
-@use './components/search' as *;
-@use './components/esport' as *;
-@use './components/modal' as *;
-@use './components/nft' as *;
-@use './components/hero' as *;
+@use "./abstracts/colors" as *;
+@use "./abstracts/fonts" as *;
+@use "./components/footers" as *;
+@use "./components/articles" as *;
+@use "./components/single" as *;
+@use "./components/termscookiespolicy" as *;
+@use "./components/about" as *;
+@use "./components/careers" as *;
+@use "./components/menu" as *;
+@use "./components/courtdetail" as *;
+@use "./components/court" as *;
+@use "./components/search" as *;
+@use "./components/esport" as *;
+@use "./components/modal" as *;
+@use "./components/nft" as *;
+@use "./components/nft-test" as *;
+@use "./components/hero" as *;
 * {
 	padding: 0;
 	margin: 0;
@@ -275,7 +276,7 @@ section {
 		align-items: center;
 		width: 3em;
 		height: 100%;
-		background: url('/assets/Homepage/lupa.svg');
+		background: url("/assets/Homepage/lupa.svg");
 		background-repeat: no-repeat;
 		background-color: $white;
 		flex: 1;
@@ -345,7 +346,7 @@ td {
 }
 
 table .strong {
-	font-family: 'Charter-Bold';
+	font-family: "Charter-Bold";
 }
 
 /* -------------------------------------------------------------------------- */
@@ -400,7 +401,7 @@ table .strong {
 }
 
 @media screen and (max-width: 450px) {
-	.headline h2{
+	.headline h2 {
 		font-size: 1.2em !important;
 	}
 }
@@ -409,7 +410,6 @@ table .strong {
 		font-size: 4em;
 	}
 }
-
 
 /* -------------------------------------------------------------------------- */
 
@@ -592,7 +592,7 @@ table .strong {
 		flex-direction: column;
 		transition: max-height 2s forwards ease-in-out;
 	}
-	input[type='checkbox'] {
+	input[type="checkbox"] {
 		display: none;
 		label {
 			.share-close {
@@ -613,7 +613,6 @@ table .strong {
 		.share-close {
 			display: none;
 		}
-		
 	}
 }
 
@@ -748,4 +747,3 @@ body {
 .center-games {
 	margin-inline: auto;
 }
-
