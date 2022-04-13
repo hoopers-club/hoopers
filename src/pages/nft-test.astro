@@ -1,0 +1,341 @@
+---
+import Bases from '../Layout/Layout-Article.astro';
+import NftSection from '../components/nft-section.astro';
+import CountDown from '../components/Nft-countdown.astro';
+
+//let allPosts = Astro.fetchContent('./posts/articles/*.md');
+//allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
+
+
+/*
+nft platform possible future integration
+
+const response = await fetch('https://api.opensea.io/api/v1/collection/homecourt-1');
+const data = await response.json();
+console.log(data);
+*/
+---
+
+<Bases>
+	<div class="nftcursor"></div>
+
+	<!-- <Heros articles={allPosts} client:visible/> -->
+	<div class="container" id="nft-hero-container">
+		<div id="nft-hero" class="top hole hole-hero">
+			<div class="hero-items">
+				<!-- TODO: add inverted colors effects on animations, buttons, texts and imgs -->
+				<div id="hero-animation" class="anims"></div>
+
+				<div class="hero-text " style="opacity:0; animation: 1s ease-out 2s 1 normal forwards running down;">
+					At Hoopers our goal is to build the largest global basketball community platform and you can be part of this story, or even better: own a piece of it.
+				</div>
+				<!-- 
+					<div class="hero-subtext "  style="opacity:0; animation: 1s ease-out 3s 1 normal forwards running down;">
+					<a target="_blank" href="https://www.youtube.com/watch?v=F6ZIY-YexSg">
+						<span class="play-icon"></span>OFFICIAL HOOPERS NFT PROJECT VIDEO
+					</a>
+				</div>
+				
+				-->
+				
+				<div id="hero-buttons" class="nft-buttons-div"  style="opacity:0; animation: 1s ease-out 3s 1 normal forwards running down;">
+					<div class="nft-buttons btn-left"
+						onclick="window.open('/','_blank')">LEARN MORE
+					</div>
+
+					<div class="nft-buttons btn-right"
+						onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">BUY NFT's
+					</div> 
+				</div>
+					
+
+			</div>
+		</div>
+	</div>
+	<!-- TODO: add animation on view (slide up) and create new text -->
+	<div class="container nft-intro-text">
+		<span class="anim-left-one">In our first drop, we are offering a limited NFT collection of XXX assets (CryptoHooper) inspired by our iconic basketball courts, which were abandoned and were fully recovered by our team together with very talented urban artists. The game of basketball belongs to the streets and you can own a part of this amazing collection. We want to continue connecting the basketball community.</span>
+
+		<h1 class="nft-intro-join anim-left-two">JOIN THE CLUB!</h1>
+	</div>
+
+	<div class="container dark-section">
+		<h2 class="drop-countdown-title">LATEST DROPS</h2>
+			
+			<NftSection/>
+		
+		<div class="centered-button nft-buttons-div">
+			<div class="nft-buttons btn-right"
+				onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">BUY NFT's
+			</div>
+		</div>
+		
+		
+		<!-- TODO: create backend to create new next nft drop countdown timer-->
+		<CountDown/>
+
+		<div class="container icons-section-black">
+			<div class="icons-div-title white-text">
+				WHY<br>SHOULD I JOIN<br>THE CLUB?
+			</div>
+			
+			<div class="icon-items">
+				<div class="icons-first-line">
+					<div class="club-icons-div">
+						<img class="icons-img bounce-anim" src="/assets/LAB_Icon.png" alt="">
+						<div class="icons-title anim-up-one">NEW KIND OF NFT</div>
+						<div class="icons-text anim-up-two">
+							We believe we are the very first NFT collection inspired by iconic basketball courts built together and for the community. When buying a CryptoHooper, you’ll also be part of the history. It’s also your court.
+						</div>
+					</div>
+					<div class="club-icons-div">
+						<img class="icons-img bounce-2 bounce-anim" src="/assets/Heart_Icon.png" alt="">
+						<div class="icons-title anim-up-one">SUPPORT THE COMMUNITY</div>
+						<div class="icons-text anim-up-two">
+							5% of all the initial sales will be donated back to the basketball community, through organizations that support basketball building projects.
+						</div>
+					</div>
+					<div class="club-icons-div">
+						<img class="icons-img bounce-3 bounce-anim" src="/assets/Lock_Icon.png" alt="">
+						<div class="icons-title anim-up-one">OWNERSHIP</div>
+						<div class="icons-text anim-up-two">
+							When you purchase a CryptoHooper, you own the art, completely, for personal or commercial usage. At no point may we seize, freeze, or otherwise modify the ownership of any Hooper.
+						</div>
+					</div>
+				</div>
+				<div class="icons-last-line">
+					<div class="club-icons-div">
+						<img class="icons-img bounce-4 bounce-anim" src="/assets/Clock_Icon.png" alt="">
+						<div class="icons-title anim-up-one">EARLY ACCESS</div>
+						<div class="icons-text anim-up-two">
+							The current holders of a CryptoHooper will get first dibs on new stuff: new NFTs, new products, new contents or even exclusive experiences. Get your access to these amazing perks.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container icons-section-white">
+			<div id="section-white-title" class="icons-div-title black-text">
+				WHAT’S
+				<br>
+				OUR VISION FOR
+				<br>
+				THE FUTURE?
+			</div>
+			
+			<div class="icon-items">
+				<div class="icons-first-line">
+					<div class="club-icons-div">
+						<img class="icons-img bounce-anim" src="/assets/Star_Icon.png" alt="">
+						<div class="icons-title black-text anim-up-one">MEMBERSHIP CLUB</div>
+						<div class="icons-text black-text anim-up-two">
+							It’s called Hoopers Club for a reason. CryptoHooperz will be invited to join our exclusive Membership Club, which offers access to exclusive and limited products, contents and experiences.
+						</div>
+					</div>
+					<div class="club-icons-div">
+						<img class="icons-img bounce-2 bounce-anim" src="/assets/Money_Icon.png" alt="">
+						<div class="icons-title black-text anim-up-one">TOKENOMICS</div>
+						<div class="icons-text black-text anim-up-two">
+							By holding CryptoHooperz, we want you to automatically get HOOP$, our token, that will give you multiple options and perks in the future. Do reach, young blood.
+						</div>
+					</div>
+					<div class="club-icons-div">
+						<img class="icons-img bounce-3 bounce-anim" src="/assets/Thumb_Icon.png" alt="">
+						<div class="icons-title black-text anim-up-one">VOTING RIGHTS</div>
+						<div class="icons-text black-text anim-up-two">
+							CryptoHooperz holders will participate in the Hoopers’ future by influencing growth plans. The next invited artist to collaborate, the next city to expand, the new product lines to be announced. It’s also your call, we decide together!
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container icons-section-bg">
+			<div class="bg-title">JOIN THE HOOPERS NFT PROJECT!</div>
+			<div class="centered-button nft-buttons-div" style="padding-bottom: 18em; margin-bottom: 0; margin-top: 2em;">
+					<!--<div class="nft-buttons btn-left bg-btn"
+						onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">JOIN DISCORD
+					</div>-->
+
+					<div class="nft-buttons btn-right bg-btn"
+						onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">BUY NFT's
+					</div>
+				</div>
+		</div>
+
+
+
+	</div>
+
+
+	<!-- Animations using Lottie Json Files --> 
+	<script src="./assets/lottie.js"></script>
+	<script src="./assets/script.js"></script>
+	
+	<script>
+		
+
+		/*--------------------------------------------
+		|	Lottie Animations IntersectionObserver   |
+		--------------------------------------------*/
+		const lottieAnims = document.querySelectorAll('.anims');
+
+		observer_anims = new IntersectionObserver(entries=>{
+			entries.forEach(entry => {
+			
+				let isPlayed = false;
+
+				if (entry.intersectionRatio>0) {
+					heroAnimation.play();
+				}
+			});
+		});
+
+		lottieAnims.forEach(anim => {
+			observer_anims.observe(anim);
+		});
+		
+		/*--------------------------------------------
+		|	Animations Page                          |
+		--------------------------------------------*/
+		const animLeftOne = document.querySelectorAll('.anim-left-one');
+		const animLeftTwo = document.querySelectorAll('.anim-left-two');
+		const animUpOne = document.querySelectorAll('.icons-title');
+		const animUpTwo = document.querySelectorAll('.icons-text');
+
+		observeAnimLeftOne = new IntersectionObserver(entries=>{
+			entries.forEach(entry => {
+				if (entry.intersectionRatio > 0) {
+					entry.target.style.animation = `left 0.5s alternate ease-out`;
+				} else {
+					entry.target.style.animation = `none`;
+				}
+			});
+		});
+
+		observeAnimLeftTwo = new IntersectionObserver(entries=>{
+			entries.forEach(entry => {
+				if (entry.intersectionRatio > 0) {
+					entry.target.style.animation = `right 1s alternate ease-out`;
+				} else {
+					entry.target.style.animation = `none`;
+				}
+			});
+		});
+
+		observeAnimUpOne = new IntersectionObserver(entries=>{
+			entries.forEach(entry => {
+				if (entry.intersectionRatio > 0) {
+					entry.target.style.animation = `down 0.5s forwards ease-out`;
+				} else {
+					entry.target.style.animation = `none`;
+				}
+			});
+		});
+
+		observeAnimUpTwo = new IntersectionObserver(entries=>{
+			entries.forEach(entry => {
+				if (entry.intersectionRatio > 0) {
+					entry.target.style.animation = `down 0.5s forwards ease-out`;
+				} else {
+					entry.target.style.animation = `none`;
+				}
+			});
+		});
+
+		animLeftOne.forEach(left => {
+			observeAnimLeftOne.observe(left);
+		});
+
+		animLeftTwo.forEach(left => {
+			observeAnimLeftTwo.observe(left);
+		});
+
+		animUpOne.forEach(down => {
+			observeAnimUpOne.observe(down);
+		});
+
+		animUpTwo.forEach(down => {
+			observeAnimUpTwo.observe(down);
+		});
+
+		/*--------------------------------------------
+		|	Mouse Drag Invert Colors on IMG    	     |
+		--------------------------------------------*/
+
+		const div = document.querySelector('.hole');
+		let isIn = false;
+
+		document.addEventListener('mouseover', function() {
+			isIn = true;
+		});
+
+		document.addEventListener('mouseout', function() {
+			isIn = false;
+		});
+
+		document.addEventListener('mousemove', f => {
+			if (isIn) {
+				div.style.setProperty('--x', f.pageX + 'px');
+				div.style.setProperty('--y', f.pageY + 'px');
+			}
+		});
+
+		document.addEventListener('wheel', t => {
+			if (isIn) {
+				div.style.setProperty('--x', t.pageX + 'px' );
+				div.style.setProperty('--y', t.pageY + 'px' );
+			}
+		});
+
+		/*--------------------------------------------
+		|	Mouse Drag Bouncing Circles              |
+		--------------------------------------------*/
+
+		const cursor = document.querySelector('.nftcursor');
+	
+		document.addEventListener('mousemove', e => {
+			if (window.innerWidth >= 860) {
+				cursor.setAttribute("style", "display: visible; top: "+(e.pageY - 10)+"px; left: "+(e.pageX - 10)+"px;");
+			}
+		});
+
+
+		document.addEventListener('wheel', e => {
+			if (window.innerWidth >= 860) {
+				cursor.setAttribute("style", "display: visible; top: "+(e.pageY - 10)+"px; left: "+(e.pageX - 10)+"px;");
+			}
+		});
+
+		document.addEventListener('click', () => {
+			if (window.innerWidth >= 860) {
+
+				cursor.classList.add("expand");
+
+				setTimeout(() => {
+					cursor.classList.remove("expand");
+				}, 500);
+			}
+		});
+
+		/*--------------------------------------------
+		|	Media Queries					  		 |
+		--------------------------------------------*/
+		if (window.innerWidth < 860) {
+			document.getElementById("nft-hero").classList.remove("hole"); 
+			cursor.setAttribute("style", "display: none");
+		}
+		window.addEventListener('resize', function(event) {
+			if (window.innerWidth < 860) {
+				document.getElementById("nft-hero").classList.remove("hole");
+				cursor.setAttribute("style", "display: none");	 
+			} else {
+				document.getElementById("nft-hero").classList.add("hole");
+				cursor.setAttribute("style", "display: none");
+			}
+		}, true);
+	</script>
+		
+
+</Bases>

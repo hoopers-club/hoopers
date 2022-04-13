@@ -2,9 +2,9 @@
 
 let drops = await Astro.fetchContent('../pages/posts/nftheadline/*.md');
 
-drops=drops.sort((b,a)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
+drops=drops?.sort((b,a)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
 
-drops = drops.filter(drop=>drop.featured==true);
+drops = drops?.filter(drop=>drop.featured==true);
 ---
 	<!-- TODO: create backend to create new nft drop -->
 		
