@@ -93,8 +93,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title" >{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -103,8 +103,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item hidden" href={article.url} >
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title" >{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -127,8 +127,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item" href={article?.url} target="_blank" >
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -137,8 +137,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item hiddennba" href={article?.url}  target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -159,9 +159,9 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			{slam.filter(i=>i.author!=null).slice(0,6).map(article =>(
 				<a class="article-item" href={article.url} target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
-						<div class="img"><img src={article?.image} alt=""/></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -169,9 +169,9 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			{slam.filter(i=>i.author!=null).slice(6,slam.length).map(article =>(
 				<a class="article-item hiddenslam" href={article?.url} target="_blank" >
 					<div style="display: flex;flex-direction: column;height: 100%;">
-						<div class="img"><img src={article?.image} alt=""/></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>	
 			))}
@@ -191,10 +191,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		<div class="articles-list-all">
 			{realgm.filter(i=>i.author!=null).slice(0,6).map(article =>(
 				<a class="article-item" href={article.url} target="_blank">
-					<div  style="display: flex;flex-direction: column;height: 100%;" >
+					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -203,8 +203,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item hiddenreal" href={article.url} target="_blank" >
 					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
@@ -226,18 +226,18 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				<a class="article-item" href={article.url} target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
 				
 			{ballislife.filter(i=>i.author!=null).slice(6,ballislife.length).map(article =>(
 				<a class="article-item hiddenball" href={article.url}  target="_blank">
-					<div  style="display: flex;flex-direction: column;height: 100%;">
+					<div style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
-						<div class="article-title">{article?.title}</div>
-						<div class="article-writer"> BY {article?.author}</div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
 					</div>
 				</a>
 			))}
