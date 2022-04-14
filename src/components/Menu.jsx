@@ -45,7 +45,7 @@ const Menu = ({ open, setOpen }) => {
 
 			<div className="lang">
 				<a href="https://hoopers.store/" target="_blank">
-					<span class="shop-link">SHOP</span>
+					<span className="shop-link">SHOP</span>
 				</a>
 			</div>
 			{openSite ? <Sitemap openSitemap={openSitemap} /> : ""}
