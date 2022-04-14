@@ -1,5 +1,5 @@
-@use '../abstracts/colors' as *;
-@use '../abstracts/fonts' as *;
+@use "../abstracts/colors" as *;
+@use "../abstracts/fonts" as *;
 
 .sub-text {
 	//display: flex;
@@ -20,7 +20,6 @@
 		a {
 			text-decoration: underline;
 		}
-		
 	}
 	.quoted {
 		font-style: italic;
@@ -28,26 +27,23 @@
 		border-right: 3px solid $hoopers-yellow;
 		height: 100%;
 		&:before {
-			content: '';
+			content: "";
 			border-left: 3px solid $hoopers-yellow;
 			height: 100%;
 		}
 	}
 
-	ul, ol {
+	ul,
+	ol {
 		padding-left: 1em;
 
 		li {
 			padding-bottom: 0.5em;
-			font-family: $aktiv-grotesk-BoldItalicCD;
+			font-family: $aktiv-grotesk-italic;
 		}
 	}
-
 }
-
-
 
 section {
 	max-width: 100%;
 }
-
