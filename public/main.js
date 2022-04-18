@@ -1,37 +1,17 @@
 // const express = require('express');
 // const app = express();
+//imports
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+
+//urls to scrape
 url = "https://www.nbaportugal.com/category/artigos/";
-urlslam = "https://www.slamonline.com/category/nba/";
+urlslam = "https://www.slamonline.com/";
 ballurl = "https://ballislife.com/news/";
 bleachurl = "https://bleacherreport.com/nba";
 realgmurl = "https://basketball.realgm.com/nba/news";
-// const puppeteer = require('puppeteer');
 
-// Launching the Puppeteer controlled headless browser and navigate to the Digimon website
-// puppeteer.launch().then(async function (browser) {
-// 	const page = await browser.newPage();
-// 	await page.goto('https://www.nbaportugal.com/category/artigos/');
-
-// 	// Targeting the DOM Nodes that contain the Digimon names
-// 	const digimonNames = await page.$$eval(
-// 		'#content .post .article-content .entry-title a',
-// 		function (digimons) {
-// 			// Mapping each Digimon name to an array
-// 			return digimons.map(function (digimon) {
-// 				return digimon.innerText;
-// 			});
-// 		}
-// 	);
-
-// 	// Log the array of Digimon names to the terminal
-// 	console.log(digimonNames);
-
-// 	// Closing the Puppeteer controlled headless browser
-// 	await browser.close();
-// });
 const getNbaportugal = () => {
 	axios(url)
 		.then((response) => {
@@ -54,13 +34,15 @@ const getNbaportugal = () => {
 		})
 		.catch((err) => console.log(err));
 };
+
 const slam = () => {
 	axios(urlslam)
 		.then((response) => {
 			const html = response.data;
 			const $ = cheerio.load(html);
 			const articles = [];
-			$(".blog-post-vert", html).each(function () {
+			console.log($.text());
+			$(".h-bloglist-block", html).each(function () {
 				const title = $(this).find("h3").text();
 				const url = $(this).find("a").attr("href");
 				// const regauthor=//
@@ -77,12 +59,13 @@ const slam = () => {
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
-			console.log("Nba Portugal's data: " + data);
+			console.log("Slam: " + data);
 
 			fs.writeFileSync("slam.json", data);
 		})
 		.catch((err) => console.log(err));
 };
+
 const ballislife = () => {
 	axios(ballurl)
 		.then((response) => {
@@ -103,6 +86,8 @@ const ballislife = () => {
 		})
 		.catch((err) => console.log(err));
 };
+
+//TODO: fix it
 const bleach = () => {
 	axios(bleachurl)
 		.then((response) => {
@@ -123,6 +108,7 @@ const bleach = () => {
 		})
 		.catch((err) => console.log(err));
 };
+
 const realgm = () => {
 	axios(realgmurl)
 		.then((response) => {
@@ -150,14 +136,8 @@ const realgm = () => {
 		.catch((err) => console.log(err));
 };
 
-// cron.schedule('0 */8 * * *', function () {
 getNbaportugal();
 slam();
 ballislife();
 // bleach();
 realgm();
-// });
-// Making Express listen on port 7000
-// app.listen(7000, function () {
-// 	console.log('Running on port 7000.');
-// });

@@ -6,16 +6,17 @@ import Court from '../components/Court-section.astro';
 import Articles from '../components/Articles-section.astro';
 import Cookies from '../components/Cookies.astro';
 
+// get all articles from backoffice
 let allPosts = await Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() - new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf());
 
 ---
-
+<!-- displays layout import -->
 <Bases>
-
+    <!-- displays hero import -->
     <Hero/>
-
     <Court/>
+    <!-- displays articles import with data -->
     <Articles articles={allPosts} />
     <Products/>
     <Cookies/>

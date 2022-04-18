@@ -3,6 +3,7 @@ import Bases from './Layout.astro';
 
 const {content} = Astro.props;
 const {title, publishDate, author,subname, image} = content;
+//removes hour from publishDate
 const articleDate = publishDate.split('-')[0];
 
 ---

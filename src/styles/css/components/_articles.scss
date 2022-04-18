@@ -1,5 +1,5 @@
-@use '../abstracts/colors' as *;
-@use '../abstracts/fonts' as *;
+@use "../abstracts/colors" as *;
+@use "../abstracts/fonts" as *;
 
 /* -------------------------------------------------------------------------- */
 
@@ -66,7 +66,7 @@
 			max-width: 100%;
 		}
 	}
-	
+
 	/* -------------------------------------------------------------------------- */
 	/*                                all articles                                */
 	/* -------------------------------------------------------------------------- */
@@ -89,13 +89,13 @@
 				min-width: 100%;
 				overflow: hidden;
 				justify-content: center;
-			    display: flex;
+				display: flex;
 
 				//height: 18em;
 				img {
 					display: block;
 					margin: 0 auto auto auto;
-					height:17em;
+					height: 17em;
 					min-width: 100%;
 					object-fit: cover;
 				}
@@ -181,7 +181,7 @@
 	}
 }
 
-@media screen and (max-width:460px) {
+@media screen and (max-width: 460px) {
 	.sub-headline {
 		margin: 0 2em;
 	}
@@ -252,24 +252,25 @@
 	}
 }
 
-.hidden {
+.hidden,
+.hiddennba,
+.hiddenslam,
+.hiddenreal,
+.hiddenball,
+.hidden-link-nba,
+.hidden-link-slam,
+.hidden-link-real,
+.hidden-link-ball {
 	display: none !important;
 }
 
-.hiddennba {
-	display: none !important;
-}
-
-.hiddenslam {
-	display: none !important;
-}
-
-.hiddenreal {
-	display: none !important;
-}
-
-.hiddenball {
-	display: none !important;
+.buttons-double-div {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	.buttons-black {
+		margin: auto 0.5em;
+	}
 }
 
 .hidden-disable {
@@ -287,4 +288,14 @@
 	/* height: 100vh; */
 	/* background-color: #1d1d1b; */
 	z-index: o;
+}
+
+@media screen and (max-width: 875px) {
+	.buttons-double-div {
+		flex-direction: column;
+
+		.buttons-black {
+			margin: 0.25em auto;
+		}
+	}
 }

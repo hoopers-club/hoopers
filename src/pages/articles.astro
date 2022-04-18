@@ -78,7 +78,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 	<!-- Hoopers Article Section -->
 	<section class="articles white">
 		<div class="articles-featured">
-			<div class="featured">all articles</div>
+			<div class="featured">hoopers</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -90,7 +90,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		<div class="articles-list-all">
 			<!-- Filter 6 last articles, then filters the rest of them -->
 			{allPosts.slice(0,6).map(article =>(
-				<a class="article-item"  href={article.url}>
+				<a class="article-item article-top"  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div set:html={article?.title} class="article-title" ></div>
@@ -99,7 +99,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				</a>
 			))}
 				
-			{allPosts.slice(6,allPosts.length).map(article =>(
+			{allPosts.slice(6,18).map(article =>(
 				<a class="article-item hidden" href={article.url} >
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
@@ -111,7 +111,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 
 		</div>
 		
-		<div class="buttons-black centered" onclick="showMe()">show more</div>
+		<div id="hoopers-button" class="buttons-black centered " onclick="showMe()">show more</div>
 				
 		<div class="articles-featured">
 			<div class="featured notranslate">NBA Portugal</div>
@@ -133,7 +133,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				</a>
 			))}
 				
-			{nbaportugal.filter(i=>i.author!=null).slice(6,nbaportugal.length).map(article =>(
+			{nbaportugal.filter(i=>i.author!=null).slice(6,18).map(article =>(
 				<a class="article-item hiddennba" href={article?.url}  target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;" >
 						<div class="img"><img src={article?.image} alt=""></div>
@@ -144,10 +144,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			))}
 		</div>
 		
-		<div class="buttons-black centered" onclick="showMenba()">show more</div>
+		<div class="buttons-double-div">
+			<div class="buttons-black centered" onclick="showMeNba()">show more</div>
+			<div class="buttons-black centered hidden-link-nba" onclick="showMeNba()">go to nba portugal</div>
+		</div>
 		
 		<div class="articles-featured">
-			<div class="featured notranslate">Slam</div>
+			<div class="featured notranslate">Slam Online</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -176,8 +179,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				</a>	
 			))}
 		</div>
-	
-		<div class="buttons-black centered" onclick="showMeslam()">show more</div>
+		
+		<!--<div class="buttons-black centered" onclick="showMeslam()">show more</div>-->
 		
 		<div class="articles-featured">
 			<div class="featured notranslate">BasketBall RealGM</div>
@@ -198,8 +201,9 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					</div>
 				</a>
 			))}
-				
-			{realgm.filter(i=>i.author!=null).slice(6,realgm.length).map(article =>(
+			
+			
+			{realgm.filter(i=>i.author!=null).slice(6,18).map(article =>(
 				<a class="article-item hiddenreal" href={article.url} target="_blank" >
 					<div  style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
@@ -232,7 +236,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				</a>
 			))}
 				
-			{ballislife.filter(i=>i.author!=null).slice(6,ballislife.length).map(article =>(
+			{ballislife.filter(i=>i.author!=null).slice(6,18).map(article =>(
 				<a class="article-item hiddenball" href={article.url}  target="_blank">
 					<div style="display: flex;flex-direction: column;height: 100%;">
 						<div class="img"><img src={article?.image} alt=""></div>
@@ -248,46 +252,63 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		 
 	
 	<script>
-// button show more function
+		
+		const hoopersButElem = document.getElementById('hoopers-button');
+		
+
 		function showMe() {
 			const hiddenArticles=document.querySelectorAll('.hidden');
-	//console.log(hiddenArticles[0]) ; 
-
-  			if(hiddenArticles){
+			
+			if(hiddenArticles){
 				hiddenArticles.forEach(article=>{ 
 
 					article.classList.add('hidden-disabled');
 			 		article.classList.remove('hidden');
 		 		});
-   			} else {
-    			hiddenArticles.forEach(article=>{ 
-			
-					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+				
+				//updates buttons value and function
+				if (hoopersButElem.innerHTML === "show more") {
+					hoopersButElem.innerHTML = "show less";
+					hoopersButElem.setAttribute('onclick', 'showLess()');
+				}
+   			} 
+		}
 
-					article.classList.add('hidden');
+		function showLess() {
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			const articleTop = document.querySelector('.article-top');
+			
+			if(hiddenDisabled){
+				
+				hiddenDisabled.forEach(article=>{ 
+
 					article.classList.remove('hidden-disabled');
-				});
+			 		article.classList.add('hidden');
+		 		});
+				
+				//updates buttons value and function
+				if (hoopersButElem.innerHTML === "show less") {
+					hoopersButElem.innerHTML = "show more";
+					hoopersButElem.setAttribute('onclick', 'showMe()');
+				}
+			
+				articleTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
     		}
 		}
  
-		function showMenba() {
-			const hiddenArticles=document.querySelectorAll('.hiddennba');
+		function showMeNba() {
+			const hiddenArticlesNba=document.querySelectorAll('.hiddennba');
  
- 			if(hiddenArticles){
-				hiddenArticles.forEach(article=>{ 
+ 			if(hiddenArticlesNba){
+				hiddenArticlesNba.forEach(article=>{ 
 
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddennba');
 
 				});
-   			} else {
-			    hiddenArticles.forEach(article=>{ 
-					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-					article.classList.add('hidden');
-					article.classList.remove('hidden-disabled');
-				});
-   			}
+   			} 
    		} 
 
 		function showMeslam() {

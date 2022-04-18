@@ -34,7 +34,9 @@ const Sitemap = ({ openSitemap }) => {
 						</a>
 					</li>
 					<li>
-						<a href="/nft">NFT</a>
+						<a href="/nft" className="notranslate">
+							NFT
+						</a>
 					</li>
 
 					<li>
