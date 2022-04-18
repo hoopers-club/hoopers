@@ -3,7 +3,7 @@ title: " Youth Corner: Top 5 da semana (Abr. 11-17)"
 subname: Jornada dupla em grande!
 featured: true
 publishDate: Apr 18, 2022-09:04:58
-image: /assets/uploads/youth_02.jpeg
+image: /assets/uploads/youth_banner_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
