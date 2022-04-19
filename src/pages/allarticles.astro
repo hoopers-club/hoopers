@@ -1,0 +1,71 @@
+---
+import Bases from '../Layout/Layout-Article.astro';
+
+let allPosts = await Astro.fetchContent('./posts/articles/*.md');
+allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
+
+
+---
+
+<Bases>
+
+    <div class="container">
+		<div
+			class="top"
+			style={`
+				background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+				url('${allPosts[0]?.image}');
+				background-repeat: no-repeat;
+				background-position:center;
+				background-size: cover;`
+			}
+		>
+			
+		<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+			<div class="headline">
+				<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
+			</div>
+			<div class="sub-headline">
+				{allPosts[0]?.subname}
+			</div>
+			<div class='sub-text centered' >
+				<p >{allPosts[0]?.publishDate.split('-')[0]}</p><p class="notranslate">{allPosts[0]?.author}</p>
+			</div>			
+		</div>
+	</div>
+
+    <!-- Hoopers Article Section -->
+	<section id="allarticles-page" class="articles white">
+		<div class="articles-featured">
+			<div id="hoopers-articles" class="featured">hoopers</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+
+		<div id="infinite-list" class="articles-list-all">
+			<!-- Filter 6 last articles, then filters the rest of them -->
+			{
+            allPosts.map(article =>(
+				<a class="article-item "  href={article.url}>
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
+					</div>
+				</a>
+			))}
+
+		</div>
+    </section>
+
+
+    <script>
+    
+    
+    </script>
+
+</Bases>
