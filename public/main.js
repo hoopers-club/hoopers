@@ -11,7 +11,41 @@ urlslam = "https://www.slamonline.com/";
 ballurl = "https://ballislife.com/news/";
 bleachurl = "https://bleacherreport.com/nba";
 realgmurl = "https://basketball.realgm.com/nba/news";
+eurohoops = "https://www.eurohoops.net/latest-news/?lang=en";
 
+// storing images url to use randomly on bleacher report scraper
+const bleacherImgsFolder = "./public/assets/bleacher-img/";
+const bleacherImages = fs.readdirSync(bleacherImgsFolder);
+
+//function to extract content from Eurohoops's platform
+const getEuro = () => {
+	axios(eurohoops)
+		.then((response) => {
+			const html = response.data;
+			const $ = cheerio.load(html);
+			const articles = [];
+			$("article", html).each(function () {
+				const title = $(this)
+					.find("h2")
+					.find("a")
+					.text()
+					.replace(/\n/g, "")
+					.replace("          ", "")
+					.replace("        ", "");
+				//console.log(title);
+				const url = $(this).find("h2").find("a").attr("href");
+				const image = $(this).find("figure").find("img").attr("src");
+				const author = "Eurohoops Staff";
+				articles.push({ title, url, image, author });
+			});
+			let data = JSON.stringify(articles);
+
+			fs.writeFileSync("euro.json", data);
+		})
+		.catch((err) => console.log(err));
+};
+
+//function to extract content from NBA Portugal's platform
 const getNbaportugal = () => {
 	axios(url)
 		.then((response) => {
@@ -35,13 +69,14 @@ const getNbaportugal = () => {
 		.catch((err) => console.log(err));
 };
 
+//function to extract content from Slam Online's platform
 const slam = () => {
 	axios(urlslam)
 		.then((response) => {
 			const html = response.data;
 			const $ = cheerio.load(html);
 			const articles = [];
-			console.log($.text());
+
 			$(".h-bloglist-block", html).each(function () {
 				const title = $(this).find("h3").text();
 				const url = $(this).find("a").attr("href");
@@ -52,20 +87,19 @@ const slam = () => {
 					.match(/(?<=[Bb]y.).+?(?=..\s\s)/)[0];
 
 				const reg = /\(([^)]+)\)/;
-				const image = reg.exec(String($(this).find("a").attr("data-bg")))[1];
+				const image = reg.exec(String($(this).find("a").attr("data-bg")))?.[1];
 				// const author = $(this).find('.byline a').text();
 				articles.push({ url, image, title, author });
 			});
 			// console.log(articles);
 			let data = JSON.stringify(articles);
 
-			console.log("Slam: " + data);
-
 			fs.writeFileSync("slam.json", data);
 		})
 		.catch((err) => console.log(err));
 };
 
+//function to extract content from Ball is Life's platform
 const ballislife = () => {
 	axios(ballurl)
 		.then((response) => {
@@ -87,28 +121,49 @@ const ballislife = () => {
 		.catch((err) => console.log(err));
 };
 
+function randomIntFromInterval(min, max) {
+	// min and max included
+	return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
 //TODO: fix it
-const bleach = () => {
-	axios(bleachurl)
+const bleacher = async () => {
+	await axios(bleachurl)
 		.then((response) => {
 			const html = response.data;
 			const $ = cheerio.load(html);
 			const articles = [];
+			let previousImageIndex = null;
+			const numberOfImages = bleacherImages.length;
 			$(".articleSummary", html).each(function () {
-				const title = $(this).find("h3").text();
+				const title = $(this).find(".commentary").find("h3").text();
 				const url = $(this).find("a").attr("href");
-				const image = $(this).find(".articleMedia").children().html();
-				const author = "Bleacher Report";
+				//				const image = $(this).find(".lazyImage").find("img").attr("src");
+				// gets a random index to pick from array of images
+				let randomIndex = randomIntFromInterval(0, numberOfImages - 1);
+				// if its not the first image index to pick
+				if (previousImageIndex != null) {
+					// then get into this loop until picking a different image from the one used before
+					while (randomIndex === previousImageIndex) {
+						randomIndex = randomIntFromInterval(0, numberOfImages - 1);
+					}
+				}
+				// set this picked image as the previous image for the next image pick... see what I did there? ;)
+				previousImageIndex = randomIndex;
+
+				const image =
+					"/public/assets/bleacher-img/" + bleacherImages[randomIndex];
+				const author = $(this).find(".authorInfo").find("span").text();
 				articles.push({ title, url, image, author });
 			});
-			// console.log(articles);
 			let data = JSON.stringify(articles);
-
+			//console.log(articles);
 			fs.writeFileSync("bleach.json", data);
 		})
 		.catch((err) => console.log(err));
 };
 
+//function to extract content from Real GM's platform
 const realgm = () => {
 	axios(realgmurl)
 		.then((response) => {
@@ -139,5 +194,6 @@ const realgm = () => {
 getNbaportugal();
 slam();
 ballislife();
-// bleach();
+bleacher();
 realgm();
+getEuro();

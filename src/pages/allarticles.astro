@@ -4,10 +4,13 @@ import Bases from '../Layout/Layout-Article.astro';
 let allPosts = await Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
 
+let postsCount = allPosts.length;
 
 ---
 
 <Bases>
+
+    <div id="posts-count" hidden>{postsCount}</div>
 
     <div class="container">
 		<div
@@ -63,8 +66,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
     </section>
 
 
-    <script>
-    
+    <script >
     
     </script>
 

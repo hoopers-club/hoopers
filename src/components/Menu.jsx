@@ -9,8 +9,8 @@ const Menu = ({ open, setOpen }) => {
 		// console.log('worked');
 		setOpenSite(!openSite);
 		setOpen(!open);
-		console.log(open);
-		console.log(openSite);
+		//console.log(open);
+		//console.log(openSite);
 	};
 	const [navBackground, setNavBackground] = useState("appbar-transparent");
 	const navRef = React.useRef();

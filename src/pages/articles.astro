@@ -4,6 +4,8 @@ import nbaportugal from '/nba.json';
 import slam from '/slam.json';
 import realgm from '/realgm.json';
 import ballislife from '/ballislife.json';
+import bleacher from '/bleach.json';
+import euro from '/euro.json';
 
 let allPosts = await Astro.fetchContent('./posts/articles/*.md');
 allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf()- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')).valueOf() );
@@ -78,7 +80,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 	<!-- Hoopers Article Section -->
 	<section class="articles white">
 		<div class="articles-featured">
-			<div class="featured">hoopers</div>
+			<div id="hoopers-articles" class="featured">hoopers</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -90,7 +92,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		<div class="articles-list-all">
 			<!-- Filter 6 last articles, then filters the rest of them -->
 			{allPosts.slice(0,6).map(article =>(
-				<a class="article-item article-top"  href={article.url}>
+				<a class="article-item "  href={article.url}>
 					<div style="display: flex;flex-direction: column;height: 100%;"  >
 						<div class="img"><img src={article?.image} alt=""></div>
 						<div set:html={article?.title} class="article-title" ></div>
@@ -111,10 +113,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 
 		</div>
 		
-		<div id="hoopers-button" class="buttons-black centered " onclick="showMe()">show more</div>
+		<div class="buttons-double-div">
+			<div id="hoopers-button" class="buttons-black centered " onclick="showMe()">show more</div>
+			<div id="hoopers-button-all" class="buttons-black centered hidden-link" onclick="window.open('https://www.hoopers.club/allarticles/')">all articles</div>
+		</div>
 				
 		<div class="articles-featured">
-			<div class="featured notranslate">NBA Portugal</div>
+			<div id="nba-articles" class="featured notranslate">NBA Portugal</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -145,10 +150,82 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		</div>
 		
 		<div class="buttons-double-div">
-			<div class="buttons-black centered" onclick="showMeNba()">show more</div>
-			<div class="buttons-black centered hidden-link-nba" onclick="showMeNba()">go to nba portugal</div>
+			<div id="nba-button" class="buttons-black centered" onclick="showMeNba()">show more</div>
+			<div id="nba-button-go" class="buttons-black centered hidden-link-nba" onclick="window.open('https://www.nbaportugal.com/','_blank')">go to nba portugal</div>
 		</div>
 		
+		<div class="articles-featured">
+			<div id="bleacher-articles" class="featured notranslate">Bleacher Report</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
+			{bleacher.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article?.url} target="_blank" >
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
+					</div>
+				</a>
+			))}
+				
+			{bleacher.filter(i=>i.author!=null).slice(6,18).map(article =>(
+				<a class="article-item hiddenbleacher" href={article?.url}  target="_blank">
+					<div style="display: flex;flex-direction: column;height: 100%;" >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
+					</div>
+				</a>
+			))}
+		</div>
+		
+		<div class="buttons-double-div">
+			<div id="bleacher-button" class="buttons-black centered" onclick="showMeBleacher()">show more</div>
+			<div id="bleacher-button-go" class="buttons-black centered hidden-link-bleacher" onclick="window.open('https://www.bleacherreport.com/nba/','_blank')">go to bleacher report</div>
+		</div>
+
+		<div class="articles-featured">
+			<div id="euro-articles" class="featured notranslate">EuroHoops</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>
+		</div>
+		
+		<div class="articles-list-all">
+			{euro.filter(i=>i.author!=null).slice(0,6).map(article =>(
+				<a class="article-item" href={article?.url} target="_blank" >
+					<div style="display: flex;flex-direction: column;height: 100%;"  >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
+					</div>
+				</a>
+			))}
+				
+			{euro.filter(i=>i.author!=null).slice(6,18).map(article =>(
+				<a class="article-item hiddeneuro" href={article?.url}  target="_blank">
+					<div style="display: flex;flex-direction: column;height: 100%;" >
+						<div class="img"><img src={article?.image} alt=""></div>
+						<div set:html={article?.title} class="article-title" ></div>
+						<div set:html={"By "+article?.author} class="article-writer"></div>
+					</div>
+				</a>
+			))}
+		</div>
+		
+		<div class="buttons-double-div">
+			<div id="euro-button" class="buttons-black centered" onclick="showMeEuro()">show more</div>
+			<div id="euro-button-go" class="buttons-black centered hidden-link-euro" onclick="window.open('https://www.eurohoops.net/','_blank')">go to eurohoops</div>
+		</div>
+
 		<div class="articles-featured">
 			<div class="featured notranslate">Slam Online</div>
 			<img
@@ -180,10 +257,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			))}
 		</div>
 		
-		<!--<div class="buttons-black centered" onclick="showMeslam()">show more</div>-->
+		<div class="buttons-black centered" onclick="window.open('https://www.nbaportugal.com/','_blank')">go to slam</div>
 		
 		<div class="articles-featured">
-			<div class="featured notranslate">BasketBall RealGM</div>
+			<div id="real-articles" class="featured notranslate">BasketBall RealGM</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -214,10 +291,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			))}
 		</div>
 		
-		<div class="buttons-black centered" onclick="showMereal()">show more</div>
+		<div class="buttons-double-div">
+			<div id="real-button" class="buttons-black centered " onclick="showMeReal()">show more</div>
+			<div id="real-button-go" class="buttons-black centered hidden-link-real" onclick="window.open('https://basketball.realgm.com/')">go to realgm</div>
+		</div>
 		
 		<div class="articles-featured">
-			<div class="featured notranslate">Ball is Life</div>
+			<div id="ball-articles" class="featured notranslate">Ball is Life</div>
 			<img
 				class="featured-line"
 				src="/assets/articles/linha.svg"
@@ -247,126 +327,344 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			))}
 		</div>
 		
-		<div class="buttons-black centered" onclick="showMeball()">show more</div>
+		<div class="buttons-double-div">
+			<div id="ball-button" class="buttons-black centered " onclick="showMeBall()">show more</div>
+			<div id="ball-button-go" class="buttons-black centered hidden-link-ball" onclick="window.open('https://ballislife.com//')">go to ball is life</div>
+		</div>
+		<br><br/>
 	</section>
 		 
 	
 	<script>
-		
-		const hoopersButElem = document.getElementById('hoopers-button');
-		
-
-		function showMe() {
-			const hiddenArticles=document.querySelectorAll('.hidden');
-			
-			if(hiddenArticles){
-				hiddenArticles.forEach(article=>{ 
-
-					article.classList.add('hidden-disabled');
-			 		article.classList.remove('hidden');
-		 		});
 				
-				//updates buttons value and function
-				if (hoopersButElem.innerHTML === "show more") {
-					hoopersButElem.innerHTML = "show less";
-					hoopersButElem.setAttribute('onclick', 'showLess()');
+		// function to show 12 more articles and display all articles button
+		function showMe() {
+			// gets all hidden elements with .hidden class name
+			const hiddenArticles=document.querySelectorAll('.hidden');
+			// gets button's by element's id
+			const hoopersButton = document.getElementById('hoopers-button');
+			const hoopersButtonAll = document.getElementById('hoopers-button-all');	
+		
+			if(hiddenArticles){
+				// displays hidden articles
+				hiddenArticles.forEach(article=>{ 
+					article.classList.add('hidden-disabled');
+			 		article.classList.remove('hidden');   
+		 		});
+				// updates buttons value and function
+				if (hoopersButton.innerHTML === "show more") {
+					hoopersButton.innerHTML = "show less";
+					hoopersButton.setAttribute('onclick', 'showLess()');
 				}
+				// displays all articles button
+				hoopersButtonAll.classList.remove('hidden-link');
+				hoopersButtonAll.classList.add('hidden-disabled');
    			} 
 		}
-
+		// function to hide hidden articles and hide all articles button
 		function showLess() {
+			// gets all hidden elements that are not hiddem with .hidden-disabled class name
 			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
-			const articleTop = document.querySelector('.article-top');
-			
-			if(hiddenDisabled){
-				
-				hiddenDisabled.forEach(article=>{ 
+			// gets the top of given article section to scroll up
+			const articleTop = document.querySelector('#hoopers-articles');
+			// gets button's by element's id
+			const hoopersButton = document.getElementById('hoopers-button');
+			const hoopersButtonAll = document.getElementById('hoopers-button-all');
 
+			if(hiddenDisabled){
+				// hides hidden articles	
+				hiddenDisabled.forEach(article=>{ 
 					article.classList.remove('hidden-disabled');
-			 		article.classList.add('hidden');
+			 		article.classList.add('hidden');			    
 		 		});
-				
 				//updates buttons value and function
-				if (hoopersButElem.innerHTML === "show less") {
-					hoopersButElem.innerHTML = "show more";
-					hoopersButElem.setAttribute('onclick', 'showMe()');
+				if (hoopersButton.innerHTML === "show less") {
+					hoopersButton.innerHTML = "show more";
+					hoopersButton.setAttribute('onclick', 'showMe()');
 				}
-			
+				// hides all articles button
+				hoopersButtonAll.classList.add('hidden-link');
+				hoopersButtonAll.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
 				articleTop.scrollIntoView({
   					behavior: 'smooth'
 				});	
     		}
 		}
  
+		// function to show 12 more nbaportugal articles and display go to nbaportugal button
 		function showMeNba() {
+			// gets all hidden elements with .hiddennba class name
 			const hiddenArticlesNba=document.querySelectorAll('.hiddennba');
+			// gets button's by element's id
+			const nbaButton = document.getElementById('nba-button');
+			const nbaButtonGo = document.getElementById('nba-button-go');	
  
  			if(hiddenArticlesNba){
 				hiddenArticlesNba.forEach(article=>{ 
-
+					// displays hidden articles
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddennba');
-
 				});
+				// updates buttons value and function
+				if (nbaButton.innerHTML === "show more") {
+					nbaButton.innerHTML = "show less";
+					nbaButton.setAttribute('onclick', 'showLessNba()');
+				}
+				// displays all articles button
+				nbaButtonGo.classList.remove('hidden-link-nba');
+				nbaButtonGo.classList.add('hidden-disabled');	
    			} 
    		} 
+		// function to hide hidden NBA Portugal articles and hide head to button
+		function showLessNba() {
+			// gets all hidden elements that are not hidden with .hidden-disabled class name
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			// gets the top of given article section to scroll up
+			const nbaTop = document.querySelector('#nba-articles');
+			// gets button's by element's id
+			const nbaButton = document.getElementById('nba-button');
+			const nbaButtonGo = document.getElementById('nba-button-go');
 
-		function showMeslam() {
-			const hiddenArticles=document.querySelectorAll('.hiddenslam');
-			
-			if(hiddenArticles){
-				hiddenArticles.forEach(article=>{ 
-
-					article.classList.add('hidden-disabled');
-					article.classList.remove('hiddenslam');
-				});
-   			} else {
-    			hiddenArticles.forEach(article=>{ 
-					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-					article.classList.add('hidden');
+			if(hiddenDisabled){
+				// hides hidden NBA Portugal's articles	
+				hiddenDisabled.forEach(article=>{ 
 					article.classList.remove('hidden-disabled');
-				});
-   			}
-   		} 
-	
-		function showMereal() {
-			const hiddenArticles=document.querySelectorAll('.hiddenreal');
+			 		article.classList.add('hiddennba');			    
+		 		});
+				//updates buttons value and function
+				if (nbaButton.innerHTML === "show less") {
+					nbaButton.innerHTML = "show more";
+					nbaButton.setAttribute('onclick', 'showMeNba()');
+				}
+				// hides head to button
+				nbaButtonGo.classList.add('hidden-link-nba');
+				nbaButtonGo.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
+				nbaTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
+    		}
+		}
+
+		// function to show 12 more nbaportugal articles and display go to nbaportugal button
+		function showMeBleacher() {
+			// gets all hidden elements with .hiddennba class name
+			const hiddenArticlesBleacher=document.querySelectorAll('.hiddenbleacher');
+			// gets button's by element's id
+			const bleacherButton = document.getElementById('bleacher-button');
+			const bleacherButtonGo = document.getElementById('bleacher-button-go');	
  
-    			if(hiddenArticles){
-					hiddenArticles.forEach(article=>{ 
+ 			if(hiddenArticlesBleacher){
+				hiddenArticlesBleacher.forEach(article=>{ 
+					// displays hidden articles
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddenbleacher');
+				});
+				// updates buttons value and function
+				if (bleacherButton.innerHTML === "show more") {
+					bleacherButton.innerHTML = "show less";
+					bleacherButton.setAttribute('onclick', 'showLessBleacher()');
+				}
+				// displays all articles button
+				bleacherButtonGo.classList.remove('hidden-link-bleacher');
+				bleacherButtonGo.classList.add('hidden-disabled');	
+   			} 
+   		} 
+		// function to hide hidden NBA Portugal articles and hide head to button
+		function showLessBleacher() {
+			// gets all hidden elements that are not hidden with .hidden-disabled class name
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			// gets the top of given article section to scroll up
+			const bleacherTop = document.querySelector('#bleacher-articles');
+			// gets button's by element's id
+			const bleacherButton = document.getElementById('bleacher-button');
+			const bleacherButtonGo = document.getElementById('bleacher-button-go');
 
-						article.classList.add('hidden-disabled');
-						article.classList.remove('hiddenreal');
-					});
-				} else {
-					hiddenArticles.forEach(article=>{ 
-						const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
+			if(hiddenDisabled){
+				// hides hidden NBA Portugal's articles	
+				hiddenDisabled.forEach(article=>{ 
+					article.classList.remove('hidden-disabled');
+			 		article.classList.add('hiddenbleacher');			    
+		 		});
+				//updates buttons value and function
+				if (bleacherButton.innerHTML === "show less") {
+					bleacherButton.innerHTML = "show more";
+					bleacherButton.setAttribute('onclick', 'showMeBleacher()');
+				}
+				// hides head to button
+				bleacherButtonGo.classList.add('hidden-link-bleacher');
+				bleacherButtonGo.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
+				bleacherTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
+    		}
+		}
 
-							article.classList.add('hidden');
-							article.classList.remove('hidden-disabled');
-					});
-   				}
-    		} 
+		// function to show 12 more eurohoops articles and display go to nbaportugal button
+		function showMeEuro() {
+			// gets all hidden elements with .hiddeneuro class name
+			const hiddenArticlesEuro=document.querySelectorAll('.hiddeneuro');
+			// gets button's by element's id
+			const euroButton = document.getElementById('euro-button');
+			const euroButtonGo = document.getElementById('euro-button-go');	
+ 
+ 			if(hiddenArticlesEuro){
+				hiddenArticlesEuro.forEach(article=>{ 
+					// displays hidden articles
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddeneuro');
+				});
+				// updates buttons value and function
+				if (euroButton.innerHTML === "show more") {
+					euroButton.innerHTML = "show less";
+					euroButton.setAttribute('onclick', 'showLessEuro()');
+				}
+				// displays all articles button
+				euroButtonGo.classList.remove('hidden-link-euro');
+				euroButtonGo.classList.add('hidden-disabled');	
+   			} 
+   		} 
+		// function to hide hidden Eurohoops articles and hide head to button
+		function showLessEuro() {
+			// gets all hidden elements that are not hidden with .hidden-disabled class name
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			// gets the top of given article section to scroll up
+			const euroTop = document.querySelector('#euro-articles');
+			// gets button's by element's id
+			const euroButton = document.getElementById('euro-button');
+			const euroButtonGo = document.getElementById('euro-button-go');
+
+			if(hiddenDisabled){
+				// hides hidden NBA Portugal's articles	
+				hiddenDisabled.forEach(article=>{ 
+					article.classList.remove('hidden-disabled');
+			 		article.classList.add('hiddeneuro');			    
+		 		});
+				//updates buttons value and function
+				if (euroButton.innerHTML === "show less") {
+					euroButton.innerHTML = "show more";
+					euroButton.setAttribute('onclick', 'showMeEuro()');
+				}
+				// hides head to button
+				euroButtonGo.classList.add('hidden-link-euro');
+				euroButtonGo.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
+				euroTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
+    		}
+		}
+
+		// function to show 12 more RealGm articles and display go to nbaportugal button
+		function showMeReal() {
+			// gets all hidden elements with .hiddenreal class name
+			const hiddenArticlesReal=document.querySelectorAll('.hiddenreal');
+			// gets button's by element's id
+			const realButton = document.getElementById('real-button');
+			const realButtonGo = document.getElementById('real-button-go');	
+ 
+ 			if(hiddenArticlesReal){
+				hiddenArticlesReal.forEach(article=>{ 
+					// displays hidden articles
+					article.classList.add('hidden-disabled');
+					article.classList.remove('hiddenreal');
+				});
+				// updates buttons value and function
+				if (realButton.innerHTML === "show more") {
+					realButton.innerHTML = "show less";
+					realButton.setAttribute('onclick', 'showLessReal()');
+				}
+				// displays head to button
+				realButtonGo.classList.remove('hidden-link-real');
+				realButtonGo.classList.add('hidden-disabled');	
+   			} 
+   		} 
+		// function to hide hidden RealGM articles and hide head to button
+		function showLessReal() {
+			// gets all hidden elements that are not hidden with .hidden-disabled class name
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			// gets the top of given article section to scroll up
+			const realTop = document.querySelector('#real-articles');
+			// gets button's by element's id
+			const realButton = document.getElementById('real-button');
+			const realButtonGo = document.getElementById('real-button-go');
+
+			if(hiddenDisabled){
+				// hides hidden Real GM's articles	
+				hiddenDisabled.forEach(article=>{ 
+					article.classList.remove('hidden-disabled');
+			 		article.classList.add('hiddenreal');			    
+		 		});
+				//updates buttons value and function
+				if (realButton.innerHTML === "show less") {
+					realButton.innerHTML = "show more";
+					realButton.setAttribute('onclick', 'showMeReal()');
+				}
+				// hides head to button
+				realButtonGo.classList.add('hidden-link-real');
+				realButtonGo.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
+				realTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
+    		}
+		}
 		
-		function showMeball() {
-			const hiddenArticles=document.querySelectorAll('.hiddenball');
-	
-			if(hiddenArticles){
-				hiddenArticles.forEach(article=>{ 
-
+		// function to show 12 more Ball is Life articles and display go to nbaportugal button
+		function showMeBall() {
+			// gets all hidden elements with .hiddenball class name
+			const hiddenArticlesBall=document.querySelectorAll('.hiddenball');
+			// gets button's by element's id
+			const ballButton = document.getElementById('ball-button');
+			const ballButtonGo = document.getElementById('ball-button-go');	
+ 
+ 			if(hiddenArticlesBall){
+				hiddenArticlesBall.forEach(article=>{ 
+					// displays hidden articles
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddenball');
 				});
-		   	} else {
-    			hiddenArticles.forEach(article=>{ 
-					const hiddenArticles=document.querySelectorAll('.hidden-disabled');		
-
-					article.classList.add('hidden');
-					article.classList.remove('hidden-disabled');
-				});
-   			}
+				// updates buttons value and function
+				if (ballButton.innerHTML === "show more") {
+					ballButton.innerHTML = "show less";
+					ballButton.setAttribute('onclick', 'showLessBall()');
+				}
+				// displays head to button
+				ballButtonGo.classList.remove('hidden-link-ball');
+				ballButtonGo.classList.add('hidden-disabled');	
+   			} 
    		} 
+		// function to hide hidden Ball is Life articles and hide head to button
+		function showLessBall() {
+			// gets all hidden elements that are not hidden with .hidden-disabled class name
+			const hiddenDisabled=document.querySelectorAll('.hidden-disabled');
+			// gets the top of given article section to scroll up
+			const ballTop = document.querySelector('#ball-articles');
+			// gets button's by element's id
+			const ballButton = document.getElementById('ball-button');
+			const ballButtonGo = document.getElementById('ball-button-go');
 
+			if(hiddenDisabled){
+				// hides hidden Ball is Life's articles	
+				hiddenDisabled.forEach(article=>{ 
+					article.classList.remove('hidden-disabled');
+			 		article.classList.add('hiddenball');			    
+		 		});
+				//updates buttons value and function
+				if (ballButton.innerHTML === "show less") {
+					ballButton.innerHTML = "show more";
+					ballButton.setAttribute('onclick', 'showMeBall()');
+				}
+				// hides head to button
+				ballButtonGo.classList.add('hidden-link-ball');
+				ballButtonGo.classList.remove('hidden-disabled');
+				// scrolls up to top of articles section
+				ballTop.scrollIntoView({
+  					behavior: 'smooth'
+				});	
+    		}
+		}
 	</script>
 </Bases>

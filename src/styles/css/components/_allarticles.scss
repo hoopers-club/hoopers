@@ -1,0 +1,32 @@
+@use "../abstracts/colors" as *;
+@use "../abstracts/fonts" as *;
+
+#allarticles-page {
+	.articles-list-all {
+		grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+	}
+}
+
+@media screen and (max-width: 1399px) {
+	#allarticles-page {
+		.articles-list-all {
+			grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
+		}
+	}
+}
+
+@media screen and (max-width: 940px) {
+	#allarticles-page {
+		.articles-list-all {
+			grid-template-columns: repeat(auto-fit, minmax(45%, 1fr));
+		}
+	}
+}
+
+@media screen and (max-width: 592px) {
+	#allarticles-page {
+		.articles-list-all {
+			grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+		}
+	}
+}

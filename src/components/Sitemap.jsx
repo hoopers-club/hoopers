@@ -83,11 +83,11 @@ const Sitemap = ({ openSitemap }) => {
 						</a>
 					</li>
 
-					<li>
+					{/*<li>
 						<a href="https://hoopers.store/" target="_blank">
 							SHOP
 						</a>
-					</li>
+					</li>*/}
 				</ul>
 			</div>
 		</div>
