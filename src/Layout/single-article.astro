@@ -56,8 +56,18 @@ const articleDate = publishDate.split('-')[0];
 	
 	<section set:html={content.astro.html} class="single-articles white">
 		<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
+
+		
+
 	</section>
 
+	<div class="single-articles white">
+		
+		<div class="buttons-black centered" onclick="window.open('https://www.hoopers.club/articles','_blank')">go back</div>
+
+	</div>
+
+	
 	<script>
 		const postlink=encodeURI(document.location.href);
 		const title=encodeURI(document.getElementById('title').innerHTML);

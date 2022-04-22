@@ -1,21 +1,28 @@
 ---
 import GalleryItem from '../components/GalleryItem.jsx';
 
-let gallerys = await Astro.fetchContent('../pages/posts/summergallery/*.md');
-
+let gallerys = await Astro.fetchContent('/src/pages/posts/summergallery/*.md');
 gallerys=gallerys?.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publishDate).valueOf());
 
 gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
+
+
+
 ---
+
 
 <section class="articles black" style="min-height:0;position:relative;">
 	<div class="articles-featured">
-		<div class="esport-title">Gallery</div>
-		<img
-			class="featured-line"
-			src="/assets/articles/linha.svg"
-			alt="line"
-		/>
+		{gallerys.length > 0 && <div 
+			class="esport-title">Gallery
+			</div>
+			<img
+				class="featured-line"
+				src="/assets/articles/linha.svg"
+				alt="line"
+			/>}
+		
+		
 	</div>
 	
 	{gallerys.length >2 && <img

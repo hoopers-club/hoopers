@@ -1,5 +1,5 @@
 ---
-let games = await Astro.fetchContent('../pages/posts/summergames/*.md');
+let games = await Astro.fetchContent('/src/pages/posts/summergames/*.md');
 
 
 games=games.sort((a,b)=>new Date(a.time).valueOf()-new Date(b.time).valueOf());

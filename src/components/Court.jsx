@@ -1,5 +1,5 @@
-import CourtDetail from './CourtDetail.jsx';
-import { useState, useEffect } from 'react';
+import CourtDetail from "./CourtDetail.jsx";
+import { useState, useEffect } from "react";
 
 const Court = ({ first, court, detail, setDetail }) => {
 	const [detailOpened, setDetailOpened] = useState(false);
@@ -10,8 +10,8 @@ const Court = ({ first, court, detail, setDetail }) => {
 	};
 
 	const styles = {
-		minHeight: first ? '85vh' : '45vh',
-		paddingBottom: first ? '10%' : '',
+		minHeight: first ? "85vh" : "45vh",
+		paddingBottom: first ? "10%" : "",
 	};
 
 	useEffect(() => {}, [detail, detailOpened]);
@@ -19,26 +19,26 @@ const Court = ({ first, court, detail, setDetail }) => {
 		<div>
 			<div
 				// id='#court'
-				className='court notranslate'
+				className="court notranslate"
 				style={{
 					...styles,
 					background: `url(${court?.image})`,
 					backgroundPosition: `center`,
-					backgroundSize: 'cover',
-					backgroundRepeat: 'no-repeat',
+					backgroundSize: "cover",
+					backgroundRepeat: "no-repeat",
 				}}
 				onClick={handleDetail}
 			>
 				<img
-					className='leftseparator left'
-					src='/assets/courts/courtseparator.svg'
-					alt=''
+					className="leftseparator left"
+					src="/assets/courts/courtseparator.svg"
+					alt=""
 				/>
-				<div className='titles'>
-					<div className='court-headline'>{court?.name}</div>
-					<div className='court-subtext'>{court?.subname}</div>
+				<div className="titles">
+					<div className="court-headline">{court?.name}</div>
+					<div className="court-subtext">{court?.subname}</div>
 				</div>
-				<img className='right' src='/assets/courts/courtseparator.svg' alt='' />
+				<img className="right" src="/assets/courts/courtseparator.svg" alt="" />
 			</div>
 
 			{detailOpened ? (
@@ -49,7 +49,7 @@ const Court = ({ first, court, detail, setDetail }) => {
 					handleDetail={handleDetail}
 				/>
 			) : (
-				''
+				""
 			)}
 		</div>
 	);
