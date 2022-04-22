@@ -151,8 +151,7 @@ const bleacher = async () => {
 				// set this picked image as the previous image for the next image pick... see what I did there? ;)
 				previousImageIndex = randomIndex;
 
-				const image =
-					"/public/assets/bleacher-img/" + bleacherImages[randomIndex];
+				const image = "/assets/bleacher-img/" + bleacherImages[randomIndex];
 				const author = $(this).find(".authorInfo").find("span").text();
 				articles.push({ title, url, image, author });
 			});
