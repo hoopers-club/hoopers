@@ -12,7 +12,7 @@ layout: ../../../Layout/single-article.astro
 
 **Lamine Banora** (2000), jovem poste da equipa de Ílhavo, anotou 8 pontos, 4 ressaltos e 1 assistência na derrota frente à Ovarense, por 72-85. 
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Pontos altos de um duelo regional!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/LhrPiTIOwZ">pic.twitter.com/LhrPiTIOwZ</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1517963658197966850?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote> \[](https://twitter.com/fpbasquetebol/status/1517963658197966850?s=21)
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Pontos altos de um duelo regional!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/LhrPiTIOwZ">pic.twitter.com/LhrPiTIOwZ</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1517963658197966850?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote>
 
 **João Neves** (2000), extremo do Imortal, registou 8 pontos e 1 assistência na derrota da equipa de Albufeira frente ao Lusitânia, por 86-68.
 
