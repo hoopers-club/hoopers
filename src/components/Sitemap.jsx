@@ -39,12 +39,14 @@ const Sitemap = ({ openSitemap }) => {
 						</a>
 					</li>
 
+					{/*
 					<li>
 						<a href="/esports" className="notranslate">
 							ESPORTS
 						</a>
 					</li>
-					{/*<li className='notranslate' onClick={submenu}>
+					
+					<li className='notranslate' onClick={submenu}>
 						COURTS
 					</li>
 					{expanded ? (
