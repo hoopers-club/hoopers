@@ -20,6 +20,8 @@ layout: ../../../Layout/single-article.astro
 
 ## Em terras de nuestros hermanos…
 
+</br>
+
 #### Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).
 
 \- Não jogou na vitória frente ao Força Lleida por 97-80.
