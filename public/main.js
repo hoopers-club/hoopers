@@ -6,7 +6,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 //urls to scrape
-url = "https://www.nbaportugal.com/category/artigos/";
+url = "https://www.nbaportugal.com/category/noticias/";
 urlslam = "https://www.slamonline.com/";
 ballurl = "https://ballislife.com/news/";
 bleachurl = "https://bleacherreport.com/nba";
