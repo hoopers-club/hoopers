@@ -115,7 +115,7 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 			preloader.remove();
 		}, 100);
 
-		document.addEventListener('DOMContentLoaded', fadeOutEffect);
+		body.onLoad = fadeOutEffect;
 
 	</script>
 </Bases>
