@@ -106,6 +106,14 @@ body {
 	<slot/>
 </main>
 
+<div class="showbox">
+  <div class="loader">
+    <svg class="circular" viewBox="25 25 50 50">
+      <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/>
+    </svg>
+  </div>
+</div>
+
 <Search  client:visible/>
                <!--
            - You can also use imported framework components directly in your markup!
@@ -155,6 +163,8 @@ body {
     	});
   	}
 
+
+	
 
   	
 	const right_i= document.querySelectorAll('.right-i');
@@ -263,6 +273,22 @@ body {
 		observer_center.observe(down);
 	});
 
+	const preloader = document.querySelector('.showbox');
+
+	const fadeOutEffect = setInterval(() => {
+		if (!preloader.style.opacity) {
+			preloader.style.opacity = 1;
+		}
+		if (preloader.style.opacity > 0) {
+			preloader.style.opacity -= 0.1;
+		} else {
+			clearInterval(fadeEffect);
+		}
+		preloader.remove();
+	}, 100);
+
+	window.addEventListener('load', fadeOutEffect);
+
 </script>
 <style >
 	#goog-gt-tt {
@@ -287,6 +313,8 @@ body {
 </style>
 
 <div id="google_translate_element2"></div>
+
+
 
 <script defer>
 	function googleTranslateElementInit2() {

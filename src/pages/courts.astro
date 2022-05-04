@@ -9,6 +9,14 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 
 <Bases>
 
+	<div class="showbox">
+		<div class="loader">
+			<svg class="circular" viewBox="25 25 50 50">
+				<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/>
+			</svg>
+		</div>
+	</div>
+
 	<!-- loads client info first then run js object -->
 	<Courtlist allCourts={allCourts} client:load/>
 
@@ -92,6 +100,22 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 			observer_countright.observe(right);
 		});
 
+
+		const preloader = document.querySelector('.showbox');
+
+		const fadeOutEffect = setInterval(() => {
+			if (!preloader.style.opacity) {
+				preloader.style.opacity = 1;
+			}
+			if (preloader.style.opacity > 0) {
+				preloader.style.opacity -= 0.1;
+			} else {
+				clearInterval(fadeEffect);
+			}
+			preloader.remove();
+		}, 100);
+
+		window.addEventListener('load', fadeOutEffect);
 
 	</script>
 </Bases>
