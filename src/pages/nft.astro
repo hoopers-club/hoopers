@@ -2,8 +2,6 @@
 import Bases from '../Layout/Layout-Article.astro'
 import NftSection from '../components/nft-section.astro'
 
-//let allPosts = Astro.fetchContent('./posts/articles/*.md');
-//allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,''))- new Date(a.publishDate.replace(/th/i,'').replace(/nd/i,'').replace(/rd/i,'').replace(/st/i,'')) );
 
 
 
@@ -17,14 +15,14 @@ console.log(data);
 ---
 
 <Bases>
-		
+
         <!-- <Heros articles={allPosts} client:visible/> -->
         <div class="container">
 			<div
 				id="nft-hero"
 				class="top"
 				style={`
-				
+
 					background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
 						url('/assets/nft_hero.jpg');
 							background-attachment: fixed;
@@ -38,27 +36,27 @@ console.log(data);
 					<!-- <img class="esportlogo" src="/assets/esports/Asset 1.svg" alt=""/> -->
 					Hoopers NFT's
 				</div>
-				<div class="centered-button buttons" style="z-index: 1;display:flex;" 
+				<div class="centered-button buttons" style="z-index: 1;display:flex;"
 					 onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">JOIN THE WHITELIST
 				</div>
 			</div>
 		</div>
-		
-       
+
+
 		<section class="single-articles black" style="min-height:0;position:relative;">
 			<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
 			<br><br>
 			<h3 style="text-align: center;">GOT GAME? LET’S PLAY!</h3>
-			
+
 			<p>
-				Hoopers is building the largest global basketball community platform and you can be part of this story. 
-				Our goal is to continue to connect the basketball community, also in the NFT space with unique collections 
+				Hoopers is building the largest global basketball community platform and you can be part of this story.
+				Our goal is to continue to connect the basketball community, also in the NFT space with unique collections
 				built for and by the community.<br><br>
 				In our first drop, we will be offering a limited NFT collection inspired on projects we build for the community.<br><br><br>
 			</p>
 
 			<h4>ROADMAP - WHERE ARE WE HEADING SOON:</h4>
-			<p>				
+			<p>
 				1. NFT DROPS: Courts, Community and CryptoHoopers;
 				<br><br>
 				2. Discord VIP Group: Exclusive for Hoopers Membership Club;
@@ -72,7 +70,7 @@ console.log(data);
 
 			<img class="separator centered" src="/assets/esports/Line Breaker.svg" alt="" />
 
-			<div class="centered-button buttons" style="z-index: 1;display:flex;" 
+			<div class="centered-button buttons" style="z-index: 1;display:flex;"
 				 onclick="window.open('https://form.typeform.com/to/PoG6KnXd','_blank')">JOIN THE WHITELIST
 			</div>
 
@@ -81,7 +79,7 @@ console.log(data);
 				<NftSection/>
 
 		-->
-	
-		
+
+
 
 </Bases>
