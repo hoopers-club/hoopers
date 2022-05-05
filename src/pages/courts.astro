@@ -21,6 +21,21 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 	<Courtlist allCourts={allCourts} client:load/>
 
 	<script>
+		const preloader = document.querySelector('.showbox');
+
+		const fadeOutEffect = setInterval(() => {
+			if (!preloader.style.opacity) {
+				preloader.style.opacity = 1;
+			}
+			if (preloader.style.opacity > 0) {
+				preloader.style.opacity -= 0.1;
+			} else {
+				clearInterval(fadeEffect);
+			}
+			preloader.remove();
+		}, 300);
+
+
 		const subtitle= document.querySelectorAll('.court-subtext');
 
 		observer_court= new IntersectionObserver(entries=>{
@@ -101,20 +116,7 @@ allCourts=allCourts.sort((a,b)=> b.position-a.position);
 		});
 
 
-		const preloader = document.querySelector('.showbox');
-
-		const fadeOutEffect = setInterval(() => {
-			if (!preloader.style.opacity) {
-				preloader.style.opacity = 1;
-			}
-			if (preloader.style.opacity > 0) {
-				preloader.style.opacity -= 0.1;
-			} else {
-				clearInterval(fadeEffect);
-			}
-			preloader.remove();
-		}, 100);
-
+		
 		window.addEventListener('load', fadeOutEffect);
 
 	</script>

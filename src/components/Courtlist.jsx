@@ -10,9 +10,12 @@ const Courtlist = ({ allCourts }) => {
 	return (
 		<div className="">
 			<Menu open={open} setOpen={setOpen} />
+
 			<div
 				className="courts-list"
-				style={{ display: open ? "flex !important" : "none !important" }}
+				style={{
+					display: open ? "flex !important" : "none !important",
+				}}
 			>
 				{allCourts.map((court, i) => (
 					<Court

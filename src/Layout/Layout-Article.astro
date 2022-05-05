@@ -159,6 +159,20 @@ import "../styles/css/main.scss";
 ></script>
 
 <script>
+	const preloader = document.querySelector('.showbox');
+
+	const fadeOutEffect = setInterval(() => {
+		if (!preloader.style.opacity) {
+			preloader.style.opacity = 1;
+		}
+		if (preloader.style.opacity > 0) {
+			preloader.style.opacity -= 0.1;
+		} else {
+			clearInterval(fadeEffect);
+		}
+		preloader.remove();
+	}, 300);
+
 	function GTranslateGetCurrentLang() {
 		var keyValue = document['cookie'].match(
 			'(^|;) ?googtrans=([^;]*)(;|$)'
@@ -213,19 +227,7 @@ import "../styles/css/main.scss";
 	}
 
 
-	const preloader = document.querySelector('.showbox');
-
-	const fadeOutEffect = setInterval(() => {
-		if (!preloader.style.opacity) {
-			preloader.style.opacity = 1;
-		}
-		if (preloader.style.opacity > 0) {
-			preloader.style.opacity -= 0.1;
-		} else {
-			clearInterval(fadeEffect);
-		}
-		preloader.remove();
-	}, 100);
+	
 
 	window.addEventListener('load', fadeOutEffect);
 </script>

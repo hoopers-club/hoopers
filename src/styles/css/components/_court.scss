@@ -7,6 +7,10 @@ $red: #d62d20;
 $yellow: #ffa700;
 $white: #eee;
 
+html {
+	overflow: overlay;
+}
+
 .courts-list {
 	// display: flex;
 	flex-direction: column;

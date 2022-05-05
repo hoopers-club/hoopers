@@ -2,9 +2,8 @@
 @use "../abstracts/fonts" as *;
 
 .court-detail {
-	--scrollbarBG: #f68e22;
-	--thumbBG: #1d1d1b;
-
+	--thumbBG: #f68e22;
+	overflow: overlay;
 	// margin-top: 10vh;
 	position: fixed;
 	top: 0;
@@ -102,7 +101,7 @@
 
 	.right {
 		padding: 2em;
-		overflow-y: scroll;
+		overflow-y: overlay;
 		overflow-x: hidden;
 		.court-detail-info {
 			display: flex;
