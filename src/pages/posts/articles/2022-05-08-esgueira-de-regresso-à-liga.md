@@ -1,7 +1,7 @@
 ---
 title: Esgueira de regresso à Liga!
 subname: Equipa de Aveiro está de regresso depois de vencer a Proliga
-featured: false
+featured: true
 publishDate: May 06, 2022-19:05:98
 image: /assets/uploads/esgueira_01.jpeg
 author: Hoopers
