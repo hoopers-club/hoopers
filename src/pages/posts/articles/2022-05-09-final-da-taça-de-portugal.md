@@ -22,8 +22,6 @@ O jogo fica marcado pela recente ausência de **Tanner Omlid** do lado dos leõe
 
 **\-5 inicial Benfica:** Aaron Broussard, Frank Gaines, Travis Munnings, Makram Ben Romdhane e Wendell Lewis.
 
-
-
 **\-5 inicial Sporting:** Diogo Ventura, Travante Williams, Mike Fofana, João Fernandes e Joshua Patton.
 
 No começo da partida, os encarnados ficaram desde cedo com **Frank Gaines** limitado pelas suas 2 faltas em 50 segundos. A questão das faltas veio-se a sentir também nas idas para a linha de lance livre, onde o Sporting somou 7 pontos contra 2 do Benfica.
@@ -54,10 +52,9 @@ O jogo terminou 79 x 75, com o Sporting a sair vencedor no Barlavento algarvio e
 
 O MVP da final da Taça foi o já habitual **Travante Williams**, que se encontra de regresso após lesão e que apontou 17 pontos, 7 ressaltos e 4 assistências.
 
-\
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">📊 <a href="https://twitter.com/wellconnectedAk?ref_src=twsrc%5Etfw">@wellconnectedAk</a> (17pts, 7res, 4ast) foi a grande figura do <a href="https://twitter.com/Sporting_CP?ref_src=twsrc%5Etfw">@Sporting_CP</a> e é o MVP da final. Já no <a href="https://twitter.com/SLBenfica?ref_src=twsrc%5Etfw">@SLBenfica</a>, <a href="https://twitter.com/ABroussard2?ref_src=twsrc%5Etfw">@ABroussard2</a> (17pts, 9res, 5ast, 1rb) foi o mais esclarecido.<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/Ta%C3%A7aDePortugalAlfaloc?src=hash&amp;ref_src=twsrc%5Etfw">#TaçaDePortugalAlfaloc</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1523378148355702785?ref_src=twsrc%5Etfw">May 8, 2022</a></blockquote>
 
-Outro jogador em destaque na equipa verde e branca foi **Shakir Smith**, que terminou o jogo com 21 pontos, 3 ressaltos e 2 assistências (+\- de 12 e uma valorização de 15.5).
+Outro jogador em destaque na equipa verde e branca foi **Shakir Smith**, que terminou o jogo com 21 pontos, 3 ressaltos e 2 assistências (+- de 12 e uma valorização de 15.5).
 
 O jogador mais inconformado no conjunto de **Norberto Alves** foi **Aaron Broussard**, que registou 17 pontos, 9 ressaltos, 5 assistências e 1 roubo de bola (e uma valorização de 24).
 
