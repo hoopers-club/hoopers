@@ -46,6 +46,10 @@ VJ:** *Nós fomos a seleção que fez o estágio de preparação mais longo. Tiv
 
 **H: Qual o jogo de sonho para arbitrar?** 
 
-**VJ:** *Todos os árbitros, no geral, têm o grande sonho de apitar na "superliga" do Basquetebol Europeu, a Euroliga. Esse é o meu grande objetivo e eu sei que é possível atingir esse patamar, que preciso de trabalhar para chegar até lá. Atualmente, apenas 2 árbitros portugueses apitaram a esse nível e eu espero conseguir chegar até lá também. Se me perguntarem um jogo em específico que não queria deixar de fazer, seria, sem dúvida, a final de uns Jogos Olímpicos.*
+**VJ:** *Todos os árbitros, no geral, têm o grande sonho de apitar na "superliga" do Basquetebol Europeu, a Euroliga. Esse é o meu grande objetivo e eu sei que é possível atingir esse patamar, que preciso de trabalhar para chegar até lá. Atualmente, apenas 2 árbitros portugueses apitam a esse nível e eu espero conseguir chegar até lá também. Se me perguntarem um jogo em específico que não queria deixar de fazer, seria, sem dúvida, a final de uns Jogos Olímpicos.*
 
 **<u>[Veja a reportagem da RTP Madeira](https://www.rtp.pt/madeira/desporto/arbitro-promovido-a-i-divisao-de-basquetebol-video_70965)</u>**
+
+Entrevista por: **Martim Figueiredo**
+
+Redação: **Hoopers**
