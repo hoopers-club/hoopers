@@ -4,7 +4,7 @@ subname: |
   Edição 1.ª ronda de Playoffs
 featured: true
 publishDate: May 16, 2022-09:05:71
-image: /assets/uploads/youth_banner_16-05.jpeg
+image: /assets/uploads/youth_imagem.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
