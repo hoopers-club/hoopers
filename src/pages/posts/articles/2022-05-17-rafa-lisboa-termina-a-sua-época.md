@@ -4,7 +4,7 @@ subname: |
   Jeremiah vai jogar a negra na Série A2
 featured: true
 publishDate: May 17, 2022-11:05:68
-image: /assets/uploads/rafael_lisboa_março.jpeg
+image: /assets/uploads/rafael_lisboa.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
