@@ -24,4 +24,6 @@ A competição irá contar com a participação e apoio de várias entidades ass
 
 Contamos convosco!
 
-Redação: **Hoopers**
+## **[REGULAMENTO HOOPERS SUMMER LEAGUE](https://docs.google.com/document/d/1g8usW6bCg8Dj89inx9JG7d5r7fxB011D/edit)**
+
+[](https://docs.google.com/document/d/1g8usW6bCg8Dj89inx9JG7d5r7fxB011D/edit)Redação: **Hoopers**
