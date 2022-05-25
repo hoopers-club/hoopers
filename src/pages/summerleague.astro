@@ -56,8 +56,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 							`}
 							onclick={`location.href='${article.url}'`}
 						>
-							<div class="title" style={article.title.length>16?"font-size:0.7em":''}>
-								{article?.title}
+							<div set:html={article?.title} class="title" style={article.title.length>16?"font-size:0.7em":''}>
 							</div>
 							<div class="article-underline"></div>
 							<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt=""/>
@@ -85,10 +84,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					<a class="article-item"  href={article.url}>
 						<div style="display: flex;flex-direction: column;height: 100%;"  >
 							<div class="img"><img src={article?.image} alt=""></div>
-							<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-								{article?.title}
+							<div set:html={article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
+							
 							</div>
-							<div class="article-writer"> BY {article?.author}</div>
+							<div set:html= BY {article?.author} class="article-writer"></div>
 						</div>
 					</a>
 				))}
@@ -97,10 +96,10 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					<a class="article-item hidden" href={article.url} >
 						<div style="display: flex;flex-direction: column;height: 100%;" >
 							<div class="img"><img src={article?.image} alt=""></div>
-							<div class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-								{article?.title}
+							<div set:html= {article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
+								
 							</div>
-							<div class="article-writer"> BY {article?.author}</div>
+							<div set:html= BY {article?.author} class="article-writer"></div>
 						</div>
 					</a>
 				))}
