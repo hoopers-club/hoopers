@@ -87,7 +87,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 							<div set:html={article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
 							
 							</div>
-							<div set:html= BY {article?.author} class="article-writer"></div>
+							<div set:html={ "BY "+article?.author} class="article-writer"></div>
 						</div>
 					</a>
 				))}
@@ -99,7 +99,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 							<div set:html= {article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
 								
 							</div>
-							<div set:html= BY {article?.author} class="article-writer"></div>
+							<div set:html={"BY "+article?.author} class="article-writer"></div>
 						</div>
 					</a>
 				))}
