@@ -4,7 +4,7 @@ subname: |
   A competição irá decorrer entre 1 e 17 de julho
 featured: true
 publishDate: May 20, 2022-15:05:88
-image: /assets/uploads/summer_league_banner_2022.jpg
+image: /assets/uploads/typeform_02.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
