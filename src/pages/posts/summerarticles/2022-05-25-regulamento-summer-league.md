@@ -2,7 +2,7 @@
 title: Regulamento Summer League
 subname: A competição irá decorrer entre 1 e 17 de julho
 featured: true
-publishDate: May 21st 22
+publishDate: May 20th 22
 image: /assets/uploads/2022_05_21_regulamento-s.l.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
