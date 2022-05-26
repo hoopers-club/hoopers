@@ -1,296 +1,326 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'public/assets/uploads'
-public_folder: '/assets/uploads'
+media_folder: "public/assets/uploads"
+public_folder: "/assets/uploads"
 collections:
-  - name: 'careers'
-    label: 'Careers'
+  - name: "careers"
+    label: "Careers"
     create: true
-    folder: 'src/pages/posts/careers'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/careers"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'court'
-    label: 'Courts'
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "court"
+    label: "Courts"
     create: true
-    folder: 'src/pages/posts/courts'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.name}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/courts"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.name}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {
-          label: 'Featured Image',
-          name: 'image',
-          widget: 'image',
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
           choose_url: true,
         }
-      - { label: 'Name', name: 'name', widget: 'string' }
-      - { label: 'Subname', name: 'subname', widget: 'string' }
-      - { label: 'Position', name: 'position', widget: 'number' }
-      - { label: 'Location', name: 'location', widget: 'string' }
-      - { label: 'Artist', name: 'artist', widget: 'string' }
-      - { label: 'Duration', name: 'duration', widget: 'string' }
-      - { label: 'Partner', name: 'partner', widget: 'list', allow_add: true }
-      - { label: 'What we Did', name: 'whaWeDid', widget: 'text' }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Subname", name: "subname", widget: "string" }
+      - { label: "Position", name: "position", widget: "number" }
+      - { label: "Location", name: "location", widget: "string" }
+      - { label: "Artist", name: "artist", widget: "string" }
+      - { label: "Duration", name: "duration", widget: "string" }
+      - { label: "Partner", name: "partner", widget: "list", allow_add: true }
+      - { label: "What we Did", name: "whaWeDid", widget: "text" }
       - {
-          label: 'Gallery',
-          name: 'galleryImages',
-          widget: 'list',
+          label: "Gallery",
+          name: "galleryImages",
+          widget: "list",
           field: { label: Image, name: image, widget: image },
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'articles'
-    label: 'Articles'
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "articles"
+    label: "Articles"
     create: true
     publish_mode: editorial_workflow
-    folder: 'src/pages/posts/articles'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/articles"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'Subtitle', name: 'subname', widget: 'text' }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Subtitle", name: "subname", widget: "text" }
       - {
-          label: 'Featured',
-          name: 'featured',
-          widget: 'boolean',
+          label: "Featured",
+          name: "featured",
+          widget: "boolean",
           default: false,
         }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'MMM DD, YYYY-HH:MM:SS',
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "MMM DD, YYYY-HH:MM:SS",
           required: true,
         }
       - {
-          label: 'Banner',
-          name: 'image',
-          widget: 'image',
+          label: "Banner",
+          name: "image",
+          widget: "image",
           choose_url: true,
           required: true,
         }
-      - { label: 'Author', name: 'author', widget: 'string', required: true }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Author", name: "author", widget: "string", required: true }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: 'Layout',
-          name: 'layout',
-          widget: 'string',
-          default: '../../../Layout/single-article.astro',
+          label: "Layout",
+          name: "layout",
+          widget: "string",
+          default: "../../../Layout/single-article.astro",
         }
-  - name: 'esports'
-    label: 'Esports'
+  - name: "esports"
+    label: "Esports"
     create: true
     publish_mode: editorial_workflow
-    folder: 'src/pages/posts/esports'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/esports"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'Subtitle', name: 'subname', widget: 'text' }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Subtitle", name: "subname", widget: "text" }
       - {
-          label: 'Featured',
-          name: 'featured',
-          widget: 'boolean',
+          label: "Featured",
+          name: "featured",
+          widget: "boolean",
           default: false,
         }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'MMM Do YY',
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "MMM Do YY",
           required: true,
         }
       - {
-          label: 'Banner',
-          name: 'image',
-          widget: 'image',
+          label: "Banner",
+          name: "image",
+          widget: "image",
           choose_url: true,
           required: true,
         }
-      - { label: 'Author', name: 'author', widget: 'string', required: true }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Author", name: "author", widget: "string", required: true }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: 'Layout',
-          name: 'layout',
-          widget: 'string',
-          default: '../../../Layout/single-article.astro',
+          label: "Layout",
+          name: "layout",
+          widget: "string",
+          default: "../../../Layout/single-article.astro",
         }
-  - name: 'frontpage'
-    label: 'Front Page'
-    folder: 'src/pages/posts/frontpage'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "frontpage"
+    label: "Front Page"
+    folder: "src/pages/posts/frontpage"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {
-          label: 'court image',
-          name: 'courtImage',
-          widget: 'image',
+          label: "court image",
+          name: "courtImage",
+          widget: "image",
           choose_url: true,
           required: true,
         }
-      - { label: 'Court Description', name: 'courtDescription', widget: 'text' }
+      - { label: "Court Description", name: "courtDescription", widget: "text" }
 
-      - { label: 'Product Name', name: 'productName', widget: 'string' }
-      - { label: 'Product Price', name: 'productPrice', widget: 'number' }
+      - { label: "Product Name", name: "productName", widget: "string" }
+      - { label: "Product Price", name: "productPrice", widget: "number" }
       - {
-          label: 'Product Description',
-          name: 'productDescription',
-          widget: 'text',
+          label: "Product Description",
+          name: "productDescription",
+          widget: "text",
         }
       - {
-          label: 'Product image',
-          name: 'productImage',
-          widget: 'image',
+          label: "Product image",
+          name: "productImage",
+          widget: "image",
           choose_url: true,
           required: true,
         }
-      - { label: 'Product Link', name: 'productLink', widget: 'string' }
-  - name: 'summergallery'
-    label: 'Summerleague Gallery'
+      - { label: "Product Link", name: "productLink", widget: "string" }
+  - name: "summergallery"
+    label: "Summerleague Gallery"
     create: true
-    folder: 'src/pages/posts/summergallery'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/summergallery"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - { label: "Title", name: "title", widget: "string", required: true }
       - { label: Cover, name: cover, widget: image }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'YYYY MM DD H:M:S',
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "YYYY MM DD H:M:S",
           required: true,
         }
-      - { label: 'Published', 
-          name: 'published', 
-          widget: 'boolean', 
-          required: true
+      - {
+          label: "Published",
+          name: "published",
+          widget: "boolean",
+          required: true,
         }
-      - label: 'Gallery'
-        name: 'galleryImages'
-        widget: 'list'
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Image description, name: description, widget: text }
           - { label: Créditos, name: credito, widget: text }
-  - name: 'summerarticles'
-    label: 'Summer league Articles'
+  - name: "summerarticles"
+    label: "Summer league Articles"
     create: true
     publish_mode: editorial_workflow
-    folder: 'src/pages/posts/summerarticles'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.title}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/summerarticles"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', required: true }
-      - { label: 'Subtitle', name: 'subname', widget: 'text' }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Subtitle", name: "subname", widget: "text" }
       - {
-          label: 'Featured',
-          name: 'featured',
-          widget: 'boolean',
+          label: "Featured",
+          name: "featured",
+          widget: "boolean",
           default: false,
         }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'MMM Do YY',
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "MMM Do YY",
           required: true,
         }
       - {
-          label: 'Banner',
-          name: 'image',
-          widget: 'image',
+          label: "Banner",
+          name: "image",
+          widget: "image",
           choose_url: true,
           required: true,
         }
-      - { label: 'Author', name: 'author', widget: 'string', required: true }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Author", name: "author", widget: "string", required: true }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: 'Layout',
-          name: 'layout',
-          widget: 'string',
-          default: '../../../Layout/single-article.astro',
+          label: "Layout",
+          name: "layout",
+          widget: "string",
+          default: "../../../Layout/single-summer-article.astro",
         }
-  - name: 'summergames'
-    label: 'Summer league Games'
+  - name: "summergames"
+    label: "Summer league Games"
     create: true
     publish_mode: editorial_workflow
-    folder: 'src/pages/posts/summergames'
-    slug: '{{year}}-{{month}}-{{day}}-{{time}}-{{location}}-{{teamA}}-vs-{{teamB}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/summergames"
+    slug: "{{year}}-{{month}}-{{day}}-{{time}}-{{location}}-{{teamA}}-vs-{{teamB}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Team A', name: 'teamA', widget: 'string', required: true }
-      - { label: 'Team B', name: 'teamB', widget: 'string', required: true }
+      - { label: "Team A", name: "teamA", widget: "string", required: true }
+      - { label: "Team B", name: "teamB", widget: "string", required: true }
       - {
-          label: 'Location',
-          name: 'location',
-          widget: 'string',
+          label: "Location",
+          name: "location",
+          widget: "string",
           required: true,
         }
       - {
-          label: 'Game time',
-          name: 'time',
-          widget: 'datetime',
-          default: '',
-          date_format: 'DD/MM',
-          time_format: 'HH:mm',
-          format: 'LLL',
+          label: "Game time",
+          name: "time",
+          widget: "datetime",
+          default: "",
+          date_format: "DD/MM",
+          time_format: "HH:mm",
+          format: "LLL",
           picker_utc: false,
           required: true,
         }
-  - name: 'nftheadline'
-    label: 'NFT Headline'
+  - name: "nftheadline"
+    label: "NFT Headline"
     create: true
-    folder: 'src/pages/posts/nftheadline'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.dropname}}'
+    folder: "src/pages/posts/nftheadline"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.dropname}}"
     fields:
-      - { label: 'Drop Name', name: 'dropname', widget: 'string', required: true }
-      - { label: 'Main Photo', name: 'mainphoto', widget: image, required: true }
-      - { label: 'Inverted Photo', name: 'invertedphoto', widget: image, required: true }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'YYYY MM DD H:M:S',
+          label: "Drop Name",
+          name: "dropname",
+          widget: "string",
           required: true,
         }
-      - { label: 'Hyperlink', name: 'hyperlink', widget: 'string', required: true }  
       - {
-          label: 'Featured',
-          name: 'featured',
-          widget: 'boolean',
+          label: "Main Photo",
+          name: "mainphoto",
+          widget: image,
+          required: true,
+        }
+      - {
+          label: "Inverted Photo",
+          name: "invertedphoto",
+          widget: image,
+          required: true,
+        }
+      - {
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "YYYY MM DD H:M:S",
+          required: true,
+        }
+      - {
+          label: "Hyperlink",
+          name: "hyperlink",
+          widget: "string",
+          required: true,
+        }
+      - {
+          label: "Featured",
+          name: "featured",
+          widget: "boolean",
           default: false,
         }
-  - name: 'nftcountdowns'
-    label: 'NFT Countdowns'
+  - name: "nftcountdowns"
+    label: "NFT Countdowns"
     create: true
-    folder: 'src/pages/posts/nftcountdowns'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.countname}}'
+    folder: "src/pages/posts/nftcountdowns"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.countname}}"
     fields:
-      - {label: 'Countdown Name', name: 'countname', widget: 'string', required: true}
       - {
-          label: 'Countdown End Date',
-          name: 'countdowndate',
-          widget: 'date',
-          format: 'YYYY MM DD H:M:S',
+          label: "Countdown Name",
+          name: "countname",
+          widget: "string",
           required: true,
         }
-  - name: 'nft'
-    label: 'NFT'
+      - {
+          label: "Countdown End Date",
+          name: "countdowndate",
+          widget: "date",
+          format: "YYYY MM DD H:M:S",
+          required: true,
+        }
+  - name: "nft"
+    label: "NFT"
     create: true
-    folder: 'src/pages/posts/nft'
-    slug: '{{year}}-{{month}}-{{day}}-{{fields.dropname}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    folder: "src/pages/posts/nft"
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.dropname}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: 'Dropname', name: 'dropname', widget: 'string', required: true }
+      - {
+          label: "Dropname",
+          name: "dropname",
+          widget: "string",
+          required: true,
+        }
       - { label: Cover, name: cover, widget: image }
       - {
-          label: 'Publish Date',
-          name: 'publishDate',
-          widget: 'date',
-          format: 'YYYY MM DD H:M:S',
+          label: "Publish Date",
+          name: "publishDate",
+          widget: "date",
+          format: "YYYY MM DD H:M:S",
           required: true,
         }
-      - label: 'Gallery'
-        name: 'galleryImages'
-        widget: 'list'
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
         fields:
           - { label: Image, name: image, widget: image, required: true }
           - { label: NFT Name, name: name, widget: text, required: true }
           - { label: Url, name: url, widget: text, required: true }
           - { label: Artist, name: artist, widget: text, required: true }
           - { label: Price, name: price, widget: text, required: true }
-
