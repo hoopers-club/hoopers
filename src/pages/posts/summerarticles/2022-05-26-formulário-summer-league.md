@@ -2,7 +2,7 @@
 title: Formulário Summer League
 subname: Inscreve-te no evento que será uma das sensações deste verão
 featured: true
-publishDate: May 21st 22
+publishDate: May 20th 22
 image: /assets/uploads/2022_05_21_formulário-s.l.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
