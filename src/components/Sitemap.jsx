@@ -65,8 +65,8 @@ const Sitemap = ({ openSitemap }) => {
 					) : (
 						''
 					)}*/}
-					<li className="strikeline hide notranslate">
-						<span style={{ color: "white" }}>SUMMER LEAGUE</span>
+					<li className="notranslate">
+						<a href="/summerleague">SUMMER LEAGUE</a>
 					</li>
 					<li className="notranslate">
 						<a
