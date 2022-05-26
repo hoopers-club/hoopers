@@ -1,5 +1,5 @@
-@use '../abstracts/colors' as *;
-@use '../abstracts/fonts' as *;
+@use "../abstracts/colors" as *;
+@use "../abstracts/fonts" as *;
 .black {
 	background-color: $hoopers-black !important;
 	color: white !important;
@@ -53,7 +53,10 @@
 }
 
 .esportlogo {
-	width: 100%;
+	min-width: 65%;
+	max-width: 75%;
+	padding-top: 0.75em;
+	padding-bottom: 0.75em;
 	display: flex;
 	height: 100%;
 	margin: auto;
