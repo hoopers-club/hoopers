@@ -17,17 +17,29 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				class="top"
 				style={`
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-					url('${allPosts[0]?.image}');
+					url('/assets/summer_league_bg_hero.jpg');
 					background-attachment: fixed;
 					background-position:center;
 					align-content:center;
 					display:flex;`
 				}
 			>
+<!--
+					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
+					url('${allPosts[0]?.image}');
+-->
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
 				
 				<div class="headline"><img class="esportlogo" src="/assets/esports/Asset 1.svg" alt="">
+<!--
+					REMOVE BUTTON WHEN SUMMER LEAGUE SIGN UPS ARE OVER
+-->
+					<div id="special-summer-btn" class="buttons centered" style="z-index:1; display:flex; margin-top:auto; font-size: 25px;" onclick="window.open('https://form.typeform.com/to/NTWY2KVm?typeform-source=hoopers.club','_blank')">INSCREVE-TE AQUI
+					</div>
+<!--
+					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
 					<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
+-->
 				</div>
 			</div>
 		</div>
@@ -65,9 +77,9 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				))}		
 			</div>
 		</section>
-<!--	
+<!--	TO ADD WHEN SUMMER LEAGUE STARTS	
 		<GallerySection/>
-	-->		
+-->		
 		<Games />
 
 		<div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">

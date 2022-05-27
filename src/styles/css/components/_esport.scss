@@ -146,3 +146,9 @@
 		scroll-snap-type: x mandatory;
 	}
 }
+
+@media screen and (max-width: 474px) {
+	#special-summer-btn {
+		font-size: 18px !important;
+	}
+}
