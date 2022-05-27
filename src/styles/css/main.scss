@@ -561,7 +561,7 @@ table .strong {
 	}
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
 	.menu-close {
 		width: 5em;
 	}
@@ -605,6 +605,29 @@ table .strong {
 @media screen and (max-width: 450px) {
 	.headline h2 {
 		font-size: 1.2em !important;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.appbar-transparent {
+		.logo {
+			margin-left: 0;
+			img {
+				width: 7em;
+			}
+		}
+		.menu {
+			img {
+				width: 2.75em;
+			}
+		}
+		.lang {
+			a {
+				span.shop-link {
+					font-size: 1.2em;
+				}
+			}
+		}
 	}
 }
 
