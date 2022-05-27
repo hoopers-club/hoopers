@@ -22,7 +22,7 @@ Não me sinto diferente de ninguém, toda a gente me aceita e nem me vêem como 
 Os estilos de jogo já não são assim tão diferentes. Antes eu achava que o jogo em Portugal era mais pensado comparado com os EUA, mas hoje em dia acho que já não está assim. Talvez devido ao facto da nossa Liga contar com diversas jogadoras americanas ao longo dos últimos anos. Uma das coisas que me obrigou a ajustar foi aprender a lidar com a distância da família. Às vezes os dias são difíceis, falta sempre aquele carinho e proximidade com a nossa família, o que pode afetar uma jogadora que não esteja preparada psicologicamente para esta situação, mas em termos táticos e físicos não há muita diferença.
 
 “Para mim o basquetebol é apenas 10% jogado. O resto é cabeça, dedicação e alma!”
-(INCLUIR COMO QUOTE)
+
 
 **H: Quais as equipas que tens seguido mais nos tempos livres ou até mesmo para complementares o teu jogo? Tens algum role model? Ou jogador que procures copiar? Algum ídolo?**
 
@@ -41,12 +41,8 @@ Os estilos de jogo já não são assim tão diferentes. Antes eu achava que o jo
 **MC:** ​Eu mudei de Universidade, porque já havia interesse anterior de ambas as partes. Apresentaram-me um projeto muito interessante com o objectivo de ganhar a Mountain West Conference e voltar a participar no NCAA Tournament. A Coach Kayla formou uma nova equipa, composta maioritariamente por jogadoras seniores muito ambiciosas e com o objetivo de vencer. Foi por essas razões que eu aceitei o desafio e optei pela mudança.
 A USU tem outra projeção nos EUA e, por isso, irei ter, seguramente, muitos mais olhos em cima de mim. Relativamente ao Neemias, todos ficamos muito contentes pela oportunidade que teve para dar o salto para a NBA. Pena que não tenha terminado o seu curso. Jogar basket pelas universidades nos EUA, é isso mesmo, chegar o mais longe possível como basquetebolista, mas também agarrar a possibilidade de fazeres uma boa licenciatura na área que mais gostas. Julgo que o Diogo terminou a sua licenciatura e agora pode abraçar a carreira de basquetebol com mais tranquilidade relativamente ao futuro. Seja como for, para mim é sempre um orgulho ser mais uma a fazer parte da família portuguesa que passou por USU.
 
-
-
 **Redação:** Hoopers
 
 **Entrevista por:** Martim Figueiredo 
-
-
 
 <!--EndFragment-->
