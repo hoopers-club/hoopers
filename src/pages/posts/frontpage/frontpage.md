@@ -9,7 +9,7 @@ courtDescription: >
   talents to fall in love with our game. <br/> <br/> Check our projects and
   learn more about their stories.
 productName: hoopers social club - burgundy tee
-productPrice: 15
+productPrice: 18
 productDescription: |-
   Made with love for our community.
   <br/>
