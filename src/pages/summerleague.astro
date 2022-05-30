@@ -15,18 +15,17 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
         <div class="container">
 			<div
 				class="top"
-				style={`
+				style="
 					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
 					url('/assets/summer_league_bg_hero.jpg');
 					background-repeat: no-repeat;
 					background-size: cover;
-					background-position:center;" 
-					display:flex;`
-				}
+					background-position:center; 
+					display:flex;"
 			>
 <!--
 					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
-					url('${allPosts[0]?.image}');
+					url('${allPosts[0]?.image}'); //and use {``} to wrap around style content
 -->
 				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
 				
