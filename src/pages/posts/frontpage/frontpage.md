@@ -8,8 +8,8 @@ courtDescription: >
   bring the community back to the streets and inspire the next generation of
   talents to fall in love with our game. <br/> <br/> Check our projects and
   learn more about their stories.
-productName: sac royalty tee
-productPrice: 25
+productName: hoopers social club - burgundy tee
+productPrice: 15
 productDescription: |-
   Made with love for our community.
   <br/>
@@ -24,6 +24,6 @@ productDescription: |-
   <br/>
   <br/>
   Check our store.
-productImage: /assets/uploads/tee_site.jpg
+productImage: /assets/uploads/tee_vermelha_site.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/sac-royalty-tee
 ---
