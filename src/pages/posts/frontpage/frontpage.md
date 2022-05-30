@@ -25,5 +25,5 @@ productDescription: |-
   <br/>
   Check our store.
 productImage: /assets/uploads/tee_vermelha_site.jpg
-productLink: https://hoopers.store/collections/t-shirts/products/sac-royalty-tee
+productLink: https://hoopers.store/collections/t-shirts/products/hoopers-social-club-burgundy-tee
 ---
