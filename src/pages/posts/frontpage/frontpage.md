@@ -1,5 +1,5 @@
 ---
-courtImage: /assets/uploads/hoopers_our_courts.png
+courtImage: /assets/uploads/courts_site.jpg
 courtDescription: >
   From the streets to the world!  <br/> <br/> Hoopers is focused on building the
   largest global community platform around the game of basketball.  <br/> <br/>
