@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_chicago.png
+image: /assets/uploads/thumb_chicago_03.jpg
 name: Chicago
 subname: Portugal
 position: 2

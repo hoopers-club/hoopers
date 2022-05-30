@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_quinta.png
+image: /assets/uploads/thumb_quinta_02.jpg
 name: Quinta das Lages
 subname: Portugal
 position: 6

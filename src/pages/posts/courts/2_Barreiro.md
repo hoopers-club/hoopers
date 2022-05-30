@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_barreiro.png
+image: /assets/uploads/thumb_barreiro_02.jpg
 name: Barreiro
 subname: Portugal
 position: 7

@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_calçada.png
+image: /assets/uploads/thumb_calçada_02.jpg
 name: Calçada de Carriche
 subname: Portugal
 position: 3
@@ -16,9 +16,9 @@ partner:
 whaWeDid: |
   REFURBISHED THE BASKETBALL FLOOR + LARGEST URBAN ART MURAL IN THE CITY
 galleryImages:
-  - /assets/uploads/6_calcada1.jpg
-  - /assets/uploads/6_calcada2.jpg
-  - /assets/uploads/6_calcada3.jpg
+  - /assets/uploads/1_carriche_final.jpg
+  - /assets/uploads/2_carriche_final.jpg
+  - /assets/uploads/3_carriche_final.jpg
 leftimage:
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/1.jpg
   - /assets/courts/Our%20Courts%20Imagens/6_Calcada/Galeria%20(Esquerda)/2.jpg

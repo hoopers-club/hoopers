@@ -1,19 +1,16 @@
 ---
 title: Seis jogos memoráveis para ver no YouTube
-subname: Os 81 pontos de Kobe Bryant, a rixa entre Reggie Miller e Spike Lee, a
-  noite mágica de Larry Bird e muito mais. A companhia perfeita para um fim de
-  semana em confinamento.
-featured: false
-publishDate: Jan 29th 21
+subname: "Os 81 pontos de Kobe Bryant, a rixa entre Reggie Miller e Spike Lee, a
+  noite mágica de Larry Bird e muito mais. "
+featured: true
+publishDate: May 30, 2022-00:05:00
 image: /assets/uploads/59_banner_jogosmemoraveis.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-Continuamos juntos durante este confinamento e, também por isso, continuamos a preparar umas dicas para te ajudar a passar o tempo em casa. Preparámos uma lista de jogos completos que podem ser vistos no YouTube.
+Com as finais da NBA à porta preparámos uma lista de jogos completos inesquecíveis que podem ser vistos no YouTube.
 
 Esta semana trazemos os 81 pontos de Kobe Bryant na temporada 05-06, o duelo entre Miller e Spike Lee, a noite mágica de Larry Bird e um vídeo bónus, caso te sobre algum tempo.
-
-Planos para o fim de semana? Check! Aproveita!
 
 **Toronto Raptors vs. Los Angeles Lakers - Temporada Regular da NBA (2005-06)**
 

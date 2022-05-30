@@ -1,5 +1,5 @@
 ---
-image: /assets/uploads/thumb_ameixoeira.png
+image: /assets/uploads/thumb_ameixoeira_02.jpg
 name: Ameixoeira
 subname: Portugal
 position: 4
