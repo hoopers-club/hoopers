@@ -12,7 +12,7 @@ layout: ../../../Layout/single-article.astro
 
 O técnico e ex-jogador de 51 anos chega hoje a Lisboa e irá assinar contrato depois de limadas algumas arestas com o clube de Alvalade
 
-Recorde-se o jogo mais importante da sua carreira como treinador, pelo menos em Portugal. <https://youtu.be/1XtBW2OwfRM>
+Recorde-se do jogo mais importante da sua carreira como treinador, pelo menos em Portugal. <https://youtu.be/1XtBW2OwfRM>
 
 Illiabum venceu a final 8 da Taça de Portugal depois de ter vencido a Oliveirense em overtime nos oitavos de final, Galitos nos quartos de final , CAB Madeira nas meias finais e o Benfica na final da Taça num jogo de domínio claro da equipa de Ílhavo. 
 
