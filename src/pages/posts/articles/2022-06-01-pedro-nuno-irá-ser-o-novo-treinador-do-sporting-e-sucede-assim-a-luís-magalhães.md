@@ -1,6 +1,5 @@
 ---
-title: "Pedro Nuno irá ser o novo treinador do Sporting e sucede assim a Luís
-  Magalhães! "
+title: Pedro Nuno irá ser o novo treinador do Sporting!
 subname: O técnico e ex-jogador de 51 anos chega hoje a Lisboa e irá assinar
   contrato depois de limadas algumas arestas com o clube de Alvalade
 featured: true
