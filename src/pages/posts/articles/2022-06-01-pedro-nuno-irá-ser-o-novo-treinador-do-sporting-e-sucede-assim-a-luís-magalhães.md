@@ -1,5 +1,5 @@
 ---
-title: Pedro Nuno irá ser o novo treinador do Sporting!
+title: Pedro Nuno será o novo treinador do Sporting!
 subname: Pedro Nuno irá ser o novo treinador do Sporting e sucede assim a Luís
   Magalhães!
 featured: true
