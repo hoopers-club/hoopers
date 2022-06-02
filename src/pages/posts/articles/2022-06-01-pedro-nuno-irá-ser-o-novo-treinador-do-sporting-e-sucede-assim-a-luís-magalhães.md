@@ -10,7 +10,9 @@ layout: ../../../Layout/single-article.astro
 ---
 <!--StartFragment-->
 
-O técnico e ex-jogador de 51 anos chega hoje a Lisboa e irá assinar contrato depois de limadas algumas arestas com o clube de Alvalade
+O técnico e ex-jogador de 51 anos chega hoje a Lisboa e irá assinar contrato depois de limadas algumas arestas com o clube de Alvalade.[ https://www.instagram.com/p/CeTw-1aqpeK/?igshid=YmMyMTA2M2Y%3D](https://www.instagram.com/p/CeTw-1aqpeK/?igshid=YmMyMTA2M2Y%3D)
+
+
 
 Recorde-se do jogo mais importante da sua carreira como treinador, pelo menos em Portugal. <https://youtu.be/1XtBW2OwfRM>
 
