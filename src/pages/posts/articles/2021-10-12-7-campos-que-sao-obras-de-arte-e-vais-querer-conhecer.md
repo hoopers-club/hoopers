@@ -139,7 +139,7 @@ A obra é composta pela junção de cinco pinturas a óleo, que o artista coloco
 
 <!--StartFragment-->
 
-Pelas mãos do artista urbano **Flix** nasceu, naquilo que se veio a tornar, um dos campos mais icónicos na zona de Lisboa. Durante o final dos anos 90 e início dos anos 2000 os espaços do **Porto de Lisboa** foi um local histórico para torneios de basquetebol 3x3, e agora ganharam nova vida e prometem ser o novo local preferido dos jogadores de basquete de rua. Este projecto foi promovido pela **Administração do Porto de Lisboa** e **Hoopers.**
+Pelas mãos do artista urbano **Flix** nasceu, aquilo que se veio a tornar, um dos campos mais icónicos da zona de Lisboa. Durante o final dos anos 90 e início dos anos 2000, os espaços do **porto de Lisboa** foram um local histórico para os torneios de basquetebol 3x3. Este projeto foi promovido pela **Administração do porto de Lisboa** e pela **Hoopers.**
 
 <!--EndFragment-->
 
@@ -147,13 +147,13 @@ Pelas mãos do artista urbano **Flix** nasceu, naquilo que se veio a tornar, u
 
 <!--StartFragment-->
 
-A intervenção de **Flix** funciona como um grande mural artístico e presta homenagem às origens e valores deste lugar. Do alto, avista-se um conjunto de bandeiras náuticas que formam a palavra **“Alcântara”** . Este espaço contém duas quadras de basquete 3x3 e suas linhas de lance livre remetem às bóias salva-vidas, local onde os jogadores de basquete vão frequentemente para “salvar” uma jogada ou até mesmo um jogo.
+A intervenção de **Flix** funcionou como um grande mural artístico e presta homenagem às origens e valores deste lugar. Do alto, avista-se um conjunto de bandeiras náuticas que formam a palavra **“Alcântara”** . Este espaço contém duas quadras de basquete 3x3 e as suas linhas de lance livre remetem às bóias de salva-vidas, local onde os jogadores de basquete vão frequentemente para “salvar” uma jogada ou até mesmo, um jogo.
 
 
 
 **9. Paris, França** 
 
-No coração de França, Paris, está um dos campos mais disputados pelos Hoopers. O campo foi projetado por **Stephane Ashpool** em colaboração com a sua marca de moda francesa **Pigalle** e a agência de criação parisiense **ill-studio**. 
+No coração de França, Paris, está um dos campos mais disputados pelos Hoopers. O campo foi projetado por **Stephane Ashpool** em colaboração com a sua marca de moda francesa **Pigalle** e a agência de criação de conteúdo parisiense **ill-studio**. 
 
 
 
@@ -165,11 +165,11 @@ Está localizado bem no meio de Paris, entre dois prédios num espaço bastante 
 
 **10. Lisboa, Portugal**
 
-A Calçada de Carriche foi o local escolhido para homenagear Kobe Bryant.  A **Hooper**s, a **Galeria de Arte Urbana (Galeria de Arte Urbana – Câmara Municipal de Lisboa**) e a  **Junta de Freguesia do Lumiar**, juntaram-se a **Hélio Bray**, um artista de arte urbana, e promoveram a requalificação  de um novo campo de basquetebol de rua na Calçada de Carriche.  
+A Calçada de Carriche foi o local escolhido para homenagear Kobe Bryant. A **Hoopers**, a **Galeria de Arte Urbana (Galeria de Arte Urbana – Câmara Municipal de Lisboa**) e a **Junta de Freguesia do Lumiar**, juntaram-se a **Hélio Bray**, um artista de arte urbana, e promoveram a requalificação de um novo campo de basquetebol de rua na Calçada de Carriche.  
 
 <!--StartFragment-->
 
-Para **Hélio Bray**, “este foi o maior projeto que já participei e me deu a chance de mostrar diferentes lados do meu trabalho. A conexão que senti com esta homenagem e a história deste lugar me emocionou desde o início. Estou extremamente feliz com o resultado final e espero que este projeto inspire as novas gerações”.
+Para[](https://www.instagram.com/heliobray/) **[Hélio Bray](https://www.instagram.com/heliobray/)** “este foi o maior projeto que já participei e me deu a chance de mostrar diferentes lados do meu trabalho. A conexão que senti com esta homenagem e a história deste lugar me emocionou desde o início. Estou extremamente feliz com o resultado final e espero que este projeto inspire as novas gerações”.
 
 <!--EndFragment-->
 
@@ -177,7 +177,7 @@ Para **Hélio Bray**, “este foi o maior projeto que já participei e me deu a 
 
 
 
-Este campo também foi o mote para o artista [Lancelot](https://www.instagram.com/lancel0t_odc/) , rapper português, que é um dos muitos jogadores que lá tocaram durante toda a vida, lançar o single, “O campo”, inspirado neste projecto.
+Este campo foi também o mote para o artista **[Lancelot](https://www.instagram.com/lancel0t_odc/)**, um rapper português, para lançar o single “O campo”, inspirado neste projeto. 
 
 
 
