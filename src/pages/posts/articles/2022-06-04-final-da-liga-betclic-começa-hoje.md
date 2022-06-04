@@ -21,11 +21,7 @@ Já os encarnados venceram o Clube Desportivo da Póvoa por 2-0 no primeiro emba
 
 Numa época fustigada por lesões, os dois emblemas viram-se obrigados a reforçar os plantéis. Vamos analisar de forma detalhada os dois conjuntos:
 
-Benfica 
-
-(o mais provável)
-
-\- 5 inicial Benfica: Frank Gaines, Aaron Broussard, Ivan Almeida, João Betinho Gomes e Dennis Clifford.
+Benfica (o mais provável)- 5 inicial Benfica: Frank Gaines, Aaron Broussard, Ivan Almeida, João Betinho Gomes e Dennis Clifford.
 
 Habitualmente este é o 5 inicial predileto de Norberto Alves e aquele que lhe garante mais sucesso.
 
@@ -47,11 +43,7 @@ Norberto Alves poderá preferir jogar com o poste e tentar impor mais presença 
 
 Se a opção for Travis Munnings, a ideia passa por colocar o extremo a defender o portador da bola para evitar o desgaste dos bases. O Benfica surge mais desfalcado nas posições interiores mas tem mais opções a Ivan e Betinho. 
 
-Porto 
-
-(o mais provável)
-
-\- 5 inicial Porto: Charlon Kloof, Bradley Tinsley, Rashard Odomes, Jonathan Arledge e Mike Morrison.
+Porto (o mais provável) - 5 inicial Porto: Charlon Kloof, Bradley Tinsley, Rashard Odomes, Jonathan Arledge e Mike Morrison.
 
 Charlon Kloof é dos bases mais energéticos da nossa Liga e apesar de alguma falta de lançamento exterior causa muitos problemas pelo seu físico e capacidade atlética. Bradley Tinsley é o jogador estrangeiro há mais tempo ligado ao clube e é um base muito completo e capaz naquilo que faz em campo, seja através de ações bloqueadas ou na condução do ataque. Rashard Odomes e Jonathan Arledge são os dois marcadores de pontos com mais relevo no conjunto azul e branco.
 
@@ -74,8 +66,4 @@ Escrito por: Martim Figueiredo
 **\
 Redação: Hoopers**
 
-<!--StartFragment-->
-
-`<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
-
-<!--EndFragment-->
+``
