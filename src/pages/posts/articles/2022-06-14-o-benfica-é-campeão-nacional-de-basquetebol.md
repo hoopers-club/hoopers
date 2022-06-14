@@ -33,11 +33,7 @@ Esta estratégia passou pela colocação simultânea de três bases em campo - F
 
 O jogo 3 acabaria por ficar marcado pela lesão no joelho do poste norte americano dos azuis e brancos, Mike Morrison. O Porto venceria o jogo 3, reduzindo a desvantagem e colocando a série em 1-2, mantendo-se em aberto a possibilidade de empatar a eliminatória aproveitando o fator caso e forçar a "negra" (jogo 5), a realizar-se no Pavilhão Fidelidade. 
 
-No jogo 4, o Benfica entrou fortíssimo na partida, dominando em todos os períodos, e acabaria por vencer a partida por 28 pontos de vantagem: 
-
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Highlights do encontro que tornou o <a href="https://twitter.com/SLBenfica?ref_src=twsrc%5Etfw">@SLBenfica</a> campeão nacional!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/HtlKsaX8CV">pic.twitter.com/HtlKsaX8CV</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1535753757379678208?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+No jogo 4, o Benfica entrou fortíssimo na partida, dominando em todos os períodos, e acabaria por vencer a partida por 28 pontos de vantagem.
 
 **\
 Aaron Broussard foi eleito o MVP das finais, após uma exibição pautada por 18 pontos, 3 ressaltos, 6 assistências e 1 roubo de bola.** <!--StartFragment-->
