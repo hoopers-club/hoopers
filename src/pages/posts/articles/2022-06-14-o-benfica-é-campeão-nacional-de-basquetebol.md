@@ -9,6 +9,12 @@ layout: ../../../Layout/single-article.astro
 ---
 <!--StartFragment-->
 
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 O Sport Lisboa Benfica sagrou-se no passado sábado, dia 11, campeão nacional de basquetebol ao vencer o Porto por 63-91, no Dragão Caixa, no 4.º jogo da final.
 
 
