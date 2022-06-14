@@ -7,11 +7,9 @@ image: /assets/uploads/benfica-camepeão.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-<!--StartFragment-->
 
-<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!--EndFragment-->
+
 
 <!--StartFragment-->
 
@@ -67,5 +65,9 @@ Esperam-se movimentações nos dois plantéis, com principal destaque para uma n
 **Redação:** Hoopers
 
 **Escrito por:** Martim Figueiredo
+
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
