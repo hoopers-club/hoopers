@@ -71,7 +71,7 @@ Ao serviço do Vitória de Guimarães, “Litos” foi determinante para ajudar 
 
 O mais recente base internacional português apontou uma excelente época apesar da lesão no ombro que não o permitiu terminar a época da melhor forma.
 
-Ao longo de 19 jogos e em 31.0 minutos jogados por jogo, Ariel conquistou 8.1 pontos ( 39.6% 2P, 21.9% 3P, 71.9% LL), 3.8 ressaltos, 6.5 assistências e 2.1 roubos de bola.
+Ao longo de 19 jogos e em 31.0 minutos jogados por jogo, Amiel conquistou 8.1 pontos ( 39.6% 2P, 21.9% 3P, 71.9% LL), 3.8 ressaltos, 6.5 assistências e 2.1 roubos de bola.
 
 <!--EndFragment-->
 
