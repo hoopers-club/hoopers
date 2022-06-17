@@ -67,7 +67,7 @@ Ao serviço do Vitória de Guimarães, “Litos” foi determinante para ajudar 
 
 <!--StartFragment-->
 
-Francisco Amiel (LUS)
+**Francisco Amiel (LUS)**
 
 O mais recente base internacional português apontou uma excelente época apesar da lesão no ombro que não o permitiu terminar a época da melhor forma.
 
