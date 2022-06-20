@@ -15,8 +15,6 @@ A equipa das Quinas irá participar no Torneio Internacional de Viana, a começa
 
 Os jogos do grupo E (vs Hungria e Montenegro) a contar para a fase de Qualificação para o Mundial 2023, começam no próximo mês, e irão ser jogados em Budapeste e em Odivelas.
 
-
-
 Relembro que Portugal perdeu todos os jogos até agora (4), apesar de se ter batido bem nos dois últimos jogos frente aos franceses, o jogo onde ficámos mais perto de ganhar foi contra a Hungria em casa (CDC Matosinhos), em que acabámos por perder 75-81. 
 
 <!--StartFragment-->
@@ -29,11 +27,7 @@ Relembro que Portugal perdeu todos os jogos até agora (4), apesar de se ter bat
 
 Também saímos derrotados no embate frente ao Montenegro, em Podgorica.
 
-
-
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -43,13 +37,9 @@ Também saímos derrotados no embate frente ao Montenegro, em Podgorica.
 
 Portugal x Eslováquia, 20h00 
 
-
-
 25 de junho:
 
 Ucrânia x Portugal, 18h00 
-
-
 
 **Grupo E, fase de Qualificação para o Mundial 2023**
 
@@ -57,17 +47,11 @@ Ucrânia x Portugal, 18h00 
 
 Hungria x Portugal, 19h00 
 
-
-
 4 de julho:
 
 Portugal x Montenegro, 19h00
 
-
-
 Portugal precisa, imperativamente, de ganhar os dois jogos para poder passar à próxima fase. Posto isto, ainda necessita que o Montenegro e/ou a Hungria percam a totalidade dos jogos (2) e que a diferença de pontos nos seja favorável em confronto direto. 
-
-
 
 **Mário Gomes** manteve quase todos os mesmos jogadores que enfrentaram a França no passado mês de fevereiro com especial destaque para a saída de **Sasa Borovnjak** (Saint Chamond, LNB2) e para as entradas dos jovens: **Nuno Sá** (CAB Madeira, LPB) e **Ricardo Monteiro** (UD Oliveirense, LPB)**.**
 
@@ -86,8 +70,9 @@ Escrito por: **Martim Figueiredo**
 <!--EndFragment-->
 
 \
+
 <!--StartFragment-->
 
-`<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
