@@ -71,14 +71,8 @@ Escrito por: **Martim Figueiredo**
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!--EndFragment-->
 
-<!--EndFragment-->
 
-\
 
-<!--StartFragment-->
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--EndFragment-->
