@@ -1,5 +1,5 @@
 ---
-title: Chamusca ganha campo icónico de Basket com arte de Vasco Costa
+title: Chamusca ganha campo icónico com arte de Vasco Costa
 subname: O Município da Chamusca e a Hoopers são os responsáveis do projeto de
   intervenção desportiva e artística
 featured: true
