@@ -21,18 +21,8 @@ const Gallery = ({ articles }) => {
 		}
 	};
 	return (
-		<div
-			className="gallery"
-			style={{
-				flexDirection: "column",
-				height: "100%",
-				width: "100%"
-			}}
-		>
-			<div
-				className="left"
-				style={{ position: "relative", width: "100%", height: "90%" }}
-			>
+		<div className="gallery">
+			<div className="left">
 				<img
 					src="/assets/courts/left.svg"
 					alt=""
@@ -48,12 +38,6 @@ const Gallery = ({ articles }) => {
 				{courtImage && (
 					<img src={courtImage} className="gallery-item-img" alt="" />
 				)}
-				{/* {court.galleryImages.map((image, i) => (
-					<div>
-						<img src={image} alt='' />
-						{console.log(i)}
-					</div>
-				))} */}
 			</div>
 		</div>
 	);
