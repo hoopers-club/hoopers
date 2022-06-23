@@ -1,7 +1,7 @@
 ---
 import Bases from '../Layout/Layout-Article.astro';
 import Games from '../components/Games.astro';
-//import GallerySection from '../components/Gallery-section.astro';
+import GallerySection from '../components/Gallery-section.astro';
 
 let allPosts = await Astro.fetchContent('./posts/summerarticles/*.md');
 
@@ -78,9 +78,9 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 				))}		
 			</div>
 		</section>
-<!--	TO ADD WHEN SUMMER LEAGUE STARTS	
+
 		<GallerySection/>
--->		
+	
 		<Games />
 
 		<div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
