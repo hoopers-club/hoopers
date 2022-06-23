@@ -9,7 +9,7 @@
 .schedule-list {
 	display: grid;
 	padding: 1em 10%;
-	grid-template-columns: repeat(auto-fit, minmax(15em, 3fr));
+	grid-template-columns: repeat(auto-fit, minmax(8em, 3fr));
 	place-items: center;
 	gap: 3em;
 	margin-block-end: 1em;
@@ -19,7 +19,7 @@
 			padding: 0.5em auto;
 		}
 		.match {
-			font-size: 2em;
+			font-size: 1em;
 			width: 100%;
 			text-align: center;
 		}
@@ -30,9 +30,8 @@
 			flex-direction: column;
 			width: fit-content;
 			margin: auto;
-			gap: 0.5em;
 			padding-top: 0.5em;
-			font-size: 2em;
+			font-size: 1em;
 			font-family: $aktiv-grotesk-light;
 		}
 	}
@@ -132,6 +131,26 @@
 #rightbtn {
 	right: 2em;
 	top: 50%;
+}
+
+@media screen and (max-width: 1320px) {
+	.schedule-list {
+		grid-template-columns: repeat(auto-fit, minmax(15em, 3fr)) !important;
+		.match,
+		.match-secondary {
+			font-size: 1.25em !important;
+		}
+	}
+}
+
+@media screen and (max-width: 821px) {
+	.schedule-list {
+		grid-template-columns: repeat(auto-fit, minmax(12em, 3fr)) !important;
+		.match,
+		.match-secondary {
+			font-size: 1.25em !important;
+		}
+	}
 }
 
 @media screen and (max-width: 600px) {

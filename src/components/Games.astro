@@ -21,7 +21,7 @@ games[0]?.time ? isScheduled = true : isScheduled = false;
 
 <section class="articles black" style="min-height:0;">
 	<div class="articles-featured">
-		<div class="esport-title">Schedule</div>
+		<div class="esport-title notranslate">Schedule</div>
 		<img
 			class="featured-line"
 			src="/assets/articles/linha.svg"
@@ -31,23 +31,23 @@ games[0]?.time ? isScheduled = true : isScheduled = false;
 	<div class="schedule-list">
 	
 	{isScheduled ? 
-		games?.map(game =>(
+		games?.slice(0,6).map(game =>(
 
 			<div class="schedule-item">
-				<div class="match">{game?.teamA} X {game?.teamB}</div>
-				<div class="match-secondary">
-					<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth()} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
-					<div class="match-location">{game?.location}</div> 
+				<div class="match notranslate">{game?.teamA} <br/>X<br/> {game?.teamB}</div>
+				<div class="match-secondary notranslate">
+					<div class="time">{`${new Date(game?.time).getDate()}/${new Date(game?.time).getMonth() + 1} - ${new Date(game?.time).getHours()}H${new Date(game?.time).getMinutes()=='00'?'':new Date(game?.time).getMinutes()} `}</div>
+					<div class="match-location notranslate">{game?.location}</div> 
 				</div>
 			</div>
 		))
 		: (
-			<div class="schedule.item">
+			<div class="schedule.item ">
 				<p>No games scheduled. Coming Soon...</p>
 			</div>
 		)}
 	</div>
 	
-	<div class="buttons-black center-games " onclick="showMe()">show more</div>
+	<div class="buttons-black center-games " onclick="showMe()">all games</div>
 
 </section>
