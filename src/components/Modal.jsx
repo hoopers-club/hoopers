@@ -1,15 +1,15 @@
-import Gallery from './Gallerysummer';
+import GallerySummer from "./Gallerysummer";
 
 const Modal = ({ gallery, handleModal }) => {
 	return (
-		<div className='modal'>
+		<div className="modal">
 			<img
-				className='close-btn'
-				src='/assets/courts/Fechar Card.svg'
-				alt=''
+				className="close-btn"
+				src="/assets/courts/Fechar Card.svg"
+				alt=""
 				onClick={() => handleModal()}
 			/>
-			<Gallery articles={gallery} />
+			<GallerySummer articles={gallery} />
 		</div>
 	);
 };

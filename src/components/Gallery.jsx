@@ -22,7 +22,10 @@ const Gallery = ({ articles }) => {
 	};
 	return (
 		<div className="gallery">
-			<div className="left">
+			<div
+				className="left"
+				style={{ position: "relative", width: "100%", height: "90%" }}
+			>
 				<img
 					src="/assets/courts/left.svg"
 					alt=""
@@ -36,8 +39,14 @@ const Gallery = ({ articles }) => {
 					onClick={() => skip("forward")}
 				/>
 				{courtImage && (
-					<img src={courtImage} className="gallery-item-img" alt="" />
+					<img className="gallery-item-img" alt="" src={courtImage} />
 				)}
+				{/* {court.galleryImages.map((image, i) => (
+					<div>
+						<img src={image} alt='' />
+						{console.log(i)}
+					</div>
+				))} */}
 			</div>
 		</div>
 	);
