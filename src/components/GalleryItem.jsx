@@ -35,7 +35,12 @@ const GalleryItem = ({ gallery }) => {
 					backgroundPosition: "center"
 				}}
 			>
-				<div className="esportgalleryfont">{gallery?.title}</div>
+				<div
+					className="esportgalleryfont"
+					style={{ fontSize: "6vw !important" }}
+				>
+					{gallery?.title}
+				</div>
 				<div className="article-underline"></div>
 				<img
 					className="esportlogomedium"

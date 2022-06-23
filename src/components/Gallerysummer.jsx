@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Gallery = ({ articles }) => {
+const GallerySummer = ({ articles }) => {
 	const url = "/assets/Homepage/hero main.svg";
 	const [courtImage, setcourtImage] = useState(articles[0]?.image);
 	const [i, setI] = useState(articles[0]);
@@ -65,4 +65,4 @@ const Gallery = ({ articles }) => {
 	);
 };
 
-export default Gallery;
+export default GallerySummer;
