@@ -1,29 +1,42 @@
 ---
 courtImage: /assets/uploads/courts_site.jpg
 courtDescription: >
-  From the streets to the world!  <br/> <br/> Hoopers is focused on building the
-  largest global community platform around the game of basketball.  <br/> <br/>
-  We work together with local urban artists to transform old, abandoned and
-  damaged courts into new and iconic spots in cities. <br/> <br/> Our goal is to
-  bring the community back to the streets and inspire the next generation of
-  talents to fall in love with our game. <br/> <br/> Check our projects and
-  learn more about their stories.
+  Das ruas para o Mundo!  <br/> <br/> A Hoopers está focada em criar a maior
+  plataforma de comunidade global do mundo relacionada com o jogo de
+  basquetebol.  <br/> <br/> Trabalhamos junto de artístas urbanos locais para
+  transformar os campos velhos, abandonados e estragados em locais renovados e
+  icónicos nas suas cidades.<br/> <br/> O nosso objectivo é trazer de volta a
+  nossa comunidade, revolucioná-la e inspirar a próxima geração de talentos a
+  apaixonar-se pelo nosso desporto, o nosso estilo de vida. <br/> <br/> Vê os
+  nossos projectos e fica a conhecer melhor as nossas histórias.
 productName: hoopers social club - burgundy tee
 productPrice: 18
-productDescription: |-
-  Made with love for our community.
+productDescription: >-
+  Feito para a nossa comunidade com amor.
+
   <br/>
+
   <br/>
-  We work together with urban artists to release exclusive and limited editions.
+
+  Trabalhamos juntamente com artistas urbanos para lançar artigos exclusivos com edições limitadas.
+
   <br/>
+
   <br/>
-  We work together with the community to launch what you are looking for.
+
+  Trabalhamos perto da comunidade para lançar os produtos que procuras.
+
   <br/>
+
   <br/>
-  Shop our classics and our latest collections.
+
+  Compra as nossas últimas colecções clássicas.
+
   <br/>
+
   <br/>
-  Check our store.
+
+  Vai até à nossa loja virtual.
 productImage: /assets/uploads/tee_vermelha_site.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/hoopers-social-club-burgundy-tee
 ---
