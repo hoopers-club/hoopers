@@ -11,18 +11,24 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 		);
 		if (direction === "forward") {
 			setcourtImage(
-				court?.galleryImages[(currentIndex + 1) % court?.galleryImages.length]
+				court?.galleryImages[
+					(currentIndex + 1) % court?.galleryImages.length
+				]
 			);
 			console.log(courtImage);
 		}
 		if (direction === "back") {
 			if ((currentIndex - 1) % court?.galleryImages.length === -1) {
-				setcourtImage(court?.galleryImages[court?.galleryImages.length - 1]);
+				setcourtImage(
+					court?.galleryImages[court?.galleryImages.length - 1]
+				);
 
 				return;
 			}
 			setcourtImage(
-				court?.galleryImages[(currentIndex - 1) % court?.galleryImages.length]
+				court?.galleryImages[
+					(currentIndex - 1) % court?.galleryImages.length
+				]
 			);
 		}
 	};
@@ -84,7 +90,11 @@ const CourtDetail = ({ handleDetail, court, setDetail }) => {
 						dangerouslySetInnerHTML={{ __html: court?.astro.html }}
 					></div>
 				</div>
-				<img class="end" src="/assets/courts/courtseparatordetail.svg" alt="" />
+				<img
+					class="end"
+					src="/assets/courts/courtseparatordetail.svg"
+					alt=""
+				/>
 			</div>
 		</div>
 	);
