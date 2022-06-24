@@ -37,7 +37,7 @@ productDescription: >-
 
   <br/>
 
-  Vai até à nossa loja virtual.
+  Espreita a nossa loja virtual.
 productImage: /assets/uploads/tee_vermelha_site.jpg
 productLink: https://hoopers.store/collections/t-shirts/products/hoopers-social-club-burgundy-tee
 ---
