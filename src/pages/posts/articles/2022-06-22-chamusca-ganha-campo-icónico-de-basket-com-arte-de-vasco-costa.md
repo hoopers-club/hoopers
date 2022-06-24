@@ -1,7 +1,6 @@
 ---
-title: Chamusca ganha campo icónico com arte de Vasco Costa
-subname: O Município da Chamusca e a Hoopers são os responsáveis do projeto de
-  intervenção desportiva e artística
+title: Chamusca ganha campo icónico
+subname: Projecto do Município da Chamusca e Hoopers contou com o artísta Vasco Costa
 featured: true
 publishDate: Jun 22, 2022-09:06:43
 image: /assets/uploads/2022_06_22_chamusca.jpg
