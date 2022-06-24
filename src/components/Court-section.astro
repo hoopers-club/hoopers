@@ -6,7 +6,7 @@ let frontpage = await Astro.fetchContent('../pages/posts/frontpage/*.md');
 
 <section class="courts" >
 	<div class="title">
-		<div class="title-section notranslate centerright-i">courts</div>
+		<div class="title-section notranslate centerright-i">campos</div>
 		<img class="line centerleft-i " src="/assets/Homepage/section line.svg" alt="line" />
 	</div>
 	<div class="content down-i">
@@ -18,7 +18,7 @@ let frontpage = await Astro.fetchContent('../pages/posts/frontpage/*.md');
 			inside following div:
 			dangerouslySetInnerHTML={{ __html: frontpage[0]?.courtDescription }}-->
 			<div set:html={frontpage[0]?.courtDescription} class="text fonte-creditos"></div>
-			<div class="buttons condensed" onclick="location.href='/courts'">Our <span class="notranslate">Courts</span></div>
+			<div class="buttons condensed" onclick="location.href='/courts'">OS NOSSOS <span class="notranslate">CAMPOS</span></div>
 		</div>
 	</div>
 </section>
