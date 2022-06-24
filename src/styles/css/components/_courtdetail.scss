@@ -30,6 +30,9 @@
 		}
 		.history {
 			font-size: 1.125em !important;
+			p {
+				margin-bottom: 1em;
+			}
 		}
 		.detail {
 			color: $white;
