@@ -11,8 +11,6 @@ layout: ../../../Layout/single-article.astro
 
 A seleção nacional de basquetebol sub-20 masculino defrontou a seleção de basquetebol sub-20 masculino espanhola em dois duelos no início da semana (dia 27 e 28 de junho). 
 
-
-
 A armada lusa bateu-se frente a uma das maiores potências europeias e mundiais, contudo não foi suficiente para levar a vitória em nenhum dos encontros. 
 
 O principal protagonista foi André Cruz, que anotou 18 pontos, 9.5 ressaltos, 2 assistências, 2 roubos de bola e 0.5 desarmes de lançamento em média, nos dois jogos. <!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1541529736760926211?s=21)
@@ -27,11 +25,7 @@ O principal protagonista foi André Cruz, que anotou 18 pontos, 9.5 ressaltos, 2
 
 <!--EndFragment-->
 
-
-
 Guilherme Saiote, Rúben Prey e Diogo Seixas foram outros dos nomes em destaque no embate das duas seleções da Península Ibérica. 
-
-
 
 Do lado espanhol, Michael Caicedo (segundo-base do Barcelona) foi talvez o “high-talent” a despertar mais atenção nas bancadas do Pavilhão Desportivo dos Lombos. [](https://www.instagram.com/p/CfWZj0goIlM/?igshid=YmMyMTA2M2Y=)<!--StartFragment-->
 
@@ -39,21 +33,13 @@ Do lado espanhol, Michael Caicedo (segundo-base do Barcelona) foi talvez o “hi
 
 <!--EndFragment-->
 
-
-
 O conjunto orientado pelo selecionador André Martins disputou muito bem o primeiro jogo durante a primeira parte, com um empate 28-28 ao intervalo. Na segunda metade, o tiro exterior adversário começou a fazer moça e a diferença foi-se dilatando. 
 
-
-
 Os nossos jovens estavam com alguma dificuldade na reposição de bola face a uma defesa campo inteiro muito intensa. No ataque existia por vezes alguma falta de esclarecimento em situações de bloqueio direto algo normais nesta fase de preparação. 
-
-
 
 Na segunda partida, entrámos menos pujantes mas desde cedo conseguimos encontrar o caminho da “remontada” que ficou muito perto de acontecer.
 
 A melhoria no lançamento exterior acompanhado de alguns ajustes defensivos permitiu-nos estar em jogo até ao último segundo.
-
-
 
 Os jogos tiveram a transmissão na FPBTV, assegurada em canal aberto. <!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1541501928244387840?s=21)
 
@@ -61,28 +47,34 @@ Os jogos tiveram a transmissão na FPBTV, assegurada em canal aberto. <!--StartF
 
 <!--EndFragment-->
 
-
-
 Posto isto, a seleção irá rumar à Itália já esta 5ª feira onde apenas irão 12 jogadores. A seleção não implica que sejam estes os 12 a participar no Europeu 2022 a realizar-se na terceira semana do próximo mês de julho no Montenegro. 
-
-
 
 Divisão A aqui vamos nós!!! 
 
 
 
-<!--EndFragment-->
-
-<script async src="//www.instagram.com/embed.js"></script>
+**Redação:** Hoopers 
 
 <!--StartFragment-->
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+**Esccrtito por:** Martim Cardoso
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
 
 
-**Redação:** Hoopers 
 
-**Esccrtito por:** Martim Cardoso
+
+
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
