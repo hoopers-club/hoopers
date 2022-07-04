@@ -31,13 +31,26 @@ Na entrada para o último e derradeiro período, as duas equipas andavam coladas
 
 A Hungria foi muito preponderante a correr o campo e marcar os seus pontos em transição e a nossa seleção, algo passiva, concedeu muitas chances para “and-one’s” não conseguindo defender os lances sem falta ou fazendo falta, evitar a marcação do ataque.
 
-Posto isto, a equipa das Quinas irá jogar o seu último jogo segunda-feira no dia 4 deste mês pelas 19h00, no Pavilhão Multiusos de Odivelas, frente à seleção montenegrina, a contar para a 6.ª jornada da competição.
+Posto isto, a equipa das Quinas irá jogar o seu último jogo Hoje, dia 4 pelas 19h00, no Pavilhão Multiusos de Odivelas, frente à seleção montenegrina, a contar para a 6.ª jornada da competição.
 
 Para consultar a estatística do jogo: <https://bit.ly/3bHhvng> 
 
-Redação: Hoopers
+**Redação:** Hoopers
 
-Entrevista por: Martim Figueiredo 
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+**Entrevista por:** Martim Figueiredo 
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
