@@ -153,8 +153,9 @@ collections:
       - {
           label: "Publish Date",
           name: "publishDate",
-          widget: "date",
-          format: "YYYY MM DD H:M:S",
+          date_format: "DD/MM",
+          time_format: "HH:mm",
+          format: "LLL",
           required: true,
         }
       - {
