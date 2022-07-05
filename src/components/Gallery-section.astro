@@ -2,7 +2,7 @@
 import GalleryItem from '../components/GalleryItem.jsx';
 
 let gallerys = await Astro.fetchContent('/src/pages/posts/summergallery/*.md');
-gallerys=gallerys?.sort((a, b) => a.title.localeCompare(b.title));
+gallerys=gallerys?.sort((a, b) => b.title.localeCompare(a.title));
 
 gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
 
