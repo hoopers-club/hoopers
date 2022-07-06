@@ -38,7 +38,7 @@
 					.gallery-item-img {
 						height: 100vh !important;
 						width: 100% !important;
-						object-fit: cover !important;
+						object-fit: contain !important;
 					}
 				}
 			}
