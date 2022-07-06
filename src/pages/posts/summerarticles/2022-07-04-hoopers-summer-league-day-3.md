@@ -44,6 +44,12 @@ Wiiny Ntchigna foi o melhor marcador da equipa derrotada e ainda apontou um dupl
 
 Redação: Hoopers
 
+<!--StartFragment-->
+
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
 Escrito por: Martim Figueiredo
 
 <!--StartFragment-->
