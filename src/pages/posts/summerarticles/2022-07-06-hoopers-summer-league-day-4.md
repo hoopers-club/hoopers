@@ -4,7 +4,7 @@ subname: |
   Arrancou mais uma semana da Hoopers Summer League.
 featured: true
 publishDate: Jul 6th 22
-image: /assets/uploads/2022_07_06_sl_day-4.jpg
+image: /assets/uploads/2022_07_06_sl_day-5.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
 ---
