@@ -51,13 +51,11 @@ Posto isto, a seleção irá rumar à Itália já esta 5ª feira onde apenas ir�
 
 Divisão A aqui vamos nós!!! 
 
-
-
 **Redação:** Hoopers 
 
 <!--StartFragment-->
 
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
@@ -68,12 +66,6 @@ Divisão A aqui vamos nós!!! 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
-
-
-
-
 
 <script async src="//www.instagram.com/embed.js"></script>
 
