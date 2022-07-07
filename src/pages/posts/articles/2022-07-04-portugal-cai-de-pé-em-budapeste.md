@@ -37,7 +37,6 @@ Para consultar a estatística do jogo: <https://bit.ly/3bHhvng> 
 
 **Redação:** Hoopers
 
-
 <!--StartFragment-->
 
 <a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -48,7 +47,7 @@ Para consultar a estatística do jogo: <https://bit.ly/3bHhvng> 
 
 <!--StartFragment-->
 
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
