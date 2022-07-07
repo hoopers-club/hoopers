@@ -2,5 +2,5 @@
 teamA: QDA Almada
 teamB: Os Reformados
 location: Carnide
-time: July 6, 2022 7:30 PM
+time: July 11, 2022 7:30 PM
 ---
