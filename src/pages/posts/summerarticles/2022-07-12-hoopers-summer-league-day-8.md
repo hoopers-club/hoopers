@@ -3,7 +3,7 @@ title: Hoopers Summer League - Day 8
 subname: A Hoopers Summer League começou em força!
 featured: true
 publishDate: Jul 12th 22
-image: /assets/uploads/dsc00427.jpg
+image: /assets/uploads/summer-league-8-jul-288-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
 ---
