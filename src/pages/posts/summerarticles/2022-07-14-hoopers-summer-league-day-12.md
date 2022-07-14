@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 12
 subname: "Hoopers Summer League: Eliminatórias!"
 featured: true
-publishDate: Jul 14th 22
+publishDate: Jul 12th 22
 image: /assets/uploads/01-4-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
