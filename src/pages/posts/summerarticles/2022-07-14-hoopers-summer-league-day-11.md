@@ -11,8 +11,6 @@ layout: ../../../Layout/single-summer-article.astro
 
 Esta terça-feira contou apenas com 2 partidas, que serviram para acertar o calendário de cada um dos grupos e definir as suas classificações finais, antes do arranque da fase das eliminatórias. As partidas foram disputadas em Carcavelos.
 
-
-
 Na primeira partida da noite, os “Flight React” venceram os “QDA Almada” por 61-43. O trio composto por Stiven Lopes (14 pontos), Rui Martins (12 pontos e 13 ressaltos) e Uwais Razaque (12 pontos) comandou do lado da equipa vencedora. Do lado da equipa derrotada, Jones Dias registou um duplo-duplo (20 pontos e 10 ressaltos), que acabaria por ser insuficiente para ajudar a sua equipa a vencer.
 
 \
@@ -20,8 +18,6 @@ A última partida da noite trouxe a decisão da 1ª posição do grupo B, opondo
 
 \
 A classificação final dos grupos foi então a seguinte:
-
-
 
 GRUPO A
 
@@ -41,8 +37,6 @@ GRUPO A
 
 8º União do Forte
 
-
-
 GRUPO B
 
 1º Los Gordos
@@ -61,10 +55,22 @@ GRUPO B
 
 8º Kage Bubble
 
-Redação: Hoopers
+**Redação:** Hoopers
 
-Escrito por: Martim Figueiredo
+<!--StartFragment-->
+
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 
+
+**Escrito por:** Martim Figueiredo
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 <!--EndFragment-->
