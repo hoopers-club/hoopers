@@ -3,7 +3,7 @@ title: Hoopers Summer League - Day 1
 subname: |2
    A Hoopers Summer League começou em força!
 featured: true
-publishDate: Jul 3rd 22
+publishDate: Jul 1st 22
 image: /assets/uploads/banner_hsl_dia01.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
