@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 10
 subname: Acerto de calendário das partidas em atraso.
 featured: true
-publishDate: Jul 14th 22
+publishDate: Jul 10th 22
 image: /assets/uploads/06-2-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
