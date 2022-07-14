@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 11
 subname: Últimos jogos da fase regular
 featured: true
-publishDate: Jul 14th 22
+publishDate: Jul 11th 22
 image: /assets/uploads/09-3-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
