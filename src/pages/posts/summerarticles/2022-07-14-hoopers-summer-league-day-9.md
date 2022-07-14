@@ -3,7 +3,7 @@ title: Hoopers Summer League - Day 9
 subname: |2
    A Hoopers Summer League começou em força!
 featured: true
-publishDate: Jul 14th 22
+publishDate: Jul 9th 22
 image: /assets/uploads/03-4-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
