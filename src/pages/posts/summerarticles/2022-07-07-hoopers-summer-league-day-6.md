@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 6
 subname: Arrancou mais uma semana da Hoopers Summer League.
 featured: true
-publishDate: Jul 7th 22
+publishDate: Jul 6th 22
 image: /assets/uploads/03-1-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
