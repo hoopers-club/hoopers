@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 7
 subname: " Lisbon South Bay continuam invictos."
 featured: true
-publishDate: Jul 8th 22
+publishDate: Jul 7th 22
 image: /assets/uploads/2022_07_08_hsl-day-7.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
