@@ -43,7 +43,7 @@ Proliga 🇵🇹: 25 Jogos | 6.5 Pontos (24.7% 3P, 51.8% 2P, 79.3% LL) | 2.0 Res
 
 <!--EndFragment-->
 
-**Vasco Lança (# , Base, 2002, 1.83m)**
+**Vasco Lança (#4, Base, 2002, 1.83m)**
 
 O base de segundo ano natural de Beja realizou a sua formação no Beja Basket Clube, passou pelo Algés e esteve em grande destaque ao serviço d’Os Belenenses na Proliga. É irmão do ex-internacional pelas seleções jovens Pedro Lança.
 
