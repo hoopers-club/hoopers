@@ -69,7 +69,7 @@ Liga EBA 🇪🇸: 19 jogos | 10.0 Pontos | 4.0 Ressaltos | 1.0 Assistência
 
 <!--EndFragment-->
 
-**Diogo Soares (#7, Segundo Base/Extremo, 2002, 1.92m)**
+**Diogo Soares (#7, Segundo Base/Extremo, 2002, 1.98m)**
 
 O jovem emigrado originário do Algarve, formado no Imortal, atua em Inglaterra onde representa o Nottingham Hoods e já havia representado os sub-20 no Challenger de 2021.
 
@@ -221,17 +221,11 @@ Os restantes jogos foram muito bem disputados e serviram para medir forças com 
 
 Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badalona, Rúben Prey e o extremo representante dos Western Wyoming Mustangs, André Cruz. <https://www.fiba.basketball/europe/u20/2022/news/10-players-to-watch-at-fiba-u20-european-championship-2022> 
 
-
-
 <!--StartFragment-->
 
 **Antevisão do Europeu sub-20 Divisão A**
 
-
-
 Os jovens base Miguel Monteiro e Jorge Rodrigues, o capitão Hugo Silva, o sub-capitão André Cruz e os emigrados Diogo Seixas e Rúben Prey falaram à FPBTV, juntamente com o selecionador nacional, André Martins. <https://www.fpbtv.pt/app/watch/6592377150> 
-
-
 
 <!--EndFragment-->
 
