@@ -17,97 +17,59 @@ A seleção nacional sub-20 masculina vai estrear-se no Campeonato da Europa Div
 
 <!--EndFragment-->
 
-
-
 BASES:
 
 Jorge Rodrigues (#05, Base, 2003, 1.86m)
 
 O jovem base natural da Póvoa de Varzim realizou a sua formação toda no Clube Desportivo da Póvoa, esteve em destaque no Challenger sub-18 de 2021 e atuou no 5 inicial do CDP na Liga Betclic da temporada transata.
 
-
-
 LPB 🇵🇹: 28 Jogos | 4.0 Pontos (21.4% 3P, 29.6% 2P, 47.8% LL) | 2.1 Ressaltos | 3.2 Assistências | 0.6 Roubos de bola
-
-
 
 Miguel Monteiro (#08, Base, 2003, 1.75m)
 
 O jovem base nascido em Aveiro e formado no Grupo Desportivo da Gafanha, esteve no CAR em Ponte Sor e foi campeão da Proliga ao serviço do Esgueira na temporada que terminou.
 
-
-
 Proliga 🇵🇹: 25 Jogos | 6.5 Pontos (24.7% 3P, 51.8% 2P, 79.3% LL) | 2.0 Ressaltos | 3.9 Assistências | 1.5 Roubos de bola
-
-
 
 Vasco Lança (# , Base, 2002, 1.83m)
 
 O base de segundo ano natural de Beja realizou a sua formação no Beja Basket Clube, passou pelo Algés e esteve em grande destaque ao serviço d’Os Belenenses na Proliga. É irmão do ex-internacional pelas seleções jovens Pedro Lança.
 
-
-
 Proliga 🇵🇹: 20 Jogos | 11.5 Pontos (32% 3P, 62.8% 2P, 82.5% LL) | 2.1 Ressaltos | 2.3 Assistências | 1.6 Roubos de bola
 
-
-
 EXTREMOS:
-
-
 
 Diogo Seixas (#15, Base/Extremo, 2004, 2.01m)
 
 O jovem ainda sub-18 de segundo ano nasceu no Algarve, realizou a sua formação no Imortal, atua no Real Bétis e já havia integrado a seleção sub-20 (e sub-18) no Challenger de 2021. É filho do ex-internacional português Carlos Seixas.
 
-
-
 Challenger sub-18 2021/2022: 3 Jogos | 9.3 Pontos | 3.0 Ressaltos | 1.0 Assistências | 0.3 Roubos de bola
-
-
 
 Diogo Soares (#7, Segundo Base/Extremo, 2002, 1.92m)
 
 O jovem emigrado originário do Algarve, formado no Imortal, atua em Inglaterra onde representa o Nottingham Hoods e já havia representado os sub-20 no Challenger de 2021.
 
-
-
 NBL D1 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 11 jogos | 1.6 Pontos | 0.5 Ressaltos | 0.5 Assistências | 0.2 Roubos de bola
 
-
-
 <https://youtu.be/kDi3ytHsOwM>
-
-
 
 Guilherme Saiote (#10, Segundo Base/Extremo, 2002, 1.90m)
 
 O internacional oriundo do Barreiro e formado no Barreirense, passou pelo CAR em Ponte Sor e este ano sagrou-se Campeão Nacional da Liga Betclic ao serviço do Benfica. Contudo, foi na Proliga onde se destacou.
 
-
-
 Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Ressaltos | 2.7 Assistências | 1.0 Roubos de bola
-
-
 
 Afonso Parrinha (#11, Segundo Base/Extremo, 2003, 2.0m)
 
 O jovem natural do Algarve e formado no Clube de Basquete de Albufeira, passou pelo CAR em Ponte Sor e este ano atuou ao serviço do Imortal sub-23, na CNB1.
 
-
-
 CNB 1 🇵🇹: 22 Jogos | 9.5 Pontos (26.6% 3P, 66.7% 2P, 50% LL) | 5.2 Ressaltos | 1.2 Assistências | 1.1 Roubos de bola
-
-
 
 André Cruz (#12, Extremo, 2002, 1.98m)
 
 O capitão da seleção das Quinas realizou a sua formação no Estoril Basket, saiu para jogar sub-18 e sénior no Sporting e ainda representou o Belém. Atualmente joga JUCO, nos Estados Unidos da América.
 
-
-
 JUCO 🇺🇸: 11.2 Pontos |  6.4 Ressaltos | 1.9 Assistências 
-
-
 
 Challenger sub20 2021: <!--StartFragment-->[](https://twitter.com/martimfs/status/1417964652693278730?s=21)
 
@@ -115,29 +77,19 @@ Challenger sub20 2021: <!--StartFragment-->[](https://twitter.com/martimfs/statu
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">André Cruz( <a href="https://twitter.com/Ac12Izzo?ref_src=twsrc%5Etfw">@Ac12Izzo</a>) vs 🇦🇱, FIBA U20 European Challenge 2021: 17 Points/ 9 Rebounds/ 4 Assists/ 1 Steal/ 1 Block <a href="https://t.co/TL95dw1gwM">pic.twitter.com/TL95dw1gwM</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1419277770530697223?ref_src=twsrc%5Etfw">July 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
-
-
 Entrevista no 1x1 by Hoopers: <https://youtu.be/lP1TaQNCc24> 
-
-
 
 Afonso Guedes (#16, Extremo, 2002, 1.96m)
 
 O jovem extremo nascido em Lisboa e com várias clubes representados na formação: Algés, Benfica, NB Queluz / CA Queluz, rumou para o Sporting e onde tem passado mais tempo é na equipa satélite: Academia do Lumiar. Representou a seleção sub-18 no Challenger 2021.
 
-
-
 Proliga 🇵🇹: 19 Jogos | 10.7 Pontos (25% 3P, 41.7% 2P, 53.3% LL) | 3.5 Ressaltos | 1.0 Assistência | 0.4 Roubos de bola
-
-
 
 <!--StartFragment-->
 
@@ -145,17 +97,11 @@ Proliga 🇵🇹: 19 Jogos | 10.7 Pontos (25% 3P, 41.7% 2P, 53.3% LL) | 3.5 Ress
 
 <!--EndFragment-->
 
-
-
 POSTES:
-
-
 
 Rúben Prey (#13, Extremo-Poste/Poste, 2005, 2.08m)
 
 O jovem poste natural de Queluz, ainda sub-18 primeiro ano, realizou a sua formação no Paço de Arcos e no Queluz, mas foi com 14 anos que decidiu rumar a Espanha para jogar pelo Joventut Badalona (e pela equipa satélite, CB Prat).
-
-
 
 Challenger sub16 2021: <!--StartFragment-->
 
@@ -163,15 +109,11 @@ Challenger sub16 2021: <!--StartFragment-->
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rúben Prey vs 🇭🇺, FIBA U16 European Challenge 2021 Semifinal: <br>21 Points/ 23 Rebounds/ 3 Assists/ 4 Steals/ 3 Blocks/ 38 EFF<br>1 Overtime, 39:38 mins played.<a href="https://twitter.com/hashtag/FIBAU16Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU16Europe</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/RubenPrey?src=hash&amp;ref_src=twsrc%5Etfw">#RubenPrey</a> <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <a href="https://twitter.com/fpbasquetebol?ref_src=twsrc%5Etfw">@fpbasquetebol</a> <a href="https://t.co/SwYFQZz9FM">pic.twitter.com/SwYFQZz9FM</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1428763959482589184?ref_src=twsrc%5Etfw">August 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -179,25 +121,15 @@ Challenger sub16 2021: <!--StartFragment-->
 
 <!--EndFragment-->
 
-
-
 Torneo U18 Unelco-Tenerife: 
 
 <https://youtu.be/Zw0qIBC9sX8> 
-
- 
-
-
 
 Hugo Silva (#9, Extremo-Poste/Poste, 2002, 2.03m)
 
 O extremo-poste natural de Faro e formado no Farnese e Imortal, frequentou o CAR em Ponte Sor, partiu para Espanha, ainda menor de idade, para aturar no Unicaja mas um ano depois regressou para Portugal, mais especificamente, para jogar no Benfica. Este ano sagrou-se Campeão Nacional da Liga Betclic pelos encarnados.
 
-
-
 Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Ressaltos | 2.7 Assistências | 1.0 Roubos de bola
-
-
 
 <!--StartFragment-->
 
@@ -205,17 +137,11 @@ Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Re
 
 <!--EndFragment-->
 
-
-
 Stanley Borden (#14, Poste, 2002, 2.13m)
 
 O jovem nascido em Istambul, filho de mãe turca e de pai norte-americano, obteve a nacionalidade há pouco mais de 1 ano, deixou de representar o Besiktas para integrar a famosa Universidade de Duke (em estatuto redshirt) e já havia representado os sub-20 no Challenger em 2021.
 
-
-
 NCAA D1 🇺🇸: 1 Jogo | 1.0 Ressalto
-
-
 
 <!--StartFragment-->
 
@@ -223,11 +149,7 @@ NCAA D1 🇺🇸: 1 Jogo | 1.0 Ressalto
 
 <!--EndFragment-->
 
-
-
 Relembrando…
-
-
 
 Portugal disputou 7 jogos internacionais de preparação (Espanha 2x, Bélgica 3x, Alemanha e Itália), empatou um com a Bélgica (por opção técnica não se jogou o prolongamento) e venceu outro frente a Itália, que curiosamente irá ser nossa adversária no Grupo B, no duelo de estreia na Divisão A, a realizar-se no sábado pelas 17h45 (de Portugal), em Podgorica.<!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1493556848162754560?s=21)
 
@@ -235,21 +157,30 @@ Portugal disputou 7 jogos internacionais de preparação (Espanha 2x, Bélgica 3
 
 <!--EndFragment-->
 
-
-
 Os restantes jogos foram muito bem disputados e serviram para medir forças com excelentes seleções (todas de Divisão A) e encontrar o ritmo necessário para podermos competir no nosso melhor.
-
-
 
 Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badalona, Rúben Prey e o extremo representante dos Western Wyoming Mustangs, André Cruz. <https://www.fiba.basketball/europe/u20/2022/news/10-players-to-watch-at-fiba-u20-european-championship-2022> 
 
+**Redação:** Hoopers
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 
-Redação: Hoopers
 
-Escrito por: Martim Figueiredo
+**Escrito por:** Martim Figueiredo
 
-\
+
+
+<!--StartFragment-->
+
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 `<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
