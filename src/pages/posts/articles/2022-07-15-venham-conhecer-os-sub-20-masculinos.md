@@ -17,7 +17,7 @@ A seleção nacional sub-20 masculina vai estrear-se no Campeonato da Europa Div
 
 <!--EndFragment-->
 
-BASES:
+**BASES:**
 
 **Jorge Rodrigues (#05, Base, 2003, 1.86m)**
 
@@ -25,11 +25,25 @@ O jovem base natural da Póvoa de Varzim realizou a sua formação toda no Clube
 
 LPB 🇵🇹: 28 Jogos | 4.0 Pontos (21.4% 3P, 29.6% 2P, 47.8% LL) | 2.1 Ressaltos | 3.2 Assistências | 0.6 Roubos de bola
 
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Jorge Rodrigues (<a href="https://twitter.com/jrodriguess05?ref_src=twsrc%5Etfw">@jrodriguess05</a>) vs Imortal:<br>11 Pontos | 1 Ressalto | 2 Assistências <a href="https://t.co/ZVwixK7q88">pic.twitter.com/ZVwixK7q88</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547944115471429640?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
 **Miguel Monteiro (#08, Base, 2003, 1.75m)**
 
 O jovem base nascido em Aveiro e formado no Grupo Desportivo da Gafanha, esteve no CAR em Ponte Sor e foi campeão da Proliga ao serviço do Esgueira na temporada que terminou.
 
 Proliga 🇵🇹: 25 Jogos | 6.5 Pontos (24.7% 3P, 51.8% 2P, 79.3% LL) | 2.0 Ressaltos | 3.9 Assistências | 1.5 Roubos de bola
+
+
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Miguel Monteiro vs Galomar, final Proliga: 11 P ontos | 2 Ressaltos | 2 Assistências | 13.5 valorização <a href="https://t.co/aSiICJ85Qb">pic.twitter.com/aSiICJ85Qb</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547945929059098626?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 **Vasco Lança (# , Base, 2002, 1.83m)**
 
@@ -37,21 +51,39 @@ O base de segundo ano natural de Beja realizou a sua formação no Beja Basket C
 
 Proliga 🇵🇹: 20 Jogos | 11.5 Pontos (32% 3P, 62.8% 2P, 82.5% LL) | 2.1 Ressaltos | 2.3 Assistências | 1.6 Roubos de bola
 
-EXTREMOS:
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Vasco Lança vs Esgueira:<br>32 Pontos | 2 Ressaltos | 5 Assistências | 42 valorização <a href="https://t.co/m3I30vLyPk">pic.twitter.com/m3I30vLyPk</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547919779159085056?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
+**EXTREMOS:**
 
 **Diogo Seixas (#15, Base/Extremo, 2004, 2.01m)**
 
 O jovem ainda sub-18 de segundo ano nasceu no Algarve, realizou a sua formação no Imortal, atua no Real Bétis e já havia integrado a seleção sub-20 (e sub-18) no Challenger de 2021. É filho do ex-internacional português Carlos Seixas.
 
-Challenger sub-18 2021/2022: 3 Jogos | 9.3 Pontos | 3.0 Ressaltos | 1.0 Assistências | 0.3 Roubos de bola
+Liga EBA 🇪🇸: 19 jogos | 10.0 Pontos | 4.0 Ressaltos | 1.0 Assistência
+
+
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Diogo Seixas (2004), <a href="https://twitter.com/hashtag/LigaEBA?src=hash&amp;ref_src=twsrc%5Etfw">#LigaEBA</a> highlights: <a href="https://t.co/RSHigdGTJS">pic.twitter.com/RSHigdGTJS</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547921449645510659?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 **Diogo Soares (#7, Segundo Base/Extremo, 2002, 1.92m)**
 
 O jovem emigrado originário do Algarve, formado no Imortal, atua em Inglaterra onde representa o Nottingham Hoods e já havia representado os sub-20 no Challenger de 2021.
 
-NBL D1 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 11 jogos | 1.6 Pontos | 0.5 Ressaltos | 0.5 Assistências | 0.2 Roubos de bola
+NBL D2 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 4 jogos | 14.5 pontos | 5.5 ressaltos | 2.3 assistências | 1.5 roubos de bola 
+
+
 
 <https://youtu.be/kDi3ytHsOwM>
+
+
 
 **Guilherme Saiote (#10, Segundo Base/Extremo, 2002, 1.90m)**
 
@@ -59,11 +91,25 @@ O internacional oriundo do Barreiro e formado no Barreirense, passou pelo CAR em
 
 Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Ressaltos | 2.7 Assistências | 1.0 Roubos de bola
 
+
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Guilherme Saiote (<a href="https://twitter.com/guisaiote?ref_src=twsrc%5Etfw">@guisaiote</a>) vs CAQ:<br>23 Pontos | 3 Ressaltos | 3 Assistências | 26.5 valorização <a href="https://t.co/Xx84QwqhBc">pic.twitter.com/Xx84QwqhBc</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547918114834108423?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
+
 **Afonso Parrinha (#11, Segundo Base/Extremo, 2003, 2.0m)**
 
 O jovem natural do Algarve e formado no Clube de Basquete de Albufeira, passou pelo CAR em Ponte Sor e este ano atuou ao serviço do Imortal sub-23, na CNB1.
 
 CNB 1 🇵🇹: 22 Jogos | 9.5 Pontos (26.6% 3P, 66.7% 2P, 50% LL) | 5.2 Ressaltos | 1.2 Assistências | 1.1 Roubos de bola
+
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Afonso Parrinha vs Salesianos de Lisboa:<br>22 Pontos | 11 Ressaltos | 3 Assistências | 37 valorização <a href="https://t.co/fIzB1v0kAN">pic.twitter.com/fIzB1v0kAN</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547944248225308675?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->
 
 **André Cruz (#12, Extremo, 2002, 1.98m)**
 
@@ -83,7 +129,7 @@ Challenger sub20 2021: <!--StartFragment-->[](https://twitter.com/martimfs/statu
 
 <!--EndFragment-->
 
-Entrevista no 1x1 by Hoopers: <https://youtu.be/lP1TaQNCc24> 
+Entrevista no podcast da Hoopers Club, 1x1 by Hoopers: <https://youtu.be/lP1TaQNCc24> 
 
 **Afonso Guedes (#16, Extremo, 2002, 1.96m)**
 
@@ -91,17 +137,35 @@ O jovem extremo nascido em Lisboa e com várias clubes representados na formaç�
 
 Proliga 🇵🇹: 19 Jogos | 10.7 Pontos (25% 3P, 41.7% 2P, 53.3% LL) | 3.5 Ressaltos | 1.0 Assistência | 0.4 Roubos de bola
 
+
+
+<!--StartFragment-->
+
+Challenger sub-18 2021:
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Afonso Guedes (<a href="https://twitter.com/AfonsoGuedes9?ref_src=twsrc%5Etfw">@AfonsoGuedes9</a>) vs 🇪🇪, FIBA U18 European Challenge 2021: 16 Points/ 2 Rebounds <a href="https://t.co/QNjWsM8mXY">pic.twitter.com/QNjWsM8mXY</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1424370963114860547?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
-POSTES:
+**POSTES:**
 
 **Rúben Prey (#13, Extremo-Poste/Poste, 2005, 2.08m)**
 
-O jovem poste natural de Queluz, ainda sub-18 primeiro ano, realizou a sua formação no Paço de Arcos e no Queluz, mas foi com 14 anos que decidiu rumar a Espanha para jogar pelo Joventut Badalona (e pela equipa satélite, CB Prat).
+<!--StartFragment-->
+
+O jovem poste natural de Lisboa com mãe alemã e pai português é ainda sub-18 primeiro ano, realizou a sua formação no Paço de Arcos e no Queluz, mas foi com 14 anos que decidiu rumar a Espanha para jogar pelo Joventut Badalona (e pela equipa satélite, CB Prat).
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Liga EBA 🇪🇸: 14 Jogos | 12.3 Pontos (25.6% 2P, 57.1% 2P, 61.3% LL) | 8.1 Ressaltos | 1.1 Assistências | 0.9 Roubos de bola | 0.9 Desarmes de lançamento 
+
+<!--EndFragment-->
 
 Challenger sub16 2021: <!--StartFragment-->
 
@@ -137,11 +201,21 @@ Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Re
 
 <!--EndFragment-->
 
+<!--StartFragment-->
+
+<https://youtu.be/mlnnRyYtaqs> 
+
+<!--EndFragment-->
+
 **Stanley Borden (#14, Poste, 2002, 2.13m)**
 
 O jovem nascido em Istambul, filho de mãe turca e de pai norte-americano, obteve a nacionalidade há pouco mais de 1 ano, deixou de representar o Besiktas para integrar a famosa Universidade de Duke (em estatuto redshirt) e já havia representado os sub-20 no Challenger em 2021.
 
 NCAA D1 🇺🇸: 1 Jogo | 1.0 Ressalto
+
+
+
+Challenger sub-20 2021:
 
 <!--StartFragment-->
 
