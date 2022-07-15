@@ -37,8 +37,6 @@ O jovem base nascido em Aveiro e formado no Grupo Desportivo da Gafanha, esteve 
 
 Proliga 🇵🇹: 25 Jogos | 6.5 Pontos (24.7% 3P, 51.8% 2P, 79.3% LL) | 2.0 Ressaltos | 3.9 Assistências | 1.5 Roubos de bola
 
-
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Miguel Monteiro vs Galomar, final Proliga: 11 P ontos | 2 Ressaltos | 2 Assistências | 13.5 valorização <a href="https://t.co/aSiICJ85Qb">pic.twitter.com/aSiICJ85Qb</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547945929059098626?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -65,8 +63,6 @@ O jovem ainda sub-18 de segundo ano nasceu no Algarve, realizou a sua formação
 
 Liga EBA 🇪🇸: 19 jogos | 10.0 Pontos | 4.0 Ressaltos | 1.0 Assistência
 
-
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Diogo Seixas (2004), <a href="https://twitter.com/hashtag/LigaEBA?src=hash&amp;ref_src=twsrc%5Etfw">#LigaEBA</a> highlights: <a href="https://t.co/RSHigdGTJS">pic.twitter.com/RSHigdGTJS</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1547921449645510659?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -79,19 +75,13 @@ O jovem emigrado originário do Algarve, formado no Imortal, atua em Inglaterra 
 
 NBL D2 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 4 jogos | 14.5 pontos | 5.5 ressaltos | 2.3 assistências | 1.5 roubos de bola 
 
-
-
 <https://youtu.be/kDi3ytHsOwM>
-
-
 
 **Guilherme Saiote (#10, Segundo Base/Extremo, 2002, 1.90m)**
 
 O internacional oriundo do Barreiro e formado no Barreirense, passou pelo CAR em Ponte Sor e este ano sagrou-se Campeão Nacional da Liga Betclic ao serviço do Benfica. Contudo, foi na Proliga onde se destacou.
 
 Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Ressaltos | 2.7 Assistências | 1.0 Roubos de bola
-
-
 
 <!--StartFragment-->
 
@@ -136,8 +126,6 @@ Entrevista no podcast da Hoopers Club, 1x1 by Hoopers: <https://youtu.be/lP1TaQN
 O jovem extremo nascido em Lisboa e com várias clubes representados na formação: Algés, Benfica, NB Queluz / CA Queluz, rumou para o Sporting e onde tem passado mais tempo é na equipa satélite: Academia do Lumiar. Representou a seleção sub-18 no Challenger 2021.
 
 Proliga 🇵🇹: 19 Jogos | 10.7 Pontos (25% 3P, 41.7% 2P, 53.3% LL) | 3.5 Ressaltos | 1.0 Assistência | 0.4 Roubos de bola
-
-
 
 <!--StartFragment-->
 
@@ -213,8 +201,6 @@ O jovem nascido em Istambul, filho de mãe turca e de pai norte-americano, obtev
 
 NCAA D1 🇺🇸: 1 Jogo | 1.0 Ressalto
 
-
-
 Challenger sub-20 2021:
 
 <!--StartFragment-->
@@ -235,6 +221,20 @@ Os restantes jogos foram muito bem disputados e serviram para medir forças com 
 
 Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badalona, Rúben Prey e o extremo representante dos Western Wyoming Mustangs, André Cruz. <https://www.fiba.basketball/europe/u20/2022/news/10-players-to-watch-at-fiba-u20-european-championship-2022> 
 
+
+
+<!--StartFragment-->
+
+**Antevisão do Europeu sub-20 Divisão A**
+
+
+
+Os jovens base Miguel Monteiro e Jorge Rodrigues, o capitão Hugo Silva, o sub-capitão André Cruz e os emigrados Diogo Seixas e Rúben Prey falaram à FPBTV, juntamente com o selecionador nacional, André Martins. <https://www.fpbtv.pt/app/watch/6592377150> 
+
+
+
+<!--EndFragment-->
+
 **Redação:** Hoopers
 
 <!--StartFragment-->
@@ -243,11 +243,7 @@ Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badal
 
 <!--EndFragment-->
 
-
-
 **Escrito por:** Martim Figueiredo
-
-
 
 <!--StartFragment-->
 
