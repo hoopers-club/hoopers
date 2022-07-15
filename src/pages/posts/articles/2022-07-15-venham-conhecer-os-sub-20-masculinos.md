@@ -1,5 +1,5 @@
 ---
-title: Venham conhecer os sub-20 masculinos!
+title: Vem conhecer os sub-20 masculinos!
 subname: A tão esperada estreia na Divisão A está aí à porta.
 featured: true
 publishDate: Jul 15, 2022-10:07:66
