@@ -89,7 +89,7 @@ Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Re
 
 <!--EndFragment-->
 
-**Afonso Parrinha (#11, Poste/Extremo, 2003, 2.0m)**
+**Afonso Parrinha (#11, Extremo/Extremo-Poste, 2003, 2.0m)**
 
 O jovem natural do Algarve e formado no Clube de Basquete de Albufeira, passou pelo CAR em Ponte Sor e este ano atuou ao serviço do Imortal sub-23, na CNB1.
 
