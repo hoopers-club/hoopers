@@ -89,7 +89,7 @@ Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Re
 
 <!--EndFragment-->
 
-**Afonso Parrinha (#11, Segundo Base/Extremo, 2003, 2.0m)**
+**Afonso Parrinha (#11, Poste/Extremo, 2003, 2.0m)**
 
 O jovem natural do Algarve e formado no Clube de Basquete de Albufeira, passou pelo CAR em Ponte Sor e este ano atuou ao serviço do Imortal sub-23, na CNB1.
 
@@ -103,7 +103,7 @@ CNB 1 🇵🇹: 22 Jogos | 9.5 Pontos (26.6% 3P, 66.7% 2P, 50% LL) | 5.2 Ressalt
 
 **André Cruz (#12, Extremo, 2002, 1.98m)**
 
-O capitão da seleção das Quinas realizou a sua formação no Estoril Basket, saiu para jogar sub-18 e sénior no Sporting e ainda representou o Belém. Atualmente joga JUCO, nos Estados Unidos da América.
+O sub capitão da seleção das Quinas realizou a sua formação no Estoril Basket, saiu para jogar sub-18 e sénior no Sporting e ainda representou o Belém. Atualmente joga JUCO, nos Estados Unidos da América.
 
 JUCO 🇺🇸: 11.2 Pontos |  6.4 Ressaltos | 1.9 Assistências 
 
@@ -179,9 +179,9 @@ Torneo U18 Unelco-Tenerife: 
 
 **Hugo Silva (#9, Extremo-Poste/Poste, 2002, 2.03m)**
 
-O extremo-poste natural de Faro e formado no Farnese e Imortal, frequentou o CAR em Ponte Sor, partiu para Espanha, ainda menor de idade, para aturar no Unicaja mas um ano depois regressou para Portugal, mais especificamente, para jogar no Benfica. Este ano sagrou-se Campeão Nacional da Liga Betclic pelos encarnados.
+O extremo-poste, capitão da seleção sub-20, natural de Faro e formado no Farnese e Imortal, frequentou o CAR em Ponte Sor, partiu para Espanha, ainda menor de idade, para aturar no Unicaja mas um ano depois regressou para Portugal, mais especificamente, para jogar no Benfica. Este ano sagrou-se Campeão Nacional da Liga Betclic pelos encarnados.
 
-Proliga 🇵🇹: 19 Jogos | 15.8 Pontos (29.3% 3P, 50.4% 2P, 69.2% LL) | 4.6 Ressaltos | 2.7 Assistências | 1.0 Roubos de bola
+Proliga 🇵🇹: 19 Jogos | 8.3 Pontos (30.8% 3P, 47.7% 2P, 68% LL) | 6.1 Ressaltos | 0.9 Assistências | 0.5 Roubos de bola | 0.6 Desarmes de Lançamento
 
 <!--StartFragment-->
 
