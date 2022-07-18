@@ -39,6 +39,8 @@ A ausência de João Manuel e de Jacques Conceição foi sentida e a equipa deix
 
 Redação: Hoopers
 
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Escrito por: Martim Figueiredo
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
