@@ -23,21 +23,20 @@ const Sitemap = ({ openSitemap }) => {
 			<div class="menus-list">
 				<ul>
 					<li>
-						<a href="/articles">ARTICLES</a>
-					</li>
-					<li>
-						<a href="https://map.hoopers.club">MAP</a>
-					</li>
-					<li>
 						<a href="/courts">
 							OUR <span className="notranslate">COURTS</span>
 						</a>
 					</li>
 					<li>
-						<a href="/nft" className="notranslate">
-							NFT
-						</a>
+						<a href="/articles">ARTICLES</a>
 					</li>
+					<li>
+						<a href="https://map.hoopers.club">MAP</a>
+					</li>
+					<li className="notranslate">
+						<a href="/summerleague">SUMMER LEAGUE</a>
+					</li>
+					
 
 					{/*
 					<li>
@@ -65,9 +64,7 @@ const Sitemap = ({ openSitemap }) => {
 					) : (
 						''
 					)}*/}
-					<li className="notranslate">
-						<a href="/summerleague">SUMMER LEAGUE</a>
-					</li>
+					
 					<li className="notranslate">
 						<a
 							href="https://www.youtube.com/channel/UC9majUuTNcytG0nmt_B8Ubg"
@@ -84,7 +81,11 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-
+					<li>
+						<a href="/nft" className="notranslate">
+							NFT
+						</a>
+					</li>
 					{/*<li>
 						<a href="https://hoopers.store/" target="_blank">
 							SHOP
