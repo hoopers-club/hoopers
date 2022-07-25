@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 13
 subname: " Hoopers Summer League: Eliminatórias on fire!"
 featured: true
-publishDate: Jul 18th 22
+publishDate: Jul 16th 22
 image: /assets/uploads/04-6-.jpg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
