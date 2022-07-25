@@ -2,7 +2,7 @@
 title: Hoopers Summer League - Day 14
 subname: "Hoopers Summer League: 🔛 Meias-finais 🔛 !!"
 featured: true
-publishDate: Jul 18th 22
+publishDate: Jul 17th 22
 image: /assets/uploads/whatsapp-image-2022-07-17-at-12.10.52.jpeg
 author: Hoopers
 layout: ../../../Layout/single-summer-article.astro
