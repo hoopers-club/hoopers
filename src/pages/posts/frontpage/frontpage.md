@@ -10,28 +10,17 @@ courtDescription: >-
   O nosso objetivo é dinamizar a nossa comunidade, revolucioná-la e inspirar a próxima geração de talentos a apaixonar-se pelo nosso desporto, o nosso estilo de vida.<br/> <br/>
 
   Espreita os nossos projetos e fica a conhecer melhor as suas histórias.
-productName: hoopers social club - burgundy tee
+productName: Summer Collection 2022
 productPrice: 18
 productDescription: >-
-  Feito para a nossa comunidade com amor.
+  Com assinatura do artista João Varela, esta coleção de streetwear promete
+  cores vibrantes e design arrojado, inspirado nas frases do nosso jogo!
 
   <br/>
 
   <br/>
 
-  Trabalhamos juntamente com artistas urbanos para lançar artigos exclusivos com edições limitadas.
-
-  <br/>
-
-  <br/>
-
-  Trabalhamos perto da comunidade para lançar os produtos que procuras.
-
-  <br/>
-
-  <br/>
-
-  Compra as nossas últimas colecções clássicas.
+  Vais arrasar este verão: dentro e fora de campo!
 
   <br/>
 
@@ -39,5 +28,5 @@ productDescription: >-
 
   Espreita a nossa loja virtual.
 productImage: /assets/uploads/tee_vermelha_site.jpg
-productLink: https://hoopers.store/collections/t-shirts/products/hoopers-social-club-burgundy-tee
+productLink: https://hoopers.store/collections/summer-collection
 ---
