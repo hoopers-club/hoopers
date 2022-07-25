@@ -15,12 +15,12 @@ let frontpageProduct = await Astro.fetchContent('../pages/posts/frontpage/*.md')
 					<div class="title ">
 						{frontpageProduct[0]?.productName}
 					</div>
-					<div class="price ">
+					<!--<div class="price ">
 						€{frontpageProduct[0]?.productPrice}
-					</div>
+					</div>-->
 					<div set:html={frontpageProduct[0]?.productDescription} class="text fonte-creditos "></div>
 					<div class="buttons condensed" >
-						<a href={frontpageProduct[0]?.productLink} target="_blank">COMPRAR</a>
+						<a href={frontpageProduct[0]?.productLink} target="_blank">VER LOJA</a>
 					</div>
 				</div>
 			</div>
