@@ -27,6 +27,6 @@ productDescription: >-
   <br/>
 
   Espreita a nossa loja virtual.
-productImage: /assets/uploads/coast-square.jpg
+productImage: /assets/uploads/summer-collection-home.jpg
 productLink: https://hoopers.store/collections/summer-collection
 ---
