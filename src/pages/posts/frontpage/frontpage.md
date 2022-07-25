@@ -27,6 +27,6 @@ productDescription: >-
   <br/>
 
   Espreita a nossa loja virtual.
-productImage: /assets/uploads/tee_vermelha_site.jpg
+productImage: /assets/uploads/coast-square.jpg
 productLink: https://hoopers.store/collections/summer-collection
 ---
