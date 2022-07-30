@@ -35,7 +35,7 @@ O base/extremo que ainda há dias concluiu 29 anos de idade e agora português, 
 
 O conjunto orientado por Mário Gomes terá pela frente  a Roménia e o Chipre e os respetivos jogos serão nos dias 25 e 28 de agosto.
 
-Recorda aqui Travante Williams no nosso podcast (qq coisa do gênero). ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+Recorda aqui a passagem de Travante Williams pelo nosso Podcast:
 
 <https://open.spotify.com/episode/2AuGfOufa1pIvOr6qjhrQy?si=TIPBgECPS3Gi8lpf7xtxgg> 
 
