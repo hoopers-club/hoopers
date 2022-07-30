@@ -37,7 +37,10 @@ O conjunto orientado por Mário Gomes terá pela frente  a Roménia e o Chipre 
 
 Recorda aqui a passagem de Travante Williams pelo nosso Podcast:
 
-<https://open.spotify.com/episode/2AuGfOufa1pIvOr6qjhrQy?si=TIPBgECPS3Gi8lpf7xtxgg> 
+<https://open.spotify.com/episode/2AuGfOufa1pIvOr6qjhrQy?si=TIPBgECPS3Gi8lpf7xtxgg> \
+<https://www.youtube.com/watch?v=dtzLzdz2_KM&t=5s>
+
+
 
 Redação: Hoopers
 
