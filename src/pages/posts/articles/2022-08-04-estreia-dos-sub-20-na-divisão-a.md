@@ -14,8 +14,6 @@ Os estreantes no Campeonato Europeu sub-20 Divisão A não conseguiram assegurar
 
 Portugal disputou 7 jogos, 3 dos quais na fase de grupos, onde consumou a primeira vitória na Divisão A ao derrotar a campeã em título, Israel, no prolongamento por 90-86. A seleção nacional venceu também a República Chéquia na fase a eliminar, mas acabou por não ser suficiente para assegurar a permanência.
 
-
-
 Portugal defrontou no primeiro jogo a Itália, equipa que vencemos nos jogos de preparação num final de loucos, e saiu derrotada por 67-71. <!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1548385965973991426?s=21)
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🇵🇹 Portugal 67-71 Itália 🇮🇹 <br>🏆 Campeonato da Europa - Divisão A<br>📍 Voco, Podgorica<br>⭐ <a href="https://twitter.com/Ac12Izzo?ref_src=twsrc%5Etfw">@Ac12Izzo</a> (22pts, 6res, 3ast)<br>📊 <a href="https://t.co/FXch4uUGhr">https://t.co/FXch4uUGhr</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/U20?src=hash&amp;ref_src=twsrc%5Etfw">#U20</a> <a href="https://t.co/H5PB2YGsUf">pic.twitter.com/H5PB2YGsUf</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1548385965973991426?ref_src=twsrc%5Etfw">July 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -32,21 +30,11 @@ André Cruz foi o principal elemento em destaque com 22 pontos, 6 ressaltos e 3 
 
 <!--EndFragment-->
 
-
-
-<!--StartFragment-->
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">🇵🇹 André Cruz vs Italy 🇮🇹 in FIBA U20 European Championship 2022. <a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://t.co/PB2mW8MX2v">pic.twitter.com/PB2mW8MX2v</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1549190114995105792?ref_src=twsrc%5Etfw">July 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--EndFragment-->
-
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">André Cruz is clearly our best scorer and at the same time our best facilitator. What a damn player! <a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1548373011476013056?ref_src=twsrc%5Etfw">July 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -54,21 +42,17 @@ André Cruz foi o principal elemento em destaque com 22 pontos, 6 ressaltos e 3 
 
 <!--EndFragment-->
 
-
-
 Rúben Prey registou 13 pontos, 8 ressaltos e 1 roubo de bola e a sair do banco, Diogo Seixas apontou 15 pontos, 3 ressaltos, 1 assistência, 4 roubos de bola e 2 desarmes de lançamento. <!--StartFragment-->[](https://twitter.com/martimfs/status/1549037027261173760?s=21)
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">🇵🇹 Rúben Prey (2005) vs Italy 🇮🇹 in FIBA U20 European Championship 2022. <a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/mzGxis2Rrg">pic.twitter.com/mzGxis2Rrg</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1549037027261173760?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
 
-<!--StartFragment-->[](https://twitter.com/martimfs/status/1549001628631519232?s=21)
+<!--StartFragment-->\[](https://twitter.com/martimfs/status/1549001628631519232?s=21)
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">🇵🇹 Diogo Seixas (2004) vs Italy 🇮🇹 in FIBA U20 European Championship 2022. <a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a> <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://t.co/2PdHPhMx5d">pic.twitter.com/2PdHPhMx5d</a></p>&mdash; Martim Figueiredo (@martimfs) <a href="https://twitter.com/martimfs/status/1549001628631519232?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 O segundo jogo na competição foi magnífico, onde Portugal consumou a primeira vitória na Divisão A ao derrotar a campeã em título, Israel, no prolongamento por 90-86.
 
@@ -86,8 +70,6 @@ André Cruz levou Portugal às costas, num jogo onde atingiu +40 de eficácia, o
 
 <!--EndFragment-->
 
-
-
 Rúben Prey somou 24 pontos, 5 ressaltos e 2 roubos de bola num jogo onde o dagger é dele!
 
 <!--StartFragment-->
@@ -101,8 +83,6 @@ Rúben Prey somou 24 pontos, 5 ressaltos e 2 roubos de bola num jogo onde o dagg
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">17-y/o Ruben Prey becoming the Predator, as he ICES the game in style!<a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a> | <a href="https://twitter.com/fpbasquetebol?ref_src=twsrc%5Etfw">@fpbasquetebol</a> 🇵🇹 <a href="https://t.co/rpIjBQIuOM">pic.twitter.com/rpIjBQIuOM</a></p>&mdash; NextGen Hoops (@NextGenHoops) <a href="https://twitter.com/NextGenHoops/status/1548678843791278081?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 Apesar da motivação adquirida para encarar o terceiro jogo e de um começo fantástico onde estivemos a vencer por dígitos duplos, Portugal deixou-se dormir e a partir do segundo período deixámos de conseguir ter mão no jogo e a vantagem grega dilatou-se. 
 
@@ -124,11 +104,7 @@ O jogador mais inconformado foi Rúben Prey com 15 pontos e 8 ressaltos.
 
 A derrota empurrou para o último lugar do grupo já que do outro lado, Israel acabou por vencer Itália.
 
-
-
 Após a fase de grupos, a FIBA destacou Rúben Prey, apelidando o jogador mais jovem de todo o torneio de “predator”. Uma menção honrosa foi também dirigida ao craque, André Cruz.
-
-
 
 Portugal terminou em último lugar do Grupo B, com 1 vitória e 2 derrotas e por isso seguia-se pela frente a França (1° lugar do Grupo A), nos oitavos de final da competição.
 
@@ -142,13 +118,9 @@ André Cruz foi o jogador mais ativo da seleção nacional com um duplo-duplo:17
 
 <!--EndFragment-->
 
-
-
 O talento e potencial do Rúben Prey eram por mais evidentes e impossível era não ser notado, falado, abordado e elogiado. A “Portugal-Next-Big-Thing” deu muito que falar e de certeza que será um nome para acompanhar em breve e que muito provavelmente irá fazer companhia ao nosso querido Neemias Queta.
 
 <https://www.fiba.basketball/europe/u20/2022/news/player-spotlight-ruben-prey-portugal-s-next-big-thing> 
-
-
 
 Portugal tinha agora de vencer para evitar a despromoção e procurar conquistar o melhor lugar possível- 9.º lugar e para isso era necessário começar por vencer a Alemanha, seleção que já havíamos defrontado na preparação. 
 
@@ -157,8 +129,6 @@ Já nada corria bem à nossa seleção e fomos vencidos por 60-86, onde Rúben P
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🇵🇹 Portugal 60-86 Alemanha 🇩🇪 <br>🏆 Campeonato da Europa de sub20 masculinos - Divisão A<br>📍 Voco, Podgorica<br>⭐ 𝗥𝘂́𝗯𝗲𝗻 𝗣𝗿𝗲𝘆 (18pts, 6res, 4ast)<br>📊 <a href="https://t.co/Rmb5q7TaZg">https://t.co/Rmb5q7TaZg</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/U20?src=hash&amp;ref_src=twsrc%5Etfw">#U20</a> <a href="https://t.co/xnqpfVKJsB">pic.twitter.com/xnqpfVKJsB</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1550186351592673280?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 Após a derrota, Portugal teria agora de vencer os 2 últimos jogos para garantir a permanência na Divisão A.
 
@@ -172,19 +142,13 @@ O primeiro adversário foi a República Chéquia, que vencemos com alguma tranqu
 
 <!--EndFragment-->
 
-
-
 O derradeiro jogo opunha a nossa seleção e a Polónia, sabendo que uma iria ficar na principal divisão de basquetebol europeu e a outra ia cair para a Divisão B. Portugal lutou com tudo o que tinha mas não foi suficiente e regressa assim à Divisão B, apesar de ter dado provas de que há muito talento e qualidade nesta geração e que o regresso estará para breve. André Cruz registou 16 pontos, 7 ressaltos e 2 roubos de bola no seu último jogo pela seleção sub-20.
-
-
 
 Os principais destaques da seleção nacional foram André Cruz, Rúben Prey e Diogo Seixas. <!--StartFragment-->[](https://twitter.com/rbritoreis/status/1551347409938223104?s=21)
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Portugal NT standouts in <a href="https://twitter.com/hashtag/FIBAU20Europe?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAU20Europe</a>:<br><br>André Cruz<br>• 17.1pts, 8.0reb, 2.0ast, 1.3stl<br>• 48.0 FG%, 41.2 3P%, 77.3 FT%<br><br>Rúben Prey<br>• 16.3pts, 8.4reb, 1.1ast, 1.4blk<br>• 45.6 FG%, 38.1 3P%, 63.2 FT%<br><br>Diogo Seixas<br>• 10.3pts, 2.9reb, 1.7ast, 1.9stl<br>• 37.6 FG%, 11.4 3P%, 33.3 FT% <a href="https://t.co/iA19KdW3up">pic.twitter.com/iA19KdW3up</a></p>&mdash; Ricardo Brito Reis (@rbritoreis) <a href="https://twitter.com/rbritoreis/status/1551347409938223104?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -198,8 +162,6 @@ André Cruz recebeu e aceitou uma proposta de D1 após uma estreia de sonho no E
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Grateful to have received my first D1 offer from the University of the Incarnate Word🙏🏻 <a href="https://t.co/U7IrIoepWs">pic.twitter.com/U7IrIoepWs</a></p>&mdash; André Cruz (@Ac12Izzo) <a href="https://twitter.com/Ac12Izzo/status/1548432390309023746?ref_src=twsrc%5Etfw">July 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 **Redação:** Hoopers
 
