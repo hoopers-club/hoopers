@@ -3,7 +3,7 @@ title: "Timeout com: Rafael Lisboa "
 subname: Estivemos à conversa com o base português
 featured: true
 publishDate: Aug 10, 2022-17:08:53
-image: /assets/uploads/2022_08_10_timeoutrafalisboa.jpg
+image: /assets/uploads/rl.jpg
 author: "Hoopers "
 layout: ../../../Layout/single-article.astro
 ---
