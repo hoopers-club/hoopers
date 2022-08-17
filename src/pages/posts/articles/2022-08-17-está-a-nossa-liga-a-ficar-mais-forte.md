@@ -19,9 +19,9 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 **Entradas:** James Ellisor (ex-CB Granada, Espanha), Toney Douglas (ex-Hapoel Elita, Israel), Terrell Carter (ex-Steau CSM, Roménia), Sérgio Silva (ex-Imortal).
 
-**Saídas:** Arnette Hallman (Oliveirense), Guilherme Saiote (Imortal), Hugo Silva (Harding Bisons, EUA), Dennis Clifford (fim de carreira), Frank Gaines (Pallacanestro Trieste, Itália), James Farr (Steaua Bucareste, Roménia), Wendell Lewis, Travis Munnings (Boulazac, França)
+**Saídas:** Arnette Hallman (Oliveirense), Guilherme Saiote (Imortal), Hugo Silva (Harding Bisons, EUA), Dennis Clifford (fim de carreira), Frank Gaines (Pallacanestro Trieste, Itália), James Farr (Steaua Bucareste, Roménia), Wendell Lewis, Travis Munnings (Boulazac, França), Wendell Lewis
 
-**Permanências:** Ben Romdhane, José Barbosa, Tomás Barroso, José Silva, João "Betinho" Gomes, Aaron Broussard, Diogo Gameiro, Wendell Lewis, Ivan Almeida
+**Permanências:** Ben Romdhane, José Barbosa, Tomás Barroso, José Silva, João "Betinho" Gomes, Aaron Broussard, Diogo Gameiro, Ivan Almeida
 
 **PORTO**
 
