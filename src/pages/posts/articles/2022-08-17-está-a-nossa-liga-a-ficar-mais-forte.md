@@ -83,7 +83,7 @@ Falta ocupar vagas de jogador estrangeiro. 
 
 **Entradas:** Ainda não existem contratações anunciadas pelo clube. 
 
-**Saídas:** Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders
+**Saídas:** Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders, Diego Kapelan 
 
 **Permanências:** Nuno Oliveira, João Embaló, Diogo Gomes, Paulo Sereno, Jorge Rodrigues, Eduardo Coelho, Guilherme Nunes, Eduardo Santos, Bernardo Bergmann
 
