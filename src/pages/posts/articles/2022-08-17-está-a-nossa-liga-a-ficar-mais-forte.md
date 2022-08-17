@@ -17,75 +17,75 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 
 
-Fiquem a conhecer as principais movimentações de todas as equipas (última atualização: 16 de agosto):
+**Fiquem a conhecer as principais movimentações de todas as equipas (última atualização: 16 de agosto):**
 
 
 
-BENFICA - campeão em título
+**BENFICA - campeão em título**
 
 
 
-Entradas: James Ellisor (ex-CB Granada, Espanha), Toney Douglas (ex-Hapoel Elita, Israel), Terrell Carter (ex-Steau CSM, Roménia), Sérgio Silva (ex-Imortal).
+**Entradas:** James Ellisor (ex-CB Granada, Espanha), Toney Douglas (ex-Hapoel Elita, Israel), Terrell Carter (ex-Steau CSM, Roménia), Sérgio Silva (ex-Imortal).
 
 
 
-Saídas: Arnette Hallman (Oliveirense), Guilherme Saiote (Imortal), Hugo Silva (Harding Bisons, EUA), Dennis Clifford (fim de carreira), Frank Gaines (Pallacanestro Trieste, Itália), James Farr (Steaua Bucareste, Roménia), Wendell Lewis, Travis Munnings (Boulazac, França)
+**Saídas:** Arnette Hallman (Oliveirense), Guilherme Saiote (Imortal), Hugo Silva (Harding Bisons, EUA), Dennis Clifford (fim de carreira), Frank Gaines (Pallacanestro Trieste, Itália), James Farr (Steaua Bucareste, Roménia), Wendell Lewis, Travis Munnings (Boulazac, França)
 
 
 
-Permanências: Ben Romdhane, José Barbosa, Tomás Barroso, José Silva, João "Betinho" Gomes, Aaron Broussard, Diogo Gameiro, Wendell Lewis 
+**Permanências:** Ben Romdhane, José Barbosa, Tomás Barroso, José Silva, João "Betinho" Gomes, Aaron Broussard, Diogo Gameiro, Wendell Lewis 
 
 
 
-PORTO
+**PORTO**
 
 
 
-Entradas: Teyvon Myers (ex-Sopron, Hungria), Michael Finke (ex-Aris de Salónia, Grécia), Jimmie Taylor (ex-Start Lublin, Polónia), Diogo Runge (fim de empréstimo-Maia), João Guerreiro (ex-Oliveirense), Miguel Maria Cardoso (ex-Sporting), Keven Gomes (ex-Imortal)
+**Entradas:** Teyvon Myers (ex-Sopron, Hungria), Michael Finke (ex-Aris de Salónia, Grécia), Jimmie Taylor (ex-Start Lublin, Polónia), Diogo Runge (fim de empréstimo-Maia), João Guerreiro (ex-Oliveirense), Miguel Maria Cardoso (ex-Sporting), Keven Gomes (ex-Imortal)
 
 
 
-Saídas: João Soares (fim de carreira), Brad Tinsley, João Torrié (Vasco da Gama), Miguel Correia (Galitos Barreiro), Jonathan Arledge, Mike Morrison, Rashard Odomes, Markus Loncar.
+**Saídas:** João Soares (fim de carreira), Brad Tinsley, João Torrié (Vasco da Gama), Miguel Correia (Galitos Barreiro), Jonathan Arledge, Mike Morrison, Rashard Odomes, Markus Loncar.
 
 
 
-Permanências: Francisco Amarante, Miguel Queiroz, Vlad Voytso, Danjel Purifoy, Max Landis, Charlon Kloof, Tiago Almeida
+**Permanências:** Francisco Amarante, Miguel Queiroz, Vlad Voytso, Danjel Purifoy, Max Landis, Charlon Kloof, Tiago Almeida
 
 
 
-SPORTING 
+**SPORTING** 
 
 
 
-Entradas: Marcus LoVett Jr. (ex-Salon Vilpas, Finlândia), Isaiah Armwood (ex-Siauliai, Lituânia), DJ Fenner (ex-MKS Dabrowa Gornicza, Polónia), Marko Loncovic (ex-Galomar), Ricardo Monteiro (ex-Oliveirense), Ivica Radic (ex-Levski Lukoil, Bulgária)
+**Entradas:** Marcus LoVett Jr. (ex-Salon Vilpas, Finlândia), Isaiah Armwood (ex-Siauliai, Lituânia), DJ Fenner (ex-MKS Dabrowa Gornicza, Polónia), Marko Loncovic (ex-Galomar), Ricardo Monteiro (ex-Oliveirense), Ivica Radic (ex-Levski Lukoil, Bulgária)
 
 
 
-Saídas: Miguel Maria Cardoso (FC Porto), Shakir Smith (Cantabria, Espanha), Justin Tuoyo, Joshua Patton (H.Galil Gilboa, Israel), Micah Downs, Mike Fofana, Daniel Relvão (Lusitânia)
+**Saídas:** Miguel Maria Cardoso (FC Porto), Shakir Smith (Cantabria, Espanha), Justin Tuoyo, Joshua Patton (H.Galil Gilboa, Israel), Micah Downs, Mike Fofana, Daniel Relvão (Lusitânia)
 
 
 
-Permanências: Diogo Ventura, Travante Williams, Tanner Omlid, António Monteiro, João Fernandes, Diogo Araújo
+**Permanências:** Diogo Ventura, Travante Williams, Tanner Omlid, António Monteiro, João Fernandes, Diogo Araújo
 
 
 
-“Nota Bem”: Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino. 
+**“Nota Bem”:** Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino. 
 
 
 
-OLIVEIRENSE
+**OLIVEIRENSE**
 
 
 
-Entradas: Arnette Hallman (ex-Benfica), Henrique Barros (ex-Esgueira), André Bessa (ex-Vitória de Guimarães), André Amado (ex-Olhanense), Malcolm Richardson (ex-Galitos)
+**Entradas:** Arnette Hallman (ex-Benfica), Henrique Barros (ex-Esgueira), André Bessa (ex-Vitória de Guimarães), André Amado (ex-Olhanense), Malcolm Richardson (ex-Galitos)
 
 
 
-Saídas: Pedro Catarino (Esgueira), Ricardo Monteiro (Sporting), João Guerreiro (FC Porto), Renato Azevedo (fim de carreira), Shaun Willett (Airs, Nova Zelândia), Shaquille Thomas, Zane Waterman (Hamilton Honey Badges, Canadá), Raven Barber (Boca Juniors, Argentina)
+**Saídas:** Pedro Catarino (Esgueira), Ricardo Monteiro (Sporting), João Guerreiro (FC Porto), Renato Azevedo (fim de carreira), Shaun Willett (Airs, Nova Zelândia), Shaquille Thomas, Zane Waterman (Hamilton Honey Badges, Canadá), Raven Barber (Boca Juniors, Argentina)
 
 
 
-Permanências: João Balseiro, Rui França, Francisco Albergaria
+**Permanências:** João Balseiro, Rui França, Francisco Albergaria
 
 
 
@@ -93,19 +93,19 @@ Falta ocupar vagas de jogador estrangeiro. 
 
 
 
-CAB MADEIRA
+**CAB MADEIRA**
 
 
 
-Entradas: Matt Johnson (Univ. de Detroit Mercy, EUA), Gage Sabean (Ottawa Gee-Gees, Canadá), Jett Speelman (Yoast United, Países Baixos), Michael Almonacy (App State University, EUA)
+**Entradas:** Matt Johnson (Univ. de Detroit Mercy, EUA), Gage Sabean (Ottawa Gee-Gees, Canadá), Jett Speelman (Yoast United, Países Baixos), Michael Almonacy (App State University, EUA)
 
 
 
-Saídas: Fred Thomas (Le Havre, França), Kai Mitchell (Berck, França), Jalan McCloud (Tartu, Estónia), Jonas Zakas, Chris Davenport
+**Saídas:** Fred Thomas (Le Havre, França), Kai Mitchell (Berck, França), Jalan McCloud (Tartu, Estónia), Jonas Zakas, Chris Davenport
 
 
 
-Permanências: Jorge Embaló, Tomás Dias, Cláudio Fonseca, Nuno Sá, Bernardo Ferreira, Diogo Peixe
+**Permanências:** Jorge Embaló, Tomás Dias, Cláudio Fonseca, Nuno Sá, Bernardo Ferreira, Diogo Peixe
 
 
 
@@ -113,55 +113,35 @@ Falta ocupar uma vaga de jogador estrangeiro. 
 
 
 
-LUSITÂNIA
+**LUSITÂNIA**
 
 
 
-Entradas: Daniel Relvão (Sporting), Thomas Bruce (ex-SC Karlsruher, Alemanha), Lamine Banora (ex-Illiabum), Derek Jackson (ex-BC Boncourt, Suíça), Ryan Weber, Matt Faw (ex-NJIT Highlanders, EUA), Justin Edler-Davis (ex-Univ. CS Bakersfield), Pedro Oliveira (ex-Ovarense), Ivan Mutombene (ex-ABA/IPCB)
+**Entradas:** Daniel Relvão (Sporting), Thomas Bruce (ex-SC Karlsruher, Alemanha), Lamine Banora (ex-Illiabum), Derek Jackson (ex-BC Boncourt, Suíça), Ryan Weber, Matt Faw (ex-NJIT Highlanders, EUA), Justin Edler-Davis (ex-Univ. CS Bakersfield), Pedro Oliveira (ex-Ovarense), Ivan Mutombene (ex-ABA/IPCB)
 
 
 
-Saídas: Francisco Amiel (Ovarense), Jaques Conceição (Imortal), João Ribeiro (V. Guimarães), Devon Goodman, Alex Thompson (Melilla, Espanha), Jacob Gibson, Julien Ducree, Kazembe Abif
+**Saídas:** Francisco Amiel (Ovarense), Jaques Conceição (Imortal), João Ribeiro (V. Guimarães), Devon Goodman, Alex Thompson (Melilla, Espanha), Jacob Gibson, Julien Ducree, Kazembe Abif
 
 
 
-Permanências: Fernando Ferreira
+**Permanências:** Fernando Ferreira
 
 
 
-IMORTAL
+**IMORTAL**
 
 
 
-Entradas: Jaques Conceição (ex-Lusitânia), Guilherme Saiote (ex-Benfica), Terry Nolan Jr (Towson Tigers, EUA)
+**Entradas:** Jaques Conceição (ex-Lusitânia), Guilherme Saiote (ex-Benfica), Terry Nolan Jr (Towson Tigers, EUA)
 
 
 
-Saídas: Sérgio Silva (Benfica), Nuno Morais (Ovarense), Keven Gomes (FC Porto), Marqueze Coleman, Andrew Robinson, Jordan Bruner, Anthony Smith, Ty Toney, Roddy Peters Jr., Thomas De Thaey, Jalen Jenkins, João Neves (Santo André)
+**Saídas:** Sérgio Silva (Benfica), Nuno Morais (Ovarense), Keven Gomes (FC Porto), Marqueze Coleman, Andrew Robinson, Jordan Bruner, Anthony Smith, Ty Toney, Roddy Peters Jr., Thomas De Thaey, Jalen Jenkins, João Neves (Santo André)
 
 
 
-Permanências: Fábio Lima, Emanuel Sá, Rui Quintino, Jonathan Silva, Filip Gewert, Salvador Victo, João Assis, Jason Catarino
-
-
-
-Falta ocupar vagas de jogador estrangeiro. 
-
-
-
-CD PÓVOA
-
-
-
-Entradas: Ainda não existem contratações anunciadas pelo clube. 
-
-
-
-Saídas: Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders
-
-
-
-Permanências: Nuno Oliveira, João Embaló, Diogo Gomes, Paulo Sereno, Jorge Rodrigues, Eduardo Coelho, Guilherme Nunes, Eduardo Santos, Bernardo Bergmann
+**Permanências:** Fábio Lima, Emanuel Sá, Rui Quintino, Jonathan Silva, Filip Gewert, Salvador Victo, João Assis, Jason Catarino
 
 
 
@@ -169,15 +149,35 @@ Falta ocupar vagas de jogador estrangeiro. 
 
 
 
-OVARENSE
+**CD PÓVOA**
 
 
 
-Entradas: Brandon Peel (ex-Newcastle Eagles, Reino Unido), Jordan Robertson (ex-Titebi, Geórgia), Francisco Amiel (ex-Lusitânia), JaCoby Armstrong (ex-Kouvot, Finlândia), Davell Roby (ex-Basket Brno, Chéquia), Nuno Morais (ex-Imortal), Cândido Sá (ex-CB Benicarló, Espanha), Ben Okhotin (PLNU, EUA).
+**Entradas:** Ainda não existem contratações anunciadas pelo clube. 
 
 
 
-Saídas: Francisco Oliveira, Pedro Bastos (V. Guimarães), Pedro Oliveira (Lusitânia), Brandon Anderson, Kameron Chatman, Kameron Hankerson, Tyere Marshall (Antalya GSK, Turquia), Nikola Tadic
+**Saídas:** Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders
+
+
+
+**Permanências:** Nuno Oliveira, João Embaló, Diogo Gomes, Paulo Sereno, Jorge Rodrigues, Eduardo Coelho, Guilherme Nunes, Eduardo Santos, Bernardo Bergmann
+
+
+
+Falta ocupar vagas de jogador estrangeiro. 
+
+
+
+**OVARENSE**
+
+
+
+**Entradas:** Brandon Peel (ex-Newcastle Eagles, Reino Unido), Jordan Robertson (ex-Titebi, Geórgia), Francisco Amiel (ex-Lusitânia), JaCoby Armstrong (ex-Kouvot, Finlândia), Davell Roby (ex-Basket Brno, Chéquia), Nuno Morais (ex-Imortal), Cândido Sá (ex-CB Benicarló, Espanha), Ben Okhotin (PLNU, EUA).
+
+
+
+**Saídas:** Francisco Oliveira, Pedro Bastos (V. Guimarães), Pedro Oliveira (Lusitânia), Brandon Anderson, Kameron Chatman, Kameron Hankerson, Tyere Marshall (Antalya GSK, Turquia), Nikola Tadic
 
 
 
@@ -185,39 +185,19 @@ Permanências: André Palavra, Rúben Sona, Gustavo Teixeira, Pedro Lascasas, Ro
 
 
 
-V. GUIMARÃES
+**V. GUIMARÃES**
 
 
 
-Entradas: João Ribeiro (ex-Lusitânia), Pedro Bastos (ex-Ovarense), Pedro Pinto (ex-Illiabum), Ruben Nobre (ex-Sanjoanense), João Lucas (ex-Maia Basket), Jacob Van Tubbergen (ex-Grand Valley State), Anthony Roberts (ex-Univ. Stony Brook, EUA)
+**Entradas:** João Ribeiro (ex-Lusitânia), Pedro Bastos (ex-Ovarense), Pedro Pinto (ex-Illiabum), Ruben Nobre (ex-Sanjoanense), João Lucas (ex-Maia Basket), Jacob Van Tubbergen (ex-Grand Valley State), Anthony Roberts (ex-Univ. Stony Brook, EUA)
 
 
 
-Saídas: André Bessa (Oliveirense), Hugo Sotta (Esgueira), Brandon Austin, Eric Coleman, Matt McCarthy, Jeremias Manjate, Malcolm Drumwright, Danjel Purifoy (fim de empréstimo FC Porto), João Gallina (Galomar)
+**Saídas:** André Bessa (Oliveirense), Hugo Sotta (Esgueira), Brandon Austin, Eric Coleman, Matt McCarthy, Jeremias Manjate, Malcolm Drumwright, Danjel Purifoy (fim de empréstimo FC Porto), João Gallina (Galomar)
 
 
 
-Permanências: “Litos” Cardoso, Manuel Magalhães
-
-
-
-Falta ocupar vagas de jogador estrangeiro. 
-
-
-
-ESGUEIRA
-
-
-
-Entradas: Pedro Catarino (ex-Oliveirense), Hugo Sotta (ex-Vitória de Guimarães), Sascha Kappos (ex-Humacao, Cuba), Rubinho Mendes (ex-Galitos), Kobi Nwandu (ex-Niagara, EUA), Biniam Ghebrekdian 
-
-
-
-Saídas: Pedro Seabra, João Barata Guerreiro (Maia), Sean Lloyd, Henrique Barros (Oliveirense), Miguel Bastos (GC Olhanense), Bernardo Neves, Gonçalo Madureira, André Silva
-
-
-
-Permanências: António Monteiro, Francisco Nunes, Bolon Sauané, Ryan Ogden, 
+**Permanências:** “Litos” Cardoso, Manuel Magalhães
 
 
 
@@ -225,18 +205,38 @@ Falta ocupar vagas de jogador estrangeiro. 
 
 
 
-SANGALHOS
+**ESGUEIRA**
 
 
 
-Entradas: Jack Hemphill (ex-St. Francis Terriers, EUA), Avery Diggs (ex-Univ. Chattanooga Mocs, EUA), Justin Stovall (ex-Wisconsin Platteville, EUA), Nikita Kasongo (ex-Saint Mary's Huskies, Canadá), Abrian Edwards (ex-Kamza Basket Tirana, Albânia), Aniel Brito (ex-Marinhense)
+**Entradas:** Pedro Catarino (ex-Oliveirense), Hugo Sotta (ex-Vitória de Guimarães), Sascha Kappos (ex-Humacao, Cuba), Rubinho Mendes (ex-Galitos), Kobi Nwandu (ex-Niagara, EUA), Biniam Ghebrekdian 
 
 
 
-Saídas: Ângelo Oliveira 
+**Saídas:** Pedro Seabra, João Barata Guerreiro (Maia), Sean Lloyd, Henrique Barros (Oliveirense), Miguel Bastos (GC Olhanense), Bernardo Neves, Gonçalo Madureira, André Silva
+
+
+
+**Permanências:** António Monteiro, Francisco Nunes, Bolon Sauané, Ryan Ogden, 
+
+
+
+Falta ocupar vagas de jogador estrangeiro. 
+
+
+
+**SANGALHOS**
+
+
+
+**Entradas:** Jack Hemphill (ex-St. Francis Terriers, EUA), Avery Diggs (ex-Univ. Chattanooga Mocs, EUA), Justin Stovall (ex-Wisconsin Platteville, EUA), Nikita Kasongo (ex-Saint Mary's Huskies, Canadá), Abrian Edwards (ex-Kamza Basket Tirana, Albânia), Aniel Brito (ex-Marinhense)
+
+
+
+**Saídas:** Ângelo Oliveira 
 
 **\
-Permanências: Marco Correia, Miguel Calado, João Neves, Tiago Barreto, Francisco Santiago, Bernardo Almeida, João Martinho, Gonçalo Julião, Diogo Silva**
+Permanências:** Marco Correia, Miguel Calado, João Neves, Tiago Barreto, Francisco Santiago, Bernardo Almeida, João Martinho, Gonçalo Julião, Diogo Silva
 
 <!--EndFragment-->
 
