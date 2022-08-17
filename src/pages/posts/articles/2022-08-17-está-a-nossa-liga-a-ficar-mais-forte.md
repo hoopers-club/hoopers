@@ -43,7 +43,7 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 **OLIVEIRENSE**
 
-**Entradas:** Arnette Hallman (ex-Benfica), Henrique Barros (ex-Esgueira), André Bessa (ex-Vitória de Guimarães), André Amado (ex-Olhanense), Malcolm Richardson (ex-Galitos)
+**Entradas:** Arnette Hallman (ex-Benfica), Henrique Barros (ex-Esgueira), André Bessa (ex-Vitória de Guimarães), André Amado (ex-Olhanense), Malcolm Richardson (ex-Galitos), Darius Carter (ex-Wichita State Shockers)
 
 **Saídas:** Pedro Catarino (Esgueira), Ricardo Monteiro (Sporting), João Guerreiro (FC Porto), Renato Azevedo (fim de carreira), Shaun Willett (Airs, Nova Zelândia), Shaquille Thomas, Zane Waterman (Hamilton Honey Badges, Canadá), Raven Barber (Boca Juniors, Argentina)
 
