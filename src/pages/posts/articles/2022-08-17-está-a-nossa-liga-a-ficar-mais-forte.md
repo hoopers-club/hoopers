@@ -128,6 +128,8 @@ Permanências:** Marco Correia, Miguel Calado, João Neves, Tiago Barreto, Franc
 
 <!--EndFragment-->
 
+Informação retirada de fontes oficiais dos clubes, jornal O Jogo, redes sociais dos atletas, entre outros. 
+
 **Redação:** Hoopers
 
 <a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
