@@ -10,11 +10,11 @@ layout: ../../../Layout/single-article.astro
 ---
 **André Cruz** é mais um português a jogar na principal divisão do basquetebol universitário nos Estados Unidos, na **NCAA Division I**, a par de Stanley Borden. 
 
-O internacional português nos escalões de formação começou o seu trajeto no **Estoril Basket** e quando era sub-18 de segundo ano, deu um grande passo ao rumar para o **Sporting**, onde representou o clube na formação, na Proliga (na equipa satélite) e na Liga Placard (na equipa sénior).
+O internacional português nos escalões de formação começou o seu trajeto no **Estoril Basket** e quando era sub-18 de segundo ano deu um grande passo ao rumar para o **Sporting**, onde representou o clube na formação, na Proliga (na equipa satélite) e na Liga Placard (na equipa sénior).
 
 A época foi interrompida pela COVID-19 e André adiou a sua ida para os EUA, acabando por atuar na Proliga ao serviço **d’Os Belenenses**. Na época seguinte rumou, finalmente, para o outro continente para jogar JUCO (Junior College), ao serviço de **Western Wyoming**, onde registou 11.2 pontos em 25.4 minutos jogados nos EUA.
 
-Representou a seleção nacional nos diversos escalões de formação, mas foi no Europeu sub-20 deste ano que mais se evidenciou, sendo um dos jogadores em destaque da prova, o que lhe valeu a sua primeira oferta para jogar numa D1. Neste campeonato da Europa, somou **17.1 pontos (49.4% 2P, 41.2% 3P, 77.3% LL)**, 8.0 ressaltos, 2.0 assistências e 1.3 roubos de bola em 33.6 minutos jogados ao longo de 6 jogos. Ocupou o 5.º lugar na média de pontos por jogo e o 8.º na média de ressaltos por jogo. 
+Representou a seleção nacional nos diversos escalões de formação, mas foi no Europeu sub-20 deste ano que mais se evidenciou, sendo um dos jogadores em destaque da prova, o que lhe valeu a sua primeira oferta para jogar numa D1. Neste campeonato da Europa somou **17.1 pontos (49.4% 2P, 41.2% 3P, 77.3% LL)**, 8.0 ressaltos, 2.0 assistências e 1.3 roubos de bola em 33.6 minutos jogados ao longo de 6 jogos. Ocupou o 5.º lugar na média de pontos por jogo e o 8.º na média de ressaltos por jogo. 
 
 **Aqui fica a conversa que tivemos durante este timeout:**\
 \
