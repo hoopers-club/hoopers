@@ -48,12 +48,10 @@ O jogo será de entrada gratuita mediante o resgate dos bilhetes.
 
 Os jogos serão todos transmitidos na RTP2 e na fpbtv.pt.
 
-**\*Recorde- se que no ano de 2020 o campeonato não foi disputado até ao fim devido à pandemia de COVID-19 e por isso não existiu nenhum vencedor. **
+**\* Recorde- se que no ano de 2020 o campeonato não foi disputado até ao fim devido à pandemia de COVID-19 e por isso não existiu nenhum vencedor.** 
 
 **Redação**: Hoopers
 
 **Entrevista por:** Martim Figueiredo 
-
-
 
 <script async src="//www.instagram.com/embed.js"></script>
