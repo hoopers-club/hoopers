@@ -351,14 +351,14 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 			 		article.classList.remove('hidden');   
 		 		});
-				// updates buttons value and function
-				if (hoopersButton.innerHTML === "show more") {
-					hoopersButton.innerHTML = "show less";
-					hoopersButton.setAttribute('onclick', 'showLess()');
-				}
+				
 				// displays all articles button
 				hoopersButtonAll.classList.remove('hidden-link');
 				hoopersButtonAll.classList.add('hidden-disabled');
+                hoopersButton.classList.remove('hidden-link');
+				hoopersButton.classList.add('hidden-disabled');
+                hoopersButton.innerHTML = "Mostrar Menos";
+				hoopersButton.setAttribute('onclick', 'showLess()');
    			} 
 		}
 		// function to hide hidden articles and hide all articles button
@@ -377,14 +377,14 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hidden');			    
 		 		});
-				//updates buttons value and function
-				if (hoopersButton.innerHTML === "show less") {
-					hoopersButton.innerHTML = "show more";
-					hoopersButton.setAttribute('onclick', 'showMe()');
-				}
+				
 				// hides all articles button
 				hoopersButtonAll.classList.add('hidden-link');
 				hoopersButtonAll.classList.remove('hidden-disabled');
+                hoopersButton.classList.add('hidden-link');
+				hoopersButton.classList.remove('hidden-disabled');
+                hoopersButton.innerHTML = "Mostrar Mais";
+				hoopersButton.setAttribute('onclick', 'showMe()');
 				// scrolls up to top of articles section
 				articleTop.scrollIntoView({
   					behavior: 'smooth'
@@ -406,14 +406,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddennba');
 				});
-				// updates buttons value and function
-				if (nbaButton.innerHTML === "show more") {
-					nbaButton.innerHTML = "show less";
-					nbaButton.setAttribute('onclick', 'showLessNba()');
-				}
 				// displays all articles button
 				nbaButtonGo.classList.remove('hidden-link-nba');
-				nbaButtonGo.classList.add('hidden-disabled');	
+				nbaButtonGo.classList.add('hidden-disabled');
+                nbaButton.classList.remove('hidden-link-nba');
+				nbaButton.classList.add('hidden-disabled');		
+                nbaButton.innerHTML = "Mostrar Menos";
+				nbaButton.setAttribute('onclick', 'showLessNba()');
    			} 
    		} 
 		// function to hide hidden NBA Portugal articles and hide head to button
@@ -432,14 +431,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hiddennba');			    
 		 		});
-				//updates buttons value and function
-				if (nbaButton.innerHTML === "show less") {
-					nbaButton.innerHTML = "show more";
-					nbaButton.setAttribute('onclick', 'showMeNba()');
-				}
 				// hides head to button
 				nbaButtonGo.classList.add('hidden-link-nba');
 				nbaButtonGo.classList.remove('hidden-disabled');
+                nbaButton.classList.add('hidden-link');
+				nbaButton.classList.remove('hidden-disabled');
+                nbaButton.innerHTML = "Mostrar Mais";
+				nbaButton.setAttribute('onclick', 'showMeNba()');
 				// scrolls up to top of articles section
 				nbaTop.scrollIntoView({
   					behavior: 'smooth'
@@ -461,14 +459,14 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddenbleacher');
 				});
-				// updates buttons value and function
-				if (bleacherButton.innerHTML === "show more") {
-					bleacherButton.innerHTML = "show less";
-					bleacherButton.setAttribute('onclick', 'showLessBleacher()');
-				}
+				
 				// displays all articles button
 				bleacherButtonGo.classList.remove('hidden-link-bleacher');
 				bleacherButtonGo.classList.add('hidden-disabled');	
+                bleacherButton.classList.remove('hidden-link-nba');
+				bleacherButton.classList.add('hidden-disabled');		
+                bleacherButton.innerHTML = "Mostrar Menos";
+				bleacherButton.setAttribute('onclick', 'showLessBleacher()');
    			} 
    		} 
 		// function to hide hidden NBA Portugal articles and hide head to button
@@ -487,14 +485,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hiddenbleacher');			    
 		 		});
-				//updates buttons value and function
-				if (bleacherButton.innerHTML === "show less") {
-					bleacherButton.innerHTML = "show more";
-					bleacherButton.setAttribute('onclick', 'showMeBleacher()');
-				}
 				// hides head to button
 				bleacherButtonGo.classList.add('hidden-link-bleacher');
 				bleacherButtonGo.classList.remove('hidden-disabled');
+                bleacherButton.classList.add('hidden-link');
+				bleacherButton.classList.remove('hidden-disabled');
+                bleacherButton.innerHTML = "Mostrar Mais";
+				bleacherButton.setAttribute('onclick', 'showMeBleacher()');
 				// scrolls up to top of articles section
 				bleacherTop.scrollIntoView({
   					behavior: 'smooth'
@@ -516,14 +513,14 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddeneuro');
 				});
-				// updates buttons value and function
-				if (euroButton.innerHTML === "show more") {
-					euroButton.innerHTML = "show less";
-					euroButton.setAttribute('onclick', 'showLessEuro()');
-				}
+				
 				// displays all articles button
 				euroButtonGo.classList.remove('hidden-link-euro');
 				euroButtonGo.classList.add('hidden-disabled');	
+                euroButton.classList.remove('hidden-link-nba');
+				euroButton.classList.add('hidden-disabled');		
+                euroButton.innerHTML = "Mostrar Menos";
+				euroButton.setAttribute('onclick', 'showLessEuro()');
    			} 
    		} 
 		// function to hide hidden Eurohoops articles and hide head to button
@@ -542,14 +539,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hiddeneuro');			    
 		 		});
-				//updates buttons value and function
-				if (euroButton.innerHTML === "show less") {
-					euroButton.innerHTML = "show more";
-					euroButton.setAttribute('onclick', 'showMeEuro()');
-				}
 				// hides head to button
 				euroButtonGo.classList.add('hidden-link-euro');
 				euroButtonGo.classList.remove('hidden-disabled');
+                euroButton.classList.add('hidden-link');
+				euroButton.classList.remove('hidden-disabled');
+                euroButton.innerHTML = "Mostrar Mais";
+				euroButton.setAttribute('onclick', 'showMeEuro()');
 				// scrolls up to top of articles section
 				euroTop.scrollIntoView({
   					behavior: 'smooth'
@@ -571,14 +567,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddenreal');
 				});
-				// updates buttons value and function
-				if (realButton.innerHTML === "show more") {
-					realButton.innerHTML = "show less";
-					realButton.setAttribute('onclick', 'showLessReal()');
-				}
 				// displays head to button
 				realButtonGo.classList.remove('hidden-link-real');
 				realButtonGo.classList.add('hidden-disabled');	
+                realButton.classList.remove('hidden-link-nba');
+				realButton.classList.add('hidden-disabled');		
+                realButton.innerHTML = "Mostrar Menos";
+				realButton.setAttribute('onclick', 'showLessReal()');
    			} 
    		} 
 		// function to hide hidden RealGM articles and hide head to button
@@ -597,14 +592,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hiddenreal');			    
 		 		});
-				//updates buttons value and function
-				if (realButton.innerHTML === "show less") {
-					realButton.innerHTML = "show more";
-					realButton.setAttribute('onclick', 'showMeReal()');
-				}
 				// hides head to button
 				realButtonGo.classList.add('hidden-link-real');
 				realButtonGo.classList.remove('hidden-disabled');
+                realButton.classList.add('hidden-link');
+				realButton.classList.remove('hidden-disabled');
+                realButton.innerHTML = "Mostrar Mais";
+				realButton.setAttribute('onclick', 'showMeReal()');
 				// scrolls up to top of articles section
 				realTop.scrollIntoView({
   					behavior: 'smooth'
@@ -626,14 +620,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.add('hidden-disabled');
 					article.classList.remove('hiddenball');
 				});
-				// updates buttons value and function
-				if (ballButton.innerHTML === "show more") {
-					ballButton.innerHTML = "show less";
-					ballButton.setAttribute('onclick', 'showLessBall()');
-				}
 				// displays head to button
 				ballButtonGo.classList.remove('hidden-link-ball');
-				ballButtonGo.classList.add('hidden-disabled');	
+				ballButtonGo.classList.add('hidden-disabled');
+                ballButton.classList.remove('hidden-link-nba');
+				ballButton.classList.add('hidden-disabled');		
+                ballButton.innerHTML = "Mostrar Menos";
+				ballButton.setAttribute('onclick', 'showLessBall()');	
    			} 
    		} 
 		// function to hide hidden Ball is Life articles and hide head to button
@@ -652,14 +645,13 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 					article.classList.remove('hidden-disabled');
 			 		article.classList.add('hiddenball');			    
 		 		});
-				//updates buttons value and function
-				if (ballButton.innerHTML === "show less") {
-					ballButton.innerHTML = "show more";
-					ballButton.setAttribute('onclick', 'showMeBall()');
-				}
 				// hides head to button
 				ballButtonGo.classList.add('hidden-link-ball');
 				ballButtonGo.classList.remove('hidden-disabled');
+                ballButton.classList.add('hidden-link');
+				ballButton.classList.remove('hidden-disabled');
+                ballButton.innerHTML = "Mostrar Mais";
+				ballButton.setAttribute('onclick', 'showMeBall()');
 				// scrolls up to top of articles section
 				ballTop.scrollIntoView({
   					behavior: 'smooth'
