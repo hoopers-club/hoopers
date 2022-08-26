@@ -29,16 +29,17 @@ const Court = ({ first, court, detail, setDetail }) => {
 				}}
 				onClick={handleDetail}
 			>
-				<img
+				{/*<img
 					className="leftseparator left"
 					src="/assets/courts/courtseparator.svg"
 					alt=""
-				/>
+			/>*/}
 				<div className="titles">
 					<div className="court-headline">{court?.name}</div>
 					<div className="court-subtext">{court?.subname}</div>
 				</div>
-				<img className="right" src="/assets/courts/courtseparator.svg" alt="" />
+				{//<img className="right" src="/assets/courts/courtseparator.svg" alt="" />
+				}
 			</div>
 
 			{detailOpened ? (
