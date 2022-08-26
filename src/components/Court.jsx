@@ -12,6 +12,7 @@ const Court = ({ first, court, detail, setDetail }) => {
 	const styles = {
 		minHeight: first ? "85vh" : "45vh",
 		paddingBottom: first ? "10%" : "",
+		justifyContent: first ? "flex-end" : "center",
 	};
 
 	useEffect(() => {}, [detail, detailOpened]);
