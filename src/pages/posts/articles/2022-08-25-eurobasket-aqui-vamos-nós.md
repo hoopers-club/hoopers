@@ -52,6 +52,8 @@ Os jogos serão todos transmitidos na RTP2 e na fpbtv.pt.
 
 **Redação**: Hoopers
 
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 **Entrevista por:** Martim Figueiredo 
 
 <script async src="//www.instagram.com/embed.js"></script>
