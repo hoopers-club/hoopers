@@ -56,4 +56,6 @@ Os jogos serão todos transmitidos na RTP2 e na fpbtv.pt.
 
 **Entrevista por:** Martim Figueiredo 
 
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <script async src="//www.instagram.com/embed.js"></script>
