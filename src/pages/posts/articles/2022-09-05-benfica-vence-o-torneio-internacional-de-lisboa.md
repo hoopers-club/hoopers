@@ -37,6 +37,8 @@ Do lado dos leões, Marcus Lovett foi a principal figura com 21 pontos, 3 ressal
 
 **Redação:** Hoopers
 
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 **Entrevista por:** Martim Figueiredo
 
 <!--EndFragment-->
