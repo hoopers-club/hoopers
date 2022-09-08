@@ -11,33 +11,19 @@ layout: ../../../Layout/single-article.astro
 
 Olá a todos! O meu nome é João Gallina, 28 anos, internacional português e, atualmente, a competir pela equipa do Galomar. Sou o co-criador da rubrica “SneakerHeadz”, dinamizada em parceria com a Hoopers. Espero que partilhem da minha crença que, sapatilha não faz o jogador, mas que manda muito estilo, manda.
 
-
-
 Nesta nova rubrica vamos dar destaque aos modelos de sapatilhas (ténis, téni, bota, vitorino, etc - todas designações válidas) utilizados pelos jogadores das nossas Ligas Masculinas e Femininas - mas também de outras competições que mereçam o nosso destaque - procurando avaliar tecnicamente os modelos, mas também recomendando um conjunto de sites fidedignos e parceiros onde os leitores poderão adquirir aquela sapatilha pela qual se sentiu “amor à primeira vista”.
-
-
 
 **EDIÇÃO #1 - ESPREITÁMOS A HOOPERS SUMMER LEAGUE**
 
-
-
 A primeira edição da Hoopers Summer League foi, sem dúvida, um sucesso para a modalidade que tanto amamos. Para além de termos visto qualidade e competição nos jogos e concursos, também vimos equipamentos de jogo muito originais e chamativos de todas as cores e feitios. 
-
- 
 
 Mas não menos importante do que tudo isto, houve também espaço para destacar as sapatilhas que foram calçadas pelos jogadores durante a competição. 
 
-
-
 Vamos às nossas escolhas:
-
-
 
 **1 - [Asha Jordan](https://www.instagram.com/ashajordan8/) (Base Extremo, XXX)**
 
 **Modelo: Nike - KD 14 "Black Volt"**
-
- 
 
 ![](/assets/uploads/post_sneakerheadz-post1-kd14.png)
 
@@ -56,8 +42,6 @@ Basket Connection (França)
 Bouncewear (França/Bélgica)
 
 Airness (França)
-
-
 
 **Outras edições:**
 
@@ -79,21 +63,11 @@ Macadam Basket (França)
 
 23 Basketball (Espanha)
 
- 
-
- 
-
 **2 - [Gonçalo Pais](https://www.instagram.com/goncalopais13/) (Base Extremo, Estoril Basket BC)**
 
 **Modelo: Nike - Zoom Freak 3 NRG "Uno Blue"**
 
-
-
 ![](/assets/uploads/post_sneakerheadz-post2-zoomfreek3nrg.png)
-
-
-
- 
 
 **Sites disponíveis para compra:**
 
@@ -103,23 +77,11 @@ BounceWear
 
 Oqium
 
- 
-
- 
-
- 
-
 **3 - [Diogo Carvalho](https://www.instagram.com/diogomlcarvalho/) (Extremo, Estoril Basket BC)**
 
 **Modelo: Nike - PG 6 "Black Mint Green"**
 
-
-
 ![](/assets/uploads/post_sneakerheadz-post3-nikepg6.png)
-
-
-
- 
 
 **Sites disponíveis para compra:**
 
@@ -145,8 +107,6 @@ Macadam Basket
 
 Bshop Basketball (França)
 
-
-
 **Outras edições:**
 
 Basketball Revolution (Espanha)
@@ -155,21 +115,11 @@ Nike
 
 Kickz
 
- 
-
- 
-
- 
-
 **4 - [Bruno Araújo](https://www.instagram.com/bdrxco/) (Extremo, Tabor College - EUA)**
 
 **Modelo: Nike - Zoom Freak 3 "Dutch Blue"**
 
 ![](/assets/uploads/post_sneakerheadz-post4-zoomfreek3dutchblue.png)
-
-
-
- 
 
 **Sites disponíveis para compra:**
 
@@ -184,8 +134,6 @@ Oqium
 Basket4Ballers
 
 Macadam Basket
-
-
 
 **Outras edições:**
 
@@ -205,10 +153,6 @@ Fuikaomar
 
 23 Basketball
 
- 
-
-
-
 **5 - [Daniel Machado](https://www.instagram.com/danielmachado2308/) (Extremo, Undecided)**
 
 **Modelo: Nike - Kyrie 5 Low "Community"**
@@ -224,8 +168,6 @@ Oqium
 Kickz
 
 Airness
-
-
 
 **Outras edições:**
 
@@ -247,17 +189,11 @@ Basket4Ballers
 
 Bshop Basketball
 
- 
-
- 
-
 **6 - [Claúdio Fonseca](https://www.instagram.com/calufonseca17/) (Poste, CAB Madeira)**
 
 **Modelo: Nike - Air Jordan XXXVI "First Light"**
 
 ![](/assets/uploads/post_sneakerheadz-post6-jordan.png)
-
-
 
 **Sites disponíveis para compra:**
 
@@ -281,8 +217,6 @@ Macadam Basket
 
 23 Basketball
 
-
-
 **Outras edições:**
 
 Basket Country
@@ -293,11 +227,7 @@ Basketball Revolution
 
 Fuikaomar
 
-
-
 Leiam a nossa análise técnica de cada modelo. Fiquem a conhecer a nossa seleção dos melhores “calçados” da Hoopers Summer League e votem no vencedor da semana:
-
-
 
 * Asha Jordan
 * Gonçalo Pais
@@ -309,12 +239,10 @@ Leiam a nossa análise técnica de cada modelo. Fiquem a conhecer a nossa seleç
 **\
 P﻿ara votares passa nos nossos stories ou destaques!** 
 
-
+[@﻿by_hoopers](https://www.instagram.com/by_hoopers/)
 
 Redação: João Gallina
 
 Edição e revisão: Hoopers
-
-
 
 <!--EndFragment-->
