@@ -239,10 +239,10 @@ Leiam a nossa análise técnica de cada modelo. Fiquem a conhecer a nossa seleç
 **\
 P﻿ara votares passa nos nossos stories ou destaques!** 
 
-[@﻿by_hoopers](https://www.instagram.com/by_hoopers/)
+[@﻿by_hoopers](https://www.instagram.com/stories/highlights/17934368804298663/)
 
-Redação: João Gallina
+**Redação:** João Gallina
 
-Edição e revisão: Hoopers
+**Edição e revisão:** Hoopers
 
 <!--EndFragment-->
