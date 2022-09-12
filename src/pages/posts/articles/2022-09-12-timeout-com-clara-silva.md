@@ -67,4 +67,6 @@ CS: Como a minha família sempre jogou basquetebol, foi uma coisa natural para m
 
 **Entrevista por:** Martim Figueiredo 
 
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!--EndFragment-->
