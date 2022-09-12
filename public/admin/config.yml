@@ -141,8 +141,14 @@ collections:
                 required: true
             }
           - {
-                label: "Video URL (For videos only!)",
-                name: "videoURL",
+                label: "Desktop Video URL (For videos only!)",
+                name: "desktopVideo",
+                widget: "string",
+                required: false
+            }
+          - {
+                label: "Mobile Video URL (For videos only!)",
+                name: "mobileVideo",
                 widget: "string",
                 required: false
             }

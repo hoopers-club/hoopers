@@ -1,36 +1,35 @@
 ---
-
+let hero = await Astro.fetchContent('/src/pages/posts/hero/hero.md');
 ---
 
 <div class="container" style="position: relative">
 
 	<div class="top">
 		
-		<!--<video class="hero-video" src="../../assets/nft_banner_video.mp4" autoplay loop playsinline muted id="myVideo"></video>
+<!--<video class="hero-video" src="../../assets/nft_banner_video.mp4" autoplay loop playsinline muted id="myVideo"></video>
 		<video class="hero-video-mobile" src="../../assets/nft_banner_mobile.mp4" autoplay loop playsinline muted id="myVideo"></video>-->
 		<!--background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), 
 				 -->
-		<div 
-			class="hero-video" 
-			style="
-				background: url('/assets/website_banner-CLARA.png');
-				background-repeat: no-repeat;
-				background-size: cover;
-				background-position:center;" 
-			id="myVideo"
-		></div>
-		<div 
-			class="hero-video-mobile" 
-			style="
-				background: url('/assets/website_banner_mobile_CLARA.png');
-				background-repeat: no-repeat;
-				background-size: cover;
-				background-position:center;" 
-			id="myVideo"
-		></div>
+        {hero[0]?.heroType === "Video" ? (
+            <video class="hero-video" src={"../../"+hero[0]?.desktopVideo} autoplay loop playsinline muted id="myVideo"></video>
+		    <video class="hero-video-mobile" src={"../../"+hero[0]?.mobileVideo} autoplay loop playsinline muted id="myVideo"></video>
+            ) : (
+                 <div 
+                    class="hero-video" 
+                    style={"background: url("+hero[0]?.desktopImg+");background-repeat: no-repeat;background-size: cover;background-position:center;"} 
+                    id="myVideo"
+                ></div>
+                <div 
+                    class="hero-video-mobile" 
+                    style={"background: url("+hero[0]?.mobileImg+");background-repeat: no-repeat;background-size: cover;background-position:center;"}
+                    id="myVideo"
+                ></div>
+            )}
+		
+		
 
 		<!--<div class="headline" style="padding: 0 1em;" ><h2>2021 RECAP</h2><span><h2>We’re on to the next chapter</h2></span></div>-->
-		<div class="centered-button buttons" style="z-index: 1;display:flex;margin-top: auto;" onclick="window.open('https://hoopers.club/posts/articles/2022-09-12-timeout-com-clara-silva/','_blank')">LER ARTIGO
+		<div class="centered-button buttons" style="z-index: 1;display:flex;margin-top: auto;" onclick={"window.open('"+hero[0]?.buttonURL+"','_blank')"}>{hero[0]?.buttonText}
 		</div>
 		
 	</div>
