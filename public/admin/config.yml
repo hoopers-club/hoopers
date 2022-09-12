@@ -143,22 +143,25 @@ collections:
           - {
                 label: "Video URL (For videos only!)",
                 name: "videoURL",
-                widget: "string"
+                widget: "string",
+                required: false,
             }
           - {
                 label: "Desktop Photo",
                 name: "desktopImg",
                 widget: "image",
-                choose_url: true
+                choose_url: true,
+                required: false,
             }
           - {
                 label: "Mobile Photo",
                 name: "mobileImg",
                 widget: "image",
-                choose_url: true
+                choose_url: true,
+                required: false,
             }
-          - { label: "Button URL", name: "buttonURL", widget: "string" }
-          - { label: "Button Text", name: "buttonText", widget: "string" }
+          - { label: "Button URL", name: "buttonURL", widget: "string", required: true,}
+          - { label: "Button Text", name: "buttonText", widget: "string", required: true,}
     - name: "frontpage"
       label: "Front Page"
       folder: "src/pages/posts/frontpage"
