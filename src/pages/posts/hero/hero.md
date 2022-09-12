@@ -1,5 +1,5 @@
 ---
-heroType: Video
+heroType: Photo
 videoURL: null
 desktopImg: /assets/uploads/website_banner-CLARA.png
 mobileImg: /assets/uploads/website_banner_mobile_CLARA.png
