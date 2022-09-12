@@ -131,7 +131,7 @@ collections:
     - name: "hero"
       label: "Hero"
       folder: "src/pages/posts/hero"
-      slug: "{{fields.heroType}}",
+      slug: "{{fields.heroType}}"
       fields:
           - {
                 label: "Type of Hero",
