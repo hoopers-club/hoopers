@@ -132,6 +132,7 @@ collections:
       label: "Hero"
       folder: "src/pages/posts/hero"
       slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      identifier_field: name
       fields:
           - {
                 label: "Type of Hero",
@@ -144,24 +145,34 @@ collections:
                 label: "Video URL (For videos only!)",
                 name: "videoURL",
                 widget: "string",
-                required: false,
+                required: false
             }
           - {
                 label: "Desktop Photo",
                 name: "desktopImg",
                 widget: "image",
                 choose_url: true,
-                required: false,
+                required: false
             }
           - {
                 label: "Mobile Photo",
                 name: "mobileImg",
                 widget: "image",
                 choose_url: true,
-                required: false,
+                required: false
             }
-          - { label: "Button URL", name: "buttonURL", widget: "string", required: true,}
-          - { label: "Button Text", name: "buttonText", widget: "string", required: true,}
+          - {
+                label: "Button URL",
+                name: "buttonURL",
+                widget: "string",
+                required: true
+            }
+          - {
+                label: "Button Text",
+                name: "buttonText",
+                widget: "string",
+                required: true
+            }
     - name: "frontpage"
       label: "Front Page"
       folder: "src/pages/posts/frontpage"
