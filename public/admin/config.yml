@@ -131,8 +131,7 @@ collections:
     - name: "hero"
       label: "Hero"
       folder: "src/pages/posts/hero"
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-      identifier_field: name
+      slug: "{{fields.heroType}}",
       fields:
           - {
                 label: "Type of Hero",
