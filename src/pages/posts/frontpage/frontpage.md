@@ -1,32 +1,34 @@
 ---
 courtImage: /assets/uploads/courts_site.jpg
-courtDescription: >-
-  Das ruas para o Mundo!<br/> <br/>
+courtDescription: >
+  From the streets to the world!<br/> <br/>
 
-  A Hoopers está focada em criar a maior plataforma de comunidade de basquetebol do mundo.<br/> <br/>
+  Hoopers is focused on creating the largest basketball community platform in the world.<br/> <br/>
 
-  Trabalhamos junto de artistas de arte urbana para transformar campos velhos, abandonados e estragados em locais novos, renovados e icónicos para a as suas cidades.<br/> <br/>
+  We work with urban art artists to transform old, abandoned and decaying basket courts into new, renovated and iconic locations for their cities.<br/> <br/>
 
-  O nosso objetivo é dinamizar a nossa comunidade, revolucioná-la e inspirar a próxima geração de talentos a apaixonar-se pelo nosso desporto, o nosso estilo de vida.<br/> <br/>
+  Our aim is to energize our community, revolutionize it and inspire the next generation of talent to fall in love with our sport and our way of life.<br/> <br/>
 
-  Espreita os nossos projetos e fica a conhecer melhor as suas histórias.
+  Take a look at our projects and get to know their stories.
 productName: Summer Collection 2022
 productPrice: 18
 productDescription: >-
-  Com assinatura do artista João Varela, esta coleção de streetwear promete
-  cores vibrantes e design arrojado, inspirado nas frases do nosso jogo!
+  Created by artist João Varela, this streetwear collection promises vibrant
+  colors and bold design, inspired by the phrases from our game!
 
   <br/>
 
   <br/>
 
-  Vais arrasar este verão: dentro e fora de campo!
+  You're going to rock this summer: on and off the court!
 
   <br/>
 
   <br/>
 
-  Espreita a nossa loja virtual.
+  Take a look at our virtual store.
+
+  .
 productImage: /assets/uploads/square-produtos-homepage.jpg
 productLink: https://hoopers.store/collections/summer-collection
 ---
