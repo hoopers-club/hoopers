@@ -14,7 +14,7 @@ productName: Summer Collection 2022
 productPrice: 18
 productDescription: >-
   Created by the urban artist João Varela, this streetwear collection is full of
-  vibrant colors and bold designs. Plus: it brings you the voices of the game.
+  vibrant colors and bold designs. Plus: it brings you the voices of the game!
 
   <br/>
 
