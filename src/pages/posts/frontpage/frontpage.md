@@ -13,22 +13,20 @@ courtDescription: >
 productName: Summer Collection 2022
 productPrice: 18
 productDescription: >-
-  Created by artist João Varela, this streetwear collection promises vibrant
-  colors and bold design, inspired by the phrases from our game!
+  Created by the urban artist João Varela, this streetwear collection is full of
+  vibrant colors and bold designs. Plus: it brings you the voices of the game.
 
   <br/>
 
   <br/>
 
-  You're going to rock this summer: on and off the court!
+  You're going to kill it this summer: on and off the court!
 
   <br/>
 
   <br/>
 
-  Take a look at our virtual store.
-
-  .
+  Check our store!
 productImage: /assets/uploads/square-produtos-homepage.jpg
 productLink: https://hoopers.store/collections/summer-collection
 ---
