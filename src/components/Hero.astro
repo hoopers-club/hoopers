@@ -9,11 +9,19 @@ let hero = await Astro.fetchContent('/src/pages/posts/hero/hero.md');
 <!--<video class="hero-video" src="../../assets/nft_banner_video.mp4" autoplay loop playsinline muted id="myVideo"></video>
 		<video class="hero-video-mobile" src="../../assets/nft_banner_mobile.mp4" autoplay loop playsinline muted id="myVideo"></video>-->
 		<!--background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), 
-				 -->
+				 
+        <video src={"../../assets/"+hero[0]?.desktopVideo} autoplay loop playsinline muted id="myVideo"></video>
+		    <video class="hero-video-mobile" src={hero[0]?.mobileVideo} autoplay loop playsinline muted id="myVideo"></video>
+         
+        
+        -->
         {hero[0]?.heroType === "Video" ?
             (
-            <video class="hero-video" src={hero[0]?.desktopVideo} autoplay loop playsinline muted id="myVideo"></video>
-		    <video class="hero-video-mobile" src={hero[0]?.mobileVideo} autoplay loop playsinline muted id="myVideo"></video>
+            <video src={"../../assets/"+hero[0]?.desktopVideo} autoplay loop playsinline muted id="myVideo"></video>
+		    <video class="hero-video-mobile" src={"../../assets/"+hero[0]?.mobileVideo} autoplay loop playsinline muted id="myVideo"></video>
+         
+         
+            
             ) : (
                  <div 
                     class="hero-video" 
@@ -30,8 +38,10 @@ let hero = await Astro.fetchContent('/src/pages/posts/hero/hero.md');
 		
 
 		<!--<div class="headline" style="padding: 0 1em;" ><h2>2021 RECAP</h2><span><h2>We’re on to the next chapter</h2></span></div>-->
-		<div class="centered-button buttons" style="z-index: 1;display:flex;margin-top: auto;" onclick={"window.open('"+hero[0]?.buttonURL+"','_blank')"}>{hero[0]?.buttonText}
+	
+    <!--
+        <div class="centered-button buttons" style="z-index: 1;display:flex;margin-top: auto;" onclick={"window.open('"+hero[0]?.buttonURL+"','_blank')"}>{hero[0]?.buttonText}
 		</div>
-		
+		 -->
 	</div>
 </div>

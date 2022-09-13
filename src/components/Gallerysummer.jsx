@@ -59,7 +59,7 @@ const GallerySummer = ({ articles }) => {
 			</div>
 			<div className="modal-description">
 				<p>{i?.description}</p>
-				<strong>Créditos: {i?.credito}</strong>
+				<strong>Credits: {i?.credito}</strong>
 			</div>
 		</div>
 	);
