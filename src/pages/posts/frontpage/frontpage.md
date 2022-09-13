@@ -1,15 +1,17 @@
 ---
 courtImage: /assets/uploads/courts_site.jpg
 courtDescription: >
-  From the streets to the world!<br/> <br/>
+  From the streets to the world!
 
-  Hoopers is focused on creating the largest basketball community platform in the world.<br/> <br/>
+  <br/> <br/>
 
-  We work with urban art artists to transform old, abandoned and decaying basket courts into new, renovated and iconic locations for their cities.<br/> <br/>
+  Hoopers is focused on building the largest global community platform around the game of basketball.<br/> <br/>
 
-  Our aim is to energize our community, revolutionize it and inspire the next generation of talent to fall in love with our sport and our way of life.<br/> <br/>
+  We work together with local urban artists to transform old, abandoned and damaged courts into new and iconic places in the cities.<br/> <br/>
 
-  Take a look at our projects and get to know their stories.
+  Our goal is to bring the community back to the streets and inspire the next generation of hoopers to fall in love with our game.<br/> <br/>
+
+  Check our projects and learn more about their stories.
 productName: Summer Collection 2022
 productPrice: 18
 productDescription: >-
