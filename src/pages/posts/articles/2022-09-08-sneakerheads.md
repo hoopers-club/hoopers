@@ -21,7 +21,7 @@ Mas não menos importante do que tudo isto, houve também espaço para destacar 
 
 Vamos às nossas escolhas:
 
-**1 - [Asha Jordan](https://www.instagram.com/ashajordan8/) (Base Extremo, XXX)**
+**1 - [Asha Jordan](https://www.instagram.com/ashajordan8/) (Base Extremo)**
 
 **Modelo: Nike - KD 14 "Black Volt"**
 
