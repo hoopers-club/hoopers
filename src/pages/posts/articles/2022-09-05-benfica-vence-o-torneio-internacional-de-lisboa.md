@@ -2,7 +2,7 @@
 title: Benfica vence o Torneio Internacional de Lisboa
 subname: Derby quentinho na final!
 featured: true
-publishDate: Sep 05, 2022-11:09:76
+publishDate: Sep 22, 2022-11:09:76
 image: /assets/uploads/2022_09_05_benfica-derby.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
