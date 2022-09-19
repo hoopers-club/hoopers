@@ -3,7 +3,7 @@ title: Sofia da Silva ajudou a carimbar a conquista no derby da Galiza.
 subname: |
   Utah State um bocadinho mais portuguesa.
 featured: true
-publishDate: Apr 06, 2022-15:04:30
+publishDate: Sep 20, 2022-15:09:30
 image: /assets/uploads/lady_banner.jpeg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
