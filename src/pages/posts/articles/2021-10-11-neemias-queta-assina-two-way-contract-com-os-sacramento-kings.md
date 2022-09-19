@@ -5,8 +5,10 @@ featured: false
 publishDate: Aug 9th 21
 image: /assets/uploads/3_banner_neemy_twoway.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 A história de **Neemias Queta** continua em Sacramento Kings depois de na última madrugada a equipa californiana ter anunciado que assinou um contrato “two-way” com o jovem português, garantindo assim a sua ligação com a equipa que o escolheu na **39ª posição do Draft da NBA**.

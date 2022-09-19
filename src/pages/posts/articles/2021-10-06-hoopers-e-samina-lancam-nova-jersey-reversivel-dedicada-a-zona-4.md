@@ -1,13 +1,15 @@
 ---
 title: Hoopers e Samina lançam nova jersey reversível dedicada à Zona 4
 subname: Nova camisola foi criada na sequência do projeto realizado no Barreiro
-  e uma homenagem à Zona 4.
+    e uma homenagem à Zona 4.
 featured: false
 publishDate: Jul 14th 21
 image: /assets/uploads/7_banner_samina.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 No âmbito da intervenção desportiva e artística realizada no [polidesportivo Francisco do Paço (Zona 4)](https://www.hoopers.club/noticias/municpio-do-barreiro-celebra-500-anos-com-homenagem-aos-herois-desportivos) no Barreiro, que homenageou 37 figuras desportivas da cidade, a **Hoopers** e **Samina** lançaram uma camisola reversível dedicada à Zona 4.
 
 O número desta edição exclusiva e limitada é, naturalmente, o 4 numa homenagem ao local onde se encontra esta intervenção, dando continuidade à sequência que tem vindo a ser criada pela Hoopers.

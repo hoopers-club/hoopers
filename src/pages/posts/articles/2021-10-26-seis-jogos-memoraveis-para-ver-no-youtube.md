@@ -1,13 +1,15 @@
 ---
 title: Seis jogos memoráveis para ver no YouTube
 subname: "Os 81 pontos de Kobe Bryant, a rixa entre Reggie Miller e Spike Lee, a
-  noite mágica de Larry Bird e muito mais. "
+    noite mágica de Larry Bird e muito mais. "
 featured: true
 publishDate: May 30, 2022-00:05:00
 image: /assets/uploads/59_banner_jogosmemoraveis.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Com as finais da NBA à porta preparámos uma lista de jogos completos inesquecíveis que podem ser vistos no YouTube.
 
 Esta semana trazemos os 81 pontos de Kobe Bryant na temporada 05-06, o duelo entre Miller e Spike Lee, a noite mágica de Larry Bird e um vídeo bónus, caso te sobre algum tempo.
@@ -20,7 +22,7 @@ No final do segundo período desta partida entre os Toronto Raptors e os Los Ang
 
 **Indiana Pacers vs. New York Knicks - Jogo 5, Final Conferência Este da NBA (1994-95)**
 
-Um duelo entre Reggie Miller e Patrick Ewing já era uma ótima razão para assistir a uma partida nos anos 90. A somar a isso, contámos com mais um elemento extra nesta partida: uma rixa durante todo o jogo entre Miller e Spike Lee. 
+Um duelo entre Reggie Miller e Patrick Ewing já era uma ótima razão para assistir a uma partida nos anos 90. A somar a isso, contámos com mais um elemento extra nesta partida: uma rixa durante todo o jogo entre Miller e Spike Lee.
 
 A [série de sete jogos](https://www.basketball-reference.com/playoffs/1994-nba-eastern-conference-finals-pacers-vs-knicks.html) terminou com a vitória dos New York Knicks (4-3), que avançaram para as finais, vindo a perder o campeonato desse ano para os Houston Rockets (3-4), num confronto decidido na última partida.
 
@@ -38,7 +40,7 @@ Allen Iverson, Vince Carter, Ray Allen, Kobe Bryant, Kevin Garnett, Karl Malone 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_thHYZpabM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Boston Celtics vs. Atlanta Hawks - Temporada Regular da NBA (1985-86)** 
+**Boston Celtics vs. Atlanta Hawks - Temporada Regular da NBA (1985-86)**
 
 Apenas um lançamento de três pontos concretizado durante toda a partida, não impediu Larry Bird de anotar 60 pontos e estabelecer o seu recorde de carreira. Ainda por cima, nesta partida, Bird viria a quebrar o recorde de Kevin McHale, outra lenda dos Celtics, que tinha registado 56 pontos nove dias antes. Foram 12 pontos no primeiro período, 11 pontos no segundo, 19 no terceiro e 18 no quarto período.
 
@@ -54,6 +56,6 @@ A final do Campeonato do Mundo FIBA em 2014 marcou o primeiro encontro entre ame
 
 **Vince Carter Slam Dunk Contest, All-Star Game 2000**
 
-A exibição de Vince Carter neste *SLAM DUNK CONTEST* é tão impressionante que merece entrar na lista de sugestões. Para deixar o vídeo ainda mais memorável, temos um animado Shaquille O’Neal com a sua câmera na plateia. Para assistir e vibrar!
+A exibição de Vince Carter neste _SLAM DUNK CONTEST_ é tão impressionante que merece entrar na lista de sugestões. Para deixar o vídeo ainda mais memorável, temos um animado Shaquille O’Neal com a sua câmera na plateia. Para assistir e vibrar!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FeCUMfraHcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

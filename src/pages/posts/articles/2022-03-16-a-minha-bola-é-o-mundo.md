@@ -5,8 +5,10 @@ featured: true
 publishDate: Mar 16, 2022-17:03:41
 image: /assets/uploads/275841392_442858637580691_5376525647980064219_n.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O campo localizado nas **Docas de Alcântara**, resultante de uma iniciativa promovida pela **Hoopers** e pela **Administração do Porto de Lisboa** (APL) e com arte de **Flix** - **foi o palco do videoclipe da música 0/3 da autoria dos músicos Krayy, GriLocks e E.se.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBelnWfe6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,7 +36,7 @@ Krayy pensou nos pormenores todos: desde quem envolver no projeto, mas também n
 
 **A música já está disponível na plataforma de streaming <u>Spotify</u> e o <u>[videoclipe já está no Youtube](https://www.youtube.com/watch?v=iBelnWfe6IQ)</u>.**
 
-Na Hoopers estamos cá pela comunidade e vermos estes projetos a nascerem é verdadeiramente inspirador. Estamos muito orgulhosos e felizes por termos contribuído, dentro do possível, para tudo isto ter sido possível. A nossa porta está sempre aberta.  
+Na Hoopers estamos cá pela comunidade e vermos estes projetos a nascerem é verdadeiramente inspirador. Estamos muito orgulhosos e felizes por termos contribuído, dentro do possível, para tudo isto ter sido possível. A nossa porta está sempre aberta.
 
 **Obrigado Krayy, GridLocks e E.se. pelo vosso trabalho e por nos inspirarem também!**
 

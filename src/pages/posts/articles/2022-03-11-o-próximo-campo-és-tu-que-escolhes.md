@@ -5,8 +5,10 @@ featured: true
 publishDate: Mar 11, 2022-09:03:90
 image: /assets/uploads/whatsapp-image-2022-03-11-at-10.48.29-am.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 **A startup portuguesa Hoopers continua o seu trajeto e acaba de anunciar uma nova iniciativa, que dará sequência aos seus projetos de recuperação e transformação de espaços desportivos com intervenções de arte urbana, mas desta vez com um twist: o próximo campo será escolhido pelos membros da comunidade.**
@@ -48,8 +50,6 @@ André recorda que “no dia 1 de Abril do ano passado [“brincámos” com a c
 <!--StartFragment-->
 
 Recorde-se que já existem vários espaços deste género desenvolvidos pela startup portuguesa. Em Lisboa, alguns exemplos são o Chicago x Chelas - intervenção a cargo da dupla dos HalfStudio e participação especial do rapper Sam The Kid - ou os campos de 3x3 na Doca do Espanhol - intervenção a cargo do venezuelano Flix - mas existem outros exemplos espalhados pelo país, tais como o maior campo de basquetebol icónico da Europa em Braga ou uma homenagem com quase 2000m2 de intervenção artística aos desportistas da cidade do Barreiro, que assinalou os 500 anos do Município e foi executada pelo artista setubalense João Samina.
-
-
 
 **Redação:** Hoopers
 

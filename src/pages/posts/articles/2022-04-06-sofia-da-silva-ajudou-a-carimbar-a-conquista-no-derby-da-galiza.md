@@ -1,13 +1,15 @@
 ---
 title: Sofia da Silva ajudou a carimbar a conquista no derby da Galiza.
 subname: |
-  Utah State um bocadinho mais portuguesa.
+    Utah State um bocadinho mais portuguesa.
 featured: true
 publishDate: Apr 06, 2022-15:04:30
 image: /assets/uploads/lady_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A semana passada fica marcada pelas boas exibições de **Sofia** e **Lavínia da Silva**, a quem também se juntou **Inês Viana**, que continua a mostrar uma subida de rendimento depois da sua paragem por lesão.Nos Estados Unidos, terminado o **March Madness** a armada portuguesa entrou no período da “off-season”, onde **Maria Carvalho** anunciou esta semana que será jogadora da Universidade de Utah State na próxima época, seguindo as pisadas de **Neemias Queta** e **Diogo Brito**.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welcome to the Aggie Family, Maria!<br><br>🔗 <a href="https://t.co/01JyF1VhzB">https://t.co/01JyF1VhzB</a><a href="https://twitter.com/hashtag/AggiesAllTheWay?src=hash&amp;ref_src=twsrc%5Etfw">#AggiesAllTheWay</a> <a href="https://t.co/FDMhFmfoQn">pic.twitter.com/FDMhFmfoQn</a></p>&mdash; USU Women&#39;s Hoops (@USUWBasketball) <a href="https://twitter.com/USUWBasketball/status/1508483535253880838?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote>
@@ -40,19 +42,19 @@ A semana passada fica marcada pelas boas exibições de **Sofia** e **Lavínia d
 
 #### Josephine Filipe (Osés Construcción Ardoi, Liga Feminina Challenge- Espanha)
 
-\- Não há dados estatísticos respeitantes ao jogo deste fim de semana. 
+\- Não há dados estatísticos respeitantes ao jogo deste fim de semana.
 
 #### Joana Ferreira (Fustecma Nou Basquet Castello, Liga Feminina 2 – Espanha):
 
-\- Não há dados estatísticos respeitantes ao jogo deste fim de semana. 
+\- Não há dados estatísticos respeitantes ao jogo deste fim de semana.
 
 #### Catarina Frederico (Milar Cordoba, Liga Feminina 2 – Espanha):
 
-\- Não há dados estatísticos respeitantes ao jogo deste fim de semana. 
+\- Não há dados estatísticos respeitantes ao jogo deste fim de semana.
 
 #### Clara Vieitas Silva (Unicaja Malaga, Liga Feminina 2 – Espanha):
 
-\- Não há dados estatísticos respeitantes ao jogo deste fim de semana. 
+\- Não há dados estatísticos respeitantes ao jogo deste fim de semana.
 
 </br>
 
@@ -71,15 +73,5 @@ A semana passada fica marcada pelas boas exibições de **Sofia** e **Lavínia d
 Nos **Estados Unidos da América** as atletas portuguesas entraram já na sua off-season.
 
 Redação: **Martim Figueiredo**
-
-
-
-
-
-
-
-
-
-
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

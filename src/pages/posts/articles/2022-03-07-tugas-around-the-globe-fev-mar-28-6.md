@@ -1,17 +1,19 @@
 ---
 title: Estreia de Prey no 5 inicial na LebOro
 subname: >
-  Destaques para André Cruz, Diogo Brito, Jeremiah Wilson… e a estreia de Ruben
-  Prey!
+    Destaques para André Cruz, Diogo Brito, Jeremiah Wilson… e a estreia de Ruben
+    Prey!
 featured: true
 publishDate: Mar 07, 2022-12:03:02
 image: /assets/uploads/prey.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A presente semana fica marcada pelo regresso dos jogadores aos respetivos clubes após a pausa das seleções. Portugal perdeu os dois jogos frente à França, contudo, **Rafael Lisboa, Diogo Brito e Sasa Borovnjak** mostraram-se os mais inconformados a defender a equipa das Quinas.
 
-Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua época a chegar ao fim. *What’s next para o internacional sub-20?* 👀
+Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua época a chegar ao fim. _What’s next para o internacional sub-20?_ 👀
 
 **Rúben Prey** foi pela primeira vez jogador de 5 inicial na LEB Oro e tem vindo a ganhar os seus minutos no 2° nível do basquetebol espanhol, tendo apenas 17 anos!
 
@@ -31,7 +33,7 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua �
 
 \- Não jogou esta semana na Liga EBA ao serviço do Joventut Badalona.
 
-\- Registou 2 ressaltos em 9 minutos jogados ao serviço do CB Prat, na LEB Oro. 
+\- Registou 2 ressaltos em 9 minutos jogados ao serviço do CB Prat, na LEB Oro.
 
 </br>
 
@@ -39,7 +41,7 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua �
 
 \- Marcou 12 pontos, 4 ressaltos, 3 assistências e 1 roubo de bola em 36 minutos na derrota frente ao Círculo Gijón Baloncesto por 86-80.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Final del partido! <br><br> <a href="https://twitter.com/CirculoGijon?ref_src=twsrc%5Etfw">@CirculoGijon</a> VS <a href="https://twitter.com/cbmoron?ref_src=twsrc%5Etfw">@cbmoron</a><br><br>🟢🟠🟢🟠⚪️🟠<a href="https://twitter.com/hashtag/VamosMiMoron?src=hash&amp;ref_src=twsrc%5Etfw">#VamosMiMoron</a> <a href="https://t.co/mYR2qLmNST">pic.twitter.com/mYR2qLmNST</a></p>&mdash; C.B. Morón (@cbmoron) <a href="https://twitter.com/cbmoron/status/1500211793528070145?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Final del partido! <br><br> <a href="https://twitter.com/CirculoGijon?ref_src=twsrc%5Etfw">@CirculoGijon</a> VS <a href="https://twitter.com/cbmoron?ref_src=twsrc%5Etfw">@cbmoron</a><br><br>🟢🟠🟢🟠⚪️🟠<a href="https://twitter.com/hashtag/VamosMiMoron?src=hash&amp;ref_src=twsrc%5Etfw">#VamosMiMoron</a> <a href="https://t.co/mYR2qLmNST">pic.twitter.com/mYR2qLmNST</a></p>&mdash; C.B. Morón (@cbmoron) <a href="https://twitter.com/cbmoron/status/1500211793528070145?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote>
 
 </br>
 
@@ -87,7 +89,7 @@ Após uma dura derrota, **André Cruz** e Western Wyoming Mustangs vêem a sua �
 
 \- Anotou 33 pontos, 12 ressaltos e 3 assistências na vitória frente ao Pallacanestro Nardo, por 83-79.\
 
-<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Finale-thrilling ma la spunta Chiusi con merito su Nardò 🐂🏀<br>All’Estra Forum l’Umana passa 83-79 🔥<a href="https://twitter.com/hashtag/chiusibulls?src=hash&amp;ref_src=twsrc%5Etfw">#chiusibulls</a> <a href="https://twitter.com/hashtag/lastoriacontinua?src=hash&amp;ref_src=twsrc%5Etfw">#lastoriacontinua</a> <a href="https://twitter.com/hashtag/getready?src=hash&amp;ref_src=twsrc%5Etfw">#getready</a> <a href="https://twitter.com/hashtag/chiusinardo?src=hash&amp;ref_src=twsrc%5Etfw">#chiusinardo</a> <a href="https://t.co/fFggqz5Hfo">pic.twitter.com/fFggqz5Hfo</a></p>&mdash; San Giobbe Basket (@SanGiobbeBasket) <a href="https://twitter.com/SanGiobbeBasket/status/1500546993990553605?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Finale-thrilling ma la spunta Chiusi con merito su Nardò 🐂🏀<br>All’Estra Forum l’Umana passa 83-79 🔥<a href="https://twitter.com/hashtag/chiusibulls?src=hash&amp;ref_src=twsrc%5Etfw">#chiusibulls</a> <a href="https://twitter.com/hashtag/lastoriacontinua?src=hash&amp;ref_src=twsrc%5Etfw">#lastoriacontinua</a> <a href="https://twitter.com/hashtag/getready?src=hash&amp;ref_src=twsrc%5Etfw">#getready</a> <a href="https://twitter.com/hashtag/chiusinardo?src=hash&amp;ref_src=twsrc%5Etfw">#chiusinardo</a> <a href="https://t.co/fFggqz5Hfo">pic.twitter.com/fFggqz5Hfo</a></p>&mdash; San Giobbe Basket (@SanGiobbeBasket) <a href="https://twitter.com/SanGiobbeBasket/status/1500546993990553605?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote>
 
 </br>
 

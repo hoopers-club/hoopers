@@ -5,13 +5,15 @@ featured: true
 publishDate: Jan 12th, 2022
 image: /assets/uploads/ajuda_02.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O campo de jogos localizado junto ao Bairro 2 de Maio e ao Polo Universitário da Ajuda, em Lisboa, foi alvo de uma requalificação e intervenção artística e desportiva por parte do artista urbano [João Is Typing](https://www.instagram.com/joaoistyping/), numa iniciativa promovida pela Junta de Freguesia da Ajuda e pela Galeria de Arte Urbana da Câmara Municipal de Lisboa. O rebaptizado “Campo da Mata” torna-se assim o primeiro campo de futebol da cidade a receber uma intervenção artística e promete ser palco de duelos muito disputados.
 
 ![](/assets/uploads/ajuda_05.jpg)
 
-O objetivo da intervenção foi reaproveitar parte da estrutura existente naquele local, que se encontrava em mau estado de conservação e com evidentes problemas de segurança, e recuperá-la de modo a atrair miúdos, graúdos e membros da comunidade universitária para animadas partidas de futebol neste local. 
+O objetivo da intervenção foi reaproveitar parte da estrutura existente naquele local, que se encontrava em mau estado de conservação e com evidentes problemas de segurança, e recuperá-la de modo a atrair miúdos, graúdos e membros da comunidade universitária para animadas partidas de futebol neste local.
 
 Este campo é inspirado no conceito da gaiola Sacchi de Milanelo, localizada no famoso centro de treinos do AC Milan e que foi imortalizada pelo técnico Arrigo Sacchi. A ideia desta gaiola era aprimorar os fundamentos básicos dos jogadores, designadamente as suas habilidades técnicas, fazendo-os jogar em espaços mais reduzidos e sem linhas de fundo e laterais para que os atletas reagissem mais rápido e executassem menos erros.
 

@@ -1,18 +1,20 @@
 ---
 title: Penafiel ganha dois campos icónicos com arte de Matilde Horta e Flix
 subname: Penafiel é o primeiro Município a ter dois campos em simultâneo
-  lançados pela startup portuguesa
+    lançados pela startup portuguesa
 featured: false
 publishDate: Jun 2nd 21
 image: /assets/uploads/19_banner_penafiel.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 A Câmara de Penafiel e a [Hoopers](https://hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, são os responsáveis do projeto. Intervenção artística a cargo de [Matilde Horta](https://www.instagram.com/matildehorta/), artista natural de Penafiel, e [Flix](https://www.instagram.com/flixrobotico/). Penafiel é o primeiro Município a ter dois campos em simultâneo lançados pela startup portuguesa.
 
-A Câmara Municipal de Penafiel e a Hoopers, uma plataforma de comunidade para jogadores e fãs de Basquetebol que cria, agrega e promove campos, conteúdos e produtos, uniram esforços e requalificaram 2 campos icónicos de basket, em Penafiel. 
+A Câmara Municipal de Penafiel e a Hoopers, uma plataforma de comunidade para jogadores e fãs de Basquetebol que cria, agrega e promove campos, conteúdos e produtos, uniram esforços e requalificaram 2 campos icónicos de basket, em Penafiel.
 
 O campo da Quinta das Lages, da autoria de Flix, é mais um campo de 3x3 desenvolvido pela Hoopers, e encontra-se localizado junto às infraestruturas desportivas da cidade e ao parque escolar, o que deverá impulsionar a sua utilização por parte de toda a comunidade.
 
@@ -30,7 +32,7 @@ O segundo campo, localizado numa zona residencial, e com Intervenção artístic
 
 <!--StartFragment-->
 
-De recordar que, pela primeira vez, a Câmara Municipal de Penafiel e a Hoopers convidaram uma artista local para executar o projeto, numa zona que acabaria por ser especial para a artista, por estar localizada junto à residência dos seus avós. 
+De recordar que, pela primeira vez, a Câmara Municipal de Penafiel e a Hoopers convidaram uma artista local para executar o projeto, numa zona que acabaria por ser especial para a artista, por estar localizada junto à residência dos seus avós.
 
 Para Antonino de Sousa, Presidente da Câmara Municipal de Penafiel, “este projeto é o resultado feliz da combinação entre desporto, juventude e cultura. Esta intervenção possibilitou a recuperação de dois campos de basquetebol da cidade, possibilitando e incentivando a sua utilização por todos: as famílias, os amantes da modalidade e os atletas do Clube de Basquetebol de Penafiel. Adicionalmente, permitiu-nos também dar palco a uma artista da cidade, a Matilde Horta, para expor a sua obra e demonstrar que também sabemos acolher os talentos internacionais como é o caso do artista Flix”.
 

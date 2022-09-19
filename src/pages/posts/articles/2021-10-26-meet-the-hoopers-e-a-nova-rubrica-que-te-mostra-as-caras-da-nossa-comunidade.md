@@ -1,15 +1,17 @@
 ---
 title: '"Meet the Hoopers" é a nova rubrica que te mostra as caras da nossa
-  comunidade'
+    comunidade'
 subname: |+
-  A Hoopers é feita de pessoas e é delas que queremos falar.
+    A Hoopers é feita de pessoas e é delas que queremos falar.
 
 featured: false
 publishDate: Oct 22nd 20
 image: /assets/uploads/80_banner_meetthe.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A **Hoopers** continua a preparar e a lançar várias novidades para a nossa comunidade, e hoje queremos dar a conhecer a nova rubrica **“Meet The Hoopers”** virada a 100% para os membros da nossa comunidade.
 
 Já passou um pouco mais de um ano desde que lançámos a Hoopers (e nem tivemos tempo para celebrar a ocasião) e a **nossa comunidade continua a crescer (obrigado!)**, e chegou a altura de prestar uma justa homenagem e reconhecimento aos que fazem parte da nossa família. Porque sem vocês, não havia comunidade… e não havia Hoopers!

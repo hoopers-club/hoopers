@@ -1,13 +1,15 @@
 ---
 title: Chegou a Liga Hoopers eSports com prémios para os vencedores!
 subname: Esta é a 1ª edição da competição de NBA 2K21, que será disputada no
-  formato PRO-AM 5v5, e tem início marcado para o próximo dia 5 de fevereiro.
+    formato PRO-AM 5v5, e tem início marcado para o próximo dia 5 de fevereiro.
 featured: false
 publishDate: Jan 23rd 21
 image: /assets/uploads/61_banner_chegouesports.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A **Hoopers** , plataforma de comunidade para jogadores e fãs de Basquetebol, faz a sua entrada no mundo dos **eSports** com o lançamento da **Liga Hoopers eSports**, uma competição de PRO-AM 5v5 do NBA2K21, procurando atingir também a comunidade online de fãs da modalidade.
 
 A competição terá início no próximo dia **5 de fevereiro** e as inscrições estão abertas através do preenchimento de um **[formulário](http://bit.ly/LigaHoopersEsports)**, onde as equipas podem inscrever entre 5 a 8 elementos por equipa, estando já confirmada a participação de 12 equipas. As inscrições terminam no dia 3 de fevereiro e o custo de inscrição é de 15€ por equipa.

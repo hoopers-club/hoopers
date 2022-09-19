@@ -1,18 +1,20 @@
 ---
 title: "Final da Taça de Portugal "
 subname: |
-  O Benfica e Sporting defrontaram-se no Pavilhão Desportivo em Albufeira.
+    O Benfica e Sporting defrontaram-se no Pavilhão Desportivo em Albufeira.
 featured: true
 publishDate: May 09, 2022-09:05:16
 image: /assets/uploads/sporting_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Os leões saíram por cima e conquistaram o seu 3.º título da temporada e também a sua 3.ª Taça de Portugal consecutiva.
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🏆🇵🇹 A 𝐓𝐚𝐜̧𝐚 𝐝𝐞 𝐏𝐨𝐫𝐭𝐮𝐠𝐚𝐥 𝐀𝐥𝐟𝐚𝐥𝐨𝐜 pertence ao <a href="https://twitter.com/Sporting_CP?ref_src=twsrc%5Etfw">@Sporting_CP</a>! <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/Ta%C3%A7adePortugalAlfaloc?src=hash&amp;ref_src=twsrc%5Etfw">#TaçadePortugalAlfaloc</a> <a href="https://t.co/QcLil8I9OE">pic.twitter.com/QcLil8I9OE</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1523385549436125185?ref_src=twsrc%5Etfw">May 8, 2022</a></blockquote>
 
-Sporting venceu o Imortal na sexta-feira e o Porto no sábado para carimbar presença na final e do outro lado, o Benfica teve de vencer a Ovarense e o Vitória. 
+Sporting venceu o Imortal na sexta-feira e o Porto no sábado para carimbar presença na final e do outro lado, o Benfica teve de vencer a Ovarense e o Vitória.
 
 Na final o duelo de Lisboa aconteceu no Algarve e o campeão em título levou a melhor.
 
@@ -30,9 +32,9 @@ Contudo, de notar que as duas equipas estiveram acima dos 90% no que diz respeit
 
 Os leões, ao leme de **Travante Williams**, iam-se afirmando na frente do marcador. O Benfica dominou a luta nas tabelas, mas não conseguiu traduzir os ressaltos e as posses de bola a mais em pontos marcados, acabando por lançar menos vezes que o adversário. O 1° período terminou 24 x 23, favorável ao conjunto leonino.
 
-**Wendell Lewis** melhorou na gestão das faltas, no entanto, continua a apresentar debilidades do ponto de vista defensivo, principalmente na defesa do bloqueio direto. 
+**Wendell Lewis** melhorou na gestão das faltas, no entanto, continua a apresentar debilidades do ponto de vista defensivo, principalmente na defesa do bloqueio direto.
 
-No 2° quarto, os leões começaram muito eficazes, com especial destaque para **Shakir Smith** que contribuiu com 17 pontos dos 25 marcados pelos leões, exibindo-se a um nível muito alto. 
+No 2° quarto, os leões começaram muito eficazes, com especial destaque para **Shakir Smith** que contribuiu com 17 pontos dos 25 marcados pelos leões, exibindo-se a um nível muito alto.
 
 O Benfica apresentou-se mais débil na defesa do bloqueio direto, onde o hard-show não se mostrou bem vincado e a recuperação posicional não estava nos seus melhores dias, abrindo muito espaço às armas ofensivas leoninas.
 
@@ -46,9 +48,9 @@ O jogo avançou para o derradeiro e último período com igualdade no marcador -
 
 No último quarto, o Benfica conseguiu passar para a frente e proporcionar um jogo disputado até ao fim, com várias alternâncias no marcador e uma grande imprevisibilidade quanto ao vencedor da partida.
 
-Os encarnados mostraram uma maior fluidez ofensiva, com a procura incessante pelo extra-passe e por um jogo muito coletivo. Os leões apresentaram-se muito mais intensos e concentrados na fase final e quando assim é, estão mais perto de vencer. 
+Os encarnados mostraram uma maior fluidez ofensiva, com a procura incessante pelo extra-passe e por um jogo muito coletivo. Os leões apresentaram-se muito mais intensos e concentrados na fase final e quando assim é, estão mais perto de vencer.
 
-O jogo terminou 79 x 75, com o Sporting a sair vencedor no Barlavento algarvio e com o Benfica a perder a sua 2.ª final consecutiva frente aos leões. 
+O jogo terminou 79 x 75, com o Sporting a sair vencedor no Barlavento algarvio e com o Benfica a perder a sua 2.ª final consecutiva frente aos leões.
 
 O MVP da final da Taça foi o já habitual **Travante Williams**, que se encontra de regresso após lesão e que apontou 17 pontos, 7 ressaltos e 4 assistências.
 

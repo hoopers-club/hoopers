@@ -1,14 +1,16 @@
 ---
 title: A "Hoopers TV" é a nova rubrica da nossa plataforma de comunidade!
 subname: A Hoopers lançou uma nova rubrica - a Hoopers TV - para continuar a
-  servir a sua comunidade, através de conteúdos exclusivos e únicos de
-  Basquetebol.
+    servir a sua comunidade, através de conteúdos exclusivos e únicos de
+    Basquetebol.
 featured: false
 publishDate: Oct 16th 20
 image: /assets/uploads/81_banner_hooperstv.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A **Hoopers** é uma plataforma de comunidade para jogadores e fãs de Basquetebol, que desenvolve e centra a sua atividade em três eixos: campos, conteúdos e produtos.
 
 Hoje lança uma nova rubrica - a **Hoopers TV** - para continuar a servir a sua comunidade, através de conteúdos exclusivos e únicos, que personificam e colocam os protagonistas do jogo no centro das atenções, proporcionando-lhes uma ferramenta de comunicação e exposição à comunidade.

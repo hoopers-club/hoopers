@@ -1,16 +1,18 @@
 ---
 title: 5 atletas que elegeram o 13 como o seu número da sorte
 subname: Contra todas as teorias da conspiração, muitos atletas do basquetebol
-  não tiveram medo de construir suas carreiras usando o número 13.
+    não tiveram medo de construir suas carreiras usando o número 13.
 featured: false
 publishDate: Nov 13th 20
 image: /assets/uploads/75_banner_13.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-Na cultura ocidental, o **número 13** não é visto com bons olhos. Considerado como sinal de azar, este número ganha ainda mais teorias da conspiração quando combinado com uma sexta feira 13. Existem diversas hipóteses que explicam como é que o 13 se tornou um símbolo do infortúnio, mas o mais provável é que essa lenda tenha surgido depois de uma sexta feira, a 13 de outubro no ano de 1307, quando o rei Filipe IV de França ordenou que os membros da Ordem dos Cavaleiros Templários fossem perseguidos e executados por heresia. 
 
-Ainda assim, existem aqueles que acreditam que o número 13 pode ser um número de sorte. No basquetebol, existem muitos atletas que não tiveram receio em jogar com o 13 nas costas e, indo contra todas as teorias da conspiração deste número, escreveram (ou continuam a escrever) incríveis histórias vitoriosas no nosso desporto. 
+Na cultura ocidental, o **número 13** não é visto com bons olhos. Considerado como sinal de azar, este número ganha ainda mais teorias da conspiração quando combinado com uma sexta feira 13. Existem diversas hipóteses que explicam como é que o 13 se tornou um símbolo do infortúnio, mas o mais provável é que essa lenda tenha surgido depois de uma sexta feira, a 13 de outubro no ano de 1307, quando o rei Filipe IV de França ordenou que os membros da Ordem dos Cavaleiros Templários fossem perseguidos e executados por heresia.
+
+Ainda assim, existem aqueles que acreditam que o número 13 pode ser um número de sorte. No basquetebol, existem muitos atletas que não tiveram receio em jogar com o 13 nas costas e, indo contra todas as teorias da conspiração deste número, escreveram (ou continuam a escrever) incríveis histórias vitoriosas no nosso desporto.
 
 Preparámos uma lista de jogadores que não se deixaram intimidar e construíram a sua própria história com o número 13:
 
@@ -26,7 +28,7 @@ Crédito: Wen Roberts, AFP
 \
 **Šarūnas Marčiulionis**
 
-Alguém que recebeu inúmeros créditos por ter sido um dos responsáveis por apresentar o famoso “euro-step” ao mundo e à NBA, Marčiulionis vestiu o número 13 em cinco das suas sete temporadas em solo americano. O número foi usado em duas equipas: Golden State Warriors (90-93) e Sacramento Kings (1996). Foi o primeiro atleta da então União Soviética a entrar para a NBA, e sua participação foi considerada de extrema importância para a internacionalização da liga norte americana durante os anos 90. Esta lenda do basquetebol lituano também usou o número 13 na sua seleção nacional. Participou na conquista da medalha de bronze das Olimpíadas de 1992, em Barcelona, e foi eleito MVP da FIBA EuroBasket 1995, ano em que a Lituânia conquistou a medalha de prata. 
+Alguém que recebeu inúmeros créditos por ter sido um dos responsáveis por apresentar o famoso “euro-step” ao mundo e à NBA, Marčiulionis vestiu o número 13 em cinco das suas sete temporadas em solo americano. O número foi usado em duas equipas: Golden State Warriors (90-93) e Sacramento Kings (1996). Foi o primeiro atleta da então União Soviética a entrar para a NBA, e sua participação foi considerada de extrema importância para a internacionalização da liga norte americana durante os anos 90. Esta lenda do basquetebol lituano também usou o número 13 na sua seleção nacional. Participou na conquista da medalha de bronze das Olimpíadas de 1992, em Barcelona, e foi eleito MVP da FIBA EuroBasket 1995, ano em que a Lituânia conquistou a medalha de prata.
 
 ![Crédito: Mike Powell, Getty Images](/assets/uploads/sarunas_marciulionis-.jpeg "Crédito: Mike Powell, Getty Images")
 
@@ -42,7 +44,7 @@ Christian Petersen/Getty Images
 
 **James Harden**
 
-É o primeiro atleta da nossa lista que continua no ativo. James Harden já vestia o número 13 quando jogava pela Artesia High School, na cidade de Lakewood, no estado da Califórnia. Foi lá que o atleta, que se viria a tornar num dos melhores bases-extremos da atualidade, conquistou os seus primeiros títulos. Continuou a jogar com o número ao serviço de Arizona State. Pela equipa da cidade de Tempe, em 2009, o atleta foi eleito o jogador do ano da PAC-10. Foi também neste ano que Harden foi selecionado para o *draft* da NBA. A *jersey* 13, inclusivé, já foi retirada pela sua universidade. Já na NBA, James Harden continuou a usar o número como jogador dos Oklahoma City Thunder e, na sua primeira temporada na liga, foi nomeado para a segunda equipa NBA All-Rookie Team. Mas foi quando chegou a Houston, que Harden começou a alcançar os seus melhores registos e a bater recordes.  Sagrou-se por três vezes o melhor marcador da NBA (18/19/20), foi escolhido 6 vezes para a All-NBA First Team (14/15/17-20), participou em 8 All-Star Games da NBA (2013-2020), e foi eleito MVP da liga em 2018. 
+É o primeiro atleta da nossa lista que continua no ativo. James Harden já vestia o número 13 quando jogava pela Artesia High School, na cidade de Lakewood, no estado da Califórnia. Foi lá que o atleta, que se viria a tornar num dos melhores bases-extremos da atualidade, conquistou os seus primeiros títulos. Continuou a jogar com o número ao serviço de Arizona State. Pela equipa da cidade de Tempe, em 2009, o atleta foi eleito o jogador do ano da PAC-10. Foi também neste ano que Harden foi selecionado para o _draft_ da NBA. A _jersey_ 13, inclusivé, já foi retirada pela sua universidade. Já na NBA, James Harden continuou a usar o número como jogador dos Oklahoma City Thunder e, na sua primeira temporada na liga, foi nomeado para a segunda equipa NBA All-Rookie Team. Mas foi quando chegou a Houston, que Harden começou a alcançar os seus melhores registos e a bater recordes.  Sagrou-se por três vezes o melhor marcador da NBA (18/19/20), foi escolhido 6 vezes para a All-NBA First Team (14/15/17-20), participou em 8 All-Star Games da NBA (2013-2020), e foi eleito MVP da liga em 2018.
 
 E como se fosse coincidência em relação ao número 13, no ano de 2015, James Harden fechou um acordo de sponsorship com a Adidas para os próximos 13 anos, no valor de 200 milhões de dólares.
 

@@ -5,8 +5,10 @@ featured: true
 publishDate: Jul 12th 22
 image: /assets/uploads/01-4-.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
+
 <!--StartFragment-->
 
 Chegou a altura das decisões na Hoopers Summer League, com as eliminatórias da competição, onde um jogo define a continuidade das equipas na prova. O Bracket da competição:
@@ -17,7 +19,7 @@ Chegou a altura das decisões na Hoopers Summer League, com as eliminatórias da
 
 <!--EndFragment-->
 
-Os jogos continuam a ser disputados no Pavilhão Municipal do Bairro Padre Cruz (em Carnide) e no Pavilhão da Quinta dos Lombos (em Carcavelos), com horários agendados para as 19h45 e as 21h30, no formato de 4 períodos de 10 minutos, ao invés dos até agora 8 minutos em 4 períodos. 
+Os jogos continuam a ser disputados no Pavilhão Municipal do Bairro Padre Cruz (em Carnide) e no Pavilhão da Quinta dos Lombos (em Carcavelos), com horários agendados para as 19h45 e as 21h30, no formato de 4 períodos de 10 minutos, ao invés dos até agora 8 minutos em 4 períodos.
 
 Em Carnide, a primeira partida dos oitavos de final colocou frente a frente os “African Giants” (1° lugar do  Grupo A) e os “Kage Bubble” (8° lugar do Grupo B). Os “African Giants” venceram por 123-61, num jogo onde dobraram a pontuação do adversário. Bruno Araújo registou até ao momento a sua melhor exibição da Hoopers Summer League, anotando 40 pontos (o recorde de pontos marcados num jogo na competição), 6 ressaltos, 2 assistências e 5 roubos de bola. Fernando Sassinda também esteve em evidência, anotando 31 pontos aos quais ainda somou 13 ressaltos, 1 assistência e 1 roubo de bola. Do lado do conjunto que veio da Margem Sul, Rui Palacim foi o jogador mais inconformado (20 pontos, 8 ressaltos e 1 assistência) da sua equipa, que disse adeus à sua participação nesta 1ª edição da Hoopers Summer League.
 
@@ -25,7 +27,7 @@ No mesmo horário, o jogo inaugural das eliminatórias em Carcavelos opôs os �
 
 Na segunda partida do dia em Carnide, os “Lisbon South Bay” (2° lugar do Grupo A) levaram por vencida os “Nothing But Nets” (7° lugar do Grupo B), por 114-47, passando também a barreira dos 100 pontos marcados. Fábio Lima liderou a lista de marcadores da equipa com 28 pontos (5/10 3P), 4 ressaltos, 6 assistências e 2 roubos de bola. Gamil Carvalho foi o segundo melhor marcador da equipa com um duplo-duplo de 23 pontos, 12 ressaltos e 2 roubos de bola. Do lado da jovem equipa dos Nothing But Nets foi Gustavo Alves quem esteve em maior evidência ao anotar 17 pontos, 3 ressaltos e 1 assistência, que marcaram a despedida da sua equipa da competição.
 
-Na última partida em Carcavelos, os “Motricitários” (2° lugar do Grupo B) jogaram contra os “QDA de Almada” (7° lugar do Grupo A), numa partida onde os universitários levaram a melhor e acabaram por vencer por 96-66. Gonçalo Pais brilhou na vitória da sua equipa com 29 pontos, 3 ressaltos, 2 assistências e 1 assistência, bem secundado pelo seu irmão Guilherme, autor de 17 pontos (5/14 3P), 2 ressaltos, 6 assistências e 3 roubos de bola. 
+Na última partida em Carcavelos, os “Motricitários” (2° lugar do Grupo B) jogaram contra os “QDA de Almada” (7° lugar do Grupo A), numa partida onde os universitários levaram a melhor e acabaram por vencer por 96-66. Gonçalo Pais brilhou na vitória da sua equipa com 29 pontos, 3 ressaltos, 2 assistências e 1 assistência, bem secundado pelo seu irmão Guilherme, autor de 17 pontos (5/14 3P), 2 ressaltos, 6 assistências e 3 roubos de bola.
 
 Emanuel Moreno procurou lutar dos dois lados do campo para reduzir a desvantagem e acabaria por ser o elemento em maior destaque do conjunto de Almada, registando um impressionante duplo-duplo com 20 pontos, 15 ressaltos, 2 assistências e 5 roubos de bola. A equipa dos QDA Almada fica assim pelo caminho nesta edição.
 

@@ -1,13 +1,15 @@
 ---
 title: Rafael Lisboa numa saga vitoriosa!
 subname: |
-  Cândido Sá falha a subida à LEB Oro. 
+    Cândido Sá falha a subida à LEB Oro.
 featured: true
 publishDate: Apr 26, 2022-16:04:45
 image: /assets/uploads/rafa.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Cândido Sá** registou boas performances no final desta época, no entanto, as suas exibições acabaram por ser insuficientes para ajudar a sua equipa a passar à próxima fase da competição. A equipa caiu nos oitavos de final dos playoffs da Leb Plata e falhou a subida à Leb Oro. A vitória por 8 pontos acabou por ser insuficiente, depois da derrota por 11 pontos na primeira partida da série.
 
 **Rúben Prey** sagrou-se campeão ao serviço dos sub-18 do Joventut Badalona. A equipa do jovem luso venceu a final de juniores da Catalunha frente ao Barcelona, por 93-90. O jogo da final foi decidido nos segundos finais desta forma:
@@ -34,7 +36,7 @@ Fora da península ibérica, os suspeitos do costume continuaram a fazer estrago
 
 #### Diogo Brito (C.B. Móron, LEB Plata – Espanha):
 
-\- A sua época já terminou. 
+\- A sua época já terminou.
 
 #### Cândido Sá (C.B. Benicarlo, LEB Plata – Espanha):
 
@@ -42,11 +44,11 @@ Fora da península ibérica, os suspeitos do costume continuaram a fazer estrago
 
 #### Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):
 
-\- Não jogou neste fim de semana. 
+\- Não jogou neste fim de semana.
 
 #### Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 
-\- Somou 1 ressalto e 1 assistência em 16 minutos na derrota por 66-54, frente ao La Antigua. 
+\- Somou 1 ressalto e 1 assistência em 16 minutos na derrota por 66-54, frente ao La Antigua.
 
 #### Marcus Costa (Andratx, Liga EBA – Espanha):
 
@@ -70,13 +72,13 @@ Fora da península ibérica, os suspeitos do costume continuaram a fazer estrago
 
 #### Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):
 
-\- Somou 8 pontos, 1 ressalto e 6 assistências na vitória frente ao Yoast United, por 57-93. 
+\- Somou 8 pontos, 1 ressalto e 6 assistências na vitória frente ao Yoast United, por 57-93.
 
 \- Apontou 11 pontos, 3 ressaltos e 4 assistências na vitória frente ao Hague, por 95-58.
 
 #### Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália): 
 
-\- Anotou 12 pontos, 8 ressaltos e 2 assistências, na vitória frente ao Basket Torino, por 83-76. 
+\- Anotou 12 pontos, 8 ressaltos e 2 assistências, na vitória frente ao Basket Torino, por 83-76.
 
 \- Marcou 15 pontos, 12 ressaltos e 2 assistências, na derrota frente ao Cantu, por 76-68.
 

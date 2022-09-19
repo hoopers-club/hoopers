@@ -5,11 +5,13 @@ featured: true
 publishDate: Apr 11, 2022-12:04:01
 image: /assets/uploads/povoa_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O **Clube Desportivo da Póvoa** conquistou lugar nos playoffs depois de uma caminhada impressionante no espaço de tão pouco tempo.
 
-O conjunto orientado por José Ricardo passou de jogar na CNB1, para vencer a CNB1 e depois subir à Proliga, vencer a Proliga e subir à Liga Betclic e, na época de estreia na primeira divisão do basquetebol português, garantir um lugar nos 8 primeiros classificados e, que não só assegurou a manutenção como ainda deu acesso aos playoffs. 
+O conjunto orientado por José Ricardo passou de jogar na CNB1, para vencer a CNB1 e depois subir à Proliga, vencer a Proliga e subir à Liga Betclic e, na época de estreia na primeira divisão do basquetebol português, garantir um lugar nos 8 primeiros classificados e, que não só assegurou a manutenção como ainda deu acesso aos playoffs.
 
 [A prova viva de que a nossa Liga de Basquetebol está mais competitiva que nunca!](https://hoopers.club/posts/articles/2022-02-12-uma-liga-mais-competitiva/)
 
@@ -23,7 +25,7 @@ Já o poste, **Nakye Sanders** permitiu garantir mais ressaltos, obter mais poss
 
 ![Nakye Sanders](/assets/uploads/povoa_03.png "Nakye Sanders")
 
-Olhando para os mais jovens jogadores nacionais do plantel destacam-se: **Jorge Rodrigues**, internacional sub-18 na época passada, **João Embaló** e **Diogo Gomes**, ex-internacionais pelos escalões jovens, que são muito importantes não só pela juventude que atribuem ao plantel e irreverência que trazem ao jogo, mas também para ajudarem a manter a mística da Póvoa de Varzim, do clube e das pessoas que por ali já passaram. 
+Olhando para os mais jovens jogadores nacionais do plantel destacam-se: **Jorge Rodrigues**, internacional sub-18 na época passada, **João Embaló** e **Diogo Gomes**, ex-internacionais pelos escalões jovens, que são muito importantes não só pela juventude que atribuem ao plantel e irreverência que trazem ao jogo, mas também para ajudarem a manter a mística da Póvoa de Varzim, do clube e das pessoas que por ali já passaram.
 
 À conversa com o **Jorge**, o jovem base contou-nos que o grupo está bastante focado, mas não estão deslumbrados e sabem que o que aí vem vai exigir muito da equipa.
 
@@ -43,7 +45,7 @@ Na mesma linha, o CDP apresentou a renovação de **"Zé" Ricardo** e a continui
 
 **Glossário:**
 
-Ppj- Pontos por jogo. 
+Ppj- Pontos por jogo.
 
 Rpj- Ressaltos por jogo.
 

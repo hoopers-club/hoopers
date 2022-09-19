@@ -5,13 +5,15 @@ featured: true
 publishDate: Apr 19, 2022-14:04:38
 image: /assets/uploads/banner.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Maria Bettencourt** e **Sofia da Silva** são os principais destaques das suas equipas, que atuam no principal Liga de Basquetebol em Espanha, na jornada deste fim de semana.
 
 No escalão imediatamente abaixo, a dupla **Josephine Filipe** e **Marcy Gonçalves** voltou a realizar boas exibições ao serviço do Ardoi na Liga Feminina Challenge.
 
-Na Bélgica, o Namur onde joga a portuguesa **Inês Viana** perdeu nas meias-finais da Liga Belga, por 2-0 frente ao Kortrijk e a portuguesa viu a sua época chegar ao fim. 
+Na Bélgica, o Namur onde joga a portuguesa **Inês Viana** perdeu nas meias-finais da Liga Belga, por 2-0 frente ao Kortrijk e a portuguesa viu a sua época chegar ao fim.
 
 Na Islândia, o Njardvik, de **Lavínia Silva**, está nas finais dos playoffs após ter vencido nas meias-finais por 3-1, o 1.º classificado, Fjolnir. O outro finalista é o Haukar, que terminou em 3.º lugar na época regular e que já venceu a equipa da poste portuguesa na presente temporada.
 
@@ -47,7 +49,7 @@ Será que Lavínia irá conseguir levar o conjunto nórdico ao tão desejado tí
 
 \- Apontou 11 pontos, 4 ressaltos, 1 assistência e 3 roubos de bola em 30 minutos na derrota frente ao Granada, por 64-60.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">🔥5 IDEAL | 1ª JORNADA PLAY-OFF.🔥<br>MARÇY DE SOUSA GONÇALVES en el cinco inicial de esta primera jornada de play-off.<a href="https://twitter.com/hashtag/LFChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#LFChallenge</a>.<br>🔹11 pts<br>🔹4 reb.<br>🔹3 rob.<br>🔹20 Valoración.<a href="https://twitter.com/hashtag/GoBlues?src=hash&amp;ref_src=twsrc%5Etfw">#GoBlues</a> <a href="https://t.co/okv19jl1Y1">pic.twitter.com/okv19jl1Y1</a></p>&mdash; FNBardoi (@FNBardoi) <a href="https://twitter.com/FNBardoi/status/1516363380889640960?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">🔥5 IDEAL | 1ª JORNADA PLAY-OFF.🔥<br>MARÇY DE SOUSA GONÇALVES en el cinco inicial de esta primera jornada de play-off.<a href="https://twitter.com/hashtag/LFChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#LFChallenge</a>.<br>🔹11 pts<br>🔹4 reb.<br>🔹3 rob.<br>🔹20 Valoración.<a href="https://twitter.com/hashtag/GoBlues?src=hash&amp;ref_src=twsrc%5Etfw">#GoBlues</a> <a href="https://t.co/okv19jl1Y1">pic.twitter.com/okv19jl1Y1</a></p>&mdash; FNBardoi (@FNBardoi) <a href="https://twitter.com/FNBardoi/status/1516363380889640960?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote>
 
 #### Josephine Filipe (Osés Construcción Ardoi, Liga Feminina Challenge- Espanha)
 
@@ -81,11 +83,9 @@ Será que Lavínia irá conseguir levar o conjunto nórdico ao tão desejado tí
 
 \- Somou 7 pontos, 2 ressaltos, 1 assistência e 2 roubos de bola na derrota contra o Mechelen, por 86-61.
 
-Nos **Estados Unidos da América**, as atletas portuguesas entraram já na sua *off-season.*
+Nos **Estados Unidos da América**, as atletas portuguesas entraram já na sua _off-season._
 
 Redação: **Martim Figueiredo**
-
-
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

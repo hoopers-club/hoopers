@@ -1,19 +1,21 @@
 ---
 title: Há um novo campo de 3x3 em Cascais criado por OATS
 subname: Foi criado um campo de 3x3 para homenagear a super estrela dos Lakers
-  pela mão do artista OATS.
+    pela mão do artista OATS.
 featured: false
 publishDate: Apr 29th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1619695335948-2BNFKP76AOSEN4YN19J9/image00008.jpeg?format=1500w
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 Além da já [anunciada homenagem a Kobe Bryant](https://www.hoopers.club/noticias/nao-te-esquecas-comeca-por-onde-ficaste), que será lançada em breve pela **Hoopers**, passou a existir outro campo com a imagem da antiga super estrela dos Los Angeles Lakers. O local escolhido é o Bairro das Faceiras, no concelho de Cascais, e fomos conhecer o artista Gustavo São Pedro (aka [OATS](https://www.instagram.com/oats.ink/)) que pintou este novo campo de 3x3, com uma área total de 220m2.
 
 **1. Como é que começa a tua ligação à arte urbana?**\
-\[OATS]: Começou por volta dos 18 anos. Como para muita gente, baseou-se na curiosidade pelo *spray* e pelo fascínio em ver os graffiti na minha zona. Comprávamos umas latas e íamos para os armazéns experimentar *letterings*, daí surgiu o gosto e o bichinho. Entretanto, comecei a tentar aprender a desenhar, pois até essa altura nunca tinha tido qualquer contacto com desenho ou artes. Estive uns 5 anos dedicado ao desenho, estudei *concept art*, e há coisa de dois anos percebi que é na rua é que me sinto bem. Voltei a apostar tudo na arte urbana, desta feita com mais algum conhecimento por trás, o que me permitiu evoluir bastante e conseguir exprimir com mais qualidade aquilo que quero.
+\[OATS]: Começou por volta dos 18 anos. Como para muita gente, baseou-se na curiosidade pelo _spray_ e pelo fascínio em ver os graffiti na minha zona. Comprávamos umas latas e íamos para os armazéns experimentar _letterings_, daí surgiu o gosto e o bichinho. Entretanto, comecei a tentar aprender a desenhar, pois até essa altura nunca tinha tido qualquer contacto com desenho ou artes. Estive uns 5 anos dedicado ao desenho, estudei _concept art_, e há coisa de dois anos percebi que é na rua é que me sinto bem. Voltei a apostar tudo na arte urbana, desta feita com mais algum conhecimento por trás, o que me permitiu evoluir bastante e conseguir exprimir com mais qualidade aquilo que quero.
 
 \
 **2. Tens alguma ligação ao desporto? E ao basquetebol?**\
@@ -45,8 +47,6 @@ Além da já [anunciada homenagem a Kobe Bryant](https://www.hoopers.club/notici
 
 **\
 7. Como é que olhas para o panorama atual da arte urbana nas cidades e no país?**\[OATS]: Eu acho que hoje em dia há muitas oportunidades para quem realmente mostra qualidade e vontade, principalmente porque os municípios tem vindo a investir bastante, pois a ideia das população em relação à arte urbana também tem vindo a mudar. Hoje em dia quase toda a gente gosta e apoia. Cascais é um excelente exemplo disso. A qualidade dos artistas portugueses é incrível, dos melhores do mundo, sem dúvida. Os festivais são círculos mais difíceis de entrar, mas ao mesmo tempo acho que é onde estão os melhores, portanto faz sentido ser assim.
-
-
 
 Os promotores são a **Câmara Municipal de Cascais** - Divisão de Juventude e Desporto / Jovem Cascais, e contou com apoio da **JOPINTO** e da **Colmeia Filmes**. O projeto enquadra-se no programa Basket Art 3x3 da **Federação Portuguesa de Basquetebol.**
 

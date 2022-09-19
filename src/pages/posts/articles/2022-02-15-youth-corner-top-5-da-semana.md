@@ -1,14 +1,16 @@
 ---
 title: "Youth Corner: Top 5 da semana (Fev. 7 - 13)"
 subname: >
-  É a nova rubrica para falar dos jovens talentos (sub-23) portugueses na Liga
-  Betclic.
+    É a nova rubrica para falar dos jovens talentos (sub-23) portugueses na Liga
+    Betclic.
 featured: true
 publishDate: Feb 15th, 2022-11:00:00
 image: /assets/uploads/whatsapp-image-2022-02-15-at-12.13.57.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Francisco Amarante** apontou 7 pontos, 4 ressaltos e 5 assistências em 20:00 minutos e **Vladyslav Voytso** com 6 pontos e 5 ressaltos (em 21:55 minutos), respetivamente, base e extremo internacionais pela nossa seleção e nomeados na convocatória (publicada ontem) para os dois jogos que se seguem com a França, a realizar ainda este mês.
 
 **Tiago Almeida** anotou 13 pontos, 4 ressaltos, 1 assistência e obteve 17 de valorização na vitória do Porto frente ao Vitória, por 109-75.

@@ -5,9 +5,11 @@ featured: true
 publishDate: Apr 11, 2022-11:04:57
 image: /assets/uploads/youth_feed.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-*É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.*
+
+_É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic._
 
 **Gustavo Teixeira** (2000), base titular da equipa de Ovar, registou 2 ressaltos e 4 assistências frente ao Illiabum, num jogo que terminou com a vitória caseira da equipa de Ovar por 86-77.
 
@@ -25,7 +27,7 @@ layout: ../../../Layout/single-article.astro
 
 Nesse mesmo jogo mas do outro lado do campo, **Diogo Peixe** (2000), base de rotação do CAB Madeira, anotou 4 pontos, 2 ressaltos e 1 assistência.
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Highlights da vitória madeirense na Póvoa de Varzim!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/apZ6rBI3O4">pic.twitter.com/apZ6rBI3O4</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1512898239116333060?ref_src=twsrc%5Etfw">April 9, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Highlights da vitória madeirense na Póvoa de Varzim!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/apZ6rBI3O4">pic.twitter.com/apZ6rBI3O4</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1512898239116333060?ref_src=twsrc%5Etfw">April 9, 2022</a></blockquote>
 
 Redação: **Martim Figueiredo**
 

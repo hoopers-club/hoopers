@@ -1,13 +1,15 @@
 ---
 title: Anadolu é bicampeão da EuroLiga
 subname: |
-  Final até ao último segundo!
+    Final até ao último segundo!
 featured: true
 publishDate: May 23, 2022-09:05:99
 image: /assets/uploads/anadolu_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 No sábado passado, a equipa turca renovou o título de campeã da EuroLiga ao vencer o **Real Madrid** por 58-57 na final da Final 4 disputada em Belgrado, na Stark Arena, com cerca de 20 mil espectadores.
 
 <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">AVRUPA’NIN EN BÜYÜĞÜ BİR KEZ DAHA ANADOLU EFES! 🏆<a href="https://twitter.com/hashtag/NewQuest?src=hash&amp;ref_src=twsrc%5Etfw">#NewQuest</a><a href="https://twitter.com/hashtag/BenimYerimBuras%C4%B1?src=hash&amp;ref_src=twsrc%5Etfw">#BenimYerimBurası</a><a href="https://twitter.com/hashtag/Kupan%C4%B1nYeriBuras%C4%B1?src=hash&amp;ref_src=twsrc%5Etfw">#KupanınYeriBurası</a><a href="https://twitter.com/hashtag/BackToBack?src=hash&amp;ref_src=twsrc%5Etfw">#BackToBack</a> <a href="https://t.co/dBY9NXCf5Z">pic.twitter.com/dBY9NXCf5Z</a></p>&mdash; Anadolu Efes SK (@AnadoluEfesSK) <a href="https://twitter.com/AnadoluEfesSK/status/1528085744971042818?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote>
@@ -47,6 +49,7 @@ Ainda sobre o jogo da final, a exibição mais inesperada foi a de **Tibor Plies
 Numa Liga como a EuroLiga onde estar no top 8 é uma tarefa muito difícil, estar numa Final 4 é algo ainda mais complicado, agora imagina-se o quão difícil é conquistar duas finais consecutivas… É um registo verdadeiramente impressionante!
 
 \
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In front of your fans, <a href="https://twitter.com/AnadoluEfesSK?ref_src=twsrc%5Etfw">@AnadoluEfesSK</a> a special night 🙏 <a href="https://twitter.com/hashtag/F4GLORY?src=hash&amp;ref_src=twsrc%5Etfw">#F4GLORY</a> <a href="https://t.co/ajhRKoLSx3">pic.twitter.com/ajhRKoLSx3</a></p>&mdash; Turkish Airlines EuroLeague (@EuroLeague) <a href="https://twitter.com/EuroLeague/status/1528091430954143744?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote>
 
 **Ergin Ataman** levou a melhor sobre **Pablo Laso**, que esteve perto de levar a sua 3.ª Euroliga e a 11ª do clube e o **Real Madrid** perdeu a sua 9.ª final europeia.

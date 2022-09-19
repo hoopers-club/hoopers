@@ -1,13 +1,15 @@
 ---
 title: Sangalhos regressa ao principal escalão
 subname: |
-  Clube aveirense está de regresso à principal Liga de Basquetebol em Portugal
+    Clube aveirense está de regresso à principal Liga de Basquetebol em Portugal
 featured: true
 publishDate: Apr 21, 2022-09:04:90
 image: /assets/uploads/275658072_381558996812035_4975547102487470709_n.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O **Sangalhos Desporto Clube** garantiu a subida histórica à principal Liga de Basquetebol em Portugal, ao final de 26 anos, depois de terminar a fase regular da Proliga no 1º lugar. Falámos com **Orlando Simões**, vice-presidente na área desportiva do Sangalhos Desporto Clube, para perceber o impacto deste momento para o clube.
 
 Foi no **Pavilhão Acácio Rosa** e após vencer o Belenenses que a equipa da Anadia consumou este feito histórico que já não acontecia desde 1996.
@@ -32,9 +34,9 @@ O plano para esta temporada era mais ambicioso e os aveirenses arrancaram com os
 
 Mas o projeto do Sangalhos não se esgota na equipa sénior. O clube viu aumentar o número de atletas, com especial destaque para os praticantes do minibasquete, onde decidiram colocar à frente de cada escalão (sub-6, sub-8, sub-10 e sub-12), um treinador de nível 2, procurando uma melhoria na prática da modalidade desde muito cedo, o que permitiu aumentar largamente o leque de praticantes.
 
-Dando resposta às crescentes necessidades das atletas, também o basquetebol feminino se desenvolveu com mais de 50 jovens inscritas na modalidade no clube. 
+Dando resposta às crescentes necessidades das atletas, também o basquetebol feminino se desenvolveu com mais de 50 jovens inscritas na modalidade no clube.
 
-A direção deu passos importantes na reorganização do clube, melhorando as instalações e o acesso a patrocinadores. Adicionalmente, pretende organizar um Torneio Internacional de Minibasquete em junho com 48 equipas e uma Summer League com 8 equipas de atletas seniores nacionais e estrangeiros. 
+A direção deu passos importantes na reorganização do clube, melhorando as instalações e o acesso a patrocinadores. Adicionalmente, pretende organizar um Torneio Internacional de Minibasquete em junho com 48 equipas e uma Summer League com 8 equipas de atletas seniores nacionais e estrangeiros.
 
 “O entusiasmo e o público voltaram ao ‘Caldeirão Azul’ e procedeu-se ao regresso da claque oficial, dito “6.º jogador. A Bairrada e a população despertaram novamente para um apoio em massa ao basquetebol.”  refere Orlando Simões, vice-presidente do Sangalhos.
 

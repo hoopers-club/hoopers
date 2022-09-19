@@ -1,13 +1,15 @@
 ---
 title: Tugas Around The Globe - Feminino (Fev.14-20)
 subname: Semana ficou marcada pela apresentação de Lavínia da Silva e pelos 1000
-  pontos alcançados por Maria Carvalho.
+    pontos alcançados por Maria Carvalho.
 featured: true
 publishDate: Feb 21st, 2022-12:00:00
 image: /assets/uploads/lavinia_02.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Maria Carvalho vai liderando a comitiva de jogadoras portuguesas nos States, numa semana que fica marcada por ter atingido a marca dos 1000 pontos de carreira.
 
 Luana Serranho continua em alta ao serviço de Campbell, num excelente inicio de época.
@@ -16,11 +18,7 @@ Aqui mesmo ao lado, na LF2, Josephine Filipe e Joana Ferreira realizaram 2 excel
 
 Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais precisamente na Islândia onde desempenha um papel fundamental no Njardvik, que detém um recorde de 12-4 na Liga.
 
-
-
 ## Em terras de nuestras hermanas…
-
-
 
 #### **Maria Kostourkova (Casademont Zaragoza, Liga Femenina Endesa – Espanha):**
 
@@ -34,29 +32,25 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 #### Sofia da Silva (Duran Maquinaria Ensino Lugo, Liga Femenina Endesa – Espanha):
 
-\- Apontou 6 pontos, 5 ressaltos e em 12 minutos na derrota frente ao Gran Canaria, por 73-61. 
+\- Apontou 6 pontos, 5 ressaltos e em 12 minutos na derrota frente ao Gran Canaria, por 73-61.
 
 #### **Marcy Gonçalves (Osés Construcción Ardoi, Liga Feminina 2 - Espanha):** 
 
-\- Jogou 12 minutos e realizou 1 assistência na vitória frente ao Azkoitia, por 70-64. 
+\- Jogou 12 minutos e realizou 1 assistência na vitória frente ao Azkoitia, por 70-64.
 
 #### Josephine Filipe (Osés Construcción Ardoi, Liga Feminina 2 - Espanha)
 
-\- Marcou 24 pontos, 2 ressaltos, 1 assistência e 1 roubo de bola na vitória frente a Azpeitia, por 70-64. 
+\- Marcou 24 pontos, 2 ressaltos, 1 assistência e 1 roubo de bola na vitória frente a Azpeitia, por 70-64.
 
 #### Joana Ferreira (Fustecma Nou Basquet Castello, Liga Femenina 2 – Espanha):
 
-\- Anotou 19 pontos, 7 ressaltos, 2 assistência e 3 roubos de bola em 31 minutos, na vitória frente a Sant Adria, por 85-73. 
+\- Anotou 19 pontos, 7 ressaltos, 2 assistência e 3 roubos de bola em 31 minutos, na vitória frente a Sant Adria, por 85-73.
 
 #### Catarina Frederico (Milar Cordoba, Liga Femenina 2 – Espanha):
 
 \- Jogou 25 minutos na vitória frente a Coruna por 60-58, onde marcou 9 pontos, 3 ressaltos, 1 assistência e 2 roubos de bola.
 
-
-
 ## Pela restante Europa…
-
-
 
 #### **Lavínia da Silva (U.M.F. Njardvik, Dominos League – Islândia):**
 
@@ -66,11 +60,7 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Não jogou esta semana.
 
-
-
 ## Estados Unidos da América dominados …
-
-
 
 #### **Maria Carvalho (Utah Valley University, NCAA - Estados Unidos da América)**
 
@@ -90,13 +80,13 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 
 \- Jogou 4 minutos na derrota e conquistou realizou 1 assistência frente a Dayton, por 37-47.
 
-\- Registou 3 pontos e 2 assistências em 4 minutos na vitória de Rhode Island frente a Richmond, por 66-69. 
+\- Registou 3 pontos e 2 assistências em 4 minutos na vitória de Rhode Island frente a Richmond, por 66-69.
 
 #### **Leonor Paisana (Winthrop, NCAA - Estados Unidos Da América)**
 
 \- Atuou nos 2 back-to-back games frente a Radford, que perderam por 67-60 e por 62-47. Leonor apontou 7 pontos, 1 ressalto e 3 assistências e 4 roubos de bola no primeiro jogo e no segundo conseguiu 7 pontos, 7 ressaltos e 8 assistências e 1 roubo de bola.
 
-\- Registou 6 pontos, 4 ressaltos, 3 assistências e 1 roubo de bola, em 31 minutos, na vitória frente a Charleston So. por 43-56. 
+\- Registou 6 pontos, 4 ressaltos, 3 assistências e 1 roubo de bola, em 31 minutos, na vitória frente a Charleston So. por 43-56.
 
 #### **Inês Vieira (Utah, NCAA– Estados Unidos da América):**
 
@@ -129,8 +119,6 @@ Lavínia da Silva é o grande destaque a atuar fora da Península Ibérica, mais
 \- Registou apenas 2 assistências em 17 minutos frente a Louisiana Tech, na derrota por 77-60.
 
 \- Jogou 1 minutos na derrota contra Southern Missouri por 86-79 em duplo prolongamento.
-
-
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
 

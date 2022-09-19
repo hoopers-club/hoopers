@@ -1,13 +1,15 @@
 ---
 title: Always look on the bright side of life
 subname: Carolina Bernardeco conta o seu percurso nos Estados Unidos. Os altos e
-  baixos, as lições e as emoções e reforça o seu amor pelo jogo.
+    baixos, as lições e as emoções e reforça o seu amor pelo jogo.
 featured: false
 publishDate: Aug 12th 20
 image: /assets/uploads/132_banner_carolina.png
 author: Carolina Bernardeco
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Quando se fala em Estados Unidos pensa-se na sua cultura de desporto. O basquetebol faz parte da cultura e lá ele é vivido como em nenhuma parte do mundo. Quando ouvi falar da oportunidade de poder ir para os Estados Unidos, os meus olhos até brilhavam.
 
 Tive vários convites de faculdades, mas acabei por visitar apenas uma. Visitei e assinei logo por Old Dominion University, não pensei duas vezes. Passados cinco anos, se calhar devia ter feito as coisas de forma diferente, analisado e explorado mais opções – tinha 17 anos na altura. A dez dias da minha partida, eu estava a competir no Europeu de sub18 na Eslovénia e ainda não estava tudo fechado para a minha partida. Eu tinha a cabeça nos jogos desse Europeu, mas a minha família tinha as mãos nos papéis e na burocracia para a minha ida – vistos, avião, alojamento, etc. A minha cabeça também estava naquela espera infinita pelos resultados do exame de Biologia – era a 4ª vez que o tinha ido fazer, precisava de 9.5... tive 9.7! O campeonato terminou e depois de uma semana em casa, parti para Norfolk, na Virgínia. Começava o meu sonho americano!

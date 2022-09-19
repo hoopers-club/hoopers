@@ -1,13 +1,15 @@
 ---
 title: "Braga: História, recap e agradecimentos por André Costa"
 subname: A história que escrevemos e os agradecimentos que não podiam faltar.
-  Este é um artigo assinado por André Costa.
+    Este é um artigo assinado por André Costa.
 featured: false
 publishDate: Sep 12th 20
 image: /assets/uploads/100_banner_braga.png
 author: André Costa
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O passado dia 10 de Setembro foi um dia especial para a (curta) história da Hoopers porque assinalou a inauguração do [maior campo de Basquetebol icónico da Europa](https://nit.pt/fit/ginasios-e-outdoor/maior-campo-de-basquetebol-de-rua-da-europa-fica-em-braga-e-e-uma-obra-de-arte), um projeto promovido pelo Município de Braga e pela Hoopers.
 
 Durante os últimos meses, a Hoopers e o Município de Braga trabalharam lado a lado num projeto que foi muito mais do que uma simples “pintura de um chão” para requalificar um espaço desportivo. Foi uma intervenção desportiva, social e artística de grandes proporções e cujo resultado alcançado, bem como a visibilidade nacional e internacional deste projeto, nos deixam bastante orgulhosos.

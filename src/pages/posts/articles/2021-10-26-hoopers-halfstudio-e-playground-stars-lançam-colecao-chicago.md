@@ -1,19 +1,21 @@
 ---
 title: Hoopers, HalfStudio e PlayGround Stars lançam coleção CHICAGO
 subname: "Chegaram os produtos Chicago: camisola reversível, t-shirt e meias. É
-  mais uma edição limitada e exclusiva, ideal para surpreender neste Natal, e
-  uma iniciativa conjunta da Hoopers, HalfStudio e PlayGround Stars."
+    mais uma edição limitada e exclusiva, ideal para surpreender neste Natal, e
+    uma iniciativa conjunta da Hoopers, HalfStudio e PlayGround Stars."
 featured: false
 publishDate: Dec 4th 20
 image: /assets/uploads/70_banner_chicagocoleção.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 No âmbito da intervenção do campo Chicago, localizado no Bairro dos Lóios, em Chelas (Lisboa), a **Hoopers**, os **HalfStudio** e a **PlayGround Stars** uniram esforços e lançaram a coleção Chicago, inspirada nesta intervenção artística e desportiva, e que chega mesmo a tempo de surpreender neste Natal.
 
 Há semelhança do que aconteceu aquando a intervenção realizada em Braga, que deu lugar à criação do maior campo de basquetebol icónico da Europa, pintado pelo artista português **[CONTRA](https://www.instagram.com/contra.rua/)**, o projeto Chicago também serviu de inspiração à criação de uma coleção exclusiva e limitada de produtos para assinalar esta iniciativa.
 
-Foi criada uma camisola de jogo reversível, que oferece duas possibilidades de uso, ambas inspiradas na intervenção realizada pelos **[HalfStudio](https://www.instagram.com/halfstudiosigns/)**. O número 3 foi escolhido pelos **HalfStudio** não apenas por ser o seu número favorito, mas por ser um número com o qual têm várias coleções, e que acaba também por assinalar a terceira participação da Hoopers em intervenções deste género. 
+Foi criada uma camisola de jogo reversível, que oferece duas possibilidades de uso, ambas inspiradas na intervenção realizada pelos **[HalfStudio](https://www.instagram.com/halfstudiosigns/)**. O número 3 foi escolhido pelos **HalfStudio** não apenas por ser o seu número favorito, mas por ser um número com o qual têm várias coleções, e que acaba também por assinalar a terceira participação da Hoopers em intervenções deste género.
 
 ![](/assets/uploads/chicago.jpeg)
 
@@ -21,11 +23,11 @@ Um dos lados da camisola é uma réplica da intervenção realizada no Chicago, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6O-lusjRp-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-“*O lançamento destes produtos acaba por ser um justo tributo ao Chicago, a Chelas e às suas comunidades. A ideia de lançar estes produtos é algo que queremos reforçar no futuro, procurando criar peças, experiências e vivências únicas para os membros da nossa comunidade. Sabemos bem que os fãs de Basquetebol são colecionadores deste tipo de memórias e artigos*”, afirma André Costa, fundador da Hoopers.
+“_O lançamento destes produtos acaba por ser um justo tributo ao Chicago, a Chelas e às suas comunidades. A ideia de lançar estes produtos é algo que queremos reforçar no futuro, procurando criar peças, experiências e vivências únicas para os membros da nossa comunidade. Sabemos bem que os fãs de Basquetebol são colecionadores deste tipo de memórias e artigos_”, afirma André Costa, fundador da Hoopers.
 
-Para Emanuel Barreira, um dos membros da dupla **[Halfstudio](https://www.instagram.com/halfstudiosigns/)** em conjunto com Mariana Branco, a criação destes produtos “*é a forma de fechar em beleza esta incrível intervenção e possibilita que as pessoas possam guardar recordações únicas deste projeto, reforçando a sua ligação emocional ao Chicago e a Chelas*”.
+Para Emanuel Barreira, um dos membros da dupla **[Halfstudio](https://www.instagram.com/halfstudiosigns/)** em conjunto com Mariana Branco, a criação destes produtos “_é a forma de fechar em beleza esta incrível intervenção e possibilita que as pessoas possam guardar recordações únicas deste projeto, reforçando a sua ligação emocional ao Chicago e a Chelas_”.
 
-Pedro Lourenço, CEO da **[PlayGround Stars](https://www.instagram.com/playgroundstars/)**, reforça que “*este é mais um projeto onde orgulhosamente marcamos presença e onde temos a oportunidade de exibir a qualidade de alguns dos nossos produtos, como sejam a malha Dry Star Tech 2on1 que permite a sublimação em ambos os lados, criada a pensar na otimização da relação qualidade/preço para os clubes.*”
+Pedro Lourenço, CEO da **[PlayGround Stars](https://www.instagram.com/playgroundstars/)**, reforça que “_este é mais um projeto onde orgulhosamente marcamos presença e onde temos a oportunidade de exibir a qualidade de alguns dos nossos produtos, como sejam a malha Dry Star Tech 2on1 que permite a sublimação em ambos os lados, criada a pensar na otimização da relação qualidade/preço para os clubes._”
 
 Além da camisola reversível, foram também criados dois produtos: uma t-shirt e umas meias, ambas inspiradas na obra artística do projeto Chicago.
 

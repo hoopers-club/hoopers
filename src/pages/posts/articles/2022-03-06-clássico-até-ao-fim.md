@@ -1,53 +1,55 @@
 ---
 title: Clássico até ao fim!
 subname: |+
-  Benfica e Porto defrontaram-se na tarde de sábado no Pavilhão Fidelidade.
+    Benfica e Porto defrontaram-se na tarde de sábado no Pavilhão Fidelidade.
 
 featured: true
 publishDate: Mar 06, 2022-18:03:89
 image: /assets/uploads/classico_01.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Benfica e Porto** defrontaram-se na tarde de sábado pelas 16h30 no Pavilhão Fidelidade.
 
 O clássico colocou frente a frente, o 2° lugar, Benfica, e o 3°, Porto e em causa a luta pela vice-liderança da competição. Os azuis e brancos saíram por cima e subiram ao 2° lugar da Liga Betclic, numa partida que ficou decidida nos momentos finais.
 
 ![](/assets/uploads/classico_02.jpeg)
 
-O jogo fica marcado pela estreia dos reforços **Ivan Almeida** e **Wendell Lewis** do lado das águias e **Mike Morrison** do lado dos dragões. 
+O jogo fica marcado pela estreia dos reforços **Ivan Almeida** e **Wendell Lewis** do lado das águias e **Mike Morrison** do lado dos dragões.
 
 **\-5 inicial Benfica: Frank Gaines, Aaron Broussard, Ivan Almeida, João Betinho Gomes e Wendell Lewis.**
 
 **\-5 inicial Porto: Charlon Kloof, Max Landis, Rashard Odomes, Jonathan Arledge e Miguel Queiroz.**
 
-Numa fase inicial, notou-se que a equipa treinada por **Norberto Alves** tinha preparado muito bem a defesa a **Max Landis** e conseguiu condicionar o lançador norte-americano. 
+Numa fase inicial, notou-se que a equipa treinada por **Norberto Alves** tinha preparado muito bem a defesa a **Max Landis** e conseguiu condicionar o lançador norte-americano.
 
 No entanto, o seu colega **Charlon Kloof** brilhava com um começo forte da linha dos 3 pontos.
 
-**Wendell Lewis** muito faltoso nos minutos iniciais e por isso mesmo, a ver o seu tempo em campo muito condicionado ao longo da partida. 
+**Wendell Lewis** muito faltoso nos minutos iniciais e por isso mesmo, a ver o seu tempo em campo muito condicionado ao longo da partida.
 
 O 1° período terminou 19 x 19.
 
 ![](/assets/uploads/classico_03.png)
 
-No 2° quarto, a filosofia de jogo do Benfica foi muito expressiva, com destaque para o coletivo na procura incessante pelo extra-passe e isso a ser, por vezes, contraproducente. 
+No 2° quarto, a filosofia de jogo do Benfica foi muito expressiva, com destaque para o coletivo na procura incessante pelo extra-passe e isso a ser, por vezes, contraproducente.
 
 Destaque para **Miguel Queiroz**, que colocou muitos problemas à defesa encarnada e a ser bastante útil na defesa. Do outro lado, **Betinho** com uma boa primeira parte, principalmente do ponto de vista ofensivo, sendo o melhor marcador até ao momento, com 9 pontos.
 
-O 2° quarto terminou 36 x 34, saindo o Benfica na frente para o intervalo, e com **Wendell Lewis** já com quatro faltas. 
+O 2° quarto terminou 36 x 34, saindo o Benfica na frente para o intervalo, e com **Wendell Lewis** já com quatro faltas.
 
-No regresso após o intervalo, a equipa de **Moncho López** chegou a ficar a 8 pontos, mas através de uma excelente entrada em campo de João Soares, este permitiu que o Porto se mantivesse em jogo. 
+No regresso após o intervalo, a equipa de **Moncho López** chegou a ficar a 8 pontos, mas através de uma excelente entrada em campo de João Soares, este permitiu que o Porto se mantivesse em jogo.
 
 ![](/assets/uploads/classico_04.png)
 
-**Mike Morrison** foi muito utilizado em situações de bloqueio direto, contudo, com algumas dificuldades a jogar sem bola. 
+**Mike Morrison** foi muito utilizado em situações de bloqueio direto, contudo, com algumas dificuldades a jogar sem bola.
 
 **Ivan Almeida** vinha rotulado como marcador de pontos mas a destacar-se como facilitador/criador de jogo. Na marcação de pontos, destaque para a qualidade de jogo com e sem bola do extremo portista **Rashard Odomes**.
 
 O jogo avançou para o derradeiro e último período com a equipa de Norberto no comando, vencendo por 57 x 52.
 
-Num último quarto sem espaço para erros, o cesto ficou mais pequeno e as duas equipas atingiram mínimos de pontuação, com o Porto a marcar 16 pontos e o Benfica 6. 
+Num último quarto sem espaço para erros, o cesto ficou mais pequeno e as duas equipas atingiram mínimos de pontuação, com o Porto a marcar 16 pontos e o Benfica 6.
 
 **Vladyslav Voytso**, internacional português nascido na Ucrânia e capitão do Porto desde o começo dos incidentes entre a Rússia e a Ucrânia, mostrou bons minutos com bola no meio campo ofensivo.
 

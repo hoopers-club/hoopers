@@ -1,14 +1,16 @@
 ---
 title: Uma espécie de postal de Natal
 subname: O Natal aproxima-se e o final do 2020 também e, por isso, decidimos
-  escrever o nosso postal de Natal para falar um pouco sobre este ano que
-  passou. Este é um artigo assinado por André Costa.
+    escrever o nosso postal de Natal para falar um pouco sobre este ano que
+    passou. Este é um artigo assinado por André Costa.
 featured: false
 publishDate: Dec 23rd 20
 image: /assets/uploads/68_banner_postalnatal.png
 author: André Costa
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Tenho que admitir que é difícil começar a escrever sobre este ano que está a acabar. Um ano que, provavelmente, não trará as melhores recordações e memórias à generalidade das pessoas. Por outro lado, para mim e para a **Hoopers**, o ano de 2020 trouxe-nos vários desafios. E é, por isso, que não nos queremos esquecer dele.
 
 E já que estamos entre amigos, deixem-me dizer que a nossa ideia para este ano era afirmar a Hoopers à escala nacional e fazer a nossa startup crescer. Se me perguntarem se o conseguimos fazer, eu respondo-vos, sincera e modestamente, que acho que sim. Mas com a mesma abertura vos digo que acabou por saber a pouco porque ficou muita coisa por fazer. Não sei se é excesso de ambição ou falta de noção, mas sabe a pouco porque podia ter sido melhor. **Podemos sempre fazer melhor.**
@@ -27,15 +29,13 @@ E o ano 2020 trouxe-nos muitos desafios, mas sobretudo conseguimos vitórias imp
 
 E é precisamente sobre isso que vos quero escrever:
 
-**\- Ajudar os clubes:** Criámos um movimento para ajudar os clubes, em parceria com a Wilson, onde as pessoas podiam oferecer uma bola aos seus clubes do coração. No final, foram oferecidas dezenas de bolas e o impacto deste gesto simbólico compensou o esforço e empenho que pusemos nesta iniciativa. 
+**\- Ajudar os clubes:** Criámos um movimento para ajudar os clubes, em parceria com a Wilson, onde as pessoas podiam oferecer uma bola aos seus clubes do coração. No final, foram oferecidas dezenas de bolas e o impacto deste gesto simbólico compensou o esforço e empenho que pusemos nesta iniciativa.
 
 ![Créditos: Sic Radical](/assets/uploads/postal_2.jpeg "Créditos: Sic Radical")
 
 Créditos: Sic Radical
 
-
-
-**\- Ajudar outros projetos:** Num ano marcado por vários desafios e incertezas, procurámos dar voz a todos os projetos de Basquetebol (e foram muitos) que foram criados durante este ano, mas também não nos esquecemos daqueles que já cá andavam antes de nós. Desde livros, produtos de outras marcas, plataformas especializadas de treino, novas associações, outros podcasts, e muito mais. O Basquetebol é bonito em equipa. 
+**\- Ajudar outros projetos:** Num ano marcado por vários desafios e incertezas, procurámos dar voz a todos os projetos de Basquetebol (e foram muitos) que foram criados durante este ano, mas também não nos esquecemos daqueles que já cá andavam antes de nós. Desde livros, produtos de outras marcas, plataformas especializadas de treino, novas associações, outros podcasts, e muito mais. O Basquetebol é bonito em equipa.
 
 **\- Braga:** Lançámos o maior campo icónico de Basquetebol da Europa, com uma fantástica intervenção artística do CONTRA e corremos o país e o mundo com este acontecimento. Talvez este tenha sido o momento que marca o nosso ano e que nos colocou verdadeiramente no mapa.
 

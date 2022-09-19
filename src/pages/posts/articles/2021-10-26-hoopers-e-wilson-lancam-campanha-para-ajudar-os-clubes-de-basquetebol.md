@@ -1,13 +1,15 @@
 ---
 title: Hoopers e Wilson lançam campanha para ajudar os clubes de Basquetebol
 subname: “Oferece uma bola ao clube do teu coração” é a campanha lançada pela
-  Hoopers e pela Wilson para ajudar os clubes portugueses.
+    Hoopers e pela Wilson para ajudar os clubes portugueses.
 featured: false
 publishDate: May 28th 20
 image: /assets/uploads/140_banner_hoopers.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 “Oferece uma bola ao clube do teu coração” é a campanha que a Hoopers, startup portuguesa que é uma plataforma de comunidade para jogadores e fãs de basquetebol, está a dinamizar em parceria com a Wilson para ajudar os clubes Portugueses da modalidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S2aMY_Xs5Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

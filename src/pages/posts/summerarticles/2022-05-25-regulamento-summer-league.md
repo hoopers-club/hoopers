@@ -5,6 +5,7 @@ featured: true
 publishDate: May 20th 22
 image: /assets/uploads/2022_05_21_regulamento-s.l.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
 
@@ -135,23 +136,23 @@ Masculino
 
 O sistema de disputa entrutura-se em duas (2) fases:
 
-- 1ª Fase: Fase de grupos
-- 2ª Fase: Fase a eliminar
+-   1ª Fase: Fase de grupos
+-   2ª Fase: Fase a eliminar
 
 Espera-se garantir um total de 16 equipas, onde o formato será de 2 grupos de 8 equipas, em que todas as equipas se defrontam durante a fase de grupos, apurando-se todas as equipas para a fase a eliminar num formato de cruzamento entre grupos:
 
-- 1ºA x 8ºB , 2ºA x 7ºB, 3ºA x 6ºB, 4ºA x 5ºB, 5ºA x 4ºB, 6ºA x 3ºB, 7ºA x 2ºB, 8ºA x 1ºB.
+-   1ºA x 8ºB , 2ºA x 7ºB, 3ºA x 6ºB, 4ºA x 5ºB, 5ºA x 4ºB, 6ºA x 3ºB, 7ºA x 2ºB, 8ºA x 1ºB.
 
 Feminino
 
 O sistema de disputa entrutura-se em duas (2) fases:
 
-- 1ª Fase: Fase de grupos
-- 2ª Fase: Fase a eliminar
+-   1ª Fase: Fase de grupos
+-   2ª Fase: Fase a eliminar
 
 Espera-se garantir um total de 8 equipas, onde o formato será de 1 grupo de 8 equipas, em que todas as equipas se defrontam durante a fase de grupos, apurando-se todas as equipas para a fase a eliminar num formato de cruzamento entre grupos:
 
-- 1º x 8º , 2º x 7º, 3º x 6º, 4º x 5º.
+-   1º x 8º , 2º x 7º, 3º x 6º, 4º x 5º.
 
 **Acesso ao recinto de jogo:**
 
@@ -171,11 +172,11 @@ Juízes: Será colocado à disposição dos juízes um balneário e/ou zona segu
 
 Fazem parte do staff da competição todos os elementos, devidamente e visivelmente identificados pela organização da competição para o efeito. Além da organização, existe também a salientar a participação dos seguintes:
 
-- Voluntários
-- Juízes
-- Membros de estatística
-- TV e comentadores
-- Fotógrafos
+-   Voluntários
+-   Juízes
+-   Membros de estatística
+-   TV e comentadores
+-   Fotógrafos
 
 **Estatística e transmissões dos jogos:**
 

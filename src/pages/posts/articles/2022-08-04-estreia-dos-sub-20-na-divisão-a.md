@@ -1,16 +1,18 @@
 ---
 title: Estreia dos sub-20 na Divisão A
 subname: |
-  O futuro é risonho!
+    O futuro é risonho!
 featured: true
 publishDate: Aug 04, 2022-18:08:00
 image: /assets/uploads/2022_08_04_sub20m.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-Os estreantes no Campeonato Europeu sub-20 Divisão A não conseguiram assegurar a manutenção na principal divisão de basquetebol europeu. 
+Os estreantes no Campeonato Europeu sub-20 Divisão A não conseguiram assegurar a manutenção na principal divisão de basquetebol europeu.
 
 Portugal disputou 7 jogos, 3 dos quais na fase de grupos, onde consumou a primeira vitória na Divisão A ao derrotar a campeã em título, Israel, no prolongamento por 90-86. A seleção nacional venceu também a República Chéquia na fase a eliminar, mas acabou por não ser suficiente para assegurar a permanência.
 
@@ -20,9 +22,9 @@ Portugal defrontou no primeiro jogo a Itália, equipa que vencemos nos jogos de 
 
 <!--EndFragment-->
 
-Apesar de um começo atribulado, a segunda parte foi nossa e tivemos perto de fazer a remontada. 
+Apesar de um começo atribulado, a segunda parte foi nossa e tivemos perto de fazer a remontada.
 
-André Cruz foi o principal elemento em destaque com 22 pontos, 6 ressaltos e 3 assistências. 
+André Cruz foi o principal elemento em destaque com 22 pontos, 6 ressaltos e 3 assistências.
 
 <!--StartFragment-->
 
@@ -84,7 +86,7 @@ Rúben Prey somou 24 pontos, 5 ressaltos e 2 roubos de bola num jogo onde o dagg
 
 <!--EndFragment-->
 
-Apesar da motivação adquirida para encarar o terceiro jogo e de um começo fantástico onde estivemos a vencer por dígitos duplos, Portugal deixou-se dormir e a partir do segundo período deixámos de conseguir ter mão no jogo e a vantagem grega dilatou-se. 
+Apesar da motivação adquirida para encarar o terceiro jogo e de um começo fantástico onde estivemos a vencer por dígitos duplos, Portugal deixou-se dormir e a partir do segundo período deixámos de conseguir ter mão no jogo e a vantagem grega dilatou-se.
 
 <!--StartFragment-->
 
@@ -92,7 +94,7 @@ Apesar da motivação adquirida para encarar o terceiro jogo e de um começo fan
 
 <!--EndFragment-->
 
-Perdemos por 91-56 num jogo que deixou claro algum cansaço físico e mental. 
+Perdemos por 91-56 num jogo que deixou claro algum cansaço físico e mental.
 
 O jogador mais inconformado foi Rúben Prey com 15 pontos e 8 ressaltos.
 
@@ -108,7 +110,7 @@ Após a fase de grupos, a FIBA destacou Rúben Prey, apelidando o jogador mais j
 
 Portugal terminou em último lugar do Grupo B, com 1 vitória e 2 derrotas e por isso seguia-se pela frente a França (1° lugar do Grupo A), nos oitavos de final da competição.
 
-O jogo esteve renhido e Portugal conseguiu mostrar que era capaz de se bater com a poderosa seleção francesa, contudo, não foi suficiente para levar a vitória para casa e caímos para o grupo dos últimos 8. 
+O jogo esteve renhido e Portugal conseguiu mostrar que era capaz de se bater com a poderosa seleção francesa, contudo, não foi suficiente para levar a vitória para casa e caímos para o grupo dos últimos 8.
 
 André Cruz foi o jogador mais ativo da seleção nacional com um duplo-duplo:17 pontos, 10 ressaltos, 2 assistências, 3 roubos de bola e 1 desarme de lançamento.
 
@@ -120,9 +122,9 @@ André Cruz foi o jogador mais ativo da seleção nacional com um duplo-duplo:17
 
 O talento e potencial do Rúben Prey eram por mais evidentes e impossível era não ser notado, falado, abordado e elogiado. A “Portugal-Next-Big-Thing” deu muito que falar e de certeza que será um nome para acompanhar em breve e que muito provavelmente irá fazer companhia ao nosso querido Neemias Queta.
 
-<https://www.fiba.basketball/europe/u20/2022/news/player-spotlight-ruben-prey-portugal-s-next-big-thing> 
+<https://www.fiba.basketball/europe/u20/2022/news/player-spotlight-ruben-prey-portugal-s-next-big-thing>
 
-Portugal tinha agora de vencer para evitar a despromoção e procurar conquistar o melhor lugar possível- 9.º lugar e para isso era necessário começar por vencer a Alemanha, seleção que já havíamos defrontado na preparação. 
+Portugal tinha agora de vencer para evitar a despromoção e procurar conquistar o melhor lugar possível- 9.º lugar e para isso era necessário começar por vencer a Alemanha, seleção que já havíamos defrontado na preparação.
 
 Já nada corria bem à nossa seleção e fomos vencidos por 60-86, onde Rúben Prey conquistou 18 pontos, 6 ressaltos e 4 assistências. <!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1550186351592673280?s=21)
 

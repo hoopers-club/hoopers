@@ -5,8 +5,10 @@ featured: true
 publishDate: Aug 02, 2022-12:08:00
 image: /assets/uploads/2022_08_02_sub20f.jpg
 author: "Hoopers "
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 As internacionais portuguesas sub-20 disputaram o Campeonato Europeu Divisão A, na Hungria, no passado mês de julho. Portugal veio ocupar a vaga da Rússia na prova, que por relacionados com a atual conjuntura política, foi excluída da competição.
@@ -38,7 +40,7 @@ As protagonistas deste feito foram:
 
 **– Sara Peres (CPN)**
 
-No jogo de estreia nesta edição no Campeonato Europeu, Portugal começou a vencer e de forma expressiva, vencendo a Irlanda por 68-47. 
+No jogo de estreia nesta edição no Campeonato Europeu, Portugal começou a vencer e de forma expressiva, vencendo a Irlanda por 68-47.
 
 Ana Barreto foi o elemento em evidência com 13 pontos (3/4 de 3P) e 4 ressaltos. <!--StartFragment-->[](https://twitter.com/fpbasquetebol/status/1545425001901334530?s=21&t=qjF5sMFLdyAHu0G1_rBykQ)
 
@@ -86,7 +88,7 @@ A equipa das Quinas venceu a Polónia por 58-51, no jogo que decidia se iríamos
 
 <!--EndFragment-->
 
-No último jogo no campeonato, Portugal perdeu frente à Hungria por 50-75, o que ditou o 6° lugar. 
+No último jogo no campeonato, Portugal perdeu frente à Hungria por 50-75, o que ditou o 6° lugar.
 
 A seleção lusa caiu frente à equipa da casa, contudo, evidenciou que o seu lugar era ali e deixou bem claro que vieram para ficar.
 
@@ -117,13 +119,13 @@ Ana Barreto (SF) - 35.5 min | 12.4 pts | 38.8% FG | 1.1 ast | 4.4 reb | 1.7 to
 
 **Sara Peres (PF)** - 11.6 min | 1.5 pts | 21.4% FG | 0 ast | 1.5 reb | 0.5 to
 
-**Mariana Cruz (C)** - 10.1 min | 1.2 pts | 11.8% FG | 0.2 ast | 1.8 reb | 0.7 to 
+**Mariana Cruz (C)** - 10.1 min | 1.2 pts | 11.8% FG | 0.2 ast | 1.8 reb | 0.7 to
 
-**Maria Gonçálves (SG)** - 16.5 min | 7.4 pts | 32.5% FG | 0.6 ast | 2.4 reb | 0.8 to 
+**Maria Gonçálves (SG)** - 16.5 min | 7.4 pts | 32.5% FG | 0.6 ast | 2.4 reb | 0.8 to
 
 **Carolina Moura (SG)** - 5.1 min | 1.0 pts | 28.6% FG | 0.0 ast | 0.8 reb | 0.4 to
 
-**Filipa Barros (F)** - 17.7 min | 6.0 pts | 35.7% FG | 1.0 ast | 4.0 reb | 1.0 to  
+**Filipa Barros (F)** - 17.7 min | 6.0 pts | 35.7% FG | 1.0 ast | 4.0 reb | 1.0 to
 
 <https://www.fiba.basketball/europe/u20women/2022/team/Portugal>
 

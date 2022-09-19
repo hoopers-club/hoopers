@@ -5,8 +5,10 @@ featured: true
 publishDate: Jul 15, 2022-10:07:66
 image: /assets/uploads/2022_07_15_sub20diva.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 A seleção nacional sub-20 masculina vai estrear-se no Campeonato da Europa Divisão A este sábado e por isso, vamos dar-vos a conhecer quem irá representar Portugal na competição. Os convocados ficaram a ser conhecidos esta quinta-feira, dia 14 de julho, onde finalmente foram encontrados os 12 finalistas.
@@ -73,7 +75,7 @@ Liga EBA 🇪🇸: 19 jogos | 10.0 Pontos | 4.0 Ressaltos | 1.0 Assistência
 
 O jovem emigrado originário do Algarve, formado no Imortal, atua em Inglaterra onde representa o Nottingham Hoods e já havia representado os sub-20 no Challenger de 2021.
 
-NBL D2 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 4 jogos | 14.5 pontos | 5.5 ressaltos | 2.3 assistências | 1.5 roubos de bola 
+NBL D2 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 4 jogos | 14.5 pontos | 5.5 ressaltos | 2.3 assistências | 1.5 roubos de bola
 
 <https://youtu.be/kDi3ytHsOwM>
 
@@ -105,7 +107,7 @@ CNB 1 🇵🇹: 22 Jogos | 9.5 Pontos (26.6% 3P, 66.7% 2P, 50% LL) | 5.2 Ressalt
 
 O sub capitão da seleção das Quinas realizou a sua formação no Estoril Basket, saiu para jogar sub-18 e sénior no Sporting e ainda representou o Belém. Atualmente joga JUCO, nos Estados Unidos da América.
 
-JUCO 🇺🇸: 11.2 Pontos |  6.4 Ressaltos | 1.9 Assistências 
+JUCO 🇺🇸: 11.2 Pontos |  6.4 Ressaltos | 1.9 Assistências
 
 Challenger sub20 2021: <!--StartFragment-->[](https://twitter.com/martimfs/status/1417964652693278730?s=21)
 
@@ -119,7 +121,7 @@ Challenger sub20 2021: <!--StartFragment-->[](https://twitter.com/martimfs/statu
 
 <!--EndFragment-->
 
-Entrevista no podcast da Hoopers Club, 1x1 by Hoopers: <https://youtu.be/lP1TaQNCc24> 
+Entrevista no podcast da Hoopers Club, 1x1 by Hoopers: <https://youtu.be/lP1TaQNCc24>
 
 **Afonso Guedes (#16, Extremo, 2002, 1.96m)**
 
@@ -151,7 +153,7 @@ O jovem poste natural de Lisboa com mãe alemã e pai português é ainda sub-18
 
 <!--StartFragment-->
 
-Liga EBA 🇪🇸: 14 Jogos | 12.3 Pontos (25.6% 2P, 57.1% 2P, 61.3% LL) | 8.1 Ressaltos | 1.1 Assistências | 0.9 Roubos de bola | 0.9 Desarmes de lançamento 
+Liga EBA 🇪🇸: 14 Jogos | 12.3 Pontos (25.6% 2P, 57.1% 2P, 61.3% LL) | 8.1 Ressaltos | 1.1 Assistências | 0.9 Roubos de bola | 0.9 Desarmes de lançamento
 
 <!--EndFragment-->
 
@@ -173,9 +175,9 @@ Challenger sub16 2021: <!--StartFragment-->
 
 <!--EndFragment-->
 
-Torneo U18 Unelco-Tenerife: 
+Torneo U18 Unelco-Tenerife:
 
-<https://youtu.be/Zw0qIBC9sX8> 
+<https://youtu.be/Zw0qIBC9sX8>
 
 **Hugo Silva (#9, Extremo-Poste/Poste, 2002, 2.03m)**
 
@@ -191,7 +193,7 @@ Proliga 🇵🇹: 19 Jogos | 8.3 Pontos (30.8% 3P, 47.7% 2P, 68% LL) | 6.1 Ressa
 
 <!--StartFragment-->
 
-<https://youtu.be/mlnnRyYtaqs> 
+<https://youtu.be/mlnnRyYtaqs>
 
 <!--EndFragment-->
 
@@ -219,13 +221,13 @@ Portugal disputou 7 jogos internacionais de preparação (Espanha 2x, Bélgica 3
 
 Os restantes jogos foram muito bem disputados e serviram para medir forças com excelentes seleções (todas de Divisão A) e encontrar o ritmo necessário para podermos competir no nosso melhor.
 
-Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badalona, Rúben Prey e o extremo representante dos Western Wyoming Mustangs, André Cruz. <https://www.fiba.basketball/europe/u20/2022/news/10-players-to-watch-at-fiba-u20-european-championship-2022> 
+Os principais destaques do conjunto luso foram o extremo-poste do Joventut Badalona, Rúben Prey e o extremo representante dos Western Wyoming Mustangs, André Cruz. <https://www.fiba.basketball/europe/u20/2022/news/10-players-to-watch-at-fiba-u20-european-championship-2022>
 
 <!--StartFragment-->
 
 **Antevisão do Europeu sub-20 Divisão A**
 
-Os jovens base Miguel Monteiro e Jorge Rodrigues, o capitão Hugo Silva, o sub-capitão André Cruz e os emigrados Diogo Seixas e Rúben Prey falaram à FPBTV, juntamente com o selecionador nacional, André Martins. <https://www.fpbtv.pt/app/watch/6592377150> 
+Os jovens base Miguel Monteiro e Jorge Rodrigues, o capitão Hugo Silva, o sub-capitão André Cruz e os emigrados Diogo Seixas e Rúben Prey falaram à FPBTV, juntamente com o selecionador nacional, André Martins. <https://www.fpbtv.pt/app/watch/6592377150>
 
 <!--EndFragment-->
 

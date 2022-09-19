@@ -5,8 +5,10 @@ featured: true
 publishDate: Dec 13th 21
 image: /assets/uploads/banner_sac.png
 author: hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Portugal and the city of Sacramento are connected for a long time. The city started welcoming several immigrants at the end of the last century and has recently welcomed two very special Portuguese: Ticha Penicheiro and Neemias Queta.
 
 ![](/assets/uploads/poster-copy.jpg)
@@ -23,5 +25,5 @@ At Hoopers we were not indifferent to this story and we decided to honor the jou
 
 The “SAC Royalty” is now available at Hoopers store and it can be purchased to surprise someone this Christmas. Products are available both individually or in a box format (Box Winter Queen & Box Winter King).
 
-Thank you Ticha & Neemias! 
+Thank you Ticha & Neemias!
 Thank you for making us dream that is possible to live our dreams.

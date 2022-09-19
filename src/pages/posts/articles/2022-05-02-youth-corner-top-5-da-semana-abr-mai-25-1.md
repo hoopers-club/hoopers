@@ -1,14 +1,16 @@
 ---
 title: "Youth Corner: Top 5 da semana (Abr/Mai 25-1)"
 subname: |
-  Fim da 2.ª volta!
+    Fim da 2.ª volta!
 featured: true
 publishDate: May 02, 2022-09:05:58
 image: /assets/uploads/youth.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-*É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.*
+
+_É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic._
 
 \
 **Gustavo Teixeira** (2000), base titular da equipa de Ovar, registou 17 pontos, 3 ressaltos e 5 assistências frente à Académica, num jogo que terminou com a vitória da equipa de Ovar , por 59-84.
@@ -23,7 +25,7 @@ layout: ../../../Layout/single-article.astro
 
 **Salvador Caldeira** (2003), base internacional sub-18 na época passada, começou no 5 inicial e registou 8 pontos, 3 ressaltos e 1 assistência, na vitória do Illiabum frente ao Vitória de Guimarães, por 78-71.
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 O <a href="https://twitter.com/Illiabum_Clube?ref_src=twsrc%5Etfw">@Illiabum_Clube</a> levou a melhor no encontro com o <a href="https://twitter.com/VitoriaSC1922?ref_src=twsrc%5Etfw">@VitoriaSC1922</a>!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/T5yODIczGL">pic.twitter.com/T5yODIczGL</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1520440063024418816?ref_src=twsrc%5Etfw">April 30, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 O <a href="https://twitter.com/Illiabum_Clube?ref_src=twsrc%5Etfw">@Illiabum_Clube</a> levou a melhor no encontro com o <a href="https://twitter.com/VitoriaSC1922?ref_src=twsrc%5Etfw">@VitoriaSC1922</a>!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/T5yODIczGL">pic.twitter.com/T5yODIczGL</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1520440063024418816?ref_src=twsrc%5Etfw">April 30, 2022</a></blockquote>
 
 **Diogo Gomes** (2001), base suplente da equipa orientada pelo José Ricardo, garantiu 10 pontos, 1 ressalto e 1 assistência vindo do banco na vitória frente ao Imortal em Albufeira, por 70-71.
 

@@ -6,13 +6,15 @@ featured: true
 publishDate: Jul 1st 22
 image: /assets/uploads/banner_hsl_dia01.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
+
 <!--StartFragment-->
 
 O mês de julho vem acompanhado da tão desejada Hoopers Summer League!
 
-A competição realiza-se no Pavilhão Desportivo dos Lombos e no Pavilhão de Carnide. As equipas começaram a jogar às 19h30 e o último jogo começou pelas 22h10. 
+A competição realiza-se no Pavilhão Desportivo dos Lombos e no Pavilhão de Carnide. As equipas começaram a jogar às 19h30 e o último jogo começou pelas 22h10.
 
 Em Carnide, o jogo de abertura da nossa Summer League colocou frente a frente “Flight React” e “Os Reformados”, num jogo bastante renhido, que terminou com a vitória dos “Flight React” por 53-48. Stiven Lopes foi o melhor marcador da partida e o principal responsável pela vitória da sua equipa, anotando 22 pontos, 9 ressaltos e 1 assistência.
 

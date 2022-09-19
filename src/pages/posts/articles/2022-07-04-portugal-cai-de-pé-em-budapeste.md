@@ -5,11 +5,13 @@ featured: true
 publishDate: Jul 04, 2022-12:07:16
 image: /assets/uploads/portugal-hungria.jpg
 author: "Hoopers "
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-Após dois jogos (amigaveis) de preparação frente à Eslováquia (perdemos por 73 vs 80) e Ucrânia (vencemos por 77-76), Portugal jogou no passado dia 1 de julho, em Budapeste, o primeiro de dois jogos a contar para a última fase de apuramento para o Campeonato do Mundo. 
+Após dois jogos (amigaveis) de preparação frente à Eslováquia (perdemos por 73 vs 80) e Ucrânia (vencemos por 77-76), Portugal jogou no passado dia 1 de julho, em Budapeste, o primeiro de dois jogos a contar para a última fase de apuramento para o Campeonato do Mundo.
 
 O jogo opôs a seleção nacional e a Hungria, que nos havia vencido na primeira volta, em Matosinhos, por 75-81. Hoje a história poderia ter sido diferente, conseguimos discutir o jogo até final num pavilhão bem composto e a vitória ficou muito perto de acontecer (tivemos inclusive posses de bola para empate/vitória nos segundos finais). Portugal perdeu por 69-68 na Arena Tüskecsarnok, em Budapeste.
 
@@ -33,7 +35,7 @@ A Hungria foi muito preponderante a correr o campo e marcar os seus pontos em tr
 
 Posto isto, a equipa das Quinas irá jogar o seu último jogo Hoje, dia 4 pelas 19h00, no Pavilhão Multiusos de Odivelas, frente à seleção montenegrina, a contar para a 6.ª jornada da competição.
 
-Para consultar a estatística do jogo: <https://bit.ly/3bHhvng> 
+Para consultar a estatística do jogo: <https://bit.ly/3bHhvng>
 
 **Redação:** Hoopers
 
@@ -43,7 +45,7 @@ Para consultar a estatística do jogo: <https://bit.ly/3bHhvng> 
 
 <!--EndFragment-->
 
-**Entrevista por:** Martim Figueiredo 
+**Entrevista por:** Martim Figueiredo
 
 <!--StartFragment-->
 

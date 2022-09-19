@@ -5,8 +5,10 @@ featured: true
 publishDate: May 29, 2022-16:05:69
 image: /assets/uploads/283905427_1036534290312663_1615941783878691547_n-1-.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 O Sporting terminou a época na passada quinta feira com a derrota no jogo 3 frente ao Porto, no Pavilhão João Rocha, por 80-95.

@@ -1,16 +1,18 @@
 ---
 title: "Youth Corner: Top 5 da semana (Mar. 21-27)"
 subname: |
-  Boas exibições no fechar da primeira fase do campeonato.
+    Boas exibições no fechar da primeira fase do campeonato.
 featured: true
 publishDate: Mar 28, 2022-10:03:33
 image: /assets/uploads/youth_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-*É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.*
 
-**Francisco Amarante** (2000), base internacional chamado na última convocatória por Mário Gomes, apontou 7 pontos, 2 ressaltos e 1 assistência, na vitória do Porto frente à Oliveirense, por 76-75. 
+_É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic._
+
+**Francisco Amarante** (2000), base internacional chamado na última convocatória por Mário Gomes, apontou 7 pontos, 2 ressaltos e 1 assistência, na vitória do Porto frente à Oliveirense, por 76-75.
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🏀 <a href="https://twitter.com/FCPorto?ref_src=twsrc%5Etfw">@FCPorto</a> 76-75 <a href="https://twitter.com/UDObasket?ref_src=twsrc%5Etfw">@UDObasket</a> <br>🏆 𝐋𝐢𝐠𝐚 𝐁𝐞𝐭𝐜𝐥𝐢𝐜 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐚 (22.ª jornada)<br>📍 Dragão Arena <br>⭐ 𝗥𝗮𝘀𝗵𝗮𝗿𝗱 𝗢𝗱𝗼𝗺𝗲𝘀 (17pts, 5res, 2rb)<br>📊 <a href="https://t.co/Y7hR9uIL9W">https://t.co/Y7hR9uIL9W</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/33ToJBySjZ">pic.twitter.com/33ToJBySjZ</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1507766938205831175?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote>
 

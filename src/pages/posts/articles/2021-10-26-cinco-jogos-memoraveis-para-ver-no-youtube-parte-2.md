@@ -1,13 +1,15 @@
 ---
 title: Cinco jogos memoráveis para ver no YouTube - Parte 2
 subname: Selecionámos 5 partidas inesquecíveis para te ajudar a passar mais um
-  fim de semana em confinamento, sempre na companhia do nosso jogo.
+    fim de semana em confinamento, sempre na companhia do nosso jogo.
 featured: false
 publishDate: Mar 5th 21
 image: /assets/uploads/game6.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Continuamos a fazer a nossa parte e a dar-te boas desculpas para ficares em casa. [Selecionámos mais cinco partidas completas e inesquecíveis](https://www.hoopers.club/noticias/seis-jogos-memoraveis-para-ver-no-youtube) para que te possas entreter durante este fim de semana.
 
 Conta com **Charles Barkley** em 1995, uma cotovelada polémica de **Kobe Bryant** em 2002 e muito mais!
@@ -44,7 +46,7 @@ Há quase 20 anos, os Kings e os Lakers defrontaram-se numa partida que continua
 
 <br/>
 
-**5. Robert Horry salta do banco para selar a vitória dos Spurs** 
+**5. Robert Horry salta do banco para selar a vitória dos Spurs**
 
 A final entre os Spurs e os Pistons, que decorreu na temporada de 2004-05, teve uma das menores audiências na história da NBA. Os jogadores lesionados e as baixas pontuações nas partidas pareciam desanimar os fãs do Basket, mas isso não apagou a noite histórica de **Robert Horry** no jogo 5 da série. “Big Shot Rob” saiu do banco para anotar 21 pontos e resolver uma partida extremamente equilibrada, em que a liderança mudou de mãos por 12 vezes. Para deixar o jogo ainda mais emocionante, foi apenas no prolongamento que Horry viria a marcar o lançamento decisivo, quando faltavam apenas 5,8 segundos para o final da partida.
 

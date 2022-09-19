@@ -1,15 +1,17 @@
 ---
 title: Hoopers e Playground Stars lançam edição limitada para homenagear Kobe Bryant
 subname: No dia em que se completa um ano após o trágico acidente de Kobe
-  Bryant, a Hoopers e a Playground Stars uniram esforços para lançar uma
-  camisola de jogo inspirada na lenda dos Los Angeles Lakers.
+    Bryant, a Hoopers e a Playground Stars uniram esforços para lançar uma
+    camisola de jogo inspirada na lenda dos Los Angeles Lakers.
 featured: false
 publishDate: Jan 26th 21
 image: /assets/uploads/60_banner_kobe.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-No dia em que se completa um ano após o trágico acidente que tirou a vida a Kobe Bryant, a **[Hoopers](https://www.instagram.com/by_hoopers/)** e a **Playground Stars** uniram esforços para lançar uma camisola de jogo inspirada na lenda dos Los Angeles Lakers. 
+
+No dia em que se completa um ano após o trágico acidente que tirou a vida a Kobe Bryant, a **[Hoopers](https://www.instagram.com/by_hoopers/)** e a **Playground Stars** uniram esforços para lançar uma camisola de jogo inspirada na lenda dos Los Angeles Lakers.
 
 Umas semanas depois do trágico desaparecimento de **Kobe Bryant** no ano passado, a Hoopers decidiu criar um simples produto para homenagear o ex-basquetebolista e superestrela dos Los Angeles Lakers, e desde aí, ficou definida a intenção de voltar a homenagear o atleta na altura em que se completasse o primeiro ano desde a sua morte.
 
@@ -19,7 +21,7 @@ A ideia desta nova edição partiu de **André Costa**, um dos fundadores da Hoo
 
 ![](/assets/uploads/60_banner_kobe.png)
 
-Trata-se de uma **edição exclusiva**, personalizada e limitada a **100 unidades**, onde os detentores desta camisola poderão customizar a etiqueta da camisola, escolhendo um número de 1 a 100. A camisola é **reversível** e em cada face da mesma estão simbolizados os dois números que marcam a carreira de **Kobe Bryant**: o **\#8** e o **\#24**. 
+Trata-se de uma **edição exclusiva**, personalizada e limitada a **100 unidades**, onde os detentores desta camisola poderão customizar a etiqueta da camisola, escolhendo um número de 1 a 100. A camisola é **reversível** e em cada face da mesma estão simbolizados os dois números que marcam a carreira de **Kobe Bryant**: o **\#8** e o **\#24**.
 
 Do lado da Hoopers, referente ao número 8, está representada a irreverência dos tempos em que Kobe Bryant usava este número ao serviço da equipa californiana, através de um degradê com as cores dos Lakers. O skyline pertence à cidade de Los Angeles e cada uma das estrelas simboliza os campeonatos ganhos pelo jogador. Para o outro lado, com o número 24, a Playground Stars pretende invocar a Mamba Mentality do jogador, procurando complementá-la com referências à filha Gianna, que também viria a perder a vida no trágico acidente. Adicionalmente, existe também uma referência a uma das frases mais famosas atribuídas ao atleta: “Heroes come and go, but legends are forever”.
 

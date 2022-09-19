@@ -5,8 +5,10 @@ featured: true
 publishDate: Sep 08, 2022-11:09:52
 image: /assets/uploads/website_artigo-copy.png
 author: "Hoopers "
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 Olá a todos! O meu nome é João Gallina, 28 anos, internacional português e, atualmente, a competir pela equipa do Galomar. Sou o co-criador da rubrica “SneakerHeadz”, dinamizada em parceria com a Hoopers. Espero que partilhem da minha crença que, sapatilha não faz o jogador, mas que manda muito estilo, manda.
@@ -15,9 +17,9 @@ Nesta nova rubrica vamos dar destaque aos modelos de sapatilhas (ténis, téni, 
 
 **EDIÇÃO #1 - ESPREITÁMOS A HOOPERS SUMMER LEAGUE**
 
-A primeira edição da Hoopers Summer League foi, sem dúvida, um sucesso para a modalidade que tanto amamos. Para além de termos visto qualidade e competição nos jogos e concursos, também vimos equipamentos de jogo muito originais e chamativos de todas as cores e feitios. 
+A primeira edição da Hoopers Summer League foi, sem dúvida, um sucesso para a modalidade que tanto amamos. Para além de termos visto qualidade e competição nos jogos e concursos, também vimos equipamentos de jogo muito originais e chamativos de todas as cores e feitios.
 
-Mas não menos importante do que tudo isto, houve também espaço para destacar as sapatilhas que foram calçadas pelos jogadores durante a competição. 
+Mas não menos importante do que tudo isto, houve também espaço para destacar as sapatilhas que foram calçadas pelos jogadores durante a competição.
 
 Vamos às nossas escolhas:
 
@@ -139,7 +141,7 @@ Macadam Basket
 
 Basket Country
 
-Basketball Revolution 
+Basketball Revolution
 
 Nike
 
@@ -229,15 +231,15 @@ Fuikaomar
 
 Leiam a nossa análise técnica de cada modelo. Fiquem a conhecer a nossa seleção dos melhores “calçados” da Hoopers Summer League e votem no vencedor da semana:
 
-* Asha Jordan
-* Gonçalo Pais
-* Diogo Carvalho
-* Bruno Araújo
-* Daniel Machado
-* Claúdio Fonseca
+-   Asha Jordan
+-   Gonçalo Pais
+-   Diogo Carvalho
+-   Bruno Araújo
+-   Daniel Machado
+-   Claúdio Fonseca
 
 **\
-P﻿ara votares passa nos nossos stories ou destaques!** 
+P﻿ara votares passa nos nossos stories ou destaques!**
 
 [@﻿by_hoopers](https://www.instagram.com/stories/highlights/17934368804298663/)
 

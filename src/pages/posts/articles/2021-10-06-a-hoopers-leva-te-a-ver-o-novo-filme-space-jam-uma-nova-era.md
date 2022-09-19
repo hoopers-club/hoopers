@@ -1,18 +1,20 @@
 ---
 title: A Hoopers leva-te a ver o novo filme "Space Jam Uma Nova Era"
 subname: Nos cinemas a 15 de julho, a Hoopers tem convites duplos da antestreia
-  para oferecer!
+    para oferecer!
 featured: false
 publishDate: Jul 8th 21
 image: /assets/uploads/12_banner_novo_space_jam.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-No próximo dia **15 de Julho**, chega aos cinemas portugueses o muito aguardado filme Space Jam Uma Nova Era. E este é um momento que estávamos ansiosos, como pudeste ir acompanhando através das nossas [publicações](https://www.instagram.com/p/CNNJPKIBC5C/) ao longo dos últimos tempos. 
+No próximo dia **15 de Julho**, chega aos cinemas portugueses o muito aguardado filme Space Jam Uma Nova Era. E este é um momento que estávamos ansiosos, como pudeste ir acompanhando através das nossas [publicações](https://www.instagram.com/p/CNNJPKIBC5C/) ao longo dos últimos tempos.
 
-**LeBron James**, campeão da NBA e ícone mundial, irá partir numa aventura épica ao lado de **Bugs Bunny**. **“Space Jam Uma Nova Era”**, do realizador **Malcolm D. Lee**, irá levar-nos numa jornada por dois mundos e revelará até onde vão alguns pais na tentativa de criar laços com os seus filhos. 
+**LeBron James**, campeão da NBA e ícone mundial, irá partir numa aventura épica ao lado de **Bugs Bunny**. **“Space Jam Uma Nova Era”**, do realizador **Malcolm D. Lee**, irá levar-nos numa jornada por dois mundos e revelará até onde vão alguns pais na tentativa de criar laços com os seus filhos.
 
 <!--EndFragment-->
 
@@ -20,7 +22,7 @@ No próximo dia **15 de Julho**, chega aos cinemas portugueses o muito aguardado
 
 <!--StartFragment-->
 
-Tudo começa quando LeBron e o seu filho Dom são aprisionados numa realidade digital por uma Inteligência Artificial. Agora, para regressarem salvos à sua casa, LeBron irá liderar Bugs Bunny, Lola Bunny e o resto dos Looney Tunes numa competição de basket contra os campeões digitais da IA. A batalha entre *Tunes* e *Goons* irá redefinir os laços de LeBron com o seu filho e destacar a importância e o poder de sermos genuínos.
+Tudo começa quando LeBron e o seu filho Dom são aprisionados numa realidade digital por uma Inteligência Artificial. Agora, para regressarem salvos à sua casa, LeBron irá liderar Bugs Bunny, Lola Bunny e o resto dos Looney Tunes numa competição de basket contra os campeões digitais da IA. A batalha entre _Tunes_ e _Goons_ irá redefinir os laços de LeBron com o seu filho e destacar a importância e o poder de sermos genuínos.
 
 Este elenco conta também com grandes nomes do cinema, como **Don Cheadle** (“Avengers” e “Hotel Rwanda”), **Khris Davis** (“Judas e o Messias Negro”) e **Sonequa Martin-Green** (“The Walking Dead” e “Star Trek: Discovery”). Entre os jogadores da NBA, da WNBA e de outras modalidades teremos: **Klay Thompson**, **Anthony Davis**, **Damian Lillard**, **Chris Paul**, **Draymond Green**, **Kyle Kuzma**, **Diana Taurasi**, **Nneka Ogwumike** e **Chiney Ogwumike**.
 

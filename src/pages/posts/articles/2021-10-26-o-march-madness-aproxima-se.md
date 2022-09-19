@@ -1,18 +1,20 @@
 ---
 title: O March Madness aproxima-se e isto é tudo o que precisas de saber
 subname: >+
-  Um dos maiores e mais espetaculares eventos desportivos do mundo aproxima-se e
-  neste artigo explicamos a origem e evolução desta competição.
+    Um dos maiores e mais espetaculares eventos desportivos do mundo aproxima-se e
+    neste artigo explicamos a origem e evolução desta competição.
 
 featured: false
 publishDate: Mar 9th 21
 image: /assets/uploads/40_banner_marchmadness.png
 author: hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Já estamos em Março! E vamos dedicar alguns artigos a um dos nossos momentos favoritos da temporada.
 
-E depois de na última temporada ter sido cancelado devido à pandemia, está de regresso o **NCAA March Madness**, o maior e mais importante evento de basquetebol universitário. O torneio conta com a participação de 68 equipas que se enfrentam em confrontos únicos a eliminar. Para se sagrarem vencedores, cada equipa tem que conseguir avançar sete rondas sem averbar nenhuma derrota: **First Four** (para as últimas quatro equipas classificadas), **First Round**, **Second Round**, **Sweet 16**, **Elite Eight**, **Final Four** e o **NCAA Championship Game.** 
+E depois de na última temporada ter sido cancelado devido à pandemia, está de regresso o **NCAA March Madness**, o maior e mais importante evento de basquetebol universitário. O torneio conta com a participação de 68 equipas que se enfrentam em confrontos únicos a eliminar. Para se sagrarem vencedores, cada equipa tem que conseguir avançar sete rondas sem averbar nenhuma derrota: **First Four** (para as últimas quatro equipas classificadas), **First Round**, **Second Round**, **Sweet 16**, **Elite Eight**, **Final Four** e o **NCAA Championship Game.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJzWOeidKHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,7 +44,7 @@ Entre os maiores vencedores desta competição temos os **UCLA Bruins** com 11 t
 
 ![Bill Russell comemora o título de 1956.](/assets/uploads/march_2.jpg "Bill Russell comemora o título de 1956.")
 
-*Bill Russell comemora o título de 1956.*
+_Bill Russell comemora o título de 1956._
 
 No entanto, foi justamente no ano em que **Michael Jordan** se sagrou campeão do torneio, em 1982, pelos North Carolina Tar Heels, que o jornalista Brent Musburger “apelidou” a competição de **March Madness**. Na final daquele ano entre a equipa da Carolina do Norte e os Georgetown Hoyas, foi o próprio MJ quem marcou o cesto da vitória que valeu o título à sua equipa.
 

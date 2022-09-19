@@ -1,22 +1,24 @@
 ---
 title: "Space Jam 2: já saiu o trailer do novo filme!"
 subname: "Acaba de ser anunciado o trailer do novo filme “Space Jam: A New
-  Legacy”. Estreia nos cinemas a 16 de Julho."
+    Legacy”. Estreia nos cinemas a 16 de Julho."
 featured: false
 publishDate: Apr 3rd 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1617453061822-K3E9C8OIS1L95NETEOEW/DvE2uvR82wLgxVaEA9kvoH.jpg?format=750w
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-O primeiro filme “**Space Jam**” foi lançado em 1996 e tinha como grande protagonista **Michael Jordan**, que gravou o filme nos estúdios da Warner Bros, enquanto disputava uns muito disputados *pick-up games* com outras superestrelas da liga norte-americana, tal como foi dado a conhecer na série “**Last Dance**”.
+O primeiro filme “**Space Jam**” foi lançado em 1996 e tinha como grande protagonista **Michael Jordan**, que gravou o filme nos estúdios da Warner Bros, enquanto disputava uns muito disputados _pick-up games_ com outras superestrelas da liga norte-americana, tal como foi dado a conhecer na série “**Last Dance**”.
 
 Depois de uma longa espera e de muito suspense aproxima-se a data de lançamento de um novo filme com as principais figuras da animação do mundo da Warner Bros: Bugs Bunny, Lola Bunny, Daffy Duck, Porky Pig, Marvin the Martian, Tweety, Sylvester, Foghorn Leghorn e Speedy Gonzales, que fazem equipa com um novo protagonista principal, **LeBron James**.
 
 Neste filme, a A super estrela dos Los Angeles Lakers, que como já é sabido contará com a presença de outros jogadores da NBA, WNBA e figuras da modalidade, tais como: **Klay Thompson**, **Anthony Davis**, **Damian Lillard**, **Chris Paul**, **Draymond Green**, **Kyle Kuzma**, **Diana Taurasi**, **Nneka Ogwumike** e **Chiney Ogwumike**.
 
-Há momentos, acabou de ser lançado o *trailer* oficial do tão aguardado filme:
+Há momentos, acabou de ser lançado o _trailer_ oficial do tão aguardado filme:
 
 <!--EndFragment-->
 

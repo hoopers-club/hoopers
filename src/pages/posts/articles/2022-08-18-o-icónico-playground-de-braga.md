@@ -5,21 +5,17 @@ featured: true
 publishDate: Aug 18, 2022-17:08:00
 image: /assets/uploads/9_braga1.jpg
 author: "Hoopers "
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-O mestre da pintura portuguesa, Amadeo de Souza-Cardozo, foi a referência deste monumento artístico. 
-
-
+O mestre da pintura portuguesa, Amadeo de Souza-Cardozo, foi a referência deste monumento artístico.
 
 O pintor modernista, nascido em Amarante, desenvolveu toda a sua obra inspirada no cubismo e no futurismo... mas o que tem isto que ver com basquetebol? Vamos lá ver!
 
-
-
 Um artista e um músico uniram-se por um bem maior: o basquetebol. Apoiados pela comunidade local e inspirados pela arte no seu estado mais puro, deram origem ao playground de São José.
-
-
 
 Localizado em Braga, o playground de São José foi intervencionado pelo jovem artista português CONTRA. Nos mais de 1.000 metros quadrados, foi bebendo muito do modernismo de Sousa Cardozo para poder tornar o maior campo de basquetebol de rua da Europa (em 2020) também num dos mais icónicos. <!--StartFragment-->[](https://www.instagram.com/p/CD_cbQzBDGS/?igshid=NDA1YzNhOGU=)
 
@@ -27,31 +23,19 @@ Localizado em Braga, o playground de São José foi intervencionado pelo jovem a
 
 <!--EndFragment-->
 
-
-
-Este monumento de arte urbana possui 7 tabelas de basquetebol e a sua utilização é totalmente gratuita. Dispõe também do primeiro campo exclusivo de 3x3 em Portugal. 
-
-
+Este monumento de arte urbana possui 7 tabelas de basquetebol e a sua utilização é totalmente gratuita. Dispõe também do primeiro campo exclusivo de 3x3 em Portugal.
 
 Foi pelas mãos de CONTRA que foi possível juntar Amadeo de Sousa-Cardozo, um nome incontornável da arte em Portugal, e a arte urbana, neste caso sob a forma de uma recuperação de um polidesportivo.
 
-
-
-A ideia pretendia representar a arte do desporto através de cores vibrantes, algumas formas geométricas e alguma abstração à mistura. 
+A ideia pretendia representar a arte do desporto através de cores vibrantes, algumas formas geométricas e alguma abstração à mistura.
 
 O basquetebol é (também) uma brincadeira e, por isso, foi procurado transmitir felicidade e confiança na tela que serve de piso num dos campos mais fascinantes da Hoopers, numa parceria com a Câmara Municipal de Braga.
 
+E como é óbvio não podia faltar a música e para isso contámos com o MAZE, membro do Dealema, um coletivo histórico do Hip-Hop português, que nos presenteou com o som “RUA”.
 
+<https://youtu.be/fIZxZrrsUM4>
 
-E como é óbvio não podia faltar a música e para isso contámos com o MAZE, membro do Dealema, um coletivo histórico do Hip-Hop português, que nos presenteou com o som “RUA”. 
-
-<https://youtu.be/fIZxZrrsUM4> 
-
-
-
-“O nome do MAZE surgiu numa conversa informal com o artista (CONTRA). Convidámos o MAZE para nos ajudar a fazer um beat para o vídeo final do campo e ele disse-nos que tinha uma ideia para um projeto de spoken words sobre basquetebol que ele gostava de lançar. Encaixou na perfeição com o nosso projeto!”  André Costa, fundador da Hoopers. 
-
-
+“O nome do MAZE surgiu numa conversa informal com o artista (CONTRA). Convidámos o MAZE para nos ajudar a fazer um beat para o vídeo final do campo e ele disse-nos que tinha uma ideia para um projeto de spoken words sobre basquetebol que ele gostava de lançar. Encaixou na perfeição com o nosso projeto!”  André Costa, fundador da Hoopers.
 
 A Hoopers e o Contra colaboraram também na criação de camisolas reversíveis exclusivas para celebrar a recuperação do campo.<!--StartFragment-->
 
@@ -59,17 +43,11 @@ A Hoopers e o Contra colaboraram também na criação de camisolas reversíveis 
 
 <!--EndFragment--> 
 
-
-
-O evento de inauguração aconteceu numa tarde de calor de Agosto e contou com uma impressionante moldura humana, composta por membros da comunidade, mas também jovens jogadores dos clubes de Braga: do Sporting Clube de Braga, do Grupo Desportivo André Soares, dos “relançados” Sporting Clube Leões das Enguardas e da APD Braga. 
+O evento de inauguração aconteceu numa tarde de calor de Agosto e contou com uma impressionante moldura humana, composta por membros da comunidade, mas também jovens jogadores dos clubes de Braga: do Sporting Clube de Braga, do Grupo Desportivo André Soares, dos “relançados” Sporting Clube Leões das Enguardas e da APD Braga.
 
 <https://www.facebook.com/municipiodebraga/videos/864935177372113/>
 
-
-
 A atração e posteriormente, a integração da comunidade local (principalmente dos mais novos) foi e é fundamental para que o basquetebol permaneça onde ele pertence: na rua!
-
-
 
 **Redação:** Hoopers
 
@@ -84,7 +62,5 @@ A atração e posteriormente, a integração da comunidade local (principalmente
 <!--StartFragment-->
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 
 <!--EndFragment-->

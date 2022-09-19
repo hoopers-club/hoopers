@@ -1,14 +1,16 @@
 ---
 title: Município do Barreiro celebra 500 anos com homenagem aos heróis
-  desportivos da cidade
+    desportivos da cidade
 subname: O Polidesportivo localizado na Zona 4 do Barreiro recebeu uma
-  intervenção artística de SAMINA.
+    intervenção artística de SAMINA.
 featured: false
 publishDate: Jun 28th 21
 image: /assets/uploads/14_banner_barreiro.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 O Polidesportivo Francisco do Paço, figura local e que dá nome a este espaço localizado na Zona 4 do Barreiro, recebe uma homenagem a 37 figuras históricas do desporto da cidade do Barreiro, com intervenção artística a cargo de **[SAMINA](https://www.instagram.com/j_samina/)** no campo de jogos, na empena e na zona de balneários. Entre os homenageados constam nomes como **Fernando Chalana**, **João Cancelo**, **Carlos Manuel**, **Manuel Bento**, **Mike Plowden**, **Miguel Minhava** ou **Diogo Carreira**, entre outros.
@@ -31,7 +33,7 @@ A intervenção artística ficou a cargo do artista Setubalense [SAMINA](https:/
 
 <!--StartFragment-->
 
-Para Frederico Rosa, Presidente da Câmara Municipal do Barreiro “esta intervenção é uma afirmação da enorme qualidade desportiva do Barreiro e das suas gentes. Com esta intervenção quisemos não só reforçar a ligação das pessoas à cidade, mas também homenagear alguns dos diversos heróis desportivos que este Município já produziu, procurando, ao mesmo tempo, reforçar e promover a aproximação e a apropriação das pessoas do espaço público”. 
+Para Frederico Rosa, Presidente da Câmara Municipal do Barreiro “esta intervenção é uma afirmação da enorme qualidade desportiva do Barreiro e das suas gentes. Com esta intervenção quisemos não só reforçar a ligação das pessoas à cidade, mas também homenagear alguns dos diversos heróis desportivos que este Município já produziu, procurando, ao mesmo tempo, reforçar e promover a aproximação e a apropriação das pessoas do espaço público”.
 
 “Este projeto foi especialmente relevante para a Hoopers, não só pela sua dimensão, mas também pelo simbolismo desta homenagem. Foi também o nosso primeiro trabalho com modalidades que não o basquetebol, o que nos poderá abrir novas oportunidades de crescimento junto de outras comunidades”, explica André Costa, CEO da Hoopers.
 
@@ -41,7 +43,7 @@ Para Frederico Rosa, Presidente da Câmara Municipal do Barreiro “esta interve
 
 <!--StartFragment-->
 
-O campo de jogos, onde pode ler-se a palavra “Barreiro” e o código postal da cidade “2830”, já se encontra aberto ao público e a sua utilização é de acesso livre. O local está bem identificado pela indicação de “Zona 4” e pelas duas figuras a praticar basquetebol e futebol que ali se encontram. Na zona dos balneários, os visitantes poderão contemplar os rostos dos 37 heróis desportivos ali homenageados nesta intervenção a cargo de SAMINA. 
+O campo de jogos, onde pode ler-se a palavra “Barreiro” e o código postal da cidade “2830”, já se encontra aberto ao público e a sua utilização é de acesso livre. O local está bem identificado pela indicação de “Zona 4” e pelas duas figuras a praticar basquetebol e futebol que ali se encontram. Na zona dos balneários, os visitantes poderão contemplar os rostos dos 37 heróis desportivos ali homenageados nesta intervenção a cargo de SAMINA.
 
 Este projeto contou com o apoio de parceiros como a [Robbialac](https://tintasrobbialac.pt/), a [JOPINTO](https://www.facebook.com/tintasjopinto/), a [Sport Design](http://www.sport-design.pt/) e a [Machrent](https://machrent.pt/Portal/).
 

@@ -5,6 +5,7 @@ featured: true
 publishDate: May 21st 22
 image: /assets/uploads/typeform_02.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
 

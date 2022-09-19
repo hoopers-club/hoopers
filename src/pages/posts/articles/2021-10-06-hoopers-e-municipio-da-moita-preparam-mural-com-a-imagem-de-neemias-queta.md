@@ -1,15 +1,17 @@
 ---
 title: Hoopers e Município da Moita preparam mural com a imagem de Neemias Queta
 subname: >+
-  A Hoopers e o Município da Moita juntaram esforços para celebrar um dos heróis
-  locais.
+    A Hoopers e o Município da Moita juntaram esforços para celebrar um dos heróis
+    locais.
 
 featured: false
 publishDate: Jul 9th 21
 image: /assets/uploads/11_banner_neemy_mural2.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 No mês em que estamos a torcer para que o basquetebolista **[Neemias Queta](https://www.instagram.com/neemy23/)** faça história, integrando a NBA, são muitas as entidades que se juntarão para lhe prestar homenagem no local que o viu crescer, o Vale da Amoreira. Esta homenagem já se iniciou com a pintura de um mural, pelo artista **[Pedro Pinhal](https://www.instagram.com/pinhal_art/)**, na **Praceta Maria Helena Vieira da Silva**, junto à Escola Secundária da Baixa da Banheira.
 
 A pintura do mural é uma parceria entre a [Câmara Municipal da Moita](https://www.cm-moita.pt/) e a **Hoopers**.

@@ -5,8 +5,10 @@ featured: false
 publishDate: Nov 26th 20
 image: /assets/uploads/71_banner_bonitahistoria.png
 author: André Costa
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Wow! Por onde é que eu começo?
 
 Os últimos tempos têm sido uma verdadeira montanha russa na **[Hoopers](https://hoopers.club/)**, mas afinal de contas estas são as experiências que fazem parte da vida de uma startup. Mas uma coisa é certa: estamos cada vez mais fortes.

@@ -1,13 +1,15 @@
 ---
 title: A evolução do logo da NBA
 subname: Numa altura em que se volta a discutir a mudança do logo da NBA,
-  trazemos aqui a história da sua origem e evolução ao longo do tempo.
+    trazemos aqui a história da sua origem e evolução ao longo do tempo.
 featured: false
 publishDate: Mar 12th 21
 image: /assets/uploads/38_banner_logonba.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Uns dias antes do All-Star Game deste ano, **Kyrie Irving** [voltou a agitar uma discussão antiga](https://edition.cnn.com/2021/02/26/sport/kobe-bryant-kyrie-irving-nba-logo-spt-intl/index.html): o logo da NBA. A estrela dos Nets defendia a alteração da imagem da NBA, que deveria passar a utilizar a imagem de **Kobe Bryant**, como homenagem à estrela dos Lakers, que nos deixou no início do ano passado.
 
 Mas enquanto a imagem da **NBA** muda ou não muda, revisitámos a história do símbolo que marca a nossa paixão pelo basquetebol.
@@ -17,7 +19,7 @@ Além de faturar biliões de dólares todos os anos, a **NBA** tem também um do
 
 ![](/assets/uploads/logo_1.jpg)
 
-Na sua primeira versão, apresentada em 1950, uns meses depois da fusão entre a BAA e a NBL, destacava-se apenas o nome da liga. Em 1953, foi usada uma versão mais simples, onde apenas constavam as iniciais da liga gravadas numa bola laranja. Durante nove anos este foi o símbolo oficial da NBA, até que no ano de 1962, acabou por surgir uma nova versão: uma bola em branco e as iniciais na diagonal. 
+Na sua primeira versão, apresentada em 1950, uns meses depois da fusão entre a BAA e a NBL, destacava-se apenas o nome da liga. Em 1953, foi usada uma versão mais simples, onde apenas constavam as iniciais da liga gravadas numa bola laranja. Durante nove anos este foi o símbolo oficial da NBA, até que no ano de 1962, acabou por surgir uma nova versão: uma bola em branco e as iniciais na diagonal.
 
 ![](/assets/uploads/logo_2.jpg)
 
@@ -39,6 +41,6 @@ O sucesso deste processo criativo foi tanto que, mais de 50 anos depois da sua c
 
 ![](/assets/uploads/logo_7.png)
 
-Foi após a atualização da imagem da NBA em 2017 que **Jerry West** deu uma entrevista à ESPN, onde declarou não ser um grande fã da sua imagem no logo da NBA. *“Eu gostaria que nunca tivesse sido divulgado que sou eu no logotipo. Não gosto de fazer nada para chamar as atenções para mim. Se eles \[NBA] quiserem mudar, eu não me importaria e gostaria que o fizessem”.*
+Foi após a atualização da imagem da NBA em 2017 que **Jerry West** deu uma entrevista à ESPN, onde declarou não ser um grande fã da sua imagem no logo da NBA. _“Eu gostaria que nunca tivesse sido divulgado que sou eu no logotipo. Não gosto de fazer nada para chamar as atenções para mim. Se eles \[NBA] quiserem mudar, eu não me importaria e gostaria que o fizessem”._
 
-Embora o objetivo original de reformular a marca da NBA tenha sido cumprido há muito tempo, os benefícios do *rebranding* ainda são analisados e ponderados até aos dias de hoje. De acordo com a própria Siegel + Gale, a empresa que conduziu o projeto de renovação na década de 60, o logo da NBA rende aproximadamente **3 biliões de dólares por ano** em licenciamento. Além da vertente financeira, esta imagem é já um ícone mundial, amplamente difundido por todo o mundo e que também ajudou a afirmar a NBA como uma das ligas desportivas mais conhecidas do mundo.
+Embora o objetivo original de reformular a marca da NBA tenha sido cumprido há muito tempo, os benefícios do _rebranding_ ainda são analisados e ponderados até aos dias de hoje. De acordo com a própria Siegel + Gale, a empresa que conduziu o projeto de renovação na década de 60, o logo da NBA rende aproximadamente **3 biliões de dólares por ano** em licenciamento. Além da vertente financeira, esta imagem é já um ícone mundial, amplamente difundido por todo o mundo e que também ajudou a afirmar a NBA como uma das ligas desportivas mais conhecidas do mundo.

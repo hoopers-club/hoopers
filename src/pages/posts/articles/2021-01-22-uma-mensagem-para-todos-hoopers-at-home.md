@@ -1,14 +1,16 @@
 ---
 title: "Uma mensagem para todos: Hoopers at Home!"
 subname: É tempo de ficar em casa. Deixámos alguns planos em suspenso, mas já
-  estamos a trabalhar em coisas novas para a nossa comunidade. Este é um artigo
-  assinado pela equipa da Hoopers.
+    estamos a trabalhar em coisas novas para a nossa comunidade. Este é um artigo
+    assinado pela equipa da Hoopers.
 featured: false
 publishDate: Jan 22nd, 2021
 image: /assets/uploads/62_banner_hoopersathome.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Em tempos normais, hoje estaríamos a anunciar mais um convidado do **1x1 by Hoopers** e a ultimar preparativos para o lançamento do episódio na próxima segunda feira.
 
 Mas estes não são tempos normais.

@@ -1,14 +1,16 @@
 ---
 title: Tugas Around The Globe (Fev. 7 - 13)
 subname: A semana fica marcada por excelentes exibições individuais dos
-  internacionais portugueses.
+    internacionais portugueses.
 featured: true
 publishDate: Feb 14th, 2022
 image: /assets/uploads/gonçalo.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-A poucos dias da paragem para seleções, é importante destacar as exibições dos nossos jogadores portugueses, principalmente aqueles que se encontram a jogar no estrangeiro e longe de casa! 
+
+A poucos dias da paragem para seleções, é importante destacar as exibições dos nossos jogadores portugueses, principalmente aqueles que se encontram a jogar no estrangeiro e longe de casa!
 
 A paragem irá ser marcada por dois jogos, os dois frente à França, sendo o primeiro a 24/02 e o segundo a 27/02, a contar para o apuramento para o Mundial de 2023.
 
@@ -20,11 +22,11 @@ Olhando para os mais jovens, **Diogo Seixas** em Sevilha e **André Cruz** em Wy
 
 **Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
 
-\- Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo. 
+\- Registou 2 pontos e 1 assistência em 6 minutos contra o Oviedo.
 
 <!--StartFragment-->
 
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">⌛️🚀 FINAL | Assaltem Pumarín! Tercera victòria consecutiva i seguim cap amunt (46-80) 😍🔝<br>🎉 Dɪᴜᴍᴇɴɢᴇ ᴍᴇ́s fᴏɴᴛᴀᴊᴀᴜ! 🤜🤛<a href="https://twitter.com/hashtag/CreixemJunts?src=hash&amp;ref_src=twsrc%5Etfw">#CreixemJunts</a> <a href="https://twitter.com/hashtag/SomhiGirona?src=hash&amp;ref_src=twsrc%5Etfw">#SomhiGirona</a> <a href="https://twitter.com/hashtag/OrgullGiron%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#OrgullGironí</a></p>&mdash; Bàsquet Girona (@BasquetGirona) <a href="https://twitter.com/BasquetGirona/status/1491521798931898369?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote>
 
 <!--EndFragment-->
 
@@ -36,7 +38,7 @@ Olhando para os mais jovens, **Diogo Seixas** em Sevilha e **André Cruz** em Wy
 
 <!--StartFragment-->
 
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🟢⚫️ El derbi badaloní és nostre! <a href="https://twitter.com/hashtag/EBA?src=hash&amp;ref_src=twsrc%5Etfw">#EBA</a><a href="https://twitter.com/AEBDimonis?ref_src=twsrc%5Etfw">@AEBDimonis</a> 57-64 <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <br><br>📈 Una nova victòria, 2 de 2 al mes de febrer!<a href="https://twitter.com/hashtag/SomElBressol?src=hash&amp;ref_src=twsrc%5Etfw">#SomElBressol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/IJlQpbPBJ4">pic.twitter.com/IJlQpbPBJ4</a></p>&mdash; Club Joventut Badalona (@Penya1930) <a href="https://twitter.com/Penya1930/status/1492902328038526978?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🟢⚫️ El derbi badaloní és nostre! <a href="https://twitter.com/hashtag/EBA?src=hash&amp;ref_src=twsrc%5Etfw">#EBA</a><a href="https://twitter.com/AEBDimonis?ref_src=twsrc%5Etfw">@AEBDimonis</a> 57-64 <a href="https://twitter.com/Penya1930?ref_src=twsrc%5Etfw">@Penya1930</a> <br><br>📈 Una nova victòria, 2 de 2 al mes de febrer!<a href="https://twitter.com/hashtag/SomElBressol?src=hash&amp;ref_src=twsrc%5Etfw">#SomElBressol</a> <a href="https://twitter.com/hashtag/Badalona%C3%89sFutur?src=hash&amp;ref_src=twsrc%5Etfw">#BadalonaÉsFutur</a> <a href="https://t.co/IJlQpbPBJ4">pic.twitter.com/IJlQpbPBJ4</a></p>&mdash; Club Joventut Badalona (@Penya1930) <a href="https://twitter.com/Penya1930/status/1492902328038526978?ref_src=twsrc%5Etfw">February 13, 2022</a></blockquote>
 
 <!--EndFragment-->
 
@@ -61,9 +63,7 @@ Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):**
 **\
 Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):**
 
-\- Marcou 4 pontos, 6 ressaltos, 2 assistências e 3 roubos de bola em 23:13 minutos jogados na derrota frente ao Obradoiro Silleda, por 75-68. 
-
-
+\- Marcou 4 pontos, 6 ressaltos, 2 assistências e 3 roubos de bola em 23:13 minutos jogados na derrota frente ao Obradoiro Silleda, por 75-68.
 
 # **Em França fala-se português…**
 
@@ -74,21 +74,17 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Marcou 7 pontos e 4 ressaltos em 24 minutos, na derrota frente ao Antibes, por 91-72. Nota: Antibes, equipa onde atualmente joga Temidayo Yussuf, MVP da LPB no ano passado ao serviço da Lusitânia.
 
-
-
 # **Pela restante Europa…**
 
 **Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
 
 \- Registou 5 pontos e 2 ressaltos na derrota frente ao Belfius Mons.
 
-\- Apontou 11 pontos, 2 ressaltos e 7 assistências na derrota frente ao Limburg. 
+\- Apontou 11 pontos, 2 ressaltos e 7 assistências na derrota frente ao Limburg.
 
 **Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):**
 
 \- Apontou 22 pontos e 11 ressaltos na vitória caseira frente ao Scafati Basket 1969, por 74-71.
-
-
 
 # **Nos States…**
 
@@ -96,7 +92,7 @@ Sasa Borovnjak (Saint Chamond Basket, ProB - França):**
 
 \- Anotou 16 pontos e 7 ressaltos na vitória por 75-62 frente a NWC.
 
-\- Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC. 
+\- Registou 9 pontos e 7 ressaltos na vitória por 87-80 frente a LCCC.
 
 **\
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club**

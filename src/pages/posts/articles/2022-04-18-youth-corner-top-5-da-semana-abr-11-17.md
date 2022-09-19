@@ -5,9 +5,11 @@ featured: true
 publishDate: Apr 18, 2022-09:04:58
 image: /assets/uploads/youth_03.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-*É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.*
+
+_É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic._
 
 **Gustavo Teixeira (2000)**, base titular da equipa coordenada por João Tiago, registou 8 pontos, 6 ressaltos e 2 assistências frente à Académica, num jogo que terminou com a vitória caseira da equipa de Ovar, por 91-65.
 
@@ -27,7 +29,7 @@ layout: ../../../Layout/single-article.astro
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Eis os melhores momentos do emocionante encontro que terminou com o triunfo poceiro!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/eeTijvzKRw">pic.twitter.com/eeTijvzKRw</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1514396910626480128?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote>
 
-**Lamine Banora** (2000), poste da equipa de Ílhavo, anotou 9 pontos, 8 ressaltos e 1 assistência derrota frente ao Vitória por 94-83. 
+**Lamine Banora** (2000), poste da equipa de Ílhavo, anotou 9 pontos, 8 ressaltos e 1 assistência derrota frente ao Vitória por 94-83.
 
 No outro jogo da jornada, registou 7 pontos, 7 ressaltos e 3 assistências na vitória, por 69-84, frente à Académica.
 

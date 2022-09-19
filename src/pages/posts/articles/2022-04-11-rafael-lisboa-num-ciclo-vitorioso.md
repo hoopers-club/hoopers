@@ -1,18 +1,20 @@
 ---
 title: Rafael Lisboa num ciclo vitorioso!
 subname: |
-  Diogo Brito termina a sua época em Espanha. 
+    Diogo Brito termina a sua época em Espanha.
 featured: true
 publishDate: Apr 11, 2022-16:04:46
 image: /assets/uploads/tugas_banner.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-**Rafael Lisboa** e **Diogo Brito** exibiram-se a bom nível, assim como o jovem **Ruben Prey**. O trio continua a afirmar-se e a consolidar o seu estatuto enquanto as principais jovens promessas portuguesas a atuar na Europa. 
+
+**Rafael Lisboa** e **Diogo Brito** exibiram-se a bom nível, assim como o jovem **Ruben Prey**. O trio continua a afirmar-se e a consolidar o seu estatuto enquanto as principais jovens promessas portuguesas a atuar na Europa.
 
 **Cândido Sá** também registou boas exibições no fim de semana, que também marcou o regresso de **Sasa Borovnjak** e **Rui Nery**, ambos recuperados de lesões, que ajudaram as suas equipas a vencer.
 
-**Gonçalo Delgado** também alinhou pelo Girona, mas tem perdido espaço desde a chegada de Marc Gasol à equipa. 
+**Gonçalo Delgado** também alinhou pelo Girona, mas tem perdido espaço desde a chegada de Marc Gasol à equipa.
 
 ## Em terras de nuestros hermanos…
 
@@ -42,7 +44,7 @@ layout: ../../../Layout/single-article.astro
 
 #### Diogo Seixas (Real Betis Baloncesto, Liga EBA – Espanha):
 
-\- Não jogou neste fim de semana. 
+\- Não jogou neste fim de semana.
 
 #### Rui Nery (C.B. Chantada-Ensino, Liga EBA – Espanha):
 

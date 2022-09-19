@@ -1,15 +1,15 @@
 ---
 title: "Não te esqueças: começa por onde ficaste"
 subname: À medida que se aproxima a possibilidade de voltarmos a desconfinar,
-  levantamos o véu de algumas das iniciativas que a Hoopers está a preparar para
-  os próximos tempos
+    levantamos o véu de algumas das iniciativas que a Hoopers está a preparar para
+    os próximos tempos
 featured: false
 publishDate: Mar 4th 21
 image: /assets/uploads/45_banner_novocampo.png
 author: André Costa
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-
 
 Já estamos em Março?
 
@@ -23,18 +23,18 @@ Estes últimos tempos têm sido exigentes, mas também divertidos. Experimentám
 
 Isto foi aquilo que vocês tiveram oportunidade de ver e acompanhar. Mas nós fomos mais longe. Nas últimas semanas (ou meses?) temos trabalhado arduamente para pensar, estruturar e propor novas iniciativas, que pretendemos lançar nos próximos tempos. Algumas são “velhas conhecidas” de quem já acompanha a **Hoopers** há algum tempo, enquanto outras são estreias absolutas. Algumas delas podemos contar, outras ainda não, mas hoje queremos aproveitar para dar algumas novidades a quem nos acompanha:
 
-* Estamos já a preparar o regresso da **[2ª temporada do 1x1 by Hoopers](https://www.hoopers.club/podcast)**, que acabámos por suspender temporariamente com o novo confinamento. Estamos a preparar mais um leque de convidados de luxo para se juntarem às estrelas que por lá já passaram nesta edição: **Francisco Amiel**, Joana Soeiro, Rafael Lisboa, Kamala, Maze e Fernando Jóia.
-* Vamos continuar a partilhar as **histórias** dos protagonistas do nosso jogo, contadas na primeira pessoa de quem joga, faz jogar e inspira.
-* Não há uma sem duas e estamos a preparar a **2ª edição da Liga Hoopers eSports**, onde queremos elevar ainda mais a fasquia da competição.
-* Estamos a preparar uns **novos produtos cheios de estilo**, para que possas continuar a deslumbrar em grande estilo, já neste verão.
-* Vamos lançar um **novo campo icónico**, que é muito especial para nós e, acreditamos, que para ti também. A freguesia do **Lumiar, em Lisboa**, vai receber o **nosso tributo ao Kobe Bryant!**
+-   Estamos já a preparar o regresso da **[2ª temporada do 1x1 by Hoopers](https://www.hoopers.club/podcast)**, que acabámos por suspender temporariamente com o novo confinamento. Estamos a preparar mais um leque de convidados de luxo para se juntarem às estrelas que por lá já passaram nesta edição: **Francisco Amiel**, Joana Soeiro, Rafael Lisboa, Kamala, Maze e Fernando Jóia.
+-   Vamos continuar a partilhar as **histórias** dos protagonistas do nosso jogo, contadas na primeira pessoa de quem joga, faz jogar e inspira.
+-   Não há uma sem duas e estamos a preparar a **2ª edição da Liga Hoopers eSports**, onde queremos elevar ainda mais a fasquia da competição.
+-   Estamos a preparar uns **novos produtos cheios de estilo**, para que possas continuar a deslumbrar em grande estilo, já neste verão.
+-   Vamos lançar um **novo campo icónico**, que é muito especial para nós e, acreditamos, que para ti também. A freguesia do **Lumiar, em Lisboa**, vai receber o **nosso tributo ao Kobe Bryant!**
 
-  ![](/assets/uploads/45_banner_novocampo.png)
+    ![](/assets/uploads/45_banner_novocampo.png)
 
-  Por agora, é isto que podemos contar.
+    Por agora, é isto que podemos contar.
 
-  Esperamos que em breve possamos todos regressar novamente à rua, voltar a desfrutar da nossa modalidade e do convívio a ela associado, mas é importante que regressemos todos. Nós queremos que tu também voltes, que não desistas da nossa modalidade, que não saias da tua equipa, que não abandones o teu treinador, que não deixes o teu clube passar por (mais) dificuldades porque fizeste falta de comparência. A nossa modalidade precisa de todos.
+    Esperamos que em breve possamos todos regressar novamente à rua, voltar a desfrutar da nossa modalidade e do convívio a ela associado, mas é importante que regressemos todos. Nós queremos que tu também voltes, que não desistas da nossa modalidade, que não saias da tua equipa, que não abandones o teu treinador, que não deixes o teu clube passar por (mais) dificuldades porque fizeste falta de comparência. A nossa modalidade precisa de todos.
 
-  Volta connosco, em segurança.
+    Volta connosco, em segurança.
 
-  E não te esqueças de começar por onde ficaste, porque é precisamente por aí que nós também vamos começar.
+    E não te esqueças de começar por onde ficaste, porque é precisamente por aí que nós também vamos começar.

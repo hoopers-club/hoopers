@@ -5,15 +5,17 @@ featured: true
 publishDate: Jul 17th 22
 image: /assets/uploads/whatsapp-image-2022-07-17-at-12.10.52.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
+
 <!--StartFragment-->
 
 A noite de sábado foi marcada pelas partidas das meias finais da Hoopers Summer League.
 
-Em Carcavelos, o jogo inaugural colocou frente a frente os “African Giants” e os “Motricitários”, pelas 16 horas. 
+Em Carcavelos, o jogo inaugural colocou frente a frente os “African Giants” e os “Motricitários”, pelas 16 horas.
 
-Os “African Giants”, vencedores do Grupo A, venceram por 78-72, os universitários da FMH, num jogo que apenas ficou decidido nos segundos finais. 
+Os “African Giants”, vencedores do Grupo A, venceram por 78-72, os universitários da FMH, num jogo que apenas ficou decidido nos segundos finais.
 
 O domínio nas tabelas da equipa vencedora foi claro (ressaltos: 61 vs 39), apesar de uma bela exibição do ponto de vista do lançamento por parte do conjunto derrotado (3P: 18% vs 32%; LL: 67% vs 78%).
 
@@ -25,9 +27,9 @@ No lado da equipa derrotada, os irmãos Pais foram os homens do leme a par do po
 
 O base Hugo Maricato também participou de forma bastante ativa com um duplo-duplo: 13 pontos (3/11 3P), 12 ressaltos, 3 assistências e 1 roubo de bola.
 
-Contudo, não foi suficiente e a partida marcou a derrota e a eliminação dos vencedores nacionais do Campeonato Universitário e por oposição, a passagem dos “African Giants” para a final da nossa Liga de Verão. 
+Contudo, não foi suficiente e a partida marcou a derrota e a eliminação dos vencedores nacionais do Campeonato Universitário e por oposição, a passagem dos “African Giants” para a final da nossa Liga de Verão.
 
-Na segunda partida da tarde, os “Los Gordos” jogaram e venceram contra os “Lisbon South Bay”, por 82-74. 
+Na segunda partida da tarde, os “Los Gordos” jogaram e venceram contra os “Lisbon South Bay”, por 82-74.
 
 O primeiro lugar do Grupo B perdeu na luta pelo ressalto (57 vs 36), contudo na eficácia no tiro esteve “taco a taco”. Do ponto de vista das bolas perdidas (vulgo turnovers), a equipa sulista pecou muito na condução da bola para o ataque e na organização do mesmo (23 vs 7).
 

@@ -1,13 +1,15 @@
 ---
 title: Começa hoje o Ciclo de Formações pela AP de Preparadores Físicos de Basquetebol
 subname: Ciclo de ações de formação com presenças de várias figuras nacionais e
-  internacionais, especializadas na área.
+    internacionais, especializadas na área.
 featured: false
 publishDate: Jul 5th 21
 image: /assets/uploads/13_banner_preparacao.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 A [APPFB](https://www.instagram.com/appfbasquetebol/) irá realizar um ciclo de ações de formação de preparação física no basquetebol. É já a partir desta noite, às 21:15, que um conjunto de profissionais de referência nesta área irão partilhar as suas experiências para o público.
@@ -27,7 +29,5 @@ No dia 9 estará presente **Jordan Godfrey** (Leicester Riders) e **Christian La
 <!--StartFragment-->
 
 A Associação Portuguesa de Preparadores Físicos de Basquetebol leva a cabo um evento que vai ao encontro das suas premissas e objetivos, entre os quais estão o acesso a mais e melhor formação na área para todos os potenciais interessados e ainda o estabelecimento de parcerias nacionais e internacionais.
-
-
 
 <!--EndFragment-->

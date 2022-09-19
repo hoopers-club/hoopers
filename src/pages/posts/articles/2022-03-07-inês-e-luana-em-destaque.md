@@ -1,13 +1,15 @@
 ---
 title: Inês e Luana em destaque
 subname: |
-  Duas finalistas: Inês Vieira e Luana Serranho em destaque nos Estados Unidos 
+    Duas finalistas: Inês Vieira e Luana Serranho em destaque nos Estados Unidos
 featured: true
 publishDate: Mar 07, 2022-09:03:08
 image: /assets/uploads/utah_ines.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Luana Serranho** após ajudar Campbell a conquistar o título de campeã da Big South Regular Season, sagrou-se campeã da Big South. A equipa venceu Presbyterian em overtime para chegar à semi-final, depois venceu Gardner-Webb para atingir a final e por fim perdem frente a Longwodd, numa partida com muitos turnovers e de extrema eficácia por parte do adversário.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🗣 &quot;You just gotta fight until the last second.&quot;<a href="https://twitter.com/hashtag/SweatAndServe?src=hash&amp;ref_src=twsrc%5Etfw">#SweatAndServe</a> <a href="https://t.co/rSwb6d1WHF">pic.twitter.com/rSwb6d1WHF</a></p>&mdash; Campbell WBB (@GoCamelsWBB) <a href="https://twitter.com/GoCamelsWBB/status/1500291323752071174?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote>
@@ -16,13 +18,13 @@ A jovem base foi nomeada para a “Second Team All-Conference Big South”.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">‼️ 𝐒𝐞𝐜𝐨𝐧𝐝 𝐓𝐞𝐚𝐦 𝐀𝐥𝐥-𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 ‼️<br><br>Our PG and one of the toughest players in the Big South earns second team honors!<a href="https://twitter.com/hashtag/SweatAndServe?src=hash&amp;ref_src=twsrc%5Etfw">#SweatAndServe</a> <a href="https://t.co/XcJjguEF3S">pic.twitter.com/XcJjguEF3S</a></p>&mdash; Campbell WBB (@GoCamelsWBB) <a href="https://twitter.com/GoCamelsWBB/status/1498416047388463106?ref_src=twsrc%5Etfw">February 28, 2022</a></blockquote>
 
-**Inês Vieira** e Utah consumaram duas vitórias históricas, que permitiram a Utah alcançar a 1.ª semi-final e, logo de seguida, a 1.ª final do Pac-12 Tournament da história da Universidade. Utah e Inês Vieira saíram derrotadas na final, mas deixaram história escrita para a posteridade.<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not the outcome we wanted and still a lot to play for. <br><br>We&#39;ll be back. <a href="https://twitter.com/hashtag/GoUtes?src=hash&amp;ref_src=twsrc%5Etfw">#GoUtes</a> <a href="https://t.co/q6BLYnYs0F">pic.twitter.com/q6BLYnYs0F</a></p>&mdash; Utah Women’s Basketball (@UTAHWBB) <a href="https://twitter.com/UTAHWBB/status/1500635012961423364?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote> 
+**Inês Vieira** e Utah consumaram duas vitórias históricas, que permitiram a Utah alcançar a 1.ª semi-final e, logo de seguida, a 1.ª final do Pac-12 Tournament da história da Universidade. Utah e Inês Vieira saíram derrotadas na final, mas deixaram história escrita para a posteridade.<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not the outcome we wanted and still a lot to play for. <br><br>We&#39;ll be back. <a href="https://twitter.com/hashtag/GoUtes?src=hash&amp;ref_src=twsrc%5Etfw">#GoUtes</a> <a href="https://t.co/q6BLYnYs0F">pic.twitter.com/q6BLYnYs0F</a></p>&mdash; Utah Women’s Basketball (@UTAHWBB) <a href="https://twitter.com/UTAHWBB/status/1500635012961423364?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote>
 
 Numa divisão abaixo, **Mariana Silva Pereira** ajudou Denver MSU a tornar-se finalista e de seguida a sagrarem-se campeãs da conferência RMAC. Futuramente, segue-se o torneio NCAA da Divisão 2.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💃🏽WE ARE GOING DANCING 💃🏽 in Canyon, Texas as the #5 Seed in the NCAA Tournament!! <a href="https://twitter.com/hashtag/MarchMadness?src=hash&amp;ref_src=twsrc%5Etfw">#MarchMadness</a> <a href="https://twitter.com/hashtag/GetRowdy?src=hash&amp;ref_src=twsrc%5Etfw">#GetRowdy</a> <a href="https://twitter.com/hashtag/ringszn?src=hash&amp;ref_src=twsrc%5Etfw">#ringszn</a>💍 <a href="https://twitter.com/hashtag/beepbeep?src=hash&amp;ref_src=twsrc%5Etfw">#beepbeep</a> <a href="https://twitter.com/hashtag/ROADrunners?src=hash&amp;ref_src=twsrc%5Etfw">#ROADrunners</a> <a href="https://t.co/3frRhavDG8">pic.twitter.com/3frRhavDG8</a></p>&mdash; MSU Denver Women&#39;s Basketball (@MSUDenverWBB) <a href="https://twitter.com/MSUDenverWBB/status/1500691478342889475?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote>
 
-Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques da semana a par de **Lavínia** que continua a brilhar em terras nórdicas, desempenhando um papel fundamental no Njardvik, nos dois lados do campo. 
+Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques da semana a par de **Lavínia** que continua a brilhar em terras nórdicas, desempenhando um papel fundamental no Njardvik, nos dois lados do campo.
 
 ## Em terras de nuestras hermanas…
 
@@ -108,7 +110,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">𝐈𝐂𝐄 𝐈𝐍 𝐇𝐄𝐑 𝐕𝐄𝐈𝐍𝐒<br><br>Nobody more clutch than Luana Serranho.<a href="https://twitter.com/hashtag/SweatAndServe?src=hash&amp;ref_src=twsrc%5Etfw">#SweatAndServe</a> | <a href="https://twitter.com/hashtag/RollHumps?src=hash&amp;ref_src=twsrc%5Etfw">#RollHumps</a> <a href="https://t.co/K7Ub73zTWs">pic.twitter.com/K7Ub73zTWs</a></p>&mdash; Campbell WBB (@GoCamelsWBB) <a href="https://twitter.com/GoCamelsWBB/status/1500275149664358402?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote>
 
-\- Anotou 4 pontos, 2 ressaltos, 3 assistências e 2 roubos de bola em 31 minutos na pesada derrota sobre Longwood por 86-47. 
+\- Anotou 4 pontos, 2 ressaltos, 3 assistências e 2 roubos de bola em 31 minutos na pesada derrota sobre Longwood por 86-47.
 
 </br>
 
@@ -132,7 +134,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 \- Apontou 3 pontos, 1 ressalto, 2 assistência e 1 roubo de bola em 21 minutos, na vitória sobre Washington State. por 70-59.
 
-\- Anotou 3 pontos, 1 ressaltos, 2 assistência e 1 roubo de bola em 21 minutos na vitória frente a Washington State por 70-59. 
+\- Anotou 3 pontos, 1 ressaltos, 2 assistência e 1 roubo de bola em 21 minutos na vitória frente a Washington State por 70-59.
 
 \- Registou 1 ressalto em 8 minutos na derrota frente a Stanford, por 73-48.
 
@@ -144,7 +146,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 \- Marcou 7 pontos e 7 ressaltos em 20 minutos, na vitória frente a West Virginia por 74-57.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bigjordan13?ref_src=twsrc%5Etfw">@bigjordan13</a> not giving up on the play! Jordao scores on the first two possessions of the second to tie the game up, 14-14.<br><br>🌪🏀🌪 <a href="https://t.co/FiwtRImXYR">pic.twitter.com/FiwtRImXYR</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1500267811981176842?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bigjordan13?ref_src=twsrc%5Etfw">@bigjordan13</a> not giving up on the play! Jordao scores on the first two possessions of the second to tie the game up, 14-14.<br><br>🌪🏀🌪 <a href="https://t.co/FiwtRImXYR">pic.twitter.com/FiwtRImXYR</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1500267811981176842?ref_src=twsrc%5Etfw">March 6, 2022</a></blockquote>
 
 </br>
 
@@ -166,7 +168,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 \- Registou 6 pontos, 2 ressaltos e 2 assistências em 25 minutos jogados na derrota frente a Dakota State, por 86-59.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/tess_kms?ref_src=twsrc%5Etfw">@tess_kms</a> with a sweet fake and then scores it. <a href="https://twitter.com/summithoops?ref_src=twsrc%5Etfw">@summithoops</a> | <a href="https://twitter.com/MidcoSports?ref_src=twsrc%5Etfw">@MidcoSports</a> | <a href="https://twitter.com/hashtag/March2TheSummit?src=hash&amp;ref_src=twsrc%5Etfw">#March2TheSummit</a> | <a href="https://twitter.com/hashtag/TourneyHQ?src=hash&amp;ref_src=twsrc%5Etfw">#TourneyHQ</a><a href="https://twitter.com/hashtag/PioneerTogether?src=hash&amp;ref_src=twsrc%5Etfw">#PioneerTogether</a> | <a href="https://twitter.com/hashtag/OurHouse?src=hash&amp;ref_src=twsrc%5Etfw">#OurHouse</a> <a href="https://t.co/Jq6MtTKAbL">pic.twitter.com/Jq6MtTKAbL</a></p>&mdash; Denver Women&#39;s Hoops (@DU_WHoops) <a href="https://twitter.com/DU_WHoops/status/1500196780356550658?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/tess_kms?ref_src=twsrc%5Etfw">@tess_kms</a> with a sweet fake and then scores it. <a href="https://twitter.com/summithoops?ref_src=twsrc%5Etfw">@summithoops</a> | <a href="https://twitter.com/MidcoSports?ref_src=twsrc%5Etfw">@MidcoSports</a> | <a href="https://twitter.com/hashtag/March2TheSummit?src=hash&amp;ref_src=twsrc%5Etfw">#March2TheSummit</a> | <a href="https://twitter.com/hashtag/TourneyHQ?src=hash&amp;ref_src=twsrc%5Etfw">#TourneyHQ</a><a href="https://twitter.com/hashtag/PioneerTogether?src=hash&amp;ref_src=twsrc%5Etfw">#PioneerTogether</a> | <a href="https://twitter.com/hashtag/OurHouse?src=hash&amp;ref_src=twsrc%5Etfw">#OurHouse</a> <a href="https://t.co/Jq6MtTKAbL">pic.twitter.com/Jq6MtTKAbL</a></p>&mdash; Denver Women&#39;s Hoops (@DU_WHoops) <a href="https://twitter.com/DU_WHoops/status/1500196780356550658?ref_src=twsrc%5Etfw">March 5, 2022</a></blockquote>
 
 </br>
 
@@ -180,7 +182,7 @@ Aqui mesmo ao lado, **Josephine Filipe** e **Joana Ferreira** são os destaques 
 
 #### Mariana Pereira (MSU Denver WBB, NCAA D2 - Estados Unidos da América):
 
-\- Apontou 9 pontos e 1 ressalto em 12 minutos, na vitória frente a Seed Colorado Mesa por 74-59. 
+\- Apontou 9 pontos e 1 ressalto em 12 minutos, na vitória frente a Seed Colorado Mesa por 74-59.
 
 \- Anotou 5 pontos, 4 ressaltos, 2 assistências e 2 roubos de bola em 19 minutos na vitória frente a WestMinster por 75-66.
 

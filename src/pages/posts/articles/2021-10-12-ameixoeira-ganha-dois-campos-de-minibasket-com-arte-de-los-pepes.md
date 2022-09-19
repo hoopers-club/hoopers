@@ -5,8 +5,10 @@ featured: false
 publishDate: May 14th 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1620985372630-R6YEG95O24PQK353OECG/Ameixoeira+1.JPG?format=1500w
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 Os novos campos estão situados junto à piscina municipal de Santa Clara, no pólo desportivo e de lazer da zona, que já inclui um parque infantil e um skate park. A [Hoopers](https://www.hoopers.club/), plataforma de comunidade para jogadores e fãs de Basquetebol, a Galeria de Arte Urbana (Câmara Municipal de Lisboa) e a Junta de Freguesia de Santa Clara são os responsáveis do projeto e a intervenção artística fica a cargo de [Los Pepes](https://www.instagram.com/lospepesstudio/?hl=pt), a dupla de artistas urbanos cuja identidade se centra em padrões, formas abstratas e cores arrojadas.
@@ -19,7 +21,7 @@ Este é o primeiro campo icónico exclusivo de minibasquetebol do país e visa i
 
 <!--StartFragment-->
 
-“No espírito de comunidade que estamos a construir, não nos podemos esquecer dos mais novos que serão em breve o futuro da comunidade de fãs e praticantes de basquetebol. Queremos que se liguem com a modalidade e se divirtam a praticá-la com as suas famílias e amigos”, explica André Costa, co-fundador da Hoopers. 
+“No espírito de comunidade que estamos a construir, não nos podemos esquecer dos mais novos que serão em breve o futuro da comunidade de fãs e praticantes de basquetebol. Queremos que se liguem com a modalidade e se divirtam a praticá-la com as suas famílias e amigos”, explica André Costa, co-fundador da Hoopers.
 
 “Temos feito vários projetos para um público mais jovem, mas foi a primeira vez que pudemos colocar o nosso trabalho num pavimento de um campo desportivo. Estamos muito satisfeitos por termos tido a possibilidade de criar um novo espaço para as crianças, conferindo-lhe cores vibrantes e aproximando-as do desporto e da diversão”, referem Francisco e Meggie da dupla artística Los Pepes.
 

@@ -1,17 +1,19 @@
 ---
 title: Há um livro sobre "Os Melhores Anos" do Basquetebol
 subname: “Os Melhores Anos” do autor Edgar Macedo é um viagem no tempo pelas
-  histórias, episódios e protagonistas do nosso jogo de outros tempos.
-  Disponível gratuitamente em formato de e-book.
+    histórias, episódios e protagonistas do nosso jogo de outros tempos.
+    Disponível gratuitamente em formato de e-book.
 featured: false
 publishDate: Dec 14th 20
 image: /assets/uploads/69_banner_osmelhoresanos.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Numa altura em que o Natal se aproxima num contexto diferente àquele que estamos habituados, foi lançado o E-Book **“Os Melhores Anos”** escrito por **Edgar Macedo**, um apaixonado pela nossa modalidade e licenciado em Ciências da Comunicação.
 
-A inspiração para o projeto começou nas tão típicas viagens de autocarros nas deslocações de Norte a Sul do país para acompanhar os jogos da sua equipa, Os Belenenses, por onde passou como responsável de Comunicação e, mais tarde, como responsável da Secção de Basquetebol. Foram as histórias ouvidas na primeira pessoa de Sérgio Ramos, Jorge Afonso, Tiago Westenfeld, entre outros, que motivaram Edgar a iniciar este projeto: “*nós íamos jogar a algum lado e eu ficava ali sentado, a ouvir com toda a atenção, aquelas histórias deliciosas que perduraram naquelas memórias, mas que ainda não tinham sido contadas*”, afirma o autor do E-Book, Edgar Macedo.
+A inspiração para o projeto começou nas tão típicas viagens de autocarros nas deslocações de Norte a Sul do país para acompanhar os jogos da sua equipa, Os Belenenses, por onde passou como responsável de Comunicação e, mais tarde, como responsável da Secção de Basquetebol. Foram as histórias ouvidas na primeira pessoa de Sérgio Ramos, Jorge Afonso, Tiago Westenfeld, entre outros, que motivaram Edgar a iniciar este projeto: “_nós íamos jogar a algum lado e eu ficava ali sentado, a ouvir com toda a atenção, aquelas histórias deliciosas que perduraram naquelas memórias, mas que ainda não tinham sido contadas_”, afirma o autor do E-Book, Edgar Macedo.
 
 ![](/assets/uploads/divulgacao.png)
 

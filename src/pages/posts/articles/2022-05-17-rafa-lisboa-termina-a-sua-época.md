@@ -1,18 +1,20 @@
 ---
 title: Rafa Lisboa termina a sua época
 subname: |
-  Jeremiah vai jogar a negra na Série A2
+    Jeremiah vai jogar a negra na Série A2
 featured: true
 publishDate: May 17, 2022-11:05:68
 image: /assets/uploads/rafa_02.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A equipa de **Rafael Lisboa** caiu nos 1/32 de final frente ao Limburg, mas o internacional português encerrou a sua época com o sentimento de dever cumprido.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First season away from home ✅ Proud of the team that fought until the end. Proud of me, a lot of difficulties came up this season but I found the way to handle it. Thanks to <a href="https://twitter.com/spiroubasket?ref_src=twsrc%5Etfw">@spiroubasket</a> and God for giving me the chance to keep doing what I love. Summer is coming, time to work. <a href="https://t.co/BYHZNv041i">https://t.co/BYHZNv041i</a></p>&mdash; Rafa Lisboa (@rafalisboa28) <a href="https://twitter.com/rafalisboa28/status/1525869135670005760?ref_src=twsrc%5Etfw">May 15, 2022</a></blockquote>
 
-O jovem base registou as seguintes médias na época regular: **11.6 pontos (50.3 FG / 39.3 3P% / 85.0 FT), 2.8 ressaltos, 5.7 assistências (máximo de equipa), 1.4 roubos de bola (máximo de equipa).** Tudo isto em 23 minutos por jogo, num total de 19 jogos realizados. 
+O jovem base registou as seguintes médias na época regular: **11.6 pontos (50.3 FG / 39.3 3P% / 85.0 FT), 2.8 ressaltos, 5.7 assistências (máximo de equipa), 1.4 roubos de bola (máximo de equipa).** Tudo isto em 23 minutos por jogo, num total de 19 jogos realizados.
 
 **Jeremiah Wilson** está com um pé nos quartos de final da Série A2, sendo que a partida decisiva está marcada para esta quarta-feira. O Chiusi tem a seu favor o fator casa.
 
@@ -54,7 +56,7 @@ O jovem base registou as seguintes médias na época regular: **11.6 pontos (50.
 
 ![Rafael Lisboa](/assets/uploads/rafael_lisboa_março.jpeg "Rafael Lisboa")
 
-\- Apontou 6 pontos, 1 ressalto e 4 assistências na derrota frente ao Limburg, por 84-75. 
+\- Apontou 6 pontos, 1 ressalto e 4 assistências na derrota frente ao Limburg, por 84-75.
 
 \- Anotou 16 pontos, 4 ressaltos e 8 assistências na derrota frente ao Limburg, por 61-76.
 

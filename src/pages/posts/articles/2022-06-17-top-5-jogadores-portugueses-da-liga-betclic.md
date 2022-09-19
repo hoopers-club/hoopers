@@ -1,17 +1,19 @@
 ---
 title: Top 5 jogadores portugueses da Liga Betclic?
 subname: >
-  Quais são os jogadores nacionais que melhor se exibiram nesta edição 2021/2022
-  da Liga Betclic? 
+    Quais são os jogadores nacionais que melhor se exibiram nesta edição 2021/2022
+    da Liga Betclic?
 featured: true
 publishDate: Jun 17, 2022-11:06:36
 image: /assets/uploads/2022_06_17_top5tugas.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-A época 2021/2022 chegou ao fim e por isso decidimos identificar estes jogadores como merecedores do tão restrito Top 5: “Betinho” Gomes, Miguel Queiroz, Diogo Ventura, Francisco Amiel e “Litos” Cardoso. 
+A época 2021/2022 chegou ao fim e por isso decidimos identificar estes jogadores como merecedores do tão restrito Top 5: “Betinho” Gomes, Miguel Queiroz, Diogo Ventura, Francisco Amiel e “Litos” Cardoso.
 
 Menção honrosa para **Nuno Sá** (CAB Madeira) e **Francisco Amarante** (FC Porto).
 
@@ -27,7 +29,7 @@ O veterano das águias atuou na FIBA Europe Cup, onde ajudou o Benfica a avança
 
 <!--StartFragment-->
 
-O extremo sagrou-se campeão nacional pelo Benfica e ajudou assim o seu clube a vencer o 28º título de Campeão de Portugal. 
+O extremo sagrou-se campeão nacional pelo Benfica e ajudou assim o seu clube a vencer o 28º título de Campeão de Portugal.
 
 **Diogo Ventura (SCP)**
 
@@ -55,7 +57,7 @@ O Porto perdeu na final da Liga Betclic frente ao Benfica, numa série que termi
 
 <!--StartFragment-->
 
-**Carlos Cardoso (SCV)** 
+**Carlos Cardoso (SCV)**
 
 O jovem base de 24 anos somou 12.4 pontos (43.1% 2P, 34.6% 3P e 83.3% LL), 2.4 ressaltos, 3.2 assistências e 1.0 roubos de bola em 28.3 minutos em média ao longo de 30 jogos.
 

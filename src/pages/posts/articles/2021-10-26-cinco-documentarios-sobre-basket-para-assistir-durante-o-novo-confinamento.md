@@ -5,8 +5,10 @@ featured: true
 publishDate: May 28, 2022-00:05:00
 image: /assets/uploads/65_banner_cincodocs.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Preparámos um conjunto de sugestões - em adição àquelas que já tínhamos deixado neste [post](https://www.instagram.com/p/B-HLnOohRmd/) - de filmes, mini documentários e séries para assistires.
 
 Desde casos de corrupção na NCAA até à viagem de Dennis Rodman pela Coreia do Norte, ficam aqui as nossas dicas e sugestões:
@@ -31,13 +33,13 @@ Disponível gratuitamente no YouTube, este mini documentário produzido pela UNI
 
 **The Hermit Kingdom (2014)**
 
-Este mini documentário acompanha a viagem de **Dennis Rodman**, e outros três membros dos Harlem Globetrotters, na sua viagem pela Coreia do Norte. Produzido pela VICE, este conteúdo demonstra como é que o desporto e, em especial, o basket pode ser uma ferramenta diplomática, numa produção que gerou um conjunto de cenas no mínimo improváveis como uma animada conversa entre Rodman e Kim Jong-un, enquanto os Globetrotters enfrentavam a seleção norte-coreana. 
+Este mini documentário acompanha a viagem de **Dennis Rodman**, e outros três membros dos Harlem Globetrotters, na sua viagem pela Coreia do Norte. Produzido pela VICE, este conteúdo demonstra como é que o desporto e, em especial, o basket pode ser uma ferramenta diplomática, numa produção que gerou um conjunto de cenas no mínimo improváveis como uma animada conversa entre Rodman e Kim Jong-un, enquanto os Globetrotters enfrentavam a seleção norte-coreana.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IrCQh1usdzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **The Doctor (2013)**
 
-Produzidopelo canal NBA TV, este documentário, com cerca de uma hora, acompanha a carreira de **Julius Erving** - conhecido também como “Dr. J” - e a sua passagem pela ABA e NBA. Além do percurso de um dos maiores astros da história do basket, este filme conta também a explosão dos afundanços e o título conquistado pelos Philadelphia 76ers em 1983.  
+Produzidopelo canal NBA TV, este documentário, com cerca de uma hora, acompanha a carreira de **Julius Erving** - conhecido também como “Dr. J” - e a sua passagem pela ABA e NBA. Além do percurso de um dos maiores astros da história do basket, este filme conta também a explosão dos afundanços e o título conquistado pelos Philadelphia 76ers em 1983.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AKwXf0EQLhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

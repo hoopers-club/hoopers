@@ -5,8 +5,10 @@ featured: true
 publishDate: Mar 28, 2022-14:03:86
 image: /assets/uploads/lady_banner.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Beatriz Jordão** e **Iowa State** venceram os dois jogos das duas primeiras rondas do Torneio da NCAA, no entanto caíram na 3.ª ronda do March Madness e foram eliminadas da competição no Sweet 16.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extra 𝒔𝒘𝒆𝒆𝒕 week for these schools 🕺💃 <a href="https://twitter.com/MarchMadnessWBB?ref_src=twsrc%5Etfw">@MarchMadnessWBB</a> <a href="https://twitter.com/hashtag/MarchMadness?src=hash&amp;ref_src=twsrc%5Etfw">#MarchMadness</a> <a href="https://twitter.com/hashtag/Sweet16?src=hash&amp;ref_src=twsrc%5Etfw">#Sweet16</a> <a href="https://t.co/kPnXojRu0w">pic.twitter.com/kPnXojRu0w</a></p>&mdash; NCAA March Madness (@MarchMadnessMBB) <a href="https://twitter.com/MarchMadnessMBB/status/1506292229224251400?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote>

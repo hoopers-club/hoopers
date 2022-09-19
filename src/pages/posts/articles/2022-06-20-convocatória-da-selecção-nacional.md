@@ -5,17 +5,19 @@ featured: true
 publishDate: Jun 20, 2022-13:06:92
 image: /assets/uploads/2022_06_20_seleção.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-A Seleção Nacional de seniores masculinos iniciou a sua preparação hoje, dia 20 de junho. 
+A Seleção Nacional de seniores masculinos iniciou a sua preparação hoje, dia 20 de junho.
 
-A equipa das Quinas irá participar no Torneio Internacional de Viana, a começar a 23 e a terminar a 25 de junho. 
+A equipa das Quinas irá participar no Torneio Internacional de Viana, a começar a 23 e a terminar a 25 de junho.
 
 Os jogos do grupo E (vs Hungria e Montenegro) a contar para a fase de Qualificação para o Mundial 2023, começam no próximo mês, e irão ser jogados em Budapeste e em Odivelas.
 
-Relembro que Portugal perdeu todos os jogos até agora (4), apesar de se ter batido bem nos dois últimos jogos frente aos franceses, o jogo onde ficámos mais perto de ganhar foi contra a Hungria em casa (CDC Matosinhos), em que acabámos por perder 75-81. 
+Relembro que Portugal perdeu todos os jogos até agora (4), apesar de se ter batido bem nos dois últimos jogos frente aos franceses, o jogo onde ficámos mais perto de ganhar foi contra a Hungria em casa (CDC Matosinhos), em que acabámos por perder 75-81.
 
 <!--StartFragment-->
 
@@ -35,23 +37,23 @@ Também saímos derrotados no embate frente ao Montenegro, em Podgorica.
 
 23 de junho:
 
-Portugal x Eslováquia, 20h00 
+Portugal x Eslováquia, 20h00
 
 25 de junho:
 
-Ucrânia x Portugal, 18h00 
+Ucrânia x Portugal, 18h00
 
 **Grupo E, fase de Qualificação para o Mundial 2023**
 
-1 de julho: 
+1 de julho:
 
-Hungria x Portugal, 19h00 
+Hungria x Portugal, 19h00
 
 4 de julho:
 
 Portugal x Montenegro, 19h00
 
-Portugal precisa, imperativamente, de ganhar os dois jogos para poder passar à próxima fase. Posto isto, ainda necessita que o Montenegro e/ou a Hungria percam a totalidade dos jogos (2) e que a diferença de pontos nos seja favorável em confronto direto. 
+Portugal precisa, imperativamente, de ganhar os dois jogos para poder passar à próxima fase. Posto isto, ainda necessita que o Montenegro e/ou a Hungria percam a totalidade dos jogos (2) e que a diferença de pontos nos seja favorável em confronto direto.
 
 **Mário Gomes** manteve quase todos os mesmos jogadores que enfrentaram a França no passado mês de fevereiro com especial destaque para a saída de **Sasa Borovnjak** (Saint Chamond, LNB2) e para as entradas dos jovens: **Nuno Sá** (CAB Madeira, LPB) e **Ricardo Monteiro** (UD Oliveirense, LPB)**.**
 
@@ -70,9 +72,5 @@ Escrito por: **Martim Figueiredo**
 <!--StartFragment-->
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

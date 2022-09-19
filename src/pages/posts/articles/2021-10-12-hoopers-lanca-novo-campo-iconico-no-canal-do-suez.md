@@ -1,13 +1,15 @@
 ---
 title: Hoopers lança novo campo icónico no Canal do Suez
 subname: Hoopers abraça o projeto no Canal do Suez, que dará lugar ao primeiro
-  campo icónico de basquetebol no Egipto.
+    campo icónico de basquetebol no Egipto.
 featured: false
 publishDate: Apr 1st 21
 image: https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1617267384572-W24PF5YYQ7NQ2B11GGYQ/suezcover2.png?format=1500w
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 Foi, mais ou menos, de forma inesperada que chegou a abordagem para a criação de um campo icónico de basquetebol na pequena vila de **Manshiyet Rugola**, no Egipto. Se este local era desconhecido da maioria das pessoas até há bem pouco tempo, foi o navio encalhado no Canal do Suez que colocou esta povoação no mapa e nas bocas do mundo.

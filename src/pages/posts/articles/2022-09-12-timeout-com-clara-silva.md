@@ -1,41 +1,43 @@
 ---
 title: "Timeout com: Clara Silva "
 subname: |
-  Estivemos à conversa com a poste portuguesa!
+    Estivemos à conversa com a poste portuguesa!
 featured: true
 publishDate: Sep 12, 2022-12:09:80
 image: /assets/uploads/website_artigo_clara.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 \
 **Clara Silva é mais uma portuguesa a jogar no estrangeiro, mais especificamente, em Espanha ao serviço do Unicaja.**
 
-A internacional portuguesa nos escalões de formação começou o seu trajeto no Farense com 4 anos e onde permaneceu até rumar para o Imortal, já com 13 anos. Os pais foram os seus treinadores na maior parte desse período. 
+A internacional portuguesa nos escalões de formação começou o seu trajeto no Farense com 4 anos e onde permaneceu até rumar para o Imortal, já com 13 anos. Os pais foram os seus treinadores na maior parte desse período.
 
-De seguida, rumou para Espanha juntamente com o irmão, Hugo Silva, que atualmente está nos EUA. 
+De seguida, rumou para Espanha juntamente com o irmão, Hugo Silva, que atualmente está nos EUA.
 
 Na passada temporada registou 14.3 pontos, 9.4 ressaltos e 1.3 assistências em 7 jogos no Campeonato de Espanha, no escalão sub-16.
 
-Na Liga Feminina 2, ao serviço das seniores, somou 4.2 pontos, 5.0 ressaltos, 1.1 assistências, 0.9 desarmes de lançamento e 0.2 roubos de bola em 12 jogos. 
+Na Liga Feminina 2, ao serviço das seniores, somou 4.2 pontos, 5.0 ressaltos, 1.1 assistências, 0.9 desarmes de lançamento e 0.2 roubos de bola em 12 jogos.
 
 A jovem poste de 1 metro e 98 centímetros realizou uma brilhante exibição no Europeu sub-16 deste ano, sendo uma das jogadoras em destaque da prova.
 
-Neste campeonato da Europa, somou 10.6 pontos (36.7% 2P, 84.2% LL), 10.0 ressaltos, 2.7 assistências, 0.7 roubos de bola e 1.6 desarmes de lançamento em 28.6 minutos jogados ao longo de 7 jogos. 
+Neste campeonato da Europa, somou 10.6 pontos (36.7% 2P, 84.2% LL), 10.0 ressaltos, 2.7 assistências, 0.7 roubos de bola e 1.6 desarmes de lançamento em 28.6 minutos jogados ao longo de 7 jogos.
 
-Ocupou o 5 .º lugar na média de ressaltos por jogo e o 10.º na média de assistências por jogo. 
+Ocupou o 5 .º lugar na média de ressaltos por jogo e o 10.º na média de assistências por jogo.
 
 **Aqui fica a conversa que tivemos durante este timeout:**
 
 **Hoopers (H): Como avalias a época que terminou, do ponto de vista individual e coletivo?**
 
-**Clara Silva (CS)**: Acho que foi uma época bastante completa em termos de competição e desenvolvimento pessoal, consegui jogar com as seniores e participar nos pontos altos das sub 16 em Espanha, como os campeonatos de Andalucía e de Espanha, terminando a época com o campeonato da Europa. 
+**Clara Silva (CS)**: Acho que foi uma época bastante completa em termos de competição e desenvolvimento pessoal, consegui jogar com as seniores e participar nos pontos altos das sub 16 em Espanha, como os campeonatos de Andalucía e de Espanha, terminando a época com o campeonato da Europa.
 
-**H: Muitos treinadores e equipas técnicas de universidades norte-americanas vieram a Matosinhos ver-vos jogar. Os EUA são uma possibilidade?** 
+**H: Muitos treinadores e equipas técnicas de universidades norte-americanas vieram a Matosinhos ver-vos jogar. Os EUA são uma possibilidade?**
 
-**CS:** São uma forte possibilidade, foi sempre uma das minhas opções para o futuro. 
+**CS:** São uma forte possibilidade, foi sempre uma das minhas opções para o futuro.
 
 **H: Quais os aspetos do teu jogo onde te sentes melhor preparada? e onde é que achas que podes estar mais vulnerável?**
 
@@ -47,7 +49,7 @@ Ocupou o 5 .º lugar na média de ressaltos por jogo e o 10.º na média de assi
 
 **H: Portugal esteve muito bem no Europeu sub-16 onde foste a principal referência. Fala-nos do grupo e do desempenho na competição.**
 
-**CS:** Formamos um grupo incrível tanto dentro como fora do campo, tivemos quase 2 meses de preparação o que ajudou muito a equipa a conhecer-se e a criar o espírito de união que demonstrámos. 
+**CS:** Formamos um grupo incrível tanto dentro como fora do campo, tivemos quase 2 meses de preparação o que ajudou muito a equipa a conhecer-se e a criar o espírito de união que demonstrámos.
 
 **H: O que achaste das prestações nos diversos europeus onde as seleções femininas participaram e mostraram bastante qualidade?**
 
@@ -65,7 +67,7 @@ CS: Como a minha família sempre jogou basquetebol, foi uma coisa natural para m
 
 <a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Entrevista por:** Martim Figueiredo 
+**Entrevista por:** Martim Figueiredo
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

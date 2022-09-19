@@ -5,8 +5,10 @@ featured: true
 publishDate: Jul 10th 22
 image: /assets/uploads/06-2-.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
+
 <!--StartFragment-->
 
 Esta segunda-feira seria de folga para todas as equipas, mas houve a necessidade de dar recuperar as partidas que não tinham sido realizadas na passada semana em Carnide.

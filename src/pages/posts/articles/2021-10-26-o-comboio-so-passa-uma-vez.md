@@ -1,14 +1,16 @@
 ---
 title: O comboio só passa uma vez
 subname: Sara Guerreiro é uma das rookies da University of South Florida e
-  fala-nos das suas dúvidas e incertezas antes de se comprometer com o sonho
-  americano.
+    fala-nos das suas dúvidas e incertezas antes de se comprometer com o sonho
+    americano.
 featured: false
 publishDate: Oct 26th 20
 image: /assets/uploads/79_banner_sara.png
 author: Sara Guerreiro
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Queria falar-vos do meu processo de vinda para os Estados Unidos. Mas também das minhas dúvidas e das razões que me fizeram aceitar este desafio.
 
 Após o meu segundo ano no **CAR Jamor**, em simultâneo com a minha primeira época no **Quinta dos Lombos**, ao serviço do treinador **José Leite**, o meu percurso no basquetebol estava cada vez a fazer mais sentido. Estreei-me na Liga Feminina com apenas 16 anos, onde joguei bons minutos. Nessa época, ganhámos a Supertaça, a Taça da Federação e acabámos em segundo lugar no campeonato.
@@ -49,7 +51,7 @@ Em fevereiro, fiz a visita oficial com os meus pais à universidade para ver o m
 
 Para mim, a despedida foi a pior parte. Chorei durante as primeiras horas no avião. Tinha deixado a família, amigos e namorado para trás. Evito sempre pensar nesse momento.
 
-Quando cheguei, tinha uma das treinadoras adjuntas e a Beatriz Jordão à minha espera. Fui muito bem recebida e cheguei aos apartamentos do *campus* por volta das 21h. Felizmente, já tinha uma cama com lençóis e uma manta à minha espera para dormir. Mais tarde, tive que ir comprar coisas para decorar o meu quarto.
+Quando cheguei, tinha uma das treinadoras adjuntas e a Beatriz Jordão à minha espera. Fui muito bem recebida e cheguei aos apartamentos do _campus_ por volta das 21h. Felizmente, já tinha uma cama com lençóis e uma manta à minha espera para dormir. Mais tarde, tive que ir comprar coisas para decorar o meu quarto.
 
 > **“Claro que à primeira não fiz tudo no tempo. Parecia impossível depois de tanto tempo parada. Demorei duas semanas, até conseguir fazer tudo. Mas fiz.”**
 

@@ -5,15 +5,17 @@ featured: true
 publishDate: Sep 06, 2022-10:09:07
 image: /assets/uploads/2022_09_06_mercado.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 O mercado fechou e os planteis das equipas que disputam a principal Liga de Basquetebol em Portugal já estão definidos. Será que o Benfica vai conseguir fazer o Bi? Será esta época em que o Porto quebra o jejum de títulos? O Sporting regressa mais forte deste mercado? Deixem os vossos palpites!
 
 **BENFICA - campeão em título**
 
-José Barbosa, Diogo Gameiro, Toney Douglas, Aaron Brousard, Tomás Barroso, Sérgio Silva, James Ellisor, Ivan Almeida, José Silva, Mor Laye Diop, João “Betinho” Gomes, Makram Ben Romdhane, Eduardo Francisco, Terrell Carter e Maik Zirbes. 
+José Barbosa, Diogo Gameiro, Toney Douglas, Aaron Brousard, Tomás Barroso, Sérgio Silva, James Ellisor, Ivan Almeida, José Silva, Mor Laye Diop, João “Betinho” Gomes, Makram Ben Romdhane, Eduardo Francisco, Terrell Carter e Maik Zirbes.
 
 Treinador: Noberto Alves
 
@@ -23,31 +25,31 @@ Francisco Amarante, Miguel Maria Cardoso, Charlon Kloof, Max Landis, Teyvon Myer
 
 Treinador: Fernando Sá
 
-**SPORTING** 
+**SPORTING**
 
-Marcus LoVett Jr, Diogo Ventura, Tanner Omlid, Diogo Araújo, DJ Fenner, Travante Williams,Isaiah Armwood, João Fernandes, António Monteiro, Marko Loncovic, Ricardo Monteiro e Ivica Radić, 
+Marcus LoVett Jr, Diogo Ventura, Tanner Omlid, Diogo Araújo, DJ Fenner, Travante Williams,Isaiah Armwood, João Fernandes, António Monteiro, Marko Loncovic, Ricardo Monteiro e Ivica Radić,
 
 Treinador: Pedro Nuno
 
-“Nota Bem”: Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino. 
+“Nota Bem”: Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino.
 
 **OLIVEIRENSE**
 
-André Bessa, Malcolm Richardson, João Balseiro, Arnette Hallman, Henrique Barros, André Amado, Elijah Wilson, 
+André Bessa, Malcolm Richardson, João Balseiro, Arnette Hallman, Henrique Barros, André Amado, Elijah Wilson,
 
-Treinador: João Figueiredo 
+Treinador: João Figueiredo
 
-Falta ocupar uma vaga de jogador estrangeiro. 
+Falta ocupar uma vaga de jogador estrangeiro.
 
 **CAB MADEIRA**
 
 Jorge Embaló, Diogo Peixe, Bernardo Ferreira, Tomás Dias, Matt Johnson, Gage Sabean, Nuno Sá, Jett Speelman, Michael Almonacy, AJ Cheeseman, Cláudio Fonseca…
 
-Treinador: João Paulo Silva 
+Treinador: João Paulo Silva
 
 **LUSITÂNIA**
 
-Miguel Romão, Eduardo Tomé, Derek Jackson, Pedro Oliveira, Sérgio Alves, Guilherme Rocha, Ryan Weber. Justin Edler-Davis, Lamine Banora, Matt Faw, Thomas Bruce, Daniel Relvão, Fernando Ferreira, Ivan Mutombene, 
+Miguel Romão, Eduardo Tomé, Derek Jackson, Pedro Oliveira, Sérgio Alves, Guilherme Rocha, Ryan Weber. Justin Edler-Davis, Lamine Banora, Matt Faw, Thomas Bruce, Daniel Relvão, Fernando Ferreira, Ivan Mutombene,
 
 Treinador: Nuno Barroso
 
@@ -57,7 +59,7 @@ Jaques Conceição, Guilherme Saiote, Fábio Lima, Terry Nolan Jr, Emanuel Sá, 
 
 Treinador: Luís Modesto
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **CD PÓVOA**
 
@@ -65,7 +67,7 @@ Nuno Oliveira, João Embaló, Diogo Gomes, Paulo Sereno, Jorge Rodrigues, Eduard
 
 Treinador: José Ricardo
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **OVARENSE**
 
@@ -79,7 +81,7 @@ Treinador: João Tiago Silva
 
 Treinador: Miguel Miranda
 
-Falta ocupar vaga de jogador estrangeiro. 
+Falta ocupar vaga de jogador estrangeiro.
 
 **ESGUEIRA**
 
@@ -99,7 +101,7 @@ Treinador: Emanuel Silva
 
 <a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Entrevista por:** Martim Figueiredo 
+**Entrevista por:** Martim Figueiredo
 
 <a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

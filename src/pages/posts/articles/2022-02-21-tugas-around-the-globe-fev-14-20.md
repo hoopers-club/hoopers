@@ -1,24 +1,22 @@
 ---
 title: Tugas Around The Globe (Fev. 14-20)
 subname: André Cruz, dos Western Wyoming Mustangs Basketball, foi um dos
-  destaques da semana.
+    destaques da semana.
 featured: true
 publishDate: Feb 21st, 2022-11:00:00
 image: /assets/uploads/andre.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A poucos dias da paragem para seleções, é importante destacar as exibições dos nossos jogadores portugueses, principalmente aqueles que se encontram a jogar no estrangeiro e longe de casa.
 
 A paragem irá ser marcada por dois jogos, os dois frente à França, sendo o primeiro a 24/02 e o segundo a 27/02, a contar para o apuramento para o Mundial de 2023.
 
 Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e Rúben Prey, a atuar em duas competições diferentes, foram os destaques da semana. (PS: ambos internacionais sub-16 e sub-20, respetivamente, em 2021)
 
-
-
 ## Em terras de nuestros hermanos…
-
-
 
 #### **Gonçalo Delgado (Basquet Girona, LEB Oro – Espanha).**
 
@@ -48,39 +46,27 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 
 \- Apontou 7 pontos, 7 ressaltos, 4 assistências e 1 roubo de bola em 26 minutos, na vitória de Chantada sobre o CB La Flecha por 77-58.
 
-
-
 ## Em França fala-se português…
-
-
 
 #### **Sasa Borovnjak (Saint Chamond Basket, ProB – França):**
 
 \- Não jogou esta semana.
 
-
-
 ## Pela restante Europa…
-
-
 
 #### **Rafael Lisboa (Spirou Charleroi, BNXT League – Bélgica):**
 
 \- Anotou 6 pontos, 2 ressaltos e 3 assistências na vitória derrota frente ao Oostende por 100-90.
 
-\- Apontou 12 pontos, 2 ressaltos e 9 assistências na vitória fora de casa frente ao Leuven Bears, por 87-92. 
+\- Apontou 12 pontos, 2 ressaltos e 9 assistências na vitória fora de casa frente ao Leuven Bears, por 87-92.
 
 #### **Jeremiah Wilson (San Giobbe Chiusi Basket, Série A2 – Itália):**
 
-\- Apontou 10 pontos, 11 ressaltos e 1 assistência na derrota frente ao Ferrara, por 70-72. 
+\- Apontou 10 pontos, 11 ressaltos e 1 assistência na derrota frente ao Ferrara, por 70-72.
 
 \- Marcou 12 pontos e 4 ressaltos em 27 minutos na vitória do Chiusi por 77-60.
 
-
-
 ## **Nos States…**
-
-
 
 #### **André Cruz (Western Wyoming Mustangs Basketball, NJCAA - Estados Unidos da América)**
 
@@ -89,8 +75,6 @@ Olhando para os mais jovens, André Cruz, campeão de conferência em Wyoming e 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">CWC 65<br>WWCC 75<br><br>Pierce 22Pts 9Rebs<br>Cruz 15Pts 9Rebs<br>Prim 12Pts 8Rebs<br>Trost 11Pts 4Rebs<br><br>Mustangs improve to 24-3 &amp; 8-1!<br><br>Next game is Saturday vs. Casper! <br><br>Sophomore Night!<a href="https://twitter.com/hashtag/PonyUp?src=hash&amp;ref_src=twsrc%5Etfw">#PonyUp</a> 🐴🐎</p>&mdash; Western Wyoming Mustangs Basketball (@wwccmbb) <a href="https://twitter.com/wwccmbb/status/1494167071512350721?ref_src=twsrc%5Etfw">February 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 \- Registou 15 pontos e 6 ressaltos na vitória frente a Casper por 73-77
-
-
 
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para info@hoopers.club
 

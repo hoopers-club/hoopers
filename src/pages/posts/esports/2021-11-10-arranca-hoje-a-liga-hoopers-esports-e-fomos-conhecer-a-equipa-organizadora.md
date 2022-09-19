@@ -5,8 +5,10 @@ featured: false
 publishDate: Feb 4th 21
 image: /assets/uploads/58_banner_arrancahoje.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Basquetebol. Há mil e uma formas de poder começar este texto, mas não há nenhuma palavra, que aos nossos olhos, faça tão sentido como a palavra **basquetebol**.
 
 Este foi o desporto que esteve na origem de tudo, desde o dia em que todos nós nos conhecemos, até ao dia de hoje, em que estamos a escrever estas palavras.
@@ -27,7 +29,7 @@ Com o passar do tempo, e com aquilo que é o ciclo normal da vida, alguns de nó
 >
 > \- Equipa organizadora da Liga Hoopers eSports
 
-Começámos por criar a nossa equipa. Depois, começámos a criar as nossas próprias competições, semelhantes a esta que está prestes a começar. Rapidamente nos apercebemos do crescimento exponencial que esta indústria tem vindo a apresentar, bem como o número alargado de pessoas que acabam por estar envolvidos: jogadores, *casters*, fãs e ainda patrocinadores. É, sem dúvida, um novo paradigma que se impõe, não só em Portugal, como nos principais mercados mundiais.
+Começámos por criar a nossa equipa. Depois, começámos a criar as nossas próprias competições, semelhantes a esta que está prestes a começar. Rapidamente nos apercebemos do crescimento exponencial que esta indústria tem vindo a apresentar, bem como o número alargado de pessoas que acabam por estar envolvidos: jogadores, _casters_, fãs e ainda patrocinadores. É, sem dúvida, um novo paradigma que se impõe, não só em Portugal, como nos principais mercados mundiais.
 
 Depois de estabelecermos a nossa equipa de eSports, voltámos a puxar pela nossa iniciativa e pela ligação ao basquetebol para darmos o passo seguinte. Acabamos por estar todos ligados à nossa modalidade, como jogadores ou treinadores, e sabendo da necessidade de permanececer em casa durante um novo período de confinamento, sentimo-nos na obrigação de fazer algo pela nossa comunidade. E foi assim que nasceu a ideia de criarmos uma liga de eSports de NBA 2K.
 
@@ -35,7 +37,7 @@ E como o foco na comunidade foi uma das nossas inspirações, fazia todo o senti
 
 O nossos objetivos para esta 1ª edição são de diversos tipos. Por um lado, queremos criar “boas desculpas” para manter as pessoas em casa e reforçar a sua ligação durante este período. Por outro lado, queremos despertar um interesse cada vez maior da comunidade do eSports no basquetebol.
 
-Arranca hoje esta 1ª edição e contamos com [prémios](https://www.instagram.com/p/CKZkV8-hBiY/) financeiros e da **Hoopers**. Estão inscritas **12 equipas** e **mais de 80 jogadores**, que nos irão brindar com os seus melhores *moves* ao comando e uma competição que promete ser bastante renhida.
+Arranca hoje esta 1ª edição e contamos com [prémios](https://www.instagram.com/p/CKZkV8-hBiY/) financeiros e da **Hoopers**. Estão inscritas **12 equipas** e **mais de 80 jogadores**, que nos irão brindar com os seus melhores _moves_ ao comando e uma competição que promete ser bastante renhida.
 
 Acompanha tudo na página da **[Liga Hoopers eSports](https://www.instagram.com/hoopers_esports/)** e na **Hoopers**.
 

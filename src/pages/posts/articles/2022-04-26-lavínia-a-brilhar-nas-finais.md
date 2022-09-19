@@ -5,11 +5,13 @@ featured: true
 publishDate: Apr 26, 2022-15:04:40
 image: /assets/uploads/lady_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Maria Bettencourt** e **Sofia da Silva** são os principais destaques das suas equipas, que atuam no principal Liga de Basquetebol em Espanha, na jornada deste fim de semana.
 
-A **Joana Ferreira** brilhou nos 3 jogos desta semana, acabando por perder na semifinal da Liga Feminina 2 e o Ártemis não conseguiu a desejada subida. 
+A **Joana Ferreira** brilhou nos 3 jogos desta semana, acabando por perder na semifinal da Liga Feminina 2 e o Ártemis não conseguiu a desejada subida.
 
 Na Islândia, o Njardvik, de **Lavínia Silva**, está nas finais dos playoffs após ter vencido nas meias-finais por 3-1, o 1.º classificado, Fjolnir. As finais entretanto já começaram e a série está empatada 1-1.
 
@@ -37,7 +39,7 @@ Na Islândia, o Njardvik, de **Lavínia Silva**, está nas finais dos playoffs a
 
 #### Marcy Gonçalves (Osés Construcción Ardoi, Liga Feminina Challenge - Espanha): 
 
-\- Apontou 2 pontos, 6 ressaltos, 1 assistência e 3 roubos de bola em 29 minutos na derrota frente ao Granada, por 65-48. 
+\- Apontou 2 pontos, 6 ressaltos, 1 assistência e 3 roubos de bola em 29 minutos na derrota frente ao Granada, por 65-48.
 
 #### Josephine Filipe (Osés Construcción Ardoi, Liga Feminina Challenge- Espanha)
 
@@ -45,7 +47,7 @@ Na Islândia, o Njardvik, de **Lavínia Silva**, está nas finais dos playoffs a
 
 #### Joana Ferreira (Fustecma Nou Basquet Castello, Liga Feminina 2 – Espanha):
 
-\- Anotou 3 pontos, 1 ressalto, 2 assistências em 26 minutos jogados, na vitória frente ao Adareva, por 57-53. Não jogaram neste fim de semana. 
+\- Anotou 3 pontos, 1 ressalto, 2 assistências em 26 minutos jogados, na vitória frente ao Adareva, por 57-53. Não jogaram neste fim de semana.
 
 \- Apontou 15 pontos, 3 ressaltos, 3 assistências e 1 bola roubada em 27 minutos jogados, na vitória frente ao Geieg, por 71-54.
 
@@ -77,7 +79,7 @@ Na Islândia, o Njardvik, de **Lavínia Silva**, está nas finais dos playoffs a
 
 \- Época chegou ao fim.
 
-Nos **Estados Unidos da América**, as atletas portuguesas entraram já na sua *off-season*.
+Nos **Estados Unidos da América**, as atletas portuguesas entraram já na sua _off-season_.
 
 Redação: Martim Figueiredo
 

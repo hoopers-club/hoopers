@@ -1,20 +1,22 @@
 ---
 title: As bonitas caminhadas de Carvalho e Jordão.
 subname: |
-  Março é para dançar!
+    Março é para dançar!
 featured: true
 publishDate: Mar 14, 2022-10:03:08
 image: /assets/uploads/beatriz.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Depois de um fim de semana de loucos, onde **Inês Vieira** e **Luana Serranho** estiveram em duas finais importantíssimas (ambas saíram derrotadas), damos conta de mais uma semana recheada de fases finais de Conferência.
 
 Relembrar também que **Mariana Silva Pereira** foi a única jogadora portuguesa no fim de semana passado a vencer um título de conferência (RMAC) na NCAA (Divisão 2).
 
 Já esta semana, **Beatriz Jordão** e Iowa State venceram os quartos de final do torneio da conferência Big-12, no entanto perderam na meia-final da prova. Ficamos a aguardar agora pela seleção para o mas a equipa segue para o NCAA Tournament, juntamente com **Sara Barata** (South Florida) e Inês Vieira (Utah). Estamos com vocês!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We battled until the end, but fell short. <br><br>Thank you for the unbelievable support in Kansas City. <br><br>🌪️🏀🌪️ <a href="https://t.co/BRaj1SLWpH">pic.twitter.com/BRaj1SLWpH</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1502775726797312005?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We battled until the end, but fell short. <br><br>Thank you for the unbelievable support in Kansas City. <br><br>🌪️🏀🌪️ <a href="https://t.co/BRaj1SLWpH">pic.twitter.com/BRaj1SLWpH</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1502775726797312005?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote>
 
 Já **Maria Carvalho** viria a ser nomeada para “All-WAC Second Team” na sua quarta época onde tem vindo a registar médias de alto nível: 13.5 pontos, 4.6 ressaltos e 3.4 assistências.
 
@@ -26,9 +28,9 @@ Em termos competitivos, a sua equipa perdeu esta sexta-feira frente a Stephen F.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">⏱️ FINAL - OT | Texas Woman&#39;s 90, <a href="https://twitter.com/hashtag/MSUDenver?src=hash&amp;ref_src=twsrc%5Etfw">#MSUDenver</a> 83<br><br>🏀Great effort and great season by MSU Denver<br>🏀 <a href="https://twitter.com/BondsTosjanae?ref_src=twsrc%5Etfw">@BondsTosjanae</a>: career-high 26 pts, 5 stls <br>🏀 <a href="https://twitter.com/parra_kendra?ref_src=twsrc%5Etfw">@parra_kendra</a>: 23 pts, 5 rebs <br>🏀 <a href="https://twitter.com/mogriego?ref_src=twsrc%5Etfw">@mogriego</a>: 12 pts, 10 rebs <a href="https://twitter.com/hashtag/GetRowdy?src=hash&amp;ref_src=twsrc%5Etfw">#GetRowdy</a>🔴🔵 <a href="https://t.co/7OHNu5sOzh">pic.twitter.com/7OHNu5sOzh</a></p>&mdash; MSU Denver Women&#39;s Basketball (@MSUDenverWBB) <a href="https://twitter.com/MSUDenverWBB/status/1502487712812580871?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote>
 
-Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silva** e **Joana Ferreira** são os destaques da semana, a par de **Lavínia** que continua a brilhar em terras nórdicas, desempenhando um papel fundamental no Njardvik, nos dois lados do campo. 
+Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silva** e **Joana Ferreira** são os destaques da semana, a par de **Lavínia** que continua a brilhar em terras nórdicas, desempenhando um papel fundamental no Njardvik, nos dois lados do campo.
 
-## Em terras de nuestras hermanas…   
+## Em terras de nuestras hermanas…
 
 </br>
 
@@ -60,7 +62,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Anotou 4 pontos, 3 ressaltos e 1 assistência em 22 minutos jogados, na derrota do Córdoba frente ao Adareva, por 74-61.
 
-## Pela restante Europa…     
+## Pela restante Europa…
 
 </br>
 
@@ -74,7 +76,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Não jogou esta semana.
 
-## Estados Unidos da América dominados …    
+## Estados Unidos da América dominados …
 
 </br>
 
@@ -86,7 +88,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Registou 7 pontos, 6 ressaltos, 2 assistência e 1 roubo de bola na derrota contra SFA, por 42-68.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This floater by Maria gives the Wolverines a 10-0 start in the second quarter!<a href="https://twitter.com/hashtag/GoUVU?src=hash&amp;ref_src=twsrc%5Etfw">#GoUVU</a> <a href="https://twitter.com/hashtag/UVU?src=hash&amp;ref_src=twsrc%5Etfw">#UVU</a> <a href="https://twitter.com/hashtag/WACVegas?src=hash&amp;ref_src=twsrc%5Etfw">#WACVegas</a> <a href="https://t.co/UwVPOCikGX">pic.twitter.com/UwVPOCikGX</a></p>&mdash; UVU Women&#39;s Basketball (@UVUwbb) <a href="https://twitter.com/UVUwbb/status/1502381047094202369?ref_src=twsrc%5Etfw">March 11, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This floater by Maria gives the Wolverines a 10-0 start in the second quarter!<a href="https://twitter.com/hashtag/GoUVU?src=hash&amp;ref_src=twsrc%5Etfw">#GoUVU</a> <a href="https://twitter.com/hashtag/UVU?src=hash&amp;ref_src=twsrc%5Etfw">#UVU</a> <a href="https://twitter.com/hashtag/WACVegas?src=hash&amp;ref_src=twsrc%5Etfw">#WACVegas</a> <a href="https://t.co/UwVPOCikGX">pic.twitter.com/UwVPOCikGX</a></p>&mdash; UVU Women&#39;s Basketball (@UVUwbb) <a href="https://twitter.com/UVUwbb/status/1502381047094202369?ref_src=twsrc%5Etfw">March 11, 2022</a></blockquote>
 
 #### Luana Serranho (Campbell WBB, NCAA - Estados Unidos da América)
 
@@ -110,7 +112,7 @@ Aqui mesmo ao lado e sem surpresa nenhuma: **Marcy Gonçalves**, **Sofia da Silv
 
 \- Apontou 8 pontos, 5 ressaltos, 1 assistência e 1 desarme de lançamento em 20 minutos, na derrota em overtime, na meia-final do torneio da conferência Big 12, frente a Texas por 82-73.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bigjordan13?ref_src=twsrc%5Etfw">@bigjordan13</a> FOR THREE!<br><br>She connects on the first 3-point make of her career in OT.<br><br>🌪️🏀🌪️ <a href="https://t.co/4IlB9H5Yg2">pic.twitter.com/4IlB9H5Yg2</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1502772833461673984?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bigjordan13?ref_src=twsrc%5Etfw">@bigjordan13</a> FOR THREE!<br><br>She connects on the first 3-point make of her career in OT.<br><br>🌪️🏀🌪️ <a href="https://t.co/4IlB9H5Yg2">pic.twitter.com/4IlB9H5Yg2</a></p>&mdash; Cyclone Basketball (@CycloneWBB) <a href="https://twitter.com/CycloneWBB/status/1502772833461673984?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote>
 
 #### Sara Guerreiro (South Florida, NCAA– Estados Unidos da América):
 

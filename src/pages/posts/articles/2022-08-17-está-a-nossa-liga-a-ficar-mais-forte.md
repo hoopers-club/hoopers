@@ -5,8 +5,10 @@ featured: true
 publishDate: Aug 17, 2022-17:08:97
 image: /assets/uploads/frank-gaines-1-new.webp
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 A temporada 2022/23 da Liga Betclic já está em preparação por parte dos emblemas que irão disputar a competição. O SL Benfica entra com o estatuto de campeão, depois de arrebatar o título na temporada passada diante do FC Porto, que também promete lutar por conquistas. Já o Sporting CP, que havia conquistado os restantes títulos: Taça de Portugal e Taça Hugo dos Santos, também fez várias mexidas na equipa para atacar a competição.
@@ -31,7 +33,7 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 **Permanências:** Francisco Amarante, Miguel Queiroz, Vlad Voytso, Danjel Purifoy, Max Landis, Charlon Kloof, Tiago Almeida
 
-**SPORTING** 
+**SPORTING**
 
 **Entradas:** Marcus LoVett Jr. (ex-Salon Vilpas, Finlândia), Isaiah Armwood (ex-Siauliai, Lituânia), DJ Fenner (ex-MKS Dabrowa Gornicza, Polónia), Marko Loncovic (ex-Galomar), Ricardo Monteiro (ex-Oliveirense), Ivica Radic (ex-Levski Lukoil, Bulgária)
 
@@ -39,7 +41,7 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 **Permanências:** Diogo Ventura, Travante Williams, Tanner Omlid, António Monteiro, João Fernandes, Diogo Araújo
 
-**“Nota Bem”:** Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino. 
+**“Nota Bem”:** Travante Williams foi recentemente naturalizado português, contudo continua a ocupar uma vaga de jogador estrangeiro no plantel leonino.
 
 **OLIVEIRENSE**
 
@@ -49,7 +51,7 @@ Além dos três grandes, também existem várias mexidas nas restantes equipas, 
 
 **Permanências:** João Balseiro, Rui França, Francisco Albergaria
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **CAB MADEIRA**
 
@@ -59,7 +61,7 @@ Falta ocupar vagas de jogador estrangeiro. 
 
 **Permanências:** Jorge Embaló, Tomás Dias, Cláudio Fonseca, Nuno Sá, Bernardo Ferreira, Diogo Peixe
 
-Falta ocupar uma vaga de jogador estrangeiro. 
+Falta ocupar uma vaga de jogador estrangeiro.
 
 **LUSITÂNIA**
 
@@ -77,17 +79,17 @@ Falta ocupar uma vaga de jogador estrangeiro. 
 
 **Permanências:** Fábio Lima, Emanuel Sá, Rui Quintino, Jonathan Silva, Filip Gewert, Salvador Victo, João Assis, Jason Catarino
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **CD PÓVOA**
 
-**Entradas:** Ainda não existem contratações anunciadas pelo clube. 
+**Entradas:** Ainda não existem contratações anunciadas pelo clube.
 
-**Saídas:** Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders, Diego Kapelan 
+**Saídas:** Delaney Blaylock (HLA Alicante, Espanha), Sérgio Duarte, Nakye Sanders, Diego Kapelan
 
 **Permanências:** Nuno Oliveira, João Embaló, Diogo Gomes, Paulo Sereno, Jorge Rodrigues, Eduardo Coelho, Guilherme Nunes, Eduardo Santos, Bernardo Bergmann
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **OVARENSE**
 
@@ -105,30 +107,30 @@ Permanências: André Palavra, Rúben Sona, Gustavo Teixeira, Pedro Lascasas, Ro
 
 **Permanências:** “Litos” Cardoso, Manuel Magalhães
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **ESGUEIRA**
 
-**Entradas:** Pedro Catarino (ex-Oliveirense), Hugo Sotta (ex-Vitória de Guimarães), Sascha Kappos (ex-Humacao, Cuba), Rubinho Mendes (ex-Galitos), Kobi Nwandu (ex-Niagara, EUA), Biniam Ghebrekdian 
+**Entradas:** Pedro Catarino (ex-Oliveirense), Hugo Sotta (ex-Vitória de Guimarães), Sascha Kappos (ex-Humacao, Cuba), Rubinho Mendes (ex-Galitos), Kobi Nwandu (ex-Niagara, EUA), Biniam Ghebrekdian
 
 **Saídas:** Pedro Seabra, João Barata Guerreiro (Maia), Sean Lloyd, Henrique Barros (Oliveirense), Miguel Bastos (GC Olhanense), Bernardo Neves, Gonçalo Madureira, André Silva
 
-**Permanências:** António Monteiro, Francisco Nunes, Bolon Sauané, Ryan Ogden, 
+**Permanências:** António Monteiro, Francisco Nunes, Bolon Sauané, Ryan Ogden,
 
-Falta ocupar vagas de jogador estrangeiro. 
+Falta ocupar vagas de jogador estrangeiro.
 
 **SANGALHOS**
 
 **Entradas:** Jack Hemphill (ex-St. Francis Terriers, EUA), Avery Diggs (ex-Univ. Chattanooga Mocs, EUA), Justin Stovall (ex-Wisconsin Platteville, EUA), Nikita Kasongo (ex-Saint Mary's Huskies, Canadá), Abrian Edwards (ex-Kamza Basket Tirana, Albânia), Aniel Brito (ex-Marinhense)
 
-**Saídas:** Ângelo Oliveira 
+**Saídas:** Ângelo Oliveira
 
 **\
 Permanências:** Marco Correia, Miguel Calado, João Neves, Tiago Barreto, Francisco Santiago, Bernardo Almeida, João Martinho, Gonçalo Julião, Diogo Silva
 
 <!--EndFragment-->
 
-Informação retirada de fontes oficiais dos clubes, jornal O Jogo, redes sociais dos atletas, entre outros. 
+Informação retirada de fontes oficiais dos clubes, jornal O Jogo, redes sociais dos atletas, entre outros.
 
 **Redação:** Hoopers
 

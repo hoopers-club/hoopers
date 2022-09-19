@@ -5,16 +5,18 @@ featured: true
 publishDate: Mar 24, 2022-15:03:50
 image: https://www.fpb.pt/wp-content/uploads/2022/03/Sporting-vs.-Benfica-8.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
 O derby lisboeta colocou frente a frente, o 2° lugar, Benfica, e o 1°, Sporting e em causa a luta pela liderança da competição. Os encarnados saíram por cima e subiram ao topo da tabela classificativa da Liga Betclic, numa partida pautada pelo domínio benfiquista. O jogo fica marcado pela ausência de Travante Williams do lado dos leões.
 
 <!--EndFragment-->
 
-* 5 inicial Benfica: José Barbosa, Frank Gaines, Ivan Almeida, Makram Ben Romdhane e Wendell Lewis.
-* 5 inicial Sporting: Miguel Maria Cardoso, Tanner Omlid, Micah Downs, João Fernandes e Joshua Patton.
+-   5 inicial Benfica: José Barbosa, Frank Gaines, Ivan Almeida, Makram Ben Romdhane e Wendell Lewis.
+-   5 inicial Sporting: Miguel Maria Cardoso, Tanner Omlid, Micah Downs, João Fernandes e Joshua Patton.
 
 <!--StartFragment-->
 
@@ -44,7 +46,7 @@ O Sporting viu os seus melhores jogadores ficarem carregados de faltas (Tanner O
 
 <!--StartFragment-->
 
-No regresso após o intervalo, a equipa de Norberto Alves continuou a controlar a partida e ao leme do jogo exterior cavaram uma vantagem pontual de 20 pontos. O Sporting não conseguiu recuperar o foco e regressar ao jogo, algo que ainda não se tinha visto na presente temporada. 
+No regresso após o intervalo, a equipa de Norberto Alves continuou a controlar a partida e ao leme do jogo exterior cavaram uma vantagem pontual de 20 pontos. O Sporting não conseguiu recuperar o foco e regressar ao jogo, algo que ainda não se tinha visto na presente temporada.
 
 Algumas dificuldades na organização do ataque tanto com Miguel Maria como com Diogo Ventura na posição 1. Micah Downs e Tanner Omlid não conseguiram assumir o jogo e o Benfica ia dando bons sinais, com Ivan Almeida e Frank Gaines a contribuir para a pontuação mas a ser Ben Romdhane o jogador mais influente na partida.
 
@@ -80,7 +82,7 @@ O recém contratado, Ivan Almeida abriu o livro e a carimbou uma excelente exibi
 
 <!--StartFragment-->
 
-O jogo terminou 73 x 89, com o Sporting a sair derrotado em casa e a sofrer a primeira derrota da época frente ao Benfica e a primeira derrota em casa frente ao rival desde o regresso da modalidade, quebrando a sequência de 10 vitórias consecutivas frente ao eterno rival. 
+O jogo terminou 73 x 89, com o Sporting a sair derrotado em casa e a sofrer a primeira derrota da época frente ao Benfica e a primeira derrota em casa frente ao rival desde o regresso da modalidade, quebrando a sequência de 10 vitórias consecutivas frente ao eterno rival.
 
 <!--EndFragment-->
 
@@ -94,7 +96,7 @@ O Benfica conquistou 47 ressaltos no total, mais 14 que o Sporting (33), o que s
 
 <!--StartFragment-->
 
-**Facto interessante:** 
+**Facto interessante:**
 
 O Benfica já não vencia o Sporting desde 2 de novembro de 2019.
 
@@ -106,7 +108,7 @@ O Benfica já não vencia o Sporting desde 2 de novembro de 2019.
 
 <!--StartFragment-->
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Eis os melhores momentos do dérbi lisboeta! <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/pGeey3LgC3">pic.twitter.com/pGeey3LgC3</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1506791573526355977?ref_src=twsrc%5Etfw">March 24, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Eis os melhores momentos do dérbi lisboeta! <a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/pGeey3LgC3">pic.twitter.com/pGeey3LgC3</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1506791573526355977?ref_src=twsrc%5Etfw">March 24, 2022</a></blockquote>
 
 <!--EndFragment-->
 

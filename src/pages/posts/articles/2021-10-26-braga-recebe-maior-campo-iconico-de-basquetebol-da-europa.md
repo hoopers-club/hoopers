@@ -1,14 +1,16 @@
 ---
 title: Braga recebe maior campo icónico de basquetebol da Europa
 subname: Projeto promovido pelo Município de Braga e a Hoopers, com intervenção
-  de arte urbana de Contra, cria o maior campo de basquetebol icónico de rua da
-  Europa.
+    de arte urbana de Contra, cria o maior campo de basquetebol icónico de rua da
+    Europa.
 featured: false
 publishDate: Aug 17th 20
 image: /assets/uploads/127_banner_braga.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 O polidesportivo de **São José (Enguardas)**, em Braga, foi alvo de uma intervenção de arte urbana realizada pelo artista **[Contra](https://www.instagram.com/contra.rua/)**, tornando-se assim no **maior campo de basquetebol de rua da Europa**. Esta é uma iniciativa promovida pelo **Município de Braga** e a **Hoopers**.
 
 O artista **[Contra](https://www.instagram.com/contra.rua/)** agarrou nesta tela com cerca de **1000 metros quadrados** e transformou-a no maior campo icónico de Basquetebol da Europa. O espaço conta com o primeiro **campo exclusivo de 3x3** em Portugal, com medidas oficiais e preparado para receber competições da FIBA, entre outras utilizações possíveis nas **sete tabelas** do campo.  O recinto estará ao aberto ao público e a sua utilização será totalmente gratuita.

@@ -5,13 +5,15 @@ featured: true
 publishDate: Jul 18th 22
 image: /assets/uploads/geral_dia2_17092022-399.jpg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-summer-article.astro
 ---
+
 <!--StartFragment-->
 
 No passado domingo chegou ao fim a 1ª edição da Hoopers Summer League, numa tarde marcada por muito basquetebol, emoção e espetáculo.\
 \
-No (bem composto) pavilhão da Quinta dos Lombos, a tarde de domingo arrancou com o jogo All Star da competição, onde as equipas presentes se fizeram representar pelos atletas que mais se evidenciaram durante toda a prova. 
+No (bem composto) pavilhão da Quinta dos Lombos, a tarde de domingo arrancou com o jogo All Star da competição, onde as equipas presentes se fizeram representar pelos atletas que mais se evidenciaram durante toda a prova.
 
 Eis os eleitos para marcar presença neste jogo:
 
@@ -77,7 +79,7 @@ Começaram melhor na partida os Los Gordos, a conseguirem uma vantagem na casa d
 
 Do lado da equipa vencedora, o destaque acabaria por ser Bruno Araújo, autor de 17 pontos, 7 ressaltos e 3 roubos de bola. Na equipa que atuou de azul, também Luís Faial (14 pontos), Fernando Sassinda (13 pontos) e Jorge Embaló (12 pontos) estiveram em bom plano. Na equipa dos Los Gordos, o destaque foi para a dupla composta por Gonçalo Soares (23 pontos, 5 ressaltos e 3 assistências) e Miguel Bastos (23 pontos e 5 ressaltos), que apesar das excelentes exibições, não conseguiram garantir a vitória para a sua equipa.
 
-Chegou assim ao fim a 1ª edição da Hoopers Summer League, um evento que pretende afirmar-se como a principal Liga de Verão do Basquetebol português durante os próximos anos. Deixamos o agradecimento a todos os participantes pelo seu espírito, companheirismo e postura positiva que nos ajudaram a levar a cabo esta edição. Um agradecimento muito especial a todos os árbitros, oficiais de mesa, responsáveis de estatística e voluntários que nos ajudaram durante estas semanas, e também a todos os parceiros do evento: 
+Chegou assim ao fim a 1ª edição da Hoopers Summer League, um evento que pretende afirmar-se como a principal Liga de Verão do Basquetebol português durante os próximos anos. Deixamos o agradecimento a todos os participantes pelo seu espírito, companheirismo e postura positiva que nos ajudaram a levar a cabo esta edição. Um agradecimento muito especial a todos os árbitros, oficiais de mesa, responsáveis de estatística e voluntários que nos ajudaram durante estas semanas, e também a todos os parceiros do evento:
 
 **Alguns números e dados desta edição:**
 

@@ -1,16 +1,18 @@
 ---
 title: “Cara ou Coroa” é o novo campo icónico de Lisboa da autoria de Edis e Pariz
 subname: A dupla falou sobre o percurso na arte urbana, a sua ligação com o
-  desporto e o futuro.
+    desporto e o futuro.
 featured: false
 publishDate: May 9th 21
 image: /assets/uploads/21_banner_caraoucoroa.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 <!--StartFragment-->
 
-“Cara ou Coroa'' é o projeto que levou os artistas [Edis](https://www.instagram.com/edis1official/) e [Pariz](https://www.instagram.com/parizone/) a intervencionar o campo de jogos localizado na Estrada do Calhariz de Benfica. Fomos conhecer a dupla de *street artist*, que tem o seu atelier sediado no bairro onde aconteceu esta intervenção, que nos contou acerca do seu percurso como dupla, a sua ligação ao desporto, o que os inspirou para concretizar esta intervenção e um dos seus próximos projetos, onde irão homenagear **Ticha Penicheiro**, a Rainha do Basquetebol portugiês, na sua terra natal.
+“Cara ou Coroa'' é o projeto que levou os artistas [Edis](https://www.instagram.com/edis1official/) e [Pariz](https://www.instagram.com/parizone/) a intervencionar o campo de jogos localizado na Estrada do Calhariz de Benfica. Fomos conhecer a dupla de _street artist_, que tem o seu atelier sediado no bairro onde aconteceu esta intervenção, que nos contou acerca do seu percurso como dupla, a sua ligação ao desporto, o que os inspirou para concretizar esta intervenção e um dos seus próximos projetos, onde irão homenagear **Ticha Penicheiro**, a Rainha do Basquetebol portugiês, na sua terra natal.
 
 <!--EndFragment-->
 
@@ -26,9 +28,9 @@ Para Edis e Pariz: “As pessoas do bairro são as mais importantes, porque nós
 
 **2**. **Como é que começaram a trabalhar juntos?**
 
-**Edis (E):** A nossa paixão começou em 2010/2011. 
+**Edis (E):** A nossa paixão começou em 2010/2011.
 
-**P:** Em 2011/2012, começámos a pintar juntos. Vimos de duas gerações, quase uma a seguir à outra, mas ainda assim muito distantes. Eu comecei a pintar em 1999 e ele em 2007 e, portanto, há aí um *gap*. Mas ele (Edis) foi um artista emergente da geração dele. Quando nos conhecemos, começamos a colaborar e a coisa correu muito bem entre os dois. Houve uma certa sintonia e desde então, adquirimos o nosso atelier e começámos a trabalhar juntos. Cada um tem o seu nome individual, cada um tem os seus projetos individuais, às vezes com outros artistas, mas sobretudo, diariamente, somos nós os dois a trabalhar juntos.
+**P:** Em 2011/2012, começámos a pintar juntos. Vimos de duas gerações, quase uma a seguir à outra, mas ainda assim muito distantes. Eu comecei a pintar em 1999 e ele em 2007 e, portanto, há aí um _gap_. Mas ele (Edis) foi um artista emergente da geração dele. Quando nos conhecemos, começamos a colaborar e a coisa correu muito bem entre os dois. Houve uma certa sintonia e desde então, adquirimos o nosso atelier e começámos a trabalhar juntos. Cada um tem o seu nome individual, cada um tem os seus projetos individuais, às vezes com outros artistas, mas sobretudo, diariamente, somos nós os dois a trabalhar juntos.
 
 <!--EndFragment-->
 
@@ -38,9 +40,9 @@ Para Edis e Pariz: “As pessoas do bairro são as mais importantes, porque nós
 
 **3. Pariz, antes de trabalhares com Edis, o que marcava o teu trabalho?**
 
-**P:** O grafitti, no geral, é um trabalho muito individual. É um artista a trabalhar pelo seu nome e numa busca constante pelo seu estilo. Depois tens a vertente do graffiti real. O graffiti real vem de uma cooperação - daí haver aquilo a que chamamos de *crew*. Nós trabalhamos em *crew*. As *crews* têm-se perdido um bocado, nos últimos anos, mas é uma coisa que sempre houve e que ficou. E isso é normal, trabalhares com outras pessoas.
+**P:** O grafitti, no geral, é um trabalho muito individual. É um artista a trabalhar pelo seu nome e numa busca constante pelo seu estilo. Depois tens a vertente do graffiti real. O graffiti real vem de uma cooperação - daí haver aquilo a que chamamos de _crew_. Nós trabalhamos em _crew_. As _crews_ têm-se perdido um bocado, nos últimos anos, mas é uma coisa que sempre houve e que ficou. E isso é normal, trabalhares com outras pessoas.
 
-Nos grandes trabalhos tem de haver o ‘sumo’, a ‘salsa’, dos dois artistas no mesmo trabalho. Quando já trabalhas há muito tempo com alguém, é fácil, porque já conheces o estilo da outra pessoa. 
+Nos grandes trabalhos tem de haver o ‘sumo’, a ‘salsa’, dos dois artistas no mesmo trabalho. Quando já trabalhas há muito tempo com alguém, é fácil, porque já conheces o estilo da outra pessoa.
 
 **E:** Nós temos o nosso estilo de graffiti, que já, por natureza, é uma simbiose, mesmo pintando afastados, os estilos já se misturam porque já trabalhamos há muitos anos juntos. Dentro dessa prática e dessa técnica, quando temos estes grandes projetos, é fácil unirmos os dois estilos porque essa mistura foi crescendo naturalmente.
 
@@ -56,9 +58,9 @@ Nos grandes trabalhos tem de haver o ‘sumo’, a ‘salsa’, dos dois artista
 
 **E:** Bola de berlim…
 
-**P:** (Ri) Sim, mas sou grande fã do desporto e reconheço a necessidade do desporto não só nos jovens, mas também nos mais velhos. É uma boa oportunidade para fazerem coisas em conjunto. 
+**P:** (Ri) Sim, mas sou grande fã do desporto e reconheço a necessidade do desporto não só nos jovens, mas também nos mais velhos. É uma boa oportunidade para fazerem coisas em conjunto.
 
-**E:** Eu sempre fiz desporto. Agora ando de *bike* e faço *calisthenics*. Mas sim, sempre estive ligado ao desporto.
+**E:** Eu sempre fiz desporto. Agora ando de _bike_ e faço _calisthenics_. Mas sim, sempre estive ligado ao desporto.
 
 <!--EndFragment-->
 

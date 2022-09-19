@@ -1,17 +1,19 @@
 ---
 title: "Timeout com: Maria Carvalho "
 subname: |+
-  Estivemos à conversa com a mais recente Aggie  
+    Estivemos à conversa com a mais recente Aggie  
 
 featured: true
 publishDate: May 27, 2022-10:05:89
 image: /assets/uploads/2022_05_27_timeout_maria_carvalho.jpg
 author: Hooerps
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 **Hoopers (H): Como avalias a tua quarta temporada nos EUA? Tanto a nível pessoal como coletivo? Sentes que existe um tratamento diferente por não seres americana, numa equipa universitária tão nacional e num país que valoriza tanto o “jogador americano”?**
 
-**Maria Carvalho (MC):** A minha quarta temporada correu melhor que as temporadas anteriores. Evolui bastante, mas acho que tenho capacidades para fazer ainda melhor. Necessito apenas de um treinador com quem possa personalizar o meu treino para melhorar alguns detalhes. A minha passagem pela UVU (Utah Valley University), foi uma experiência incrível onde aprendi muito e evolui bastante, mas eu precisava de ter um treinador específico para bases como aconteceu no meu primeiro ano. Após a mudança de treinadores fiquei sem essa possibilidade e, por isso, quase toda a evolução que tive nas últimas três épocas foi muitas vezes à custa do meu próprio trabalho dentro e fora de campo. 
+**Maria Carvalho (MC):** A minha quarta temporada correu melhor que as temporadas anteriores. Evolui bastante, mas acho que tenho capacidades para fazer ainda melhor. Necessito apenas de um treinador com quem possa personalizar o meu treino para melhorar alguns detalhes. A minha passagem pela UVU (Utah Valley University), foi uma experiência incrível onde aprendi muito e evolui bastante, mas eu precisava de ter um treinador específico para bases como aconteceu no meu primeiro ano. Após a mudança de treinadores fiquei sem essa possibilidade e, por isso, quase toda a evolução que tive nas últimas três épocas foi muitas vezes à custa do meu próprio trabalho dentro e fora de campo.
 
 Não me sinto diferente de ninguém, toda a gente me aceita e nem me vêem como uma jogadora internacional. Como já domino a língua como se fosse nativa, muitas vezes as pessoas ficam surpreendidas pelo facto de eu ser Portuguesa. Já lá vão muitos anos nos Estados Unidos e, neste momento, sinto-me totalmente incluída no plantel e no título de “jogadora americana”. Se me tivesses perguntado isso há quatro anos atrás a resposta seria bem diferente.
 
@@ -22,7 +24,6 @@ Não me sinto diferente de ninguém, toda a gente me aceita e nem me vêem como 
 Os estilos de jogo já não são assim tão diferentes. Antes eu achava que o jogo em Portugal era mais pensado comparado com os EUA, mas hoje em dia acho que já não está assim. Talvez devido ao facto da nossa Liga contar com diversas jogadoras americanas ao longo dos últimos anos. Uma das coisas que me obrigou a ajustar foi aprender a lidar com a distância da família. Às vezes os dias são difíceis, falta sempre aquele carinho e proximidade com a nossa família, o que pode afetar uma jogadora que não esteja preparada psicologicamente para esta situação, mas em termos táticos e físicos não há muita diferença.
 
 “Para mim o basquetebol é apenas 10% jogado. O resto é cabeça, dedicação e alma!”
-
 
 **H: Quais as equipas que tens seguido mais nos tempos livres ou até mesmo para complementares o teu jogo? Tens algum role model? Ou jogador que procures copiar? Algum ídolo?**
 
@@ -43,6 +44,6 @@ A USU tem outra projeção nos EUA e, por isso, irei ter, seguramente, muitos ma
 
 **Redação:** Hoopers
 
-**Entrevista por:** Martim Figueiredo 
+**Entrevista por:** Martim Figueiredo
 
 <!--EndFragment-->

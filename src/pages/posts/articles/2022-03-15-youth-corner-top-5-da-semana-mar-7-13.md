@@ -1,14 +1,16 @@
 ---
 title: "Youth Corner: Top 5 da semana (Mar. 7-13)"
 subname: |
-  Poucos minutos para os jovens portugueses nesta jornada
+    Poucos minutos para os jovens portugueses nesta jornada
 featured: true
 publishDate: Mar 15, 2022-10:03:47
 image: /assets/uploads/youth_corner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-*É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.*
+
+_É a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic._
 
 **Francisco Amarante**, base internacional chamado na última convocatória por **Mário Gomes**, apontou 8 pontos, 1 ressalto e 4 assistências, na vitória do Porto frente ao Imortal, por 83-87.
 
@@ -18,9 +20,9 @@ layout: ../../../Layout/single-article.astro
 
 Num conjunto onde três jogadores estrangeiros **(Delaney Blaylock, Nakye Sanders e Diego Kapelan)** somaram, em conjunto, 52 de 57 pontos da equipa, os poveiros perderam por 71-57.
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🏀 <a href="https://twitter.com/SCLusitania?ref_src=twsrc%5Etfw">@SCLusitania</a> 71-57 <a href="https://twitter.com/cdpbasquetebol?ref_src=twsrc%5Etfw">@cdpbasquetebol</a> <br>🏆 𝐋𝐢𝐠𝐚 𝐁𝐞𝐭𝐜𝐥𝐢𝐜 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐚 (21.ª jornada)<br>📍 Pav. Mun. Angra do Heroísmo <br>⭐ <a href="https://twitter.com/Icegood5?ref_src=twsrc%5Etfw">@Icegood5</a> (27pts, 5res, 5ast)<br>📊 <a href="https://t.co/FlKOzZV11y">https://t.co/FlKOzZV11y</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1503096401747746819?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🏀 <a href="https://twitter.com/SCLusitania?ref_src=twsrc%5Etfw">@SCLusitania</a> 71-57 <a href="https://twitter.com/cdpbasquetebol?ref_src=twsrc%5Etfw">@cdpbasquetebol</a> <br>🏆 𝐋𝐢𝐠𝐚 𝐁𝐞𝐭𝐜𝐥𝐢𝐜 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐚 (21.ª jornada)<br>📍 Pav. Mun. Angra do Heroísmo <br>⭐ <a href="https://twitter.com/Icegood5?ref_src=twsrc%5Etfw">@Icegood5</a> (27pts, 5res, 5ast)<br>📊 <a href="https://t.co/FlKOzZV11y">https://t.co/FlKOzZV11y</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1503096401747746819?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote>
 
-**Gustavo Teixeira** registou 2 pontos e 2 ressaltos frente ao CAB Madeira, num jogo que terminou com vitória dos insulares por 88-82. Nesse mesmo jogo, **Diogo Peixe** somou 2 pontos, 1 ressalto e 2 assistências ao serviço do CAB Madeira. 
+**Gustavo Teixeira** registou 2 pontos e 2 ressaltos frente ao CAB Madeira, num jogo que terminou com vitória dos insulares por 88-82. Nesse mesmo jogo, **Diogo Peixe** somou 2 pontos, 1 ressalto e 2 assistências ao serviço do CAB Madeira.
 
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">🏀 <a href="https://twitter.com/CabMadeira?ref_src=twsrc%5Etfw">@CabMadeira</a> 88-82 <a href="https://twitter.com/OvarenseBasquet?ref_src=twsrc%5Etfw">@OvarenseBasquet</a> <br>🏆 𝐋𝐢𝐠𝐚 𝐁𝐞𝐭𝐜𝐥𝐢𝐜 𝐌𝐚𝐬𝐜𝐮𝐥𝐢𝐧𝐚 (21.ª jornada)<br>📍 Pavilhão do CAB<br>⭐ 𝗝𝗮𝗹𝗮𝗻 𝗠𝗰𝗖𝗹𝗼𝘂𝗱 (22pts, 1res, 11ast, 3rb)<br>📊 <a href="https://t.co/HrwgiDM581">https://t.co/HrwgiDM581</a><a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1502690446488879107?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote>
 

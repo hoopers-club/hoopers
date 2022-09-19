@@ -1,16 +1,18 @@
 ---
 title: Rúben Prey é campeão nacional em Espanha.
 subname: |
-  Rafael Lisboa, Sasa Borovnjak e Jeremiah Wilson em bom plano.
+    Rafael Lisboa, Sasa Borovnjak e Jeremiah Wilson em bom plano.
 featured: true
 publishDate: May 12, 2022-14:05:68
 image: /assets/uploads/tugas_banner.jpeg
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Tivemos 3 portugueses a participar no campeonato nacional de juniores de Espanha:
 
-**Diogo Seixas** termina a temporada e junta-se ao lote de pré-convocados para o Europeu sub-20 Divisão A deste ano. 
+**Diogo Seixas** termina a temporada e junta-se ao lote de pré-convocados para o Europeu sub-20 Divisão A deste ano.
 
 **Rúben Prey** é campeão nacional de Espanha em juniores (em Huelva).
 
@@ -20,7 +22,7 @@ O jovem poste internacional sub-16 no ano passado, registou diversos duplos dupl
 
 **Tiago Teixeira Dias** esteve em destaque e terminou em 5 lugar após vencer o 5º lugar da prova, frente ao Barcelona.
 
-**Gonçalo Delgado** continua a não ter muitos minutos na fase mais crucial do campeonato, ficando na sombra do incontornável Marc Gasol, jogador e presidente do clube de Girona. 
+**Gonçalo Delgado** continua a não ter muitos minutos na fase mais crucial do campeonato, ficando na sombra do incontornável Marc Gasol, jogador e presidente do clube de Girona.
 
 **Rafael Lisboa** jogou esta semana os Playoffs da Liga Belga, onde o Spirou perdeu 2-1 na série frente ao Leuven Bears. Esta semana disputa os 1/32 de final frente ao Limburg. Boa sorte Rafa!
 
@@ -30,7 +32,7 @@ O jovem poste internacional sub-16 no ano passado, registou diversos duplos dupl
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Playoff GRINDTIME! 📈 <a href="https://t.co/Ep5ttBHFWF">pic.twitter.com/Ep5ttBHFWF</a></p>&mdash; Jeremiah Wilson (@J_wil_win) <a href="https://twitter.com/J_wil_win/status/1523325381788508160?ref_src=twsrc%5Etfw">May 8, 2022</a></blockquote>
 
-</br> 
+</br>
 
 ## Em terras de nuestros hermanos…
 
@@ -99,8 +101,6 @@ O jovem poste internacional sub-16 no ano passado, registou diversos duplos dupl
 Se jogas no estrangeiro e queres que publiquemos os teus jogos, envia-nos um email para **info@hoopers.club**
 
 Escrito por: **Martim Figueiredo**
-
-
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

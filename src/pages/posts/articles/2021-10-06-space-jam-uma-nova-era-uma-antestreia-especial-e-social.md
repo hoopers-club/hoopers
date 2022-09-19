@@ -1,14 +1,16 @@
 ---
 title: "Space Jam Uma Nova Era: Uma antestreia especial e social"
 subname: A ação promoveu o primeiro contacto de muitos destes jovens com o
-  universo do Basquetebol.
+    universo do Basquetebol.
 featured: false
 publishDate: Jul 14th 21
 image: /assets/uploads/8_banner_social.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
-É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme **“Space Jam Uma Nova Era”**, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na **Hoopers**, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da **Warner Bros Portugal** e da **Cinemundo**, ao lado de convidados muito especiais. 
+
+É já esta quinta feira (dia 15 de Julho) que chega aos cinemas o filme **“Space Jam Uma Nova Era”**, um dos mais aguardados por todos os fãs de basquetebol, dos melhores jogadores da NBA e, claro, dos Looney Tunes. Mas nós na **Hoopers**, já tivemos a oportunidade de marcar presença na antestreia do filme (versão dobrada em português), a convite da **Warner Bros Portugal** e da **Cinemundo**, ao lado de convidados muito especiais.
 
 ![Créditos: AMRT Transcultural / Ubuntu Basket](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626186777431-N5WWQRKZJV6SQ6D4MABQ/antestreia.jpeg?format=2500w "Créditos: AMRT Transcultural / Ubuntu Basket")
 
@@ -22,7 +24,7 @@ A “[Associação de Moradores do Per 11](https://www.facebook.com/per.onze.338
 
 Ainda em Lisboa, quem também marcou presença foram os jovens da [AMRT Ubuntu Basket](https://www.facebook.com/amrt.ubuntu.basket). A AMRT (Associação para a Mudança e Representação Cultural), com sede no Concelho de Loures, tem como missão trabalhar para a integração e inclusão da comunidade migrante. Em 2007, teve a coragem de criar a equipa Ubuntu Basket, que hoje em dia já conta com equipas em diversões.
 
-Já a Norte, foram alguns jovens pertencentes ao projeto [“Biquinha em Ação”](https://www.facebook.com/biquinhaemacao/), que passaram uma manhã de diferente no sábado passado. Esta iniciativa, desenvolvida pela ADEIMA (Associação para o Desenvolvimento Integrado de Matosinhos), promove a inclusão social de crianças e jovens moradores no Conjunto Habitacional da Biquinha, e tem como objetivo aumentar as competências sociais e escolares das crianças. 
+Já a Norte, foram alguns jovens pertencentes ao projeto [“Biquinha em Ação”](https://www.facebook.com/biquinhaemacao/), que passaram uma manhã de diferente no sábado passado. Esta iniciativa, desenvolvida pela ADEIMA (Associação para o Desenvolvimento Integrado de Matosinhos), promove a inclusão social de crianças e jovens moradores no Conjunto Habitacional da Biquinha, e tem como objetivo aumentar as competências sociais e escolares das crianças.
 
 ![](https://images.squarespace-cdn.com/content/v1/5f217fac8e24187c674282cd/1626186829006-WOZ7IMZC15V16FM1SJT3/biquinha.jpeg?format=2500w "Créditos: AMRT Transcultural / Ubuntu Basket")
 

@@ -1,24 +1,24 @@
 ---
 title: APPFB e a importância do Preparador Físico no Basquetebol Nacional
 subname: A APPFB nasceu em plena pandemia para reconhecer, regular e representar
-  a figura do preparador físico no Basquetebol Nacional.
+    a figura do preparador físico no Basquetebol Nacional.
 featured: false
 publishDate: Sep 2nd 20
 image: /assets/uploads/108_banner_appfb.png
 author: APPFB
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 A **[Associação Portuguesa de Preparadores Físicos de Basquetebol (APPFB)](https://www.instagram.com/appfbasquetebol/)**, tem como missão reconhecer, regular e representar a figura do Preparador Físico de Basquetebol em Portugal.
 
-Atualmente, têm-se empenhado nessa missão os preparadores físicos **Pedro Maio** (*BC Barcelos*); **Jorge Arede** (*BC Vila Real*); **Luís Catarino** (*UD Oliveirense*); **Miguel Sousa** (*Combine Academy - EUA*); **Rafael Vaz** (*Club Melilla Baloncesto - Espanha*); **André Ferreira** (*FC Porto*); **Tiago Sousa** (*CAB Madeira*); **Nuno Bompastor** (*CD José Régio*); **João Araújo** (*SC Coimbrões*) e **Nuno Couceiro** (*Sampaense Basket*), que têm encontrado como grande desafio a ausência de reconhecimento da profissão de **“Preparador Físico”** do ponto de vista legal, de forma geral, e no basquetebol em particular.
+Atualmente, têm-se empenhado nessa missão os preparadores físicos **Pedro Maio** (_BC Barcelos_); **Jorge Arede** (_BC Vila Real_); **Luís Catarino** (_UD Oliveirense_); **Miguel Sousa** (_Combine Academy - EUA_); **Rafael Vaz** (_Club Melilla Baloncesto - Espanha_); **André Ferreira** (_FC Porto_); **Tiago Sousa** (_CAB Madeira_); **Nuno Bompastor** (_CD José Régio_); **João Araújo** (_SC Coimbrões_) e **Nuno Couceiro** (_Sampaense Basket_), que têm encontrado como grande desafio a ausência de reconhecimento da profissão de **“Preparador Físico”** do ponto de vista legal, de forma geral, e no basquetebol em particular.
 
 Nesse sentido, têm enveredado esforços no sentido de definir as habilitações e competências essenciais para o desempenho da profissão com uma qualidade de intervenção elevada, com vista à otimização do rendimento do jogador de basquetebol, independentemente da sua etapa de desenvolvimento.
 
 ![Créditos: APPFB](/assets/uploads/appfb_01.jpeg "Créditos: APPFB")
 
 Créditos: APPFB
-
-
 
 Este primeiro passo é decisivo para educar para a importância da profissão, promover o trabalho com profissionais de diferentes áreas e permitir a defesa dos direitos dos profissionais desta área de atividade específica.
 

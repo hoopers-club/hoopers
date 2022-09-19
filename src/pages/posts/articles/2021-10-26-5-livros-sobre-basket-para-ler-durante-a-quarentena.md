@@ -1,21 +1,23 @@
 ---
 title: 5 livros sobre basket para ler durante a quarentena
 subname: >+
-  A rivalidade entre Bird e Johnson, os segredos de Phil Jackson, a mentalidade
-  de Kobe Bryant e muito mais: são algumas das nossas sugestões de leitura.
+    A rivalidade entre Bird e Johnson, os segredos de Phil Jackson, a mentalidade
+    de Kobe Bryant e muito mais: são algumas das nossas sugestões de leitura.
 
 featured: false
 publishDate: Feb 5th 21
 image: /assets/uploads/56_banner_cincolivros.png
 author: Hoopers
+published: true
 layout: ../../../Layout/single-article.astro
 ---
+
 Lá diz o ditado popular que “o saber não ocupa lugar” e, por isso, preparámos cinco sugestões de leitura para ajudar a passar o tempo durante este período de confinamento. Histórias de treinadores, jogadores, vivências e experiências, mas sobretudo um conjunto de livros que pode ocupar a estantes dos amantes da nossa modalidade.
 
 Aqui ficam as nossas sugestões de leitura:
 
 **1. Onze Anéis - A alma do sucesso  (Phil Jackson)**\
-Phil Jackson narra como conseguiu alcançar inacreditáveis 11 anéis de campeão da NBA. Modesto, o treinador natural do estado norte-americado do Montana, poderia ainda ter acrescentado os dois anéis que conquistou como jogador, quando atuava na posição de poste pelos New York Knicks. Neste livro, Phil Jackson partilha como foi trabalhar com duas equipas mais inesquecíveis da história do basket: os **Chicago Bulls** e os **Los Angeles Lakers**. É também uma aula de liderança, aspecto fundamental para domar e elevar génios como Michael Jordan, Kobe Bryant, Scottie Pippen, Dennis Rodman e Shaquille  O’Neal. 
+Phil Jackson narra como conseguiu alcançar inacreditáveis 11 anéis de campeão da NBA. Modesto, o treinador natural do estado norte-americado do Montana, poderia ainda ter acrescentado os dois anéis que conquistou como jogador, quando atuava na posição de poste pelos New York Knicks. Neste livro, Phil Jackson partilha como foi trabalhar com duas equipas mais inesquecíveis da história do basket: os **Chicago Bulls** e os **Los Angeles Lakers**. É também uma aula de liderança, aspecto fundamental para domar e elevar génios como Michael Jordan, Kobe Bryant, Scottie Pippen, Dennis Rodman e Shaquille  O’Neal.
 
 **Onde comprar:** [FNAC](https://www.fnac.pt/mp8567367/Onze-Aneis)
 
@@ -23,7 +25,7 @@ Phil Jackson narra como conseguiu alcançar inacreditáveis 11 anéis de campeã
 
 **2. The Mamba Mentality - How I Play (Kobe Bryant)**
 
-Um discurso direto na primeira pessoa de Kobe Bryant que relatam a sua história e, principalmente, a sua mentalidade. É uma viagem pelos detalhes magníficos do jogo de basket, onde cada pormenor é explicado ao detalhe. O livro menciona também as estratégias e métodos de Kobe para estudar os seus adversários, fala-nos de como é que foi superando as lesões ao longo da carreira. Para tornar tudo mais interessante, as fotografias de Andrew D. Bernstein, um dos mais lendários fotógrafos da NBA, dão um toque especial que Kobe tanto merece. 
+Um discurso direto na primeira pessoa de Kobe Bryant que relatam a sua história e, principalmente, a sua mentalidade. É uma viagem pelos detalhes magníficos do jogo de basket, onde cada pormenor é explicado ao detalhe. O livro menciona também as estratégias e métodos de Kobe para estudar os seus adversários, fala-nos de como é que foi superando as lesões ao longo da carreira. Para tornar tudo mais interessante, as fotografias de Andrew D. Bernstein, um dos mais lendários fotógrafos da NBA, dão um toque especial que Kobe tanto merece.
 
 **Onde comprar:** [WOOK](https://www.wook.pt/livro/mamba-mentality-kobe-bryant/21985495)
 
@@ -31,7 +33,7 @@ Um discurso direto na primeira pessoa de Kobe Bryant que relatam a sua história
 
 **3. When The Game Was Ours (Larry Bird, Magic Johnson e Jackie MacMullan)**
 
-A história de uma das maiores rivalidades do basquetebol: Larry Bird vs Magic Johnson. Este livro, escrito pelos próprios atletas depois desta rivalidade se transformar numa amizade, fala sobre a competitividade e a extrema vontade de vencer e competir que é própria dos génios. Numa viagem por uma das épocas de ouro do Basket, este livro ainda criou polémica entre Magic Johnson e Isiah Thomas, depois de espalhar rumores sobre a vida de pessoal de Johnson, Isiah Thomas teria ficado de fora do “Dream Team” dos Jogos Olímpicos de 1992, em Barcelona, porque outros atletas, entre eles Michael Jordan, Larry Bird, Scottie Pippen e Karl Malone se recusavam a dividir o balneário com o jogador dos Detroit Pistons. 
+A história de uma das maiores rivalidades do basquetebol: Larry Bird vs Magic Johnson. Este livro, escrito pelos próprios atletas depois desta rivalidade se transformar numa amizade, fala sobre a competitividade e a extrema vontade de vencer e competir que é própria dos génios. Numa viagem por uma das épocas de ouro do Basket, este livro ainda criou polémica entre Magic Johnson e Isiah Thomas, depois de espalhar rumores sobre a vida de pessoal de Johnson, Isiah Thomas teria ficado de fora do “Dream Team” dos Jogos Olímpicos de 1992, em Barcelona, porque outros atletas, entre eles Michael Jordan, Larry Bird, Scottie Pippen e Karl Malone se recusavam a dividir o balneário com o jogador dos Detroit Pistons.
 
 **Onde comprar:** [WOOK](https://www.wook.pt/livro/when-the-game-was-ours-bird-larry-bird/23340051)
 
