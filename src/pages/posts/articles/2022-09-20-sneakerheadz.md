@@ -140,15 +140,15 @@ Neste campeonato, foram também os vários jogadores que exibiram modelos do **B
 
 Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"
 
-![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \\"Undefeated - Hall of Fame\\"")
+![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \"Undefeated - Hall of Fame\"")
 
 Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"
 
-![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \\"Grinch\\"")
+![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \"Grinch\"")
 
 Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"
 
-![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \\"Orange County\\"")
+![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \"Orange County\"")
 
 **Redação:** Hoopers
 
