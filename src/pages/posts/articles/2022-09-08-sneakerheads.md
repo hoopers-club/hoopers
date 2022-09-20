@@ -1,11 +1,11 @@
 ---
-title: SNEAKERHEADS
+title: SNEAKERHEADZ
 subname: "EDIÇÃO #1 - ESPREITÁMOS A HOOPERS SUMMER LEAGUE"
 featured: true
 publishDate: Sep 08, 2022-11:09:52
+published: true
 image: /assets/uploads/website_artigo-copy.png
 author: "Hoopers "
-published: true
 layout: ../../../Layout/single-article.astro
 ---
 
