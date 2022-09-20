@@ -2,7 +2,7 @@
 title: SNEAKERHEADZ
 subname: "Edição #2 – Fomos espreitar o calçado do EuroBasket 2022"
 featured: true
-publishDate: Sep 20, 2022-16:09:53
+publishDate: Sep 19, 2022-16:09:53
 published: true
 image: /assets/uploads/2022_09_21_sneakerheaz.png
 author: Hoopers
