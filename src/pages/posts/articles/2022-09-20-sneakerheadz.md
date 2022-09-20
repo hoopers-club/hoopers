@@ -2,7 +2,7 @@
 title: SNEAKERHEADZ
 subname: "Edição #2 – Fomos espreitar o calçado do EuroBasket 2022"
 featured: true
-publishDate: Sep 19, 2022-16:09:53
+publishDate: Sep 20, 2022-16:09:53
 published: true
 image: /assets/uploads/2022_09_21_sneakerheaz.png
 author: Hoopers
@@ -48,8 +48,6 @@ O base alemão foi um dos principais destaques deste EuroBasket, conseguindo um 
 
 [Macadambasket](https://www.macadambasket.com/en/shoes/12413-68950-nitro-fusion-peach-pink-black.html#/27-pointurechaussure-41/1665-couleur-rose)
 
-
-
 ### \#2 Dee Bost (Nike KD 15)
 
 ![Dee Bost Sneaker Card Report](/assets/uploads/sneaker-dee-bost.png "Dee Bost Sneaker Card Report")
@@ -80,8 +78,6 @@ O base norte-americano naturalizado búlgaro que atua no Galatasaray da Turquia,
 
 [Direct Volley (França)](https://direct-volley.pt/gz6475-sapatos-de-interior-adidas-dame-8-azul-turquesa-preto-prateado?gclid=Cj0KCQjwvZCZBhCiARIsAPXbajtYOSgaje3cqr8f2K_lNpzfBznOVFNK0Y50Pxe0aoJ-D7pHQ63Kt10aAm06EALw_wcB)
 
-
-
 ### \#3 – Thomas Huertel (Adidas D.O.N Issue 3)
 
 ![Thomas Huertel Sneaker Card Report](/assets/uploads/sneaker-.png "Thomas Huertel Sneaker Card Report")
@@ -103,8 +99,6 @@ O base francês que milita na equipa do **Real Madrid** foi outro dos destaques 
 [Basket4ballers](https://www.basket4ballers.com/fr/signatures/32485-adidas-don-issue-3-spida-cares-gy2103.html?search_query=don+issue&results=294)
 
 [Planetabasketstore](https://planetabasketstore.com/brands/adidas/adidas-donovan-mitchell-d.o.n.-issue-3-bel-air-jersey/)
-
-
 
 ### \#4 – Goran Dragic (Adidas Dame 8)
 
@@ -146,20 +140,16 @@ Neste campeonato, foram também os vários jogadores que exibiram modelos do **B
 
 Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"
 
-![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \"Undefeated - Hall of Fame\"")
-
-
+![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \\"Undefeated - Hall of Fame\\"")
 
 Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"
 
-![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \"Grinch\"")
-
-
+![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \\"Grinch\\"")
 
 Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"
 
-![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \"Orange County\"")
+![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \\"Orange County\\"")
 
 **Redação:** Hoopers
 
-**Entrevista por:** João Gallina
+**Artigo:** João Gallina
