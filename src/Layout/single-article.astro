@@ -54,8 +54,9 @@ const articleDate = publishDate.split('-')[0];
 		</label>
 	</div>
 	
-	<section set:html={content.astro.html} class="single-articles white">
-		<img class="separator" src="/assets/articles/Line Breaker.svg" alt="" />
+	<section class="single-articles white">
+		<img class="separator txt-articles" src="/assets/articles/Line Breaker.svg" alt="" />
+        <div class="txt-articles" set:html={content.astro.html}></div>
 
 		
 
