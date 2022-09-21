@@ -14,7 +14,27 @@ Pois este ano, no **Eurobasket 2022**, para além de termos visto jogos de quali
 
 Vamos então conferir não só quem são, como também outros modelos que considerámos que merecem estar na nossa rubrica desta semana.
 
-### **\#1 Dennis Schröder (Puma Fusion Nitro)**
+### \#1 – Giannis Antetokounmpo
+
+O modelo Nike Zoom Freak 3 já foi avaliado na nossa [primeira rúbrica](https://hoopers.club/posts/articles/2022-09-08-sneakerheads/). Expomos aqui o novo modelo “Signature” do Greak Freak, as Nike Zoom Freak 4. Como foram lançadas no passado dia 16 deste mês, ainda não encontramos avaliações sólidas. No entanto, encontramos sites onde já podem ser adquiridas.
+
+**Sites disponíveis para compra:**
+
+[Basket4ballers](https://www.basket4ballers.com/fr/chaussure-de-basket/35760-nike-zoom-freak-4-greek-coastline-dj6149-100.html)
+
+[Nike](https://www.nike.com/pt/t/sapatilhas-de-basquetebol-zoom-freak-4-8Hdw9M/DJ6149-100)
+
+### \#2 Luka Doncic
+
+O outro jogador com um “signature” shoe em competição foi o talentoso base esloveno, Luka Doncic. Este modelo encontra-se, por agora, esgotado em todos os sites europeus. Podem ler mais sobre nesta [REVIEW](https://www.reddit.com/r/BBallShoes/comments/wrkn9n/jordan_luka_don%C4%8Di%C4%87_luka_1_performance_review/) completa.
+
+**Sites disponíveis para compra:**
+
+[Stockx](https://stockx.com/air-jordan-luka-1-black-signal-blue) *
+
+\*As sapatilhas vêm dos Estados Unidos, por isso o preço dos portes é elevado e os ténis podem demorar até um mês a chegar.
+
+### **\#3 Dennis Schröder (Puma Fusion Nitro)**
 
 ![Dennis Schröder Sneaker Card Report](/assets/uploads/post4-sneaker.png "Dennis Schröder Sneaker Card Report")
 
@@ -48,7 +68,7 @@ O base alemão foi um dos principais destaques deste EuroBasket, conseguindo um 
 
 [Macadambasket](https://www.macadambasket.com/en/shoes/12413-68950-nitro-fusion-peach-pink-black.html#/27-pointurechaussure-41/1665-couleur-rose)
 
-### \#2 Dee Bost (Nike KD 15)
+### \#4 Dee Bost (Nike KD 15)
 
 ![Dee Bost Sneaker Card Report](/assets/uploads/sneaker-dee-bost.png "Dee Bost Sneaker Card Report")
 
@@ -78,7 +98,7 @@ O base norte-americano naturalizado búlgaro que atua no Galatasaray da Turquia,
 
 [Direct Volley (França)](https://direct-volley.pt/gz6475-sapatos-de-interior-adidas-dame-8-azul-turquesa-preto-prateado?gclid=Cj0KCQjwvZCZBhCiARIsAPXbajtYOSgaje3cqr8f2K_lNpzfBznOVFNK0Y50Pxe0aoJ-D7pHQ63Kt10aAm06EALw_wcB)
 
-### \#3 – Thomas Huertel (Adidas D.O.N Issue 3)
+### \#5 – Thomas Huertel (Adidas D.O.N Issue 3)
 
 ![Thomas Huertel Sneaker Card Report](/assets/uploads/sneaker-.png "Thomas Huertel Sneaker Card Report")
 
@@ -100,7 +120,7 @@ O base francês que milita na equipa do **Real Madrid** foi outro dos destaques 
 
 [Planetabasketstore](https://planetabasketstore.com/brands/adidas/adidas-donovan-mitchell-d.o.n.-issue-3-bel-air-jersey/)
 
-### \#4 – Goran Dragic (Adidas Dame 8)
+### \#6 – Goran Dragic (Adidas Dame 8)
 
 ![Goran Dragic Sneaker Card Report](/assets/uploads/sneaker_06.png "Goran Dragic Sneaker Card Report")
 
@@ -140,15 +160,15 @@ Neste campeonato, foram também os vários jogadores que exibiram modelos do **B
 
 Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"
 
-![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \"Undefeated - Hall of Fame\"")
+![Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro "Undefeated - Hall of Fame"](/assets/uploads/07_kobe_undefeated-01.jpeg "Shane Larkin (Anadolu Efes Istanbul) Kobe 5 Protro \\"Undefeated - Hall of Fame\\"")
 
 Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"
 
-![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \"Grinch\"")
+![Rokas Jokubaitis (F.C Barcelona) Kobe 6 "Grinch"](/assets/uploads/08_kobe_grinch.jpeg "Rokas Jokubaitis (F.C Barcelona) Kobe 6 \\"Grinch\\"")
 
 Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"
 
-![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \"Orange County\"")
+![Daniel Theis (Indiana Pacers) Kobe 6 "Orange County"](/assets/uploads/09_kobe_orange.jpeg "Daniel Theis (Indiana Pacers) Kobe 6 \\"Orange County\\"")
 
 **Redação:** Hoopers
 
