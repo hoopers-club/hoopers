@@ -3,7 +3,7 @@ title: Benfica e o sonho da Basket Champions League
 subname: "Pavilhão Fidelidade recebe os jogos de apuramento "
 featured: true
 publishDate: Sep 21, 2022-11:09:20
-published: false
+published: true
 image: /assets/uploads/2022_09_21_benfica_sonho_champions.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
