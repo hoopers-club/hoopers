@@ -20,7 +20,7 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 
 
-**Gustavo Teixeira (2000)**, o jovem base da Ovarense apontou 2 pontos, 5 ressaltos e 8 assistências na vítoria da sua equipa.
+**Gustavo Teixeira (2000)**, o jovem base da Ovarense apontou 2 pontos, 5 ressaltos e 8 assistências na vitória da sua equipa.
 
 
 
