@@ -16,9 +16,7 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 
 
-**Diogo Gomes (2001)**, base do CD Póvoa anotou 12 pontos, 2 ressaltos e 2 assistências
-
-na derrota frente à Ovarense por 88-70.
+**Diogo Gomes (2001)**, base do CD Póvoa anotou 12 pontos, 2 ressaltos e 2 assistências na derrota frente à Ovarense por 88-70.
 
 
 
