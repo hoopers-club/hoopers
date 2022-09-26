@@ -5,7 +5,7 @@ subname: |
 featured: true
 publishDate: Sep 26, 2022-10:09:89
 published: true
-image: /assets/uploads/website_artigo-copy-1-.png
+image: /assets/uploads/website_artigo-copy-2-.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
