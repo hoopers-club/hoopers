@@ -475,9 +475,11 @@ section {
 	z-index: 10;
 }
 
-.txt-articles {
-	max-width: 65em;
-	align-self: center;
+@media screen and (min-width: 720px) {
+	.txt-articles {
+		max-width: 65em;
+		align-self: center;
+	}
 }
 
 /* -------------------------------------------------------------------------- */
