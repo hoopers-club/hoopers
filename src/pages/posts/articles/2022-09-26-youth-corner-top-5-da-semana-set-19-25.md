@@ -12,9 +12,7 @@ layout: ../../../Layout/single-article.astro
 
 Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
 
-
-
-**Miguel Monteiro (2003)**, base do Egueira conquistou 11 pontos, 2 ressaltos e 7 assintências no triunfo da sua equipa frente ao Imortal.
+**Miguel Monteiro (2003)**, base do Esgueira conquistou 11 pontos, 2 ressaltos e 7 assistências no triunfo da sua equipa frente ao Imortal.
 
 
 
@@ -24,17 +22,17 @@ na derrota frente à Ovarense por 88-70.
 
 
 
-**Gustavo Teixiera (2000)**, o jovem base da Ovarense apontou 2 pontos, 5 ressaltos, 8 assistências na vítoria da sua equipa.
+**Gustavo Teixeira (2000)**, o jovem base da Ovarense apontou 2 pontos, 5 ressaltos e 8 assistências na vítoria da sua equipa.
 
 
 
-**Guilherme Saiote (2002)**, registou 9 pontos, 1 ressalto, 2 assintências na derrota do Imortal por 93-78 frente ao Esgueira.
+**Guilherme Saiote (2002)**, registou 9 pontos, 1 ressalto e 2 assistências na derrota do Imortal por 93-78 frente ao Esgueira.
 
 
 
-**Francisco Amarante (2000)**, na vitória do FC Porto frente ao CAB Madeira anotou 5 pontos, 5 ressaltos, e 2 assistências.
+**Francisco Amarante (2000)**, na vitória do FC Porto frente ao CAB Madeira anotou 5 pontos, 5 ressaltos e 2 assistências.
 
 **\
-R﻿edeção:** Hoopers Club
+R﻿edação:** Hoopers
 
 <!--EndFragment-->
