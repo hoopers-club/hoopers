@@ -26,8 +26,6 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 **Guilherme Saiote (2002)**, registou 9 pontos, 1 ressalto e 2 assistências na derrota do Imortal por 93-78 frente ao Esgueira.
 
-
-
 **Francisco Amarante (2000)**, na vitória do FC Porto frente ao CAB Madeira anotou 5 pontos, 5 ressaltos e 2 assistências.
 
 **\
