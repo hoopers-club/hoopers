@@ -14,15 +14,9 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 **Miguel Monteiro (2003)**, base do Esgueira conquistou 11 pontos, 2 ressaltos e 7 assistências no triunfo da sua equipa frente ao Imortal.
 
-
-
 **Diogo Gomes (2001)**, base do CD Póvoa anotou 12 pontos, 2 ressaltos e 2 assistências na derrota frente à Ovarense por 88-70.
 
-
-
 **Gustavo Teixeira (2000)**, o jovem base da Ovarense apontou 2 pontos, 5 ressaltos e 8 assistências na vitória da sua equipa.
-
-
 
 **Guilherme Saiote (2002)**, registou 9 pontos, 1 ressalto e 2 assistências na derrota do Imortal por 93-78 frente ao Esgueira.
 
@@ -30,5 +24,3 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 **\
 R﻿edação:** Hoopers
-
-<!--EndFragment-->
