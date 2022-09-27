@@ -8,8 +8,6 @@ image: /assets/uploads/2022_09_26_youth_corner.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-<!--StartFragment-->
-
 Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
 
 **Miguel Monteiro (2003)**, base do Esgueira conquistou 11 pontos, 2 ressaltos e 7 assistências no triunfo da sua equipa frente ao Imortal.
