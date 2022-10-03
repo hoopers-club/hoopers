@@ -12,9 +12,7 @@ layout: ../../../Layout/single-article.astro
 
 A 2ª jornada da Liga Betclic Masculina decorreu no passado dia 1 de outubro. **Apenas o Sporting Clube de Portugal não jogou, devido à fase de apuramento para a FIBA Europe Cup.** 
 
-
-
-O **CAB Madeira** recebeu **a equipa de Ovar** que acabou por levar a melhor sobre os madeirenses por apenas 3 pontos **(77-80)**. Bradon Peel foi  o MVP da partida com 10 pontos, 12 ressaltos e 2 assistências e pela equipa da casa Nuno Sá foi o jogador mais importante com 24 pontos, 2 ressaltos, 2 assistências e 4 roubos de bola.
+O **CAB Madeira** recebeu **a equipa de Ovar** que acabou por levar a melhor sobre os madeirenses por apenas 3 pontos **(77-80)**. Bradon Peel foi o MVP da partida com 10 pontos, 12 ressaltos e 2 assistências e pela equipa da casa Nuno Sá foi o jogador mais importante com 24 pontos, 2 ressaltos, 2 assistências e 4 roubos de bola.
 
 <!--StartFragment-->
 
@@ -22,22 +20,12 @@ O **CAB Madeira** recebeu **a equipa de Ovar** que acabou por levar a melhor sob
 
 <!--EndFragment-->
 
-
-
 O **CD Póvoa** derontou **Vitória SC** perdendo por **76-86**, onde Anthony Roberts foi o MVP da partida com 30 pontos, 3 ressaltos e 1 assistência. Já por parte dos Poveiros Cameron Oluyitan apontou 20 pontos, 4 ressaltos e 4 assistências. 
-
-
 
 Os **atuais campeões nacionais** receberem o **SC Lusitânia Expert**, vencendo por **111-85**. Os jogadores a destacar neste jogo são Makram Romdhane, com 11 pontos, 8 ressaltos, 10 assinstências e 3 roubos de bola, por parte o SL Benfica e Ryan Weber, com 30 pontos, 4 ressaltos e 4 assintências, por parte do SC Lusitânia Expert.
 
-
-
 O **FC Porto** deslocou-se até ao complexo desportivo de Sangalhos, onde venceu o **Sangalhos DC Boomerang** por **71-78**. Pela equipa da casa Eddie Hunt JR foi o jogador mais preponderante com 19 pontos, 7 ressaltos e 2 assistências e por parte do FC Porto, o MVP da partida foi Teyvon Myers onde apontou 22 pontos, 1 ressalto e 5 assistências. 
 
-
-
 Por fim, a **UD Oliveirense** recebeu o **Esgueira Aveiro OLI** tendo vencido em casa por **80-71**. O MVP da partida foi Darius Carter com 15 pontos, 3 ressaltos, 1 assistência, 2 roubos de bola e 3 desarmes de lançamento e o jogador mais importante da equipa vencida foi Alexander Kappos com 16 pontos, 8 ressaltos e 1 assistência. 
-
-
 
 <!--EndFragment-->
