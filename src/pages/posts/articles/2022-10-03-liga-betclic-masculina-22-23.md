@@ -22,7 +22,7 @@ O **CAB Madeira** recebeu **a equipa de Ovar** que acabou por levar a melhor sob
 
 O **CD Póvoa** derontou **Vitória SC** perdendo por **76-86**, onde Anthony Roberts foi o MVP da partida com 30 pontos, 3 ressaltos e 1 assistência. Já por parte dos Poveiros Cameron Oluyitan apontou 20 pontos, 4 ressaltos e 4 assistências. 
 
-Os **atuais campeões nacionais** receberem o **SC Lusitânia Expert**, vencendo por **111-85**. Os jogadores a destacar neste jogo são Makram Romdhane, com 11 pontos, 8 ressaltos, 10 assinstências e 3 roubos de bola, por parte o SL Benfica e Ryan Weber, com 30 pontos, 4 ressaltos e 4 assintências, por parte do SC Lusitânia Expert.
+Os **atuais campeões nacionais** receberam o **SC Lusitânia Expert**, vencendo por **111-85**. Os jogadores a destacar neste jogo são Makram Romdhane, com 11 pontos, 8 ressaltos, 10 assistências e 3 roubos de bola, por parte do SL Benfica e Ryan Weber, com 30 pontos, 4 ressaltos e 4 assistências, por parte do SC Lusitânia Expert.
 
 O **FC Porto** deslocou-se até ao complexo desportivo de Sangalhos, onde venceu o **Sangalhos DC Boomerang** por **71-78**. Pela equipa da casa Eddie Hunt JR foi o jogador mais preponderante com 19 pontos, 7 ressaltos e 2 assistências e por parte do FC Porto, o MVP da partida foi Teyvon Myers onde apontou 22 pontos, 1 ressalto e 5 assistências. 
 
