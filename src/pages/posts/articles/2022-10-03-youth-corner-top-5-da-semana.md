@@ -49,8 +49,3 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 A <a href="https://twitter.com/UDObasket?ref_src=twsrc%5Etfw">@UDObasket</a> recebeu e venceu o Esgueria Aveiro OLI!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/SKzWxFHQMd">pic.twitter.com/SKzWxFHQMd</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1576344675719426048?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-**\
-Jorge Rodrigues (2003),** base do CD Póvoa anotou 7 pontos, 2 ressaltos e 2 assistências.
-
-<!--EndFragment-->
