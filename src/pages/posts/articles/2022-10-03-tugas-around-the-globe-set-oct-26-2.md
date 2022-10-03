@@ -1,6 +1,6 @@
 ---
 title: Tugas around the Globe (set/oct 26 - 2)
-subname: Começaram os jogos dos portugueses á volta do mundo!
+subname: Começaram os jogos dos portugueses à volta do mundo!
 featured: true
 publishDate: Oct 03, 2022-15:10:42
 published: true
