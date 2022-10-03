@@ -12,23 +12,17 @@ layout: ../../../Layout/single-article.astro
 
 Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
 
-**Diogo Peixe (2000)**, base do CAB Madeira registou 11 pontos, 1 ressalto, 2 assintências em 23 minutos em capo.
+**Diogo Peixe (2000)**, base do CAB Madeira registou 11 pontos, 1 ressalto, 2 assistências em 23 minutos em capo.
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Imagens do triunfo da <a href="https://twitter.com/OvarenseBasquet?ref_src=twsrc%5Etfw">@OvarenseBasquet</a> na visita ao Funchal!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/Xtj2BUNTlX">pic.twitter.com/Xtj2BUNTlX</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1576279167628255232?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
 **Francisco Amarante (2000)**, na vitória do FC Porto frente ao Sangalhos anotou 7 pontos, 3 ressaltos e 1 assistências.
-
-
 
 <!--StartFragment-->
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">🎥 Vitória azul e branca na deslocação a Sangalhos!<a href="https://twitter.com/hashtag/SomosBasquetebol?src=hash&amp;ref_src=twsrc%5Etfw">#SomosBasquetebol</a> <a href="https://twitter.com/hashtag/LigaBetclic?src=hash&amp;ref_src=twsrc%5Etfw">#LigaBetclic</a> <a href="https://t.co/651trgMRy5">pic.twitter.com/651trgMRy5</a></p>&mdash; Basquetebol FPB (@fpbasquetebol) <a href="https://twitter.com/fpbasquetebol/status/1576339232024469504?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
-
-
 
 **Gustavo Teixeira (2000)**, o jovem base da Ovarense apontou 4 pontos, 1 ressaltos e 5 assistências na vítoria da sua equipa.
 
@@ -48,11 +42,7 @@ Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Lig
 
 <!--EndFragment-->
 
-
-
 **Miguel Monteiro (2003)**, base do Esgueira conquistou 7 pontos, 2 ressaltos e 2 assistências.
-
-
 
 <!--StartFragment-->
 
