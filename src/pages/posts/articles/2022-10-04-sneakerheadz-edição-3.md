@@ -1,7 +1,7 @@
 ---
 title: "SNEAKERHEADZ - EDIÇÃO #3"
 subname: |
-  ESTIVEMOS ATENTOS NA TAÇA VÍTOR HUGO
+  ESTIVEMOS ATENTOS À TAÇA VÍTOR HUGO
 featured: true
 publishDate: Oct 04, 2022-10:10:22
 published: true
@@ -14,6 +14,8 @@ Começa a época desportiva para as equipas femininas da nossa Liga. Nada melhor
 Vamos então mostrar mais uma vez aos nossos leitores quais foram as jogadoras escolhidas; **não se esqueçam de votar na atleta mais bem calçada desta semana!**
 
 Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter disponibilizado todas as fotografias tiradas durante a prova, facilitando assim o nosso processo de escolha.
+
+
 
 ### **1 -Joana Soeiro (S.L Benfica) juntando mais um troféu ao seu currículo nas Adidas Trae Young 1 “Citrus”**
 
@@ -30,8 +32,6 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 [Manelsanchez](https://www.manelsanchez.pt/adidas-trae-young-1-hawks.html)
 
 [Bouncewear](https://bouncewear.com/collections/performance/products/gy3772-trae-young-1-vivred-tmcogo-cblack-vivred-tmcogo-cblack)
-
-[24Segons](https://24segons.es/es/product/adidas-trae-young-1-tie-dye-zapatillas-baloncesto)
 
 [Basketcountry](https://basketcountry.es/zapatillas/5621-trae-young-1.html)
 
@@ -65,8 +65,6 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 
 [Basket Connection](https://www.basket-connection.fr/produit/jordan-why-not-zer05-infrared/)
 
-[Baskettemple](https://baskettemple.com/en/produit/jordan-why-not-zer0-5-hype-music-dc3637-001/)
-
 [Basket 4 Ballers](https://www.basket4ballers.com/fr/signatures/33201-jordan-why-not-zer0-5-family-dc3637-102.html?search_query=jordan+why+not&results=1330)
 
 [Airness](https://airness.eu/en/why-not-zer05-sandy)
@@ -99,8 +97,6 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 
 [MacadamBasket](https://www.macadambasket.com/en/athletes/12439-69108-kyrie-flytrap-5.html#/57-pointurechaussure-375/1665-couleur-rose)
 
-[Baskettemple](https://baskettemple.com/en/produit/kyrie-flytrap-5-cz4100-101/)
-
 [Basket4Ballers](https://www.basket4ballers.com/fr/chaussure-de-basket/33070-nike-kyrie-flytrap-5-white-volt-cz4100-101.html)
 
 [Solestory](https://www.thesolestory.com/pt/product/nike-kyrie-flytrap-v-black-pink)
@@ -131,8 +127,6 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 
 [Macadambasket](https://www.macadambasket.com/en/lebron-james/12129-67704-lebron-witness-6-black-navy.html#/27-pointurechaussure-41/1749-couleur-noir)
 
-[Baskettemple](https://baskettemple.com/en/produit/nike-lebron-witness-6-cz4052-005/)
-
 [Basket4Ballers](https://www.basket4ballers.com/fr/chaussure-de-basket/32613-nike-lebron-witness-6-summit-white-cz4052-102.html?search_query=lebron+witness+6&results=164)
 
 [Solestory](https://www.thesolestory.com/pt/product/nike-lebron-witness-vi-black-white-dark-obsidian)
@@ -144,8 +138,6 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 [Kickz](https://www.kickz.com/de/p/nike-basketball-performance-low-lebron-witness-6-clear-emerald-hyper-pink-wild-berry/179211008.html)
 
 [Oqium](https://oqium.com/products/nike-lebron-witness-vi-clear-emerald-hyper-pink-wild-berry?variant=39418011189344)
-
-
 
 **Redação:** João Gallina
 
