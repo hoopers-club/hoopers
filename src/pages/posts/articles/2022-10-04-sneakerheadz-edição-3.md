@@ -17,7 +17,7 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 
 
 
-### **1 -Joana Soeiro (S.L Benfica) juntando mais um troféu ao seu currículo nas Adidas Trae Young 1 “Citrus”**
+### **1 - Joana Soeiro (S.L Benfica) juntando mais um troféu ao seu currículo nas Adidas Trae Young 1 “Citrus”**
 
 ![Joana Soeiro Sneaker Headz Card](/assets/uploads/2022_10_03_joana.jpg "Joana Soeiro Sneaker Headz Card")
 
