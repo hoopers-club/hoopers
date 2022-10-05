@@ -15,8 +15,6 @@ Vamos então mostrar mais uma vez aos nossos leitores quais foram as jogadoras e
 
 Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter disponibilizado todas as fotografias tiradas durante a prova, facilitando assim o nosso processo de escolha.
 
-
-
 ### **1 - Joana Soeiro (S.L Benfica) juntando mais um troféu ao seu currículo nas Adidas Trae Young 1 “Citrus”**
 
 ![Joana Soeiro Sneaker Headz Card](/assets/uploads/2022_10_03_joana.jpg "Joana Soeiro Sneaker Headz Card")
@@ -138,6 +136,18 @@ Desde já queremos agradecer à Federação Portuguesa de Basquetebol por ter di
 [Kickz](https://www.kickz.com/de/p/nike-basketball-performance-low-lebron-witness-6-clear-emerald-hyper-pink-wild-berry/179211008.html)
 
 [Oqium](https://oqium.com/products/nike-lebron-witness-vi-clear-emerald-hyper-pink-wild-berry?variant=39418011189344)
+
+
+
+
+
+**P﻿ara votares no sneaker da semana passa nos nossos stories ou destaques do instagram!**
+
+[@﻿by_hoopers](https://www.instagram.com/stories/highlights/17934368804298663/)
+
+[D﻿estaques Sneakerheadz ](https://www.instagram.com/stories/highlights/17934368804298663/)
+
+
 
 **Redação:** João Gallina
 
