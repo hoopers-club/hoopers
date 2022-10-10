@@ -29,6 +29,6 @@ productDescription: >-
   <br/>
 
   Check our store!
-productImage: /assets/uploads/new_collection_essentials.png
+productImage: /assets/uploads/new_collection_2022.jpg
 productLink: https://hoopers.store/collections/hoopers-essentials
 ---
