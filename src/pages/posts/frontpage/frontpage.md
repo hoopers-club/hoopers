@@ -12,8 +12,8 @@ courtDescription: >
   Our goal is to bring the community back to the streets and inspire the next generation of hoopers to fall in love with our game.<br/> <br/>
 
   Check our projects and learn more about their stories.
-productName: Summer Collection 2022
-productPrice: 18
+productName: Hoopers Essentials
+productPrice: 0
 productDescription: >-
   Created by the urban artist João Varela, this streetwear collection is full of
   vibrant colors and bold designs. Plus: it brings you the voices of the game!
@@ -29,6 +29,6 @@ productDescription: >-
   <br/>
 
   Check our store!
-productImage: /assets/uploads/square-produtos-homepage.jpg
-productLink: https://hoopers.store/collections/summer-collection
+productImage: /assets/uploads/new_collection_essentials.png
+productLink: https://hoopers.store/collections/hoopers-essentials
 ---
