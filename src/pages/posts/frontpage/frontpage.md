@@ -12,7 +12,7 @@ courtDescription: >
   Our goal is to bring the community back to the streets and inspire the next generation of hoopers to fall in love with our game.<br/> <br/>
 
   Check our projects and learn more about their stories.
-productName: Hoopers Essentials
+productName: Hoopers Essentials Collection
 productPrice: 0
 productDescription: >-
   Created by the urban artist João Varela, this streetwear collection is full of
