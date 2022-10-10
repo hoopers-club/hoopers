@@ -1,6 +1,6 @@
 ---
-title: Youth Corner top 5 da semana (Set 8-9 oct)
-subname: "Mais um exibição de Miguel Monteiro de cortar o folgo! "
+title: Youth Corner (Set 8-9 oct)
+subname: " Top 5 da semana"
 featured: true
 publishDate: Oct 10, 2022-17:10:70
 published: true
