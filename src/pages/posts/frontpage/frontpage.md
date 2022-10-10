@@ -15,7 +15,6 @@ courtDescription: >
 productName: Hoopers Essentials Collection
 productPrice: 0
 productDescription: |-
-  <br/>
   When less is more!
   <br/>
   <br/>
