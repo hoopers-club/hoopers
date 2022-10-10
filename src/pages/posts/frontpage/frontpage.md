@@ -14,20 +14,11 @@ courtDescription: >
   Check our projects and learn more about their stories.
 productName: Hoopers Essentials Collection
 productPrice: 0
-productDescription: >-
-  Created by the urban artist João Varela, this streetwear collection is full of
-  vibrant colors and bold designs. Plus: it brings you the voices of the game!
-
+productDescription: |-
   <br/>
-
+  When less is more!
   <br/>
-
-  You're going to kill it this summer: on and off the court!
-
   <br/>
-
-  <br/>
-
   Check our store!
 productImage: /assets/uploads/new_collection_2022.jpg
 productLink: https://hoopers.store/collections/hoopers-essentials
