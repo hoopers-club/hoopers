@@ -1,6 +1,6 @@
 ---
 title: Tugas Arround the World (3 - 10 oct)
-subname: Neemias vai aos poucos a conquistar o seu lugar!
+subname: Neemias vai aos poucos conquistando o seu lugar!
 featured: true
 publishDate: Oct 11, 2022-19:10:48
 published: true
