@@ -3,7 +3,7 @@ title: "Rescaldo da 5º jornada da Liga Betclic Masculina "
 subname: Ovarense continua invicto na liderança da Liga!
 featured: true
 publishDate: Oct 17, 2022-13:10:89
-published: false
+published: true
 image: /assets/uploads/2022_10_17_rescaldo_betclic.jpg
 author: "Hoopers "
 layout: ../../../Layout/single-article.astro
