@@ -63,7 +63,7 @@ const Sitemap = ({ openSitemap }) => {
 						</span>
 					) : (
 						''
-					)}*/}
+					)}
 					
 					<li className="notranslate">
 						<a
@@ -72,13 +72,21 @@ const Sitemap = ({ openSitemap }) => {
 						>
 							HOOPERS TV
 						</a>
-					</li>
+					</li>*/}
 					<li>
 						<a
 							href="https://open.spotify.com/show/0hhUbVNzpsyUT7dIlFxL1a?si=ZI7Mk6ebRv6uz0LfLQbnYA"
 							target="_blank"
 						>
 							PODCAST
+						</a>
+					</li>
+					<li>
+						<a
+							href="https://try.hoopers.club/hoopers-nft-web-summit-campaign/"
+							target="_blank"
+						>
+							NFT | WEBSUMMIT
 						</a>
 					</li>
 					<li>
