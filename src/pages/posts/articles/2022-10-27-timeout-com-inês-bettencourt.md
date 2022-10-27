@@ -16,23 +16,15 @@ Inês Bettencourt é mais uma portuguesa a jogar na principal divisão do basque
 
 <!--EndFragment-->
 
-
-
 A internacional portuguesa nos escalões de formação começou o seu trajeto no Sportiva, nos Açores, desde os mini-8. No final da época passada já ultrapassou a barreira da meia centena de jogos na principal Liga de Basquetebol feminina em Portugal.
 
-
-
 Na passada temporada registou em 27 jogos: 3.3 pontos, 3.1 ressaltos, 1.4 assistências, 0.7 roubos de bola em 25.0 minutos jogados ao serviço das insulares, na Liga Betclic. 
-
-
 
 Representou a seleção nacional nos diversos escalões de formação, mas foi no Europeu sub-18 deste ano onde mais se evidenciou, sendo uma das jogadoras em destaque da prova, o que lhe valeu a sua primeira oferta para jogar numa D1 (e que oferta!).
 
 Neste campeonato da Europa, somou 14.4 pontos (48.9% 2P, 41.9% 3P, 72% LL), 3.7 ressaltos, 3.6 assistências e 4.6 roubos de bola em 33.6 minutos jogados ao longo de 6 jogos. 
 
 Ocupou o 4.º lugar na média de pontos por jogo e o 10.º na média de assistências por jogo. 
-
-
 
 **Aqui fica a conversa que tivemos durante este timeout:**
 
@@ -46,8 +38,6 @@ Em termos coletivos, apesar de não termos conseguido ser campeãs nacionais com
 
 Inês Bettencourt (IB):  Espero que seja uma época de muitas aprendizagens, não só com as minhas colegas de equipa, como também com os treinadores, especialmente com o treinador Geno, visto que tem um currículo recheado de muitos sucessos.
 
-
-
 **H: A Universidade de Uconn tem um prestígio gigante no mundo do basquetebol universitário. O que esperas encontrar nos EUA e como te sentes por estar onde ícones do basquetebol feminino (como Diana Taurasi, Sue Bird e Maya Moore) já brilharam?**
 
 **IB:** Durante as primeiras semanas sentia que estava a sonhar, mas estou muito contente e orgulhosa por aqui estar. 
@@ -58,42 +48,32 @@ Saber que estes ícones passaram por esta universidade e que foram formadas por 
 
 **IB:** Eu gosto muito de um jogo rápido, e como é o estilo de jogo da Uconn, diria que estou mais bem preparada nesse aspeto. Onde me sinto mais vulnerável, talvez seja na parte física, visto que as minhas colegas de equipa já dominam outro tipo de trabalho, fruto das excelentes condições e conhecimentos que existem aqui.
 
-
-
 **H: Como é ser uma jogadora das ilhas? Conta-nos como é a experiência e de que forma é que o basquetebol é vivido nos Açores.**
 
 **IB:** Foi muito difícil ser uma jogadora formada nos Açores, porque existem poucos atletas e o nível competitivo é mais baixo. Mas isso não invalida que com trabalho, dedicação e entrega não se consiga alcançar os nossos objetivos.
-
-
 
 **H: Como descreves a tua estreia na Liga?** 
 
 **IB:** O estrear na Liga, com uma equipa com objetivos de ser campeã, onde o investimento é elevado, e sendo uma jovem de apenas 16 anos, fica mais complicado de se ter minutos de jogo.
 
-
-
 **H: Portugal esteve muito bem no Europeu sub-18 onde foste a principal referência. Fala-nos do grupo e do desempenho na competição.** 
 
 **IB:** Apesar de metade da equipa ser de primeiro ano, nós tínhamos um bom grupo. Ao longo da competição senti que, como as coisas se tornaram mais difíceis, fomos ficando cada vez mais unidas o que foi muito importante para o resultado que obtivemos.
-
-
 
 **H: O que achaste das prestações nos diversos europeus onde as seleções femininas participaram e mostraram bastante qualidade?**
 
 **IB:** Tanto nas sub20 como nas sub16, Portugal mostrou muita maturidade e mostrou também que podemos vir a fazer coisas muito bonitas. 
 
-
-
 **H: Por fim, como te descreves durante um Timeout?**
 
 **IB:** Descrevo-me como uma atleta normal, atenta ao que os treinadores estão a dizer, caso estejamos numa boa altura do jogo, continuar o trabalho, caso estejamos numa altura em que precisamos de marcar pontos, ouvir o que têm para dizer e reproduzir em campo.
 
+**Redação:** Hoopers
 
+<a href="https://twitter.com/by_hoopers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @by_hoopers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Redação: Hoopers
+**Entrevista por:** Martim Figueiredo
 
-Entrevista por: Martim Figueiredo 
-
-
+<a href="https://twitter.com/martimfs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @martimfs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
