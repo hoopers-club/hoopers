@@ -1,6 +1,6 @@
 ---
 title: "Rescaldo da 7º jornada da Liga Betclic Masculina "
-subname: Mias 1 fim de semana com muito basquetebol
+subname: Mais um fim de semana com muito basquetebol
 featured: true
 publishDate: Oct 31, 2022-11:10:84
 published: true
