@@ -10,7 +10,7 @@ layout: ../../../Layout/single-article.astro
 ---
 <!--StartFragment-->
 
-Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
+Esta é a nossa rúbrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
 
 <!--EndFragment-->
 
