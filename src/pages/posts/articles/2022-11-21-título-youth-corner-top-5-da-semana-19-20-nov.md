@@ -18,7 +18,7 @@ Esta é a nossa rúbrica dedicada aos jovens talentos (sub-23) portugueses na Li
 
 **Diogo Peixe (2000),** base do CAB Madeira registou 8 pontos, 4 ressaltos, 6 assistências e 2 roubos de bola.
 
-**Jorge Rodrigues (2003)**, base do CD Póvoa anotou 4 pontos, 1 ressaltos, 4 assistências e 3 roubos de bola.
+**Jorge Rodrigues (2003)**, base do CD Póvoa anotou 2 pontos, 3 ressaltos, 4 assistências e 2 roubos de bola.
 
 **Miguel Monteiro (2003)**, base do Esgueira conquistou 1 ressaltos e 3 assistências.
 
