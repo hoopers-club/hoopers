@@ -14,7 +14,7 @@ Esta é a nossa rúbrica dedicada aos jovens talentos (sub-23) portugueses na Li
 
 <!--EndFragment-->
 
-**Francisco Amarante (2000),** na derrota do FC Porto frente ao SL Benfica anotou 13 pontos, 3 ressaltos, 6 assistências e 1 roubos de bola. 
+**Francisco Amarante (2000),** na derrota do FC Porto frente ao Sporting anotou 13 pontos, 3 ressaltos, 6 assistências e 1 roubos de bola. 
 
 **Diogo Peixe (2000),** base do CAB Madeira registou 8 pontos, 4 ressaltos, 6 assistências e 2 roubos de bola.
 
