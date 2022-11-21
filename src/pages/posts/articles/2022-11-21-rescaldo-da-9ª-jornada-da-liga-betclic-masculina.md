@@ -1,6 +1,6 @@
 ---
 title: Rescaldo da 9ª jornada da Liga Betclic Masculina
-subname: Jornada recheada de emoções de altíssimo nível
+subname: Jornada recheada de emoções e de altíssimo nível
 featured: true
 publishDate: Nov 21, 2022-13:11:85
 published: true
