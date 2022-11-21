@@ -19,5 +19,3 @@ layout: ../../../Layout/single-article.astro
 
 
 **R﻿edação: Hoopers**
-
-<
