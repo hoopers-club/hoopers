@@ -12,20 +12,14 @@ layout: ../../../Layout/single-article.astro
 
 Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na Liga Betclic.
 
-
-
 <!--EndFragment-->
-
-
 
 **Francisco Amarante (2000),** na derrota do FC Porto frente ao SL Benfica anotou 13 pontos, 3 ressaltos, 6 assistências e 1 roubos de bola. 
 
-**Diogo Peixe (2000),** base do CAB Madeira registou 10 pontos, 1 ressalto, 2 assintências e 1 roubo de bola
+**Diogo Peixe (2000),** base do CAB Madeira registou 8 pontos, 4 ressalto, 6 assistências e 2 roubo de bola.
 
 **Jorge Rodrigues (2003)**, base do CD Póvoa anotou 4 pontos, 1 ressaltos, 4 assistências e 3 roubos de bola.
 
 **Miguel Monteiro (2003)**, base do Esgueira conquistou 1 ressaltos e 3 assistências.
-
-
 
 **R﻿edação: Hoopers**
