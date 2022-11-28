@@ -1,9 +1,9 @@
 ---
 title: Youth Corner top 4 da semana (25 - 27nov)
 subname: " Os jovens talentos (sub-23) portugueses na Liga Betclic!"
-featured: false
+featured: true
 publishDate: Nov 28, 2022-17:11:47
-published: false
+published: true
 image: /assets/uploads/hoopers_youthcorner-site-1-.png
 author: "Hoopers "
 layout: ../../../Layout/single-article.astro
