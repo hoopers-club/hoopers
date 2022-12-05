@@ -32,7 +32,7 @@ const getEuro = () => {
 					.replace(/\n/g, "")
 					.replace("          ", "")
 					.replace("        ", "");
-				//console.log(title);
+
 				const url = $(this).find("h2").find("a").attr("href");
 				const image = $(this).find("figure").find("img").attr("src");
 				const author = "Eurohoops Staff";
@@ -87,7 +87,9 @@ const slam = () => {
 					.match(/(?<=[Bb]y.).+?(?=..\s\s)/)[0];
 
 				const reg = /\(([^)]+)\)/;
-				const image = reg.exec(String($(this).find("a").attr("data-bg")))?.[1];
+				const image = reg.exec(
+					String($(this).find("a").attr("data-bg"))
+				)?.[1];
 				// const author = $(this).find('.byline a').text();
 				articles.push({ url, image, title, author });
 			});
@@ -145,13 +147,17 @@ const bleacher = async () => {
 				if (previousImageIndex != null) {
 					// then get into this loop until picking a different image from the one used before
 					while (randomIndex === previousImageIndex) {
-						randomIndex = randomIntFromInterval(0, numberOfImages - 1);
+						randomIndex = randomIntFromInterval(
+							0,
+							numberOfImages - 1
+						);
 					}
 				}
 				// set this picked image as the previous image for the next image pick... see what I did there? ;)
 				previousImageIndex = randomIndex;
 
-				const image = "/assets/bleacher-img/" + bleacherImages[randomIndex];
+				const image =
+					"/assets/bleacher-img/" + bleacherImages[randomIndex];
 				const author = $(this).find(".authorInfo").find("span").text();
 				articles.push({ title, url, image, author });
 			});
@@ -172,9 +178,11 @@ const realgm = () => {
 			$(".article", html).each(function () {
 				const title = $(this).find(".article-title").text();
 				const url =
-					"https://basketball.realgm.com" + $(this).find("a").attr("href");
+					"https://basketball.realgm.com" +
+					$(this).find("a").attr("href");
 				const image = $(this).find("img").attr("src")
-					? "https://basketball.realgm.com" + $(this).find("img").attr("src")
+					? "https://basketball.realgm.com" +
+					  $(this).find("img").attr("src")
 					: "https://basketball.realgm.com/images/basketball/5.0/template/basketball-icon.gif";
 				const author = $(this)
 					.find(".article-source")
