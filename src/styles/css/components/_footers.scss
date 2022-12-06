@@ -151,13 +151,18 @@ input[type="email"] {
 
 @media screen and (max-width: 866px) {
 	.footer {
+		.first-row {
+			width: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
 		.first-row,
 		&-location,
 		.follow,
 		.subscription,
 		.links,
 		#mc_embed_signup {
-			width: 100%;
 			flex-direction: column;
 			justify-content: center;
 			align-content: center;
