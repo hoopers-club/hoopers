@@ -1,13 +1,13 @@
 ---
-title: "Uma mensagem para todos: Hoopers at Home!"
+title: "Uma mensagem para todos: Hoopers at Home! "
 subname: É tempo de ficar em casa. Deixámos alguns planos em suspenso, mas já
-    estamos a trabalhar em coisas novas para a nossa comunidade. Este é um artigo
-    assinado pela equipa da Hoopers.
+  estamos a trabalhar em coisas novas para a nossa comunidade. Este é um artigo
+  assinado pela equipa da Hoopers.
 featured: false
 publishDate: Jan 22nd, 2021
+published: true
 image: /assets/uploads/62_banner_hoopersathome.png
 author: Hoopers
-published: true
 layout: ../../../Layout/single-article.astro
 ---
 
