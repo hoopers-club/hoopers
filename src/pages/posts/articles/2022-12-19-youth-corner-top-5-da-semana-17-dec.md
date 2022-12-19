@@ -1,9 +1,9 @@
 ---
 title: Youth Corner top 5 da semana (17 dec)
 subname: Os jovens talentos (sub-23) portugueses na Liga Betclic
-featured: false
+featured: true
 publishDate: Dec 19, 2022-16:12:17
-published: false
+published: true
 image: /assets/uploads/website_artigo2-1-.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
