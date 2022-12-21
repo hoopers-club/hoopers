@@ -52,7 +52,7 @@ Acreditámos e lutámos até ao fim mas não foi suficiente. 
 
 **H: Hoje em dia é quase impossível não perguntar… O que tem de tão especial o Rúben Prey e como foi treinar e jogar com um miúdo de 17 no escalo sub-20?**
 
-(Rúben Prey está atualmente indicado como top3 international prospects para o Draft de 2024)
+(Rúben Prey está atualmente indicado como top 3 international prospects para o Draft de 2024)
 
 **HS:** O Prey tem muito talento mas continua a ser um miúdo normal. Ele diverte-se imenso nos treinos e tem um espírito competitivo que se revela muito importante nos momentos de maior pressão. Apesar de ter apenas 17 anos, mostrou-se muito capaz de tomar as decisões certas dentro de campo e executá-las bem.
 
