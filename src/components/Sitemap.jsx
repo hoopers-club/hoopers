@@ -81,14 +81,14 @@ const Sitemap = ({ openSitemap }) => {
 							PODCAST
 						</a>
 					</li>
-					<li>
+					{/*<li>
 						<a
 							href="https://try.hoopers.club/hoopers-nft-web-summit-campaign/"
 							target="_blank"
 						>
 							NFT | WEBSUMMIT
 						</a>
-					</li>
+				</li>*/}
 					<li>
 						<a href="/nft" className="notranslate">
 							NFT
