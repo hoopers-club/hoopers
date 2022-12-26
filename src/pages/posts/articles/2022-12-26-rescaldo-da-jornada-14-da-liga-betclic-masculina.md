@@ -1,6 +1,6 @@
 ---
 title: Rescaldo da jornada 14 da Liga Betclic Masculina
-subname: FC Porto vence em casa do Benfica, num jogo alucinante
+subname: FC Porto vence em casa do Benfica num jogo alucinante
 featured: true
 publishDate: Dec 26, 2022-17:12:06
 published: true
