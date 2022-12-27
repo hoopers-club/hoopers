@@ -5,7 +5,7 @@ subname: Esta é a nossa rubrica dedicada aos jovens talentos (sub-23)
 featured: true
 publishDate: Dec 27, 2022-13:12:11
 published: true
-image: /assets/uploads/e67f35a0a3adc5bf180f893948da4411.png
+image: /assets/uploads/website_artigo-andrecruz.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
