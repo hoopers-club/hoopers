@@ -1,6 +1,6 @@
 ---
-title: Rescaldo da 17ª jornada da Liga Betclic Masculina
-subname: FC Porto consolida a sua liderança
+title: FC Porto consolida a sua liderança
+subname: Rescaldo da 17ª jornada da Liga Betclic Masculina
 featured: true
 publishDate: Jan 09, 2023-13:01:61
 published: true
