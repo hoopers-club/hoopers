@@ -25,4 +25,8 @@ layout: ../../../Layout/single-article.astro
 
 **Diogo Gomes (2001)**, base do CD Póvoa anotou 3 pontos, 2 assistências e 1 roubo de bola.
 
+
+
+**R﻿edação:** Hoopers Club
+
 <!--EndFragment-->
