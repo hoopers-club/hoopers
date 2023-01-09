@@ -9,6 +9,10 @@ image: /assets/uploads/bannersite-3-.png
 author: Hoopers Club
 layout: ../../../Layout/single-article.astro
 ---
+
+
+
+
 <!--StartFragment-->
 
 **Diogo Peixe (2000)**, base do CAB Madeira registou 9 pontos, 3 ressaltos, 4 assistências e 2 roubos de bola.
