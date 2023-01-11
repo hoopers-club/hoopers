@@ -1,33 +1,9 @@
 ---
 import Bases from "../Layout/Layout.astro";
-import Download from "../components/Download-app.astro";
-import Court from "../components/Court-section.astro";
-import Cookies from "../components/Cookies.astro";
-
-// get all articles from backoffice
-let allPosts = await Astro.fetchContent("./posts/articles/*.md");
-allPosts = allPosts.sort(
-  (a, b) =>
-    new Date(
-      b.publishDate
-        .replace(/th/i, "")
-        .replace(/nd/i, "")
-        .replace(/rd/i, "")
-        .replace(/st/i, "")
-    ).valueOf() -
-    new Date(
-      a.publishDate
-        .replace(/th/i, "")
-        .replace(/nd/i, "")
-        .replace(/rd/i, "")
-        .replace(/st/i, "")
-    ).valueOf()
-);
+import AppLinks from "../components/Download-app.astro";
 ---
 
 <!-- displays layout import -->
 <Bases>
-  <Court />
-  <Download />
-  <Cookies />
+  <AppLinks/>
 </Bases>

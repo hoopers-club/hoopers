@@ -3,46 +3,19 @@ let downloadData = await Astro.fetchContent("../pages/posts/download-app/*.md");
 ---
 
 <section class="download">
-  <div class="title" style="padding-top:0;">
-    <div
-      class="title-section centerright-i"
-      style="overflow:hidden; -webkit-transform: translateZ(0); -webkit-backface-visibility: hidden;"
-    >
+    <div class="download-left">
+        <img class="img" src={downloadData[0]?.phoneImage} alt="" />
     </div>
-    <img
-      class="line centerleft-i"
-      src="/assets/Homepage/section line.svg"
-      alt="line"
-    />
-  </div>
-  <div class="content down-i">
-    <div class="content-left">
-      <img class="" src={downloadData[0]?.phoneImage} alt="" />
-    </div>
-    <div class="content-right">
-      <div class="title">
-        {downloadData[0]?.downloadTitle}
-      </div>
-
-      <div
-        set:html={downloadData[0]?.downloadDescription}
-        class="text fonte-creditos"
-      />
-    </div>
-    <div class="second-row">
-      <div class="footer-buttons">
-        <div class="footer-buttons-appstores footer-item">
-          <a href="https://apps.apple.com/us/app/id6444291751" target="_blank">
-            <img src="/assets/app_store.svg" alt="" />
-          </a>
-          <a
-            href="https://play.google.com/store/apps/details?id=club.hoopers.app"
-            target="_blank"
-          >
-            <img src="/assets/google_play.svg" alt="" />
-          </a>
+    <div class="download-right">
+        <div class="title-nopad" set:html={downloadData[0]?.downloadTitle}/>
+        <div class="text fonte-creditos" set:html={downloadData[0]?.downloadDescription}/>
+        <div class="buttons-container">
+            <a href="https://apps.apple.com/us/app/id6444291751" target="_blank">
+                <img src="/assets/app_store.svg" alt="" />
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=club.hoopers.app" target="_blank">
+                <img src="/assets/google_play.svg" alt="" />
+            </a>
         </div>
-      </div>
     </div>
-  </div>
 </section>
