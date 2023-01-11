@@ -16,7 +16,7 @@ layout: ../../../Layout/single-article.astro
 
 **João Embaló (2001)**, post do CD Póvoa anotou 6 pontos, 7 ressaltos, 1 assistência, 1 roubo de bola e 1 desarme de lançamento.
 
-**Diogo Gomes (2002)**, base do CD Póvoa anotou 13 pontos e 1 ressalto. 
+**Diogo Gomes (2001)**, base do CD Póvoa anotou 13 pontos e 1 ressalto. 
 
 **Diogo Peixe (2000)**, base do CAB Madeira anotou 4 pontos, 3  ressalto, 2 assistências e 2 roubo de bola.
 
