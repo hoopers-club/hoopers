@@ -2,7 +2,7 @@
 let downloadData = await Astro.fetchContent("../pages/posts/download-app/*.md");
 ---
 
-<section class="download">
+<div class="download">
     <div class="download-left">
         <img class="img" src={downloadData[0]?.phoneImage} alt="" />
     </div>
@@ -18,4 +18,4 @@ let downloadData = await Astro.fetchContent("../pages/posts/download-app/*.md");
             </a>
         </div>
     </div>
-</section>
+</div>
