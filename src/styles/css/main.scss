@@ -201,26 +201,35 @@ html {
 		flex-direction: column;
 		justify-content: flex-start;
 		align-items: flex-start;
+
 		.title-nopad {
+            
 			color: $dark-orange;
 			font-size: 2em;
 			font-family: $aktiv-grotesk-medium;
 			font-stretch: 120%;
 		}
+		.center-text {
+			align-self: center;
+		}
 		.text {
+            width: 100%;
 			color: $white;
 			font-family: $aktiv-grotesk-LightEX;
+			li {
+				margin-left: 2em;
+			}
 		}
 		.buttons-container {
 			display: flex;
+            width: 100%;
 			flex-direction: row;
-			justify-content: flex-start;
+			justify-content: space-around;
 			align-items: center;
 			padding-top: 1em;
 			padding-bottom: 1em;
 			a img {
 				height: 65px;
-				margin-right: 2em;
 			}
 		}
 	}
@@ -573,7 +582,17 @@ table .strong {
 /*                                MEDIA QUERIES                               */
 
 /* -------------------------------------------------------------------------- */
-
+@media screen and (max-width: 1035px) {
+    .download {
+		&-right {
+			.buttons-container {
+				a img {
+					height: 50px;
+				}
+			}
+		}
+	}
+}
 @media screen and (max-width: 1000px) {
 	.headline {
 		font-size: 4em;
@@ -585,28 +604,31 @@ table .strong {
 					height: 40px;
 				}
 			}
+            .center-text{
+                margin-left: 0;
+            }
 		}
 	}
 }
 
 @media screen and (max-width: 800px) {
 	.download {
-        padding-bottom: 0;
-        padding-top: 10em;
+		padding-bottom: 0;
+		padding-top: 10em;
 		flex-direction: column;
 		&-left {
-            align-self: center;
+			align-self: center;
 			img {
 				min-height: 18em;
-                width: auto !important;
+				width: auto !important;
 			}
 		}
 		&-right {
-			width: 80%;
-            padding: 5em;
+            width: auto;
+            background-color: blue;
+			padding:5em;
 			.buttons-container {
 				align-items: center;
-				width: 100%;
 				justify-content: center;
 				a img {
 					height: 60px;
