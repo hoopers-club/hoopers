@@ -10,7 +10,7 @@ let downloadData = await Astro.fetchContent("../pages/posts/download-app/*.md");
         <img class="img" src={downloadData[0]?.phoneImage} alt="" />
     </div>
     <div class="download-right">
-        <div class="title-nopad" set:html={downloadData[0]?.downloadTitle}/>
+        <div class="title-nopad italic-text" set:html={downloadData[0]?.downloadTitle}/>
         <div class="text fonte-creditos" set:html={downloadData[0]?.description}/>
         <div class="buttons-container">
             <a href="https://apps.apple.com/us/app/id6444291751" target="_blank">

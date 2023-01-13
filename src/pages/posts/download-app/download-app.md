@@ -2,7 +2,7 @@
 phoneImage: /assets/app_preview_screens.png
 downloadTitle: BE A PART OF THE GAME!
 description: |-
-    <br/>We are building a global basketball community platform that connects players, fans and enthusiasts.
+    <br/>We are building a global basketball community platform to connect players, fans and enthusiasts.
     <br/>
     <br/>
     <ul>
