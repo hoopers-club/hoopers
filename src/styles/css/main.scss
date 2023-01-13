@@ -201,19 +201,21 @@ html {
 		flex-direction: column;
 		justify-content: flex-start;
 		align-items: flex-start;
-
 		.title-nopad {
-            
 			color: $dark-orange;
-			font-size: 2em;
-			font-family: $aktiv-grotesk-medium;
 			font-stretch: 120%;
+		}
+		.italic-text {
+			font-family: $aktiv-grotesk-bolditalic;
+			font-size: 2em;
 		}
 		.center-text {
 			align-self: center;
+			font-size: 1.5em;
+			font-family: $aktiv-grotesk-medium;
 		}
 		.text {
-            width: 100%;
+			width: 100%;
 			color: $white;
 			font-family: $aktiv-grotesk-LightEX;
 			li {
@@ -222,7 +224,7 @@ html {
 		}
 		.buttons-container {
 			display: flex;
-            width: 100%;
+			width: 100%;
 			flex-direction: row;
 			justify-content: space-around;
 			align-items: center;
@@ -583,7 +585,7 @@ table .strong {
 
 /* -------------------------------------------------------------------------- */
 @media screen and (max-width: 1035px) {
-    .download {
+	.download {
 		&-right {
 			.buttons-container {
 				a img {
@@ -604,9 +606,9 @@ table .strong {
 					height: 40px;
 				}
 			}
-            .center-text{
-                margin-left: 0;
-            }
+			.center-text {
+				margin-left: 0;
+			}
 		}
 	}
 }
@@ -624,9 +626,8 @@ table .strong {
 			}
 		}
 		&-right {
-            width: auto;
-            background-color: blue;
-			padding:5em;
+			width: auto;
+			padding: 5em;
 			.buttons-container {
 				align-items: center;
 				justify-content: center;
