@@ -4,7 +4,7 @@ subname: Sporting conquista a sua 4ª Taça Hugo dos Santos consecutiva
 featured: true
 publishDate: Jan 16, 2023-12:01:84
 published: true
-image: /assets/uploads/fla_8883.jpg
+image: /assets/uploads/bannersite-6-.png
 author: "Hoopers "
 layout: ../../../Layout/single-article.astro
 ---
