@@ -1,5 +1,5 @@
 ---
-title: Tugas Arround the World  (13 - 17 JAN 9
+title: Tugas Arround the World  (13 - 17 JAN)
 subname: Rafael Lisboa a crescer na Bélgica
 featured: true
 publishDate: Jan 17, 2023-15:01:66
