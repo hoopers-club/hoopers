@@ -1,5 +1,5 @@
 ---
-title: Youth Corn er top 5 da seman (27 - 28 Jan)
+title: Youth Corner top 5 da seman (27 - 28 Jan)
 subname: >
   Esta é a nossa rubrica dedicada aos jovens talentos (sub-23) portugueses na
   Liga Betclic.
