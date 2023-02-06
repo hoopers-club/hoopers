@@ -12,16 +12,16 @@ layout: ../../../Layout/single-article.astro
 
 Steph Curry que é jogador dos Golden State Warriors e atual campeão da NBA, encontra-se em risco para os próximos jogos, incluindo o anual NBA All-Star Game que irá decorrer já no dia 19 de Fevereiro.
 
-No último jogo dos Warriors contra os Dallas Mavericks de Luka Doncic, o base Steph Curry lesionou-se no joelho, durante o 3° período, numa ação defensiva. O primeiro raio-x que o jogador realizou não foi detectado nenhuma anomalia, porém aguarda-se resultados da ressonância magnética para se apurar mais conclusões quanto ao processo de recuperação do jogador.
+No último jogo dos Warriors contra os Dallas Mavericks de Luka Doncic, o base Steph Curry lesionou-se no joelho, durante o 3° período, numa ação defensiva. O primeiro raio-x que o jogador realizou não foi detectado nenhuma anomalia, porém os resultados da ressonância magnética mostraram que Curry teve lesões nos ligamento do joelho e terá que parar várias semanas. Contudo ainda não está determinado ao certo quanto tempo estará fora.
+
+
+
+<!--EndFragment-->
 
 É de lembrar que Curry é um dos jogadores da equipa inicial, do próximo All-Star Game, em caso de substituição os principais candidatos a ocupar a posição são: Anthony Edwards, De’Aaron Fox ou Devin Booker (que também se encontra em lesão).
-
-
 
 **R﻿edação: Hoopers Club**
 
 **Escrito por: Ricardo de Carvalho**
-
-
 
 <!--EndFragment-->
