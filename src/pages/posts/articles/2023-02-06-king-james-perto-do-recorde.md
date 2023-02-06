@@ -26,14 +26,8 @@ E no ultimo jogo de 4 de fevereiro, os Lakers caíram na visita frente aos New O
 
 Neste jogo LeBron anotou um resultado de 27 pts, 6 ast e 9 ast. Após este jogo, LeBron precisa de 37 pontos para chegar à primeira posição de melhor pontuador de todos os tempos na NBA. 
 
+**R﻿edação: Hoopers Club**
 
-
-R﻿edação: Hoopers Club
-
-E﻿scrito por: Ricardo de Carvalho
-
-
-
-
+**E﻿scrito por: Ricardo de Carvalho**
 
 <!--EndFragment-->
