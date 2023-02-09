@@ -25,4 +25,10 @@ Será este o proximo jogador português a alcançar a Nba? 
 
 
 
+R﻿edação: Hoopers Club
+
+E﻿scrito por: Ricardo de Carvalho
+
+
+
 <!--EndFragment-->
