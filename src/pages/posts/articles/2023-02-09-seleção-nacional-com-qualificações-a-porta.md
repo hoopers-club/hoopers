@@ -22,7 +22,8 @@ Pelo dia 9 de fevereiro, irá se realizar o jogo de qualificação para o Euroba
 
 Portugal terá um encontro difícil, ao defrontar a seleção grega que atualmente lidera o grupo G, no último encontro entre estas duas seleções (21 de novembro de 2021) Portugal perdeu por 64 - 57 em solo Grego e agora necessita de alcançar certos objetivos para avançar para a próxima fase. 
 
-Será necessário uma vitória sobre a Grécia por mais de 6 pontos, e caso a seleção Britânica perca o seu encontro contra a Estónia Portugal qualifica-se automaticamente, pela primeira vez, para a fase final de um campeonato da Europa!\
+Será necessário uma vitória sobre a Grécia por mais de 6 pontos, e caso a seleção Britânica perca o seu encontro contra a Estónia Portugal qualifica-se automaticamente, pela primeira vez, para a fase final de um campeonato da Europa!
+
 <!--StartFragment-->
 
 O grupo, liderado pelo selecionador nacional, **Ricardo Vasconcelos**, é composto por 14 atletas! 
@@ -33,12 +34,8 @@ O grupo, liderado pelo selecionador nacional, **Ricardo Vasconcelos**, é compo
 
 <!--EndFragment-->
 
-
-
 <!--EndFragment-->
 
 <!--EndFragment-->
-
-
 
 <!--EndFragment-->
