@@ -1,5 +1,5 @@
 ---
-title: Lamello Ball a fazer história na NBA
+title: Lamelo Ball a fazer história na NBA
 subname: A jovem estrela dos Charlotte Hornets, passou a fazer parte da história
   da Nba ao chegar aos 1000 pontos
 featured: true
