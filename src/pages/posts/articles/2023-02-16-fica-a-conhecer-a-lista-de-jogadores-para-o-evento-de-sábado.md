@@ -3,7 +3,7 @@ title: "Fica a conhecer a lista de jogadores para o evento de sábado "
 subname: A Hoopers dá-te a conhecer os jogadores que foram nomeados para os
   diversos eventos de sábado
 featured: true
-publishDate: Feb 16, 2023-15:02:33
+publishDate: Feb 15, 2023-15:02:33
 published: true
 image: /assets/uploads/template-bannersite-6-.png
 author: Hoopers
