@@ -1,6 +1,6 @@
 ---
 title: Jayson Tatum quebra o record de pontos no All-Star
-subname: O jogador principal dos Boston Celtics foi o MVP do Nba All-Star com 55 pontos
+subname: O principal jogador dos Boston Celtics foi o MVP do Nba All-Star com 55 pontos
 featured: true
 publishDate: Feb 22, 2023-15:02:01
 published: true
