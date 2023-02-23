@@ -4,7 +4,7 @@ subname: O jogador principal dos Boston Celtics foi o MVP do Nba All-Star com 55
 featured: true
 publishDate: Feb 22, 2023-15:02:01
 published: true
-image: /assets/uploads/template-bannersite-12-.png
+image: /assets/uploads/template-bannersite-13-.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
