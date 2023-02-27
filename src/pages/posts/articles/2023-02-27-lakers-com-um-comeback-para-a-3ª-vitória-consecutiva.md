@@ -21,7 +21,11 @@ LeBron conseguiu anotar 26 pts, 3 ast e 8 res, já Anthony Davis que ficou como 
 
 Assim os Mavericks passam para a 6ª posição da conferência oeste, enquanto que os Lakers encontram-se na 12ª posição, continuando assim fora da corrida dos play-offs.
 
-\
+<!--StartFragment-->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AD (30 PTS) and LeBron (26 PTS) fueled the <a href="https://twitter.com/Lakers?ref_src=twsrc%5Etfw">@Lakers</a> 27-PT comeback win in Dallas 🔥 <a href="https://t.co/h63Fnph1La">pic.twitter.com/h63Fnph1La</a></p>&mdash; NBA (@NBA) <a href="https://twitter.com/NBA/status/1629994973834665985?ref_src=twsrc%5Etfw">February 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--EndFragment-->\
 R﻿edação: Hoopers Club 
 
 E﻿scrito por: Ricardo de Carvalho
