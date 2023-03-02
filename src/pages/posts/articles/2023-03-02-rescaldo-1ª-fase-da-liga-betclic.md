@@ -5,7 +5,7 @@ featured: true
 publishDate: Mar 02, 2023-14:03:68
 published: true
 image: /assets/uploads/template-bannersite-8-.png
-author: Martim Andrade
+author: HOOPERS
 layout: ../../../Layout/single-article.astro
 ---
 No passado dia 1 de março, deu-se por concluída a 1ª fase da época regular da **Liga Betclic Masculina**.
