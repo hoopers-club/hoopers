@@ -5,7 +5,7 @@ subname: >2
 featured: true
 publishDate: Mar 07, 2023-12:03:64
 published: true
-image: /assets/uploads/template-bannersite-17-.png
+image: /assets/uploads/template-bannersite-18-.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
