@@ -13,7 +13,7 @@ layout: ../../../Layout/single-article.astro
 
 **Diogo Peixe (2000),** o base do CAB, anotou 16 pontos, 1 ressalto, 8 assistências e 1 roubo de bola.
 
-**Tiago Andrade (2003),** base do Sangalhos, anotou 11 pontos, 4 ressaltos e 1 assistência.
+**Tiago Barreto (2003),** base do Sangalhos, anotou 11 pontos, 4 ressaltos e 1 assistência.
 
 **André Cruz (2002),** extremo do Sporting, registou 8 pontos e 1 ressalto
 
