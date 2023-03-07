@@ -13,24 +13,14 @@ layout: ../../../Layout/single-article.astro
 
 **Diogo Peixe (2000),** o base do CAB, anotou 16 pontos, 1 ressalto, 8 assistências e 1 roubo de bola.
 
-
-
 **Tiago Andrade (2003),** base do Sangalhos, anotou 11 pontos, 4 ressaltos e 1 assistência.
-
-
 
 **André Cruz (2002),** extremo do Sporting, registou 8 pontos e 1 ressalto
 
-
-
 **Jorge Rodrigues (2003),** base do CD Póvoa anotou 2 pontos, 3 ressaltos e 2 assistências
-
-
 
 **Miguel Monteiro (2003),** base do Esgueira, anotou 1 ponto, 2 ressaltos, 4 assistências e 1 roubo de bola.
 
-R﻿edação: Hoopers Club
-
-
+**R﻿edação:** Hoopers Club
 
 <!--EndFragment-->
