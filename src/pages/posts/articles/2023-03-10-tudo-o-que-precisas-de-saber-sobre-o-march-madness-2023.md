@@ -2,7 +2,7 @@
 title: March Madness 2023
 subname: >
   
-  O torneio mais importante da competição universitária norte-americana começa já na próxima semana e deixamos o essencial para acompanhares tudo!
+  Deixamos o essencial para acompanhares tudo sobre o torneio mais importante da competição universitária norte-americana
 featured: true
 publishDate: Mar 10, 2023-15:03:35
 published: true
