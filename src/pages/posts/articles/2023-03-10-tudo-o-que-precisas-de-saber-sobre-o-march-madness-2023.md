@@ -1,5 +1,5 @@
 ---
-title: Tudo o que precisas de saber sobre o March Madness 2023
+title: March Madness 2023
 subname: >
   
   O torneio mais importante da competição universitária norte-americana começa já na próxima semana e deixamos o essencial para acompanhares tudo!
