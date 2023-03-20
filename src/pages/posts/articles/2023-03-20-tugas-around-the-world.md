@@ -1,7 +1,7 @@
 ---
 title: Tugas Around the World
 subname: (16 - 19 março)
-featured: false
+featured: true
 publishDate: Mar 20, 2023-12:03:62
 published: true
 image: /assets/uploads/hoopers_artigo_tugas_2003.png
