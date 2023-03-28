@@ -8,7 +8,7 @@ image: /assets/uploads/hoopers_artigo_gleague_2803.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
-Com a confirmação do primeiro lugar do Oeste para os **Stockton Kings** e **Neemias Queta**, os playoffs começam já hoje e deixamos-te tudo o que precisas de saber para acompanhar o Português.
+Com a confirmação do primeiro lugar do Oeste para os **Stockton Kings** e **Neemias Queta**, os playoffs começam já hoje e deixamos-te tudo o que precisas de saber para acompanhar o português.
 
 Começando então pelo formato, serão três rondas de eliminação direta, semelhante aos do March Madness, com a final a ser à melhor de três jogos. As duas primeiras classificadas de cada conferência, neste caso os Stockton Kings e os Long Island Nets, têm um jogo de descanso, tendo passagem direta para a segunda ronda, juntamente com as segundas classificadas (Memphis Hustle e Delaware Bluecoats).
 
