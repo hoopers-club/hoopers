@@ -14,7 +14,7 @@ layout: ../../../Layout/single-article.astro
 
 Após um ano, Terrell mudou-se para a Europa onde jogou uma época no **Anadolu de Ankara**, na Turquia. Com a melhor época da sua jovem carreira, deslocou-se para o México, para o **Abejas de León** onde teve o seu melhor ano em termos estatísticos, com médias de 16 pontos e 9 ressaltos. Estes bons números facilitaram o regresso para a Europa para jogar pela **UD Oliveirense** no final da mesma época.
 
-Com uma estadia reduzida em **Oliveira de Azeméis**, o seu ano de 2021-22 foi passado na Roménia, no prestigiado **Steaua București**, onde foi um dos jogadores principais. Por fim, esta última época, Terrell voltou para Portugal para se juntar à equipa campeã, o **SL Benfica**, sendo uma das peças fundamentais nesta equipa com< sérias aspirações ao título nacional.
+Com uma estadia reduzida em **Oliveira de Azeméis**, o seu ano de 2021-22 foi passado na Roménia, no prestigiado **Steaua București**, onde foi um dos jogadores principais. Por fim, esta última época, Terrell voltou para Portugal para se juntar à equipa campeã, o **SL Benfica**, sendo uma das peças fundamentais nesta equipa com sérias aspirações ao título nacional.
 
 
 
