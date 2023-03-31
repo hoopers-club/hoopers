@@ -3,9 +3,9 @@ title: "Cultura by Hoopers #2: Terrell Carter II"
 subname: >
   Em fim-de-semana de dérbi, decidimos  falar da Cultura com o poste do SL
   Benfica
-featured: true
+featured: false
 publishDate: Mar 31, 2023-10:03:51
-published: true
+published: false
 image: /assets/uploads/hoopers_artigo_cultura_3103.png
 author: Hoopers
 layout: ../../../Layout/single-article.astro
