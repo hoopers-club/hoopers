@@ -3,7 +3,7 @@
   from = "/"
   to = "https://br.hoopers.club/"
 
-  status = 302
+  status = 301
 
   # By default, redirects won’t be applied if there’s a file with the same
   # path as the one defined in the `from` property. Setting `force` to `true`
