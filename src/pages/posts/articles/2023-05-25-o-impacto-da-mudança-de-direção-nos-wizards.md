@@ -1,7 +1,7 @@
 ---
 title: O impacto da mudança de direção nos Wizards
 subname: |
-  E o que isso pode significar o coletivo da capital
+  E o que isso pode significar para o coletivo da capital
 featured: true
 publishDate: May 25, 2023-11:05:35
 published: true
