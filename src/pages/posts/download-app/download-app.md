@@ -1,5 +1,5 @@
 ---
-phoneImage: /assets/app_preview_screens.png
+phoneImage: /assets/telas_app.png
 downloadTitle: BE A PART OF THE GAME!
 description: |-
     <br/>We are building a global basketball community platform to connect players, fans and enthusiasts.
