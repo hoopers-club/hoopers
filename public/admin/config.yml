@@ -228,8 +228,8 @@ collections:
           - {
                 label: "Publish Date",
                 name: "publishDate",
-                date_format: "DD/MM",
-                time_format: "HH:mm",
+                widget: "datetime",
+                default: "",
                 format: "LLL",
                 required: true
             }
@@ -237,7 +237,7 @@ collections:
                 label: "Published",
                 name: "published",
                 widget: "boolean",
-                required: true
+                required: false
             }
           - label: "Gallery"
             name: "galleryImages"
