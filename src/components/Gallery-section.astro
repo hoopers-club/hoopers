@@ -10,43 +10,36 @@ gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
 
 ---
 
+{
+    gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length > 0 && (
+        <section class="articles black" style="min-height:0;position:relative;" id="summer">
+            <div class="articles-featured">
+                {
+                gallerys?.length > 0 && 
+                    <div class="esport-title">Gallery</div>
+                        <img
+                            class="featured-line"
+                            src="/assets/articles/linha.svg"
+                            alt="line"
+                        />
+                }    
+            </div>
+            
+            {gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length >2 && 
+                <img src='/assets/courts/left.svg' alt='' onclick="slide('left')" id='leftbtn'/>
+            }
+            
+            {gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length >2 &&	
+                <img src='/assets/courts/right.svg' alt='' id='rightbtn' onclick="slide('right')"/>
+            }
+            
+            <div class="day-list" id="gallery" >
+            
+                {gallerys?.map(gallery => <GalleryItem gallery={gallery} client:load/>)}
+                    
+            </div>
+        </section>
+    )
+}
 
-<section class="articles black" style="min-height:0;position:relative;" id="summer">
-	<div class="articles-featured">
-		{gallerys.length > 0 && <div 
-			class="esport-title">Gallery
-			</div>
-			<img
-				class="featured-line"
-				src="/assets/articles/linha.svg"
-				alt="line"
-			/>}
-		
-		
-	</div>
-	
-	{gallerys.length >2 && <img
-		src='/assets/courts/left.svg'
-		alt=''
-		
-		onclick="slide('left')"
-		id='leftbtn'
-		
-	/>}
-	
-	{gallerys.length >2 &&	<img
-		src='/assets/courts/right.svg'
-		alt=''
-		id='rightbtn'
-		onclick="slide('right')"
-		
-	/> }
-	
-	<div class="day-list" id="gallery" >
-	
-		{gallerys?.map(gallery => <GalleryItem gallery={gallery} client:load/>)}
-			
-	</div>
-
-</section>
 		

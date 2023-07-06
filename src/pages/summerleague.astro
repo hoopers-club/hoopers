@@ -10,119 +10,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 ---
 
 <Bases>
-		
-        <!-- <Heros articles={allPosts} client:visible/> -->
-        <div class="container">
-			<div
-				class="top"
-				style="
-					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-					url('/assets/summer_league_bg_hero.jpg');
-					background-repeat: no-repeat;
-					background-size: cover;
-					background-position:center; 
-					display:flex;
-					width:100vw;
-                    height:100vh;"
-			>
-<!--
-					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
-					url('${allPosts[0]?.image}'); //and use {``} to wrap around style content
--->
-				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
-				
-				<div class="headline" style="height: 100%; width: 100%; padding:0; justify-content: space-around;">
-					<img class="esportlogo" style="min-width: 40%; display: flex; max-width: 75%; padding-top: 2em; padding-bottom: 1em; max-height: 34vh;" src="/assets/esports/Asset 1.svg" alt="">
-
-					<div id="special-summer-btn" class="buttons centered" style="z-index:1; display:flex; margin-top:auto; font-size: 25px;" onclick="window.open('https://hoopers.club/posts/summerarticles/2022-05-25-regulamento-summer-league/','_blank')">Regulations
-					</div>
-<!--
-					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
-					<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
--->
-				</div>
-			</div>
-		</div>
-       
-        <section class="articles black" style="min-height:0;" >
-			<div class="articles-featured"> 
-				<div class="esport-title">Featured</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			<div class="articles-list">
-				{allPosts.filter(article=>article.featured==true).slice(0,3).map(article => (
-
-					<a class="articles-item" href={article.url} >
-						<div
-							class="articles-item"
-							style={`
-								background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
-								background-repeat: no-repeat;
-								background-size: cover;
-								background-color: hsla(0%, 0%, 0%, 0.5);
-								background-position:center;			
-							`}
-							onclick={`location.href='${article.url}'`}
-						>
-							<div set:html={article?.title} class="title" style={article.title.length>16?"font-size:0.7em":''}>
-							</div>
-							<div class="article-underline"></div>
-							<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt=""/>
-						</div>
-					</a>
-				))}		
-			</div>
-		</section>
-
-		<GallerySection/>
-		<!--
-			To add when games are on
-		
-		<Games />
- -->
-		<div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
-			<div class="articles-featured">
-				<div class="esport-title">Summer League News</div>
-				<img
-					class="featured-line"
-					src="/assets/articles/linha.svg"
-					alt="line"
-				/>
-			</div>
-			<div class="articles-list-all">
-				{allPosts.slice(0,6).map(article =>(
-					<a class="article-item"  href={article.url}>
-						<div style="display: flex;flex-direction: column;height: 100%;"  >
-							<div class="img"><img src={article?.image} alt=""></div>
-							<div set:html={article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-							
-							</div>
-							<div set:html={ "BY "+article?.author} class="article-writer"></div>
-						</div>
-					</a>
-				))}
-				
-				{allPosts.slice(6,allPosts.length).map(article =>(
-					<a class="article-item hidden" href={article.url} >
-						<div style="display: flex;flex-direction: column;height: 100%;" >
-							<div class="img"><img src={article?.image} alt=""></div>
-							<div set:html= {article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
-								
-							</div>
-							<div set:html={"BY "+article?.author} class="article-writer"></div>
-						</div>
-					</a>
-				))}
-			</div>
-			
-			<div class="buttons-black centered" onclick="showMeHiddenSummerArticles()">All News</div>
-		</div>
-		
-	<script>
+		<script>
 
 		function slide(direction){
 			var container = document.getElementById('gallery');
@@ -165,4 +53,122 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		}
 
 	</script>
+        <!-- <Heros articles={allPosts} client:visible/> -->
+        <div class="container">
+			<div
+				class="top"
+				style="
+					background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+					url('/assets/summer_league_02_banner.jpg');
+					background-repeat: no-repeat;
+					background-size: cover;
+					background-position:center; 
+					display:flex;
+					width:100vw;
+                    height:100vh;"
+			>
+<!--
+					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
+					url('${allPosts[0]?.image}'); //and use {``} to wrap around style content
+-->
+				<!-- <img src="/assets/courts/left.svg" alt="" class="changeleft"/><img src="/assets/courts/right.svg" alt="" class="changeright"/> -->
+				
+				<div class="headline" style="height: 100%; width: 100%; padding:0; justify-content: space-around;">
+					<img class="esportlogo" style="min-width: 40%; display: flex; max-width: 75%; padding-top: 2em; padding-bottom: 1em; max-height: 34vh;" src="/assets/hsl_white.svg" alt="">
+
+					<div id="special-summer-btn" class="buttons centered" style="z-index:1; display:flex; margin-top:auto; font-size: 25px;" onclick="window.open('https://drive.google.com/file/d/1Hrr5pSTlmp-K-p6EQofH2Tueaf4QJjQy/view','_blank')">Regulations
+					</div>
+<!--
+					TO ADD UP THERE INSIDE STYLE WHEN SUMMER LEAGUE STARTS
+					<a href={allPosts[0]?.url}>{allPosts[0]?.title}</a>
+-->
+				</div>
+			</div>
+		</div>
+       {allPosts.filter(article => article.publishDate.substring(article.publishDate.length - 2) === '23').length > 0 && (
+        <section class="articles black" style="min-height:0;" >
+			<div class="articles-featured"> 
+				<div class="esport-title">Featured</div>
+				<img
+					class="featured-line"
+					src="/assets/articles/linha.svg"
+					alt="line"
+				/>
+			</div>
+            
+            <div class="articles-list">
+				{allPosts.filter(article=>article.publishDate.substring(article.publishDate.length - 2) === '23').filter(article=>article.featured==true).slice(0,3).map(article => (
+
+					<a class="articles-item" href={article.url} >
+						<div
+							class="articles-item"
+							style={`
+								background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3) ), url('${article?.image}');
+								background-repeat: no-repeat;
+								background-size: cover;
+								background-color: hsla(0%, 0%, 0%, 0.5);
+								background-position:center;			
+							`}
+							onclick={`location.href='${article.url}'`}
+						>
+							<div set:html={article?.title} class="title" style={article.title.length>16?"font-size:0.7em":''}>
+							</div>
+							<div class="article-underline"></div>
+							<img class="esportlogosmall" src="/assets/esports/Asset 1.svg" alt=""/>
+						</div>
+					</a>
+				))}		
+			</div>	
+		</section>  
+        )}
+
+		<GallerySection/>
+		<!--
+			To add when games are on
+		
+		<Games />
+ -->
+        {
+            allPosts.filter(article => article.publishDate.substring(article.publishDate.length - 2) === '23').length > 0 && (
+                <div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
+                    <div class="articles-featured">
+                        <div class="esport-title">Summer League News</div>
+                        <img
+                            class="featured-line"
+                            src="/assets/articles/linha.svg"
+                            alt="line"
+                        />
+                    </div>
+                    <div class="articles-list-all">
+                        {allPosts.slice(0,6).map(article =>(
+                            <a class="article-item"  href={article.url}>
+                                <div style="display: flex;flex-direction: column;height: 100%;"  >
+                                    <div class="img"><img src={article?.image} alt=""></div>
+                                    <div set:html={article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
+                                    
+                                    </div>
+                                    <div set:html={ "BY "+article?.author} class="article-writer"></div>
+                                </div>
+                            </a>
+                        ))}
+                        
+                        {allPosts.slice(6,allPosts.length).map(article =>(
+                            <a class="article-item hidden" href={article.url} >
+                                <div style="display: flex;flex-direction: column;height: 100%;" >
+                                    <div class="img"><img src={article?.image} alt=""></div>
+                                    <div set:html= {article?.title} class="article-title" style={article.title.length>16?"font-size:0.8em":''}>
+                                        
+                                    </div>
+                                    <div set:html={"BY "+article?.author} class="article-writer"></div>
+                                </div>
+                            </a>
+                        ))}
+                    </div>
+			
+	        		<div class="buttons-black centered" onclick="showMeHiddenSummerArticles()">All News</div>
+		        </div>
+            )}
+		
+		
+	
 </Bases>
