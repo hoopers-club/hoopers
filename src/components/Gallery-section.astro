@@ -7,11 +7,10 @@ gallerys=gallerys?.sort((a,b)=>new Date(b.publishDate).valueOf()-new Date(a.publ
 gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
 
 
-
 ---
 
 {
-    gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length > 0 && (
+    gallerys?.filter(gallery => gallery.publishDate.substring(gallery.publishDate.length-13,gallery.publishDate.length-9) === "2023").length > 0 && (
         <section class="articles black" style="min-height:0;position:relative;" id="summer">
             <div class="articles-featured">
                 {
@@ -25,11 +24,11 @@ gallerys=gallerys?.filter(gallerys=>gallerys.published==true);
                 }    
             </div>
             
-            {gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length >2 && 
+            {gallerys?.filter(gallery => gallery.publishDate.substring(gallery.publishDate.length-13,gallery.publishDate.length-9) === "2023").length >2 && 
                 <img src='/assets/courts/left.svg' alt='' onclick="slide('left')" id='leftbtn'/>
             }
             
-            {gallerys?.filter(gallery => gallery.publishDate.substring(0, 4) === "2023").length >2 &&	
+            {gallerys?.filter(gallery => gallery.publishDate.substring(gallery.publishDate.length-13,gallery.publishDate.length-9) === "2023").length >2 &&	
                 <img src='/assets/courts/right.svg' alt='' id='rightbtn' onclick="slide('right')"/>
             }
             

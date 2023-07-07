@@ -129,7 +129,7 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 		<Games />
  -->
         {
-            allPosts.filter(article => article.publishDate.substring(article.publishDate.length - 2) === '23').length > 0 && (
+            allPosts.filter(article => article.publishDate.substring(article.publishDate.length - 2) === '23').length > 0 ? (
                 <div class="articles black " style="min-height: fit-content;height:fit-content; padding-bottom:1em;">
                     <div class="articles-featured">
                         <div class="esport-title">Summer League News</div>
@@ -167,6 +167,8 @@ allPosts = allPosts.sort((a, b) =>new Date(b.publishDate.replace(/th/i,'').repla
 			
 	        		<div class="buttons-black centered" onclick="showMeHiddenSummerArticles()">All News</div>
 		        </div>
+            ) : (
+                <div style="height: 100px; background: #1d1d1b"/>
             )}
 		
 		
