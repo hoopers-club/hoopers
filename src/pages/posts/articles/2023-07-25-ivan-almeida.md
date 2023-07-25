@@ -70,17 +70,17 @@ A clara ingenuidade desta campanha remete-nos, entre outras questões, para “o
 
 ![Overseas Magazine/Francesco Bonato](/assets/uploads/250723-f.jpeg "Overseas Magazine/Francesco Bonato")
 
-*Overseas Magazine/Francesco Bonato*
+<p style="text-align: center; font-style: italic;">Overseas Magazine/Francesco Bonato</p>
 
 Desde 2018 que a bandeira cabo-verdiana tem lugar cativo no **Quai 54**, o maior e mais reconhecido torneio de basquetebol de rua do mundo. “Somos uma família, jogo com o meu irmão, com o **Betinho**”. 14 nacionalidades, distribuídas por 16 equipas, juntam-se em Paris para um evento que celebra a diversidade cultural na modalidade. A competição tem-se revelado uma incubadora de projetos vibrantes e um ponto de encontro para criativos ligados ao desporto. É o caso da **Overseas Magazine**, que na sua segunda edição traça um perfil de **Ivan Almeida** em plenos bastidores. Este verão o **Quai 54** celebrou duas décadas de existência, e no rescaldo do torneio a publicação italiana voltou a destacar a delegação parisiense dos “tubarões”.
 
 ![Overseas Magazine/Francesco Bonato](/assets/uploads/250723-g.jpeg "Overseas Magazine/Francesco Bonato")
 
-*Overseas Magazine/Francesco Bonato*
+<p style="text-align: center; font-style: italic;">Overseas Magazine/Francesco Bonato</p>
 
 ![Overseas Magazine/Francesco Bonato](/assets/uploads/250723-e.jpeg "Overseas Magazine/Francesco Bonato")
 
-*Overseas Magazine/Francesco Bonato*
+<p style="text-align: center;font-style: italic;">Overseas Magazine/Francesco Bonato</p>
 
 Perante uma debilidade governamental com bases obviamente históricas, há quem arregace mangas e faça o possível. A aminga é um campus de verão que decorre em **São Vicente** e que se propõe a aliar o desporto a uma “vertente mais educacional, com aulas de informática, inglês e nutrição”, como esclarece **Sofia Ramalho Gomes** em declarações ao jornal O Jogo. Em conjunto com **João Betinho Gomes**, organiza este ano a terceira edição do projeto. Em 2015, na **Cidade da Praia**, **Ivan Almeida** e o irmão, **Joel Almeida**, dinamizaram o **Crioulo Stars**, um campus de basquetebol que trouxe à capital cabo-verdiana treinadores, árbitros e jogadores profissionais. Além de oferecer formações diversas, o **Crioulo Stars** percorreu igualmente alguns dos bairros mais desfavorecidos da ilha, convertendo-os em campos de jogo: “vieram o **Betinho**, o **Arnettte**, o **Carlos Andrade**. São todos atletas cabo-verdianos, mas os miúdos nunca os tinham visto jogar. Se queres alimentar um sonho, é difícil construir uma estrutura sem um ponto de referência.”
 
