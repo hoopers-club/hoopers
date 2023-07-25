@@ -1,5 +1,5 @@
 ---
-title: "Ivan Almeida:"
+title: Ivan Almeida
 subname: Incondicional
 featured: true
 publishDate: Jul 25, 2023-16:07:22
