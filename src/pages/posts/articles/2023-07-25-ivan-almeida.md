@@ -98,7 +98,7 @@ A 19ª edição do Mundial de Basquetebol joga-se em três países diferentes, n
 
 Numa altura em que correm rumores de que Ivan Almeida pode estar de saída do Benfica, seja qual for o desfecho, o universo da modalidade tem a agradecer tudo aquilo que o extremo das águias tem feito por nós. Melhor do que ninguém, forçou novos caminhos e discursos, e contribuiu ativamente para a reabertura de um passado nacional por interpretar. Que tudo isto tenha partido de um jogador que não se limitou a responder dentro de campo só nos pode encher de esperança.
 
-O Ivan subiu ao palco e convidou o basquetebol português para um dueto. É tempo de agarrarmos a nossa deixa.
+O **Ivan** subiu ao palco e convidou o basquetebol português para um dueto. É tempo de agarrarmos a nossa deixa.
 
 **Short Answers:**
 
@@ -113,10 +113,6 @@ O Ivan subiu ao palco e convidou o basquetebol português para um dueto. É temp
 **Um herói:** os meus pais.
 
 **Desejo para o futuro:** peace and love para a humanidade.
-
-
-
-
 
 
 
