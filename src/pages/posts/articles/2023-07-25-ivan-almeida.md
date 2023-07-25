@@ -5,7 +5,7 @@ featured: true
 publishDate: Jul 25, 2023-16:07:22
 published: true
 image: /assets/uploads/banner-2023-07-25.jpg
-author: Francisco Silva
+author: HOOPERS
 layout: ../../../Layout/single-article.astro
 ---
 ![](/assets/uploads/250723-a.jpeg)
