@@ -3,7 +3,7 @@ title: "Ivan Almeida:"
 subname: Incondicional
 featured: true
 publishDate: Jul 25, 2023-16:07:22
-published: false
+published: true
 image: /assets/uploads/250723-a.jpeg
 author: Francisco Silva
 layout: ../../../Layout/single-article.astro
