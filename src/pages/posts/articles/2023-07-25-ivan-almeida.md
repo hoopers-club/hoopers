@@ -4,7 +4,7 @@ subname: Incondicional
 featured: true
 publishDate: Jul 25, 2023-16:07:22
 published: true
-image: /assets/uploads/250723-a.jpeg
+image: /assets/uploads/banner-2023-07-25.jpg
 author: Francisco Silva
 layout: ../../../Layout/single-article.astro
 ---
