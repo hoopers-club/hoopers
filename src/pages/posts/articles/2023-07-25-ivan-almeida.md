@@ -113,3 +113,7 @@ O Ivan subiu ao palco e convidou o basquetebol português para um dueto. É temp
 **Um herói:** os meus pais.
 
 **Desejo para o futuro:** peace and love para a humanidade.
+
+**Redação: Hoopers Club**
+
+**Escrito por: Francisco Silva**
