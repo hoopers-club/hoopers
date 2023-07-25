@@ -64,9 +64,9 @@ A época 22/23 devolveu ao basquetebol português a projeção mediática de out
 
 Se dentro de campo dávamos passos importantes para a revitalização do basquetebol nacional, fora da quadra as dificuldades eram outras. A mega-campanha nacional “Não sejas bully de bancada”, promovida pelo IPDJ e difundida pelas Federações de Futebol, Basquetebol, Andebol, Voleibol e Patinagem propunha-se a prevenir e combater a violência no desporto. No mesmo vídeo, crianças que imaginamos serem praticantes federados reproduzem um conjunto de insultos que fariam parte do repertório de pais e encarregados de educação:
 
-* “Aprendi com o meu pai que o árbitro é ladrão e a mãe dele é uma prostituta».
-* «Aprendi com o meu tio que ser um bom adepto é beber até cair».
-* «Aprendi com o meu padrinho que um jogador preto deve ser chamado de macaco».
+> * «Aprendi com o meu pai que o árbitro é ladrão e a mãe dele é uma prostituta».
+> * «Aprendi com o meu tio que ser um bom adepto é beber até cair».
+> * «Aprendi com o meu padrinho que um jogador preto deve ser chamado de macaco».
 
 A clara ingenuidade desta campanha remete-nos, entre outras questões, para “os problemas da visibilidade” que Anne Boyer expõe no excerto acima (banalização, nivelamento). Tratando-se de uma iniciativa lançada por um organismo estatal, e que envolve algumas das Federações com maior expressão no país, torna-se difícil compreender e aceitar o fraco julgamento no planeamento da ação. Partilhada amplamente por clubes sob alçada destas instituições, a campanha foi recebida positivamente e de forma consensual, assim se revelando o regime de superficialidade em que circulou. A ausência de vozes contrárias é o melhor indício de que dispomos para exigir mudanças estruturais.
 
