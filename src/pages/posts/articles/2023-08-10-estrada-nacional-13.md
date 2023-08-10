@@ -1,7 +1,7 @@
 ---
 title: Estrada Nacional 13
 subname: Três anos do Clube Desportivo da Póvoa na Liga Betclic
-featured: false
+featured: true
 publishDate: Aug 10, 2023-12:08:12
 published: true
 image: /assets/uploads/image00014.jpeg
