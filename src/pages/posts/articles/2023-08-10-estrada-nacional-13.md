@@ -4,7 +4,7 @@ subname: Três anos do Clube Desportivo da Póvoa na Liga Betclic
 featured: false
 publishDate: Aug 10, 2023-12:08:12
 published: true
-image: /assets/uploads/image00014.jpeg
+image: /assets/uploads/estrada-nacional-banner-2023-08-14.jpg
 author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
