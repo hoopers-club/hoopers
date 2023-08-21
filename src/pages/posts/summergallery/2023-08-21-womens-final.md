@@ -1,5 +1,5 @@
 ---
-title: Final Fem
+title: Final
 cover: /assets/uploads/banner-galeria-womens-edicao2.jpg
 publishDate: August 22, 2023 12:00 AM
 published: true
