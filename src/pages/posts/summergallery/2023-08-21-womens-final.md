@@ -1,7 +1,7 @@
 ---
 title: Final
 cover: /assets/uploads/banner-galeria-womens-edicao2.jpg
-publishDate: July 22, 2023 12:00 AM
+publishDate: July 23, 2023 12:00 AM
 published: true
 galleryImages:
   - description: |+
