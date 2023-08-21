@@ -1,5 +1,5 @@
 ---
-title: Dia 21 - Feminino
+title: Dia 21 (Fem)
 cover: /assets/uploads/banner-galeria-dia21-fem-edicao2.jpg
 publishDate: July 21, 2023 12:00 AM
 published: true
