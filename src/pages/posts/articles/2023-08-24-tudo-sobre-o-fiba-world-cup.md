@@ -104,7 +104,7 @@ Mesmo sem Victor Wembanyama do lado francês e sem Jamal Murray do lado canadian
 
 Todos os jogos serão transmitidos através da plataforma Courtside1891, da FIBA, e também na App da NBA e podes consultar os horários dos jogos no link abaixo.
 
-[Courtside1891](https://www.courtside1891.basketball/plans?utm_source=fibaweb&utm_medium=referral&utm_campaign=opqtpolandestonia&utm_content=watchlivenavi) e
+[Courtside1891](https://www.courtside1891.basketball/plans?utm_source=fibaweb&utm_medium=referral&utm_campaign=opqtpolandestonia&utm_content=watchlivenavi)(Com o código FIBAWCEP há um desconto de 20%) e
 [Horários dos jogos](https://www.fiba.basketball/basketballworldcup/2023/games)
 
 E agora colocamos a pergunta: quem será a grande revelação do torneio? Teremos um novo vencedor? Ou será que os EUA irão conseguir bater o recorde da Jugoslávia e alcançar o sexto título da competição? 
