@@ -15,7 +15,7 @@ Com início marcado para a manhã de sexta-feira, dia 25 de agosto, preparamos u
 
 Começando então pelo formato do torneio: Muito simples, são 32 equipas a competir, estando divididas em 8 grupos de 4.
 
-<div style="text-align: center;">
+<div style="text-align: center; !important">
  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In case you missed it, the FIBA World Cup 2023 Draw was completed 🏆<br><br>One of the most exciting matchups will take place in Group C, where Team USA will face Giannis Antetokounmpo&#39;s Greece 👀<a href="https://twitter.com/hashtag/FIBAWC?src=hash&amp;ref_src=twsrc%5Etfw">#FIBAWC</a> <a href="https://twitter.com/hashtag/WinForAll?src=hash&amp;ref_src=twsrc%5Etfw">#WinForAll</a> <a href="https://t.co/90fCP5UkWh">pic.twitter.com/90fCP5UkWh</a></p>&mdash; BasketNews (@BasketNews_com) <a href="https://twitter.com/BasketNews_com/status/1653340632260149251?ref_src=twsrc%5Etfw">May 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 Os Grupos A e B, irão ter os seus encontros desta fase sediados em Quezon City, nas Filipinas, enquanto que os Grupos C e D estarão na cidade de Manila, no mesmo país.
