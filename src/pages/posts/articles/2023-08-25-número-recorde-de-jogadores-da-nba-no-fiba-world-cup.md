@@ -24,9 +24,6 @@ Em termos de envolvimentos em iniciativas promovidas pela FIBA e pela NBA, Josh 
 
 Do campo Basketball Without Borders (BWB), por onde passou o internacional português Ruben Prey, mais recentemente, também 87 jogadores encontram-se presentes no ilustre torneio internacional.
 			
-The tournament features 16 players who have participated over the first three seasons of the Basketball Africa League (BAL), including 2023 BAL MVP Nuni Omot, who led Al Ahly (Egypt) to the 2023 BAL Championship after helping his native South Sudan qualify for the country’s first- ever appearance in the FIBA Basketball World Cup. The BAL is a professional league operated by the NBA and FIBA that features 12 club teams from across Africa and completed its third season in May 2023.
- Australia National Team and former NBA Global Academy teammates Josh Giddey (Thunder) and Dyson Daniels (Pelicans), current NBA Academy Africa student-athlete Khaman Maluach (South Sudan), NBA Global Academy graduate Cui Yongxi (China) and NBA Academy Latin America participant Jean Montero (Dominican Republic) are poised to become the first current and former NBA Academy student-athletes to compete in the FIBA Basketball World Cup.
- There are 87 former Basketball Without Borders (BWB) campers on national team rosters. BWB is the NBA and FIBA’s global basketball development and community outreach program that has been conducted annually since 2001 and has seen 112 former campers advance to the NBA or WNBA.
 					
 A total of 80 national teams across four regions – Africa, Americas, Europe and Asia (which includes Oceania) – competed in the FIBA Basketball World Cup 2023 Qualifiers.
 
