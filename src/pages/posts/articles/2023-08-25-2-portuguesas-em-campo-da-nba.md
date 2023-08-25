@@ -1,6 +1,6 @@
 ---
-title: 2 Portuguesas em Campo da NBA
-subname: Representação Portuguesa em Campo da NBA e da FIBA
+title: Representação Portuguesa em Campo da NBA e da FIBA
+subname: Campo realça os maiores jovens talentos europeus
 featured: true
 publishDate: Aug 25, 2023-10:08:32
 published: true
@@ -9,8 +9,6 @@ author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 <div style="text-align: justify; text-justify: inter-word;"
-
-Campo realça os maiores jovens talentos europeus
 
 Hoje, dia 25 de agosto, começa também uma nova edição do campo Basketball Without Borders (BWB), organizado pela FIBA e pela NBA.
 
