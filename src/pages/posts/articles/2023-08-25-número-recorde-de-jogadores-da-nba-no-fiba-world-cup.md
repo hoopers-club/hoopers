@@ -9,6 +9,7 @@ image: /assets/uploads/hoopers_artigos_nbawc_2508.png
 author: Martim Andrade
 layout: ../../../Layout/single-article.astro
 ---
+<div style="text-align: justify; text-justify: inter-word;">
 Das 32 seleções participantes, 27 contêm um jogador com qualquer tipo de ligação à principal competição de basquetebol, quer seja como ativo num plantel ou mesmo com experiência prévia na liga.
 
 Existe um total de 55 jogadores ativos numa equipa da NBA a representar o seu país, um aumento dos 54 presentes na edição da competição de 2019. Destes 55, 10 tiveram menções de All-Star previamente, como é o caso de Anthony Edwards (Minnesota Timberwolves - EUA), Rudy Gobert (Minnesota Timberwolves - França), Lauri Markkanen (Utah Jazz - Finlândia) e Nikola Vučević (Chicago Bulls - Montenegro).
@@ -31,4 +32,4 @@ A total of 80 national teams across four regions – Africa, Americas, Europe an
 
 Redação: Hoopers Club
 
-Escrito por: Martim Andrade
+Escrito por: Martim Andrade</div>
