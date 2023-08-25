@@ -4,7 +4,7 @@ subname: O FIBA World Cup de 2023 bate recorde para número de atletas da liga
   norte-americana.
 featured: true
 publishDate: Aug 25, 2023-10:08:39
-published: false
+published: true
 image: /assets/uploads/hoopers_artigos_nbawc_2508.png
 author: Martim Andrade
 layout: ../../../Layout/single-article.astro
