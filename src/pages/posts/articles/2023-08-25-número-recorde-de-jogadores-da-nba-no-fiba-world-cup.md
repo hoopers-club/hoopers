@@ -6,7 +6,7 @@ featured: true
 publishDate: Aug 25, 2023-10:08:39
 published: true
 image: /assets/uploads/hoopers_artigos_nbawc_2508.png
-author: Martim Andrade
+author: Hoopers
 layout: ../../../Layout/single-article.astro
 ---
 <div style="text-align: justify; text-justify: inter-word;">
