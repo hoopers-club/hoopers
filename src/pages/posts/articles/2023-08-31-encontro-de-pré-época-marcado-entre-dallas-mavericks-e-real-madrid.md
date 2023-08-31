@@ -24,3 +24,7 @@ Desta vez, Dončić tem a ajuda de Kyrie Irving, campeão da NBA ao serviço d
 “Facing an NBA team is always special, but on this occasion even more so, as it will give us the opportunity to once again enjoy a Real Madrid legend and NBA star like Luka Dončić, who proudly carries the name of our club and presumes of being a Madridista wherever he goes,” comentou o embaixador do Real Madrid Felipe Reyes. “It will be a great spectacle and a very exciting moment for all madridistas and basketball lovers.”
 					
 Os bilhetes para este encontro histórico estarão disponíveis a partir de hoje, dia 31 de agosto, a partir do website do [Real Madrid](https://www.realmadrid.com/pt/bilhetes/basquetebol), com preços a começar nos 60€ e a atingir os 450€ para a secção VIP.
+
+Redação: Hoopers Club
+
+Escrito por: Martim Andrade
